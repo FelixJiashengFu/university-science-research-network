@@ -1,0 +1,278 @@
+openalex_id,name,lat,lng,city,region,country,professors
+I95457486,"University of California, Berkeley",37.87159,-122.27275,Berkeley,California,US,18
+I157725225,University of Illinois Urbana-Champaign,40.11059,-88.20727,Urbana,Illinois,US,18
+I130238516,University of Minnesota,44.97997,-93.26384,Minneapolis,Minnesota,US,15
+I130769515,Pennsylvania State University,40.79339,-77.86,State College,Pennsylvania,US,15
+I137902535,North Carolina State University,35.7721,-78.63861,Raleigh,North Carolina,US,15
+I63190737,"University at Buffalo, State University of New York",42.88645,-78.87837,Buffalo,New York,US,14
+I20089843,Princeton University,40.34872,-74.65905,Princeton,New Jersey,US,13
+I111979921,Northwestern University,42.04114,-87.69006,Evanston,Illinois,US,13
+I204250578,"University of California, Irvine",33.66946,-117.82311,Irvine,California,US,13
+I33213144,University of Florida,29.65163,-82.32483,Gainesville,Florida,US,13
+I102322142,"Rutgers, The State University of New Jersey",40.48622,-74.45182,New Brunswick,New Jersey,US,13
+I145311948,Johns Hopkins University,39.29038,-76.61219,Baltimore,Maryland,US,13
+I201448701,University of Washington,47.60621,-122.33207,Seattle,Washington,US,12
+I87216513,Michigan State University,42.73698,-84.48387,East Lansing,Michigan,US,12
+I173911158,Iowa State University,42.03471,-93.61994,Ames,Iowa,US,12
+I74775410,Rice University,29.76328,-95.36327,Houston,Texas,US,11
+I185261750,University of Toronto,43.70643,-79.39864,Toronto,Ontario,CA,11
+I170201317,University of Pittsburgh,40.44062,-79.99589,Pittsburgh,Pennsylvania,US,11
+I52357470,The Ohio State University,39.96118,-82.99879,Columbus,Ohio,US,11
+I122411786,California Institute of Technology,34.14778,-118.14452,Pasadena,California,US,11
+I859038795,Virginia Tech,37.22957,-80.41394,Blacksburg,Virginia,US,11
+I36258959,University of California San Diego,32.71571,-117.16472,San Diego,California,US,11
+I40347166,University of Chicago,41.85003,-87.65005,Chicago,Illinois,US,11
+I91045830,Texas A&M University,30.62798,-96.33441,College Station,Texas,US,11
+I75027704,University of Tennessee at Knoxville,35.96064,-83.92074,Knoxville,Tennessee,US,11
+I223532165,University of Utah,40.76078,-111.89105,Salt Lake City,Utah,US,10
+I107639228,University of Notre Dame,41.70019,-86.23793,Notre Dame,Indiana,US,10
+I135310074,University of Wisconsin–Madison,43.07305,-89.40123,Madison,Wisconsin,US,10
+I57206974,New York University,40.71427,-74.00597,New York,New York,US,10
+I154425047,University of Alberta,53.55014,-113.46871,Edmonton,Alberta,CA,10
+I27837315,University of Michigan,42.27756,-83.74088,Ann Arbor,Michigan,US,9
+I63966007,Massachusetts Institute of Technology,42.3751,-71.10561,Cambridge,Massachusetts,US,9
+I78577930,Columbia University,40.71427,-74.00597,New York,New York,US,9
+I188538660,University of Colorado Boulder,40.01499,-105.27055,Boulder,Colorado,US,9
+I55732556,Arizona State University,33.41477,-111.90931,Tempe,Arizona,US,9
+I86519309,The University of Texas at Austin,30.26715,-97.74306,Austin,Texas,US,9
+I114832834,Tulane University,29.95465,-90.07507,New Orleans,Louisiana,US,8
+I154570441,"University of California, Santa Barbara",34.42083,-119.69819,Santa Barbara,California,US,8
+I12912129,Northeastern University,42.35843,-71.05977,Boston,Massachusetts,US,8
+I111088046,Boston University,42.35843,-71.05977,Boston,Massachusetts,US,7
+I219193219,Purdue University West Lafayette,40.42587,-86.90807,West Lafayette,Indiana,US,7
+I130701444,Georgia Institute of Technology,33.749,-84.38798,Atlanta,Georgia,US,7
+I79576946,University of Pennsylvania,39.95238,-75.16362,Philadelphia,Pennsylvania,US,7
+I82497590,Auburn University,32.60986,-85.48078,Auburn,Alabama,US,7
+I76835614,University of Missouri,38.95171,-92.33407,Columbia,Missouri,US,7
+I1174212,University of Southern California,34.05223,-118.24368,Los Angeles,California,US,7
+I86501945,University of Delaware,39.68372,-75.74966,Newark,Delaware,US,7
+I141945490,University of British Columbia,49.24966,-123.11934,Vancouver,British Columbia,CA,7
+I59553526,Stony Brook University,40.92565,-73.14094,Stony Brook,New York,US,7
+I84218800,"University of California, Davis",38.54491,-121.74052,Davis,California,US,7
+I121847817,"The Graduate Center, CUNY",40.71427,-74.00597,New York,New York,US,7
+I142740786,University of Louisville,38.25424,-85.75941,Louisville,Kentucky,US,7
+I12315562,Texas Tech University,33.57786,-101.85517,Lubbock,Texas,US,7
+I155781252,University of South Carolina,34.00071,-81.03481,Columbia,South Carolina,US,6
+I74973139,Carnegie Mellon University,40.44062,-79.99589,Pittsburgh,Pennsylvania,US,6
+I205783295,Cornell University,42.44063,-76.49661,Ithaca,New York,US,6
+I170897317,Duke University,35.99403,-78.89862,Durham,North Carolina,US,6
+I32971472,Yale University,41.30815,-72.92816,New Haven,Connecticut,US,6
+I27804330,Brown University,41.82399,-71.41283,Providence,Rhode Island,US,6
+I106165777,University of Central Florida,28.53834,-81.37924,Orlando,Florida,US,6
+I114027177,University of North Carolina at Chapel Hill,35.9132,-79.05584,Chapel Hill,North Carolina,US,6
+I161318765,"University of California, Los Angeles",34.05223,-118.24368,Los Angeles,California,US,6
+I24603500,University of Massachusetts Amherst,42.37537,-72.51925,Amherst Center,Massachusetts,US,6
+I165799507,Rensselaer Polytechnic Institute,42.72841,-73.69179,Troy,New York,US,6
+I39422238,University of Illinois Chicago,41.85003,-87.65005,Chicago,Illinois,US,6
+I151746483,University of Waterloo,43.4668,-80.51639,Waterloo,Ontario,CA,6
+I97018004,Stanford University,37.42411,-122.16608,Stanford,California,US,5
+I150468666,Emory University,33.749,-84.38798,Atlanta,Georgia,US,5
+I136199984,Harvard University,42.3751,-71.10561,Cambridge,Massachusetts,US,5
+I138006243,University of Arizona,32.22174,-110.92648,Tucson,Arizona,US,5
+I84392919,Temple University,39.95238,-75.16362,Philadelphia,Pennsylvania,US,5
+I200719446,Vanderbilt University,36.16589,-86.78444,Nashville,Tennessee,US,5
+I164936912,The University of Texas at El Paso,31.75872,-106.48693,El Paso,Texas,US,5
+I168635309,University of Calgary,51.05011,-114.08529,Calgary,Alberta,CA,5
+I185443292,Wayne State University,42.33143,-83.04575,Detroit,Michigan,US,5
+I156087764,"University of California, Merced",37.30215835571289,-120.48297119140625,Merced,,US,5
+I130438778,Memorial University of Newfoundland,47.56494,-52.70931,St. John's,Newfoundland and Labrador,CA,5
+I167576493,Colorado School of Mines,39.75554,-105.2211,Golden,Colorado,US,5
+I125749732,Western University,42.98339,-81.23304,London,Ontario,CA,4
+I103635307,"University of California, Riverside",33.95335,-117.39616,Riverside,California,US,4
+I149910238,Kent State University,41.15367,-81.35789,Kent,Ohio,US,4
+I4210119109,Indiana University Bloomington,39.16533,-86.52639,Bloomington,Indiana,US,4
+I100538780,Wesleyan University,41.562320709228516,-72.65065002441406,Middletown,,US,4
+I129902397,Dalhousie University,44.64269,-63.57688,Halifax,Nova Scotia,CA,4
+I47251452,Wake Forest University,36.09986,-80.24422,Winston-Salem,North Carolina,US,4
+I162577319,The University of Texas at Dallas,32.94818,-96.72972,Richardson,Texas,US,4
+I162714631,George Mason University,38.84622,-77.30637,Fairfax,Virginia,US,4
+I146416000,University of Kansas,38.97167,-95.23525,Lawrence,Kansas,US,4
+I51556381,University of Virginia,38.02931,-78.47668,Charlottesville,Virginia,US,4
+I153718931,University of Ottawa,45.41117,-75.69812,Ottawa,Ontario,CA,4
+I204722609,Queen's University,44.22976,-76.48098,Kingston,Ontario,CA,4
+I123534392,University of North Texas,33.21484,-97.13307,Denton,Texas,US,4
+I134113660,"University of Nevada, Reno",39.52963,-119.8138,Reno,Nevada,US,4
+I110152177,University of Akron,41.08144,-81.51901,Akron,Ohio,US,4
+I66946132,"University of Maryland, College Park",38.98067,-76.93692,College Park,Maryland,US,4
+I2613432,University of South Florida,27.94752,-82.45843,Tampa,Florida,US,4
+I126744593,"University of Maryland, Baltimore",39.29038,-76.61219,Baltimore,Maryland,US,4
+I63135867,University of Cincinnati,39.12711,-84.51439,Cincinnati,Ohio,US,4
+I70931966,Université de Montréal,45.50884,-73.58781,Montreal,Quebec,CA,3
+I5023651,McGill University,45.50884,-73.58781,Montreal,Quebec,CA,3
+I99041443,Mississippi State University,33.45049,-88.81961,Starkville,Mississippi,US,3
+I17301866,University of Alabama,33.20984,-87.56917,Tuscaloosa,Alabama,US,3
+I165733156,University of Georgia,33.96095,-83.37794,Athens,Georgia,US,3
+I103163165,Florida State University,30.43826,-84.28073,Tallahassee,Florida,US,3
+I32625721,University of Saskatchewan,52.13238,-106.66892,Saskatoon,Saskatchewan,CA,3
+I121820613,Louisiana State University,30.44332,-91.18747,Baton Rouge,Louisiana,US,3
+I36672615,Courant Institute of Mathematical Sciences,40.728702545166016,-73.9957275390625,New York,New York,US,3
+I186143895,Lehigh University,40.62593,-75.37046,Bethlehem,Pennsylvania,US,3
+I16285277,William & Mary,37.2707,-76.70746,Williamsburg,Virginia,US,3
+I78715868,University of Arkansas at Fayetteville,36.06258,-94.15743,Fayetteville,Arkansas,US,3
+I92446798,Colorado State University,40.58526,-105.08442,Fort Collins,Colorado,US,3
+I192455969,York University,43.70643,-79.39864,Toronto,Ontario,CA,3
+I46247651,University of Manitoba,49.8844,-97.14704,Winnipeg,Manitoba,CA,3
+I126307644,University of Iowa,41.66113,-91.53017,Iowa City,Iowa,US,3
+I118118575,New Jersey Institute of Technology,40.73566,-74.17237,Newark,New Jersey,US,3
+I181565077,Georgia State University,33.749,-84.38798,Atlanta,Georgia,US,3
+I131249849,Oregon State University,44.56457,-123.26204,Corvallis,Oregon,US,3
+I70983195,Syracuse University,43.04812,-76.14742,Syracuse,New York,US,3
+I5388228,University of Rochester,43.15478,-77.61556,Rochester,New York,US,3
+I178169726,Southern Methodist University,32.783058166503906,-96.80667114257812,Dallas,,US,3
+I117965899,University of Hawaiʻi at Mānoa,21.30694,-157.85833,Honolulu,Hawaii,US,3
+I919208787,Louisiana Tech University,32.52321,-92.63793,Ruston,Louisiana,US,3
+I107672454,Dartmouth College,43.70229,-72.28954,Hanover,New Hampshire,US,3
+I181233156,University of Oregon,44.05207,-123.08675,Eugene,Oregon,US,3
+I45438204,The University of Texas at San Antonio,29.42412,-98.49363,San Antonio,Texas,US,3
+I180949307,Illinois Institute of Technology,41.85003,-87.65005,Chicago,Illinois,US,3
+I189590672,Kansas State University,39.18361,-96.57167,Manhattan,Kansas,US,2
+I141720752,Davidson College,35.50233,-80.83912,Davidson,North Carolina,US,2
+I1629065,Central Michigan University,43.59781,-84.76751,Mount Pleasant,Michigan,US,2
+I169521973,University of New Mexico,35.08449,-106.65114,Albuquerque,New Mexico,US,2
+I79272384,"University of Maryland, Baltimore County",39.29037857055664,-76.61219024658203,Baltimore,,US,2
+I143302722,University of Kentucky,37.98869,-84.47772,Lexington,Kentucky,US,2
+I72951846,Washington State University,46.73127,-117.17962,Pullman,Washington,US,2
+I100005738,Brigham Young University,40.23384094238281,-111.65853118896484,Provo,,US,2
+I110378019,Southern Illinois University Carbondale,37.72727,-89.21675,Carbondale,Illinois,US,2
+I61937129,Jackson State University,32.29876,-90.18481,Jackson,Mississippi,US,2
+I114395901,University of Nebraska–Lincoln,40.8,-96.66696,Lincoln,Nebraska,US,2
+I169615421,Middle Tennessee State University,35.84562,-86.39027,Murfreesboro,Tennessee,US,2
+I11957088,Michigan Technological University,47.12186813354492,-88.56900787353516,Houghton,,US,2
+I184565670,Georgetown University,38.89511,-77.03637,Washington,District of Columbia,US,2
+I192396691,LSU New Orleans,29.95465,-90.07507,New Orleans,Louisiana,US,2
+I102502594,Northern Illinois University,41.92947006225586,-88.75035858154297,DeKalb,,US,2
+I157638225,"California State University, Northridge",34.22834014892578,-118.53675079345703,Northridge,,US,2
+I125687163,City College of New York,40.714271545410156,-74.00596618652344,New York,,US,2
+I12097938,West Virginia University,39.62953,-79.9559,Morgantown,West Virginia,US,2
+I58956616,Case Western Reserve University,41.4995,-81.69541,Cleveland,Ohio,US,2
+I94658018,University of Memphis,35.14952850341797,-90.04898071289062,Memphis,,US,2
+I20382870,Missouri University of Science and Technology,37.95143,-91.77127,Rolla,Missouri,US,2
+I98251732,McMaster University,43.25011,-79.84963,Hamilton,Ontario,CA,2
+I197191942,St. Francis Xavier University,45.616851806640625,-61.99858093261719,Antigonish,,CA,2
+I75421653,University of Missouri–Kansas City,39.09973,-94.57857,Kansas City,Missouri,US,2
+I140172145,University of Connecticut,41.80843,-72.24952,Storrs,Connecticut,US,2
+I115475287,Oklahoma State University,36.11561,-97.05837,Stillwater,Oklahoma,US,2
+I40253897,University of New Haven,41.27064895629883,-72.94705200195312,West Haven,,US,2
+I207123951,New Mexico Institute of Mining and Technology,34.0584,-106.89142,Socorro,New Mexico,US,2
+I149251103,Thomas Jefferson University,39.95238,-75.16362,Philadelphia,Pennsylvania,US,2
+I204465549,Washington University in St. Louis,38.62727,-90.19789,St Louis,Missouri,US,2
+I133738476,University of Massachusetts Lowell,42.63342,-71.31617,Lowell,Massachusetts,US,2
+I4210106879,Ohio University,39.32924,-82.10126,Athens,Ohio,US,2
+I8078737,Clemson University,34.683441162109375,-82.83737182617188,Clemson,,US,2
+I19700959,Florida International University,25.77427,-80.19366,Miami,Florida,US,2
+I98947143,California State Polytechnic University,34.05529,-117.75228,Pomona,California,US,2
+I60158472,Concordia University,45.50884,-73.58781,Montreal,Quebec,CA,2
+I177721651,Oakland University,42.68059,-83.13382,Rochester,Michigan,US,2
+I124727415,University of Wisconsin–Eau Claire,44.81135,-91.49849,Eau Claire,Wisconsin,US,2
+I8692664,University of Oklahoma,35.22257,-97.43948,Norman,Oklahoma,US,2
+I662221,Trent University,44.30012130737305,-78.31623077392578,Peterborough,,CA,2
+I26538001,San Diego State University,32.7157096862793,-117.16471862792969,San Diego,,US,2
+I44854399,University of Southern Mississippi,31.327119827270508,-89.29033660888672,Hattiesburg,,US,2
+I98704320,Icahn School of Medicine at Mount Sinai,40.71427,-74.00597,New York,New York,US,2
+I44265643,Rowan University,39.70289,-75.11184,Glassboro,New Jersey,US,2
+I185071736,Chapman University,33.78778839111328,-117.85311126708984,Orange,,US,2
+I86420138,Indiana State University,39.4667,-87.41391,Terre Haute,Indiana,US,1
+I106959904,Florida Institute of Technology,28.08363,-80.60811,Melbourne,Florida,US,1
+I4210087560,Stony Brook School,40.92565,-73.14094,Stony Brook,New York,US,1
+I86115722,Furman University,34.85261917114258,-82.39401245117188,Greenville,,US,1
+I186335123,East Carolina University,35.61266,-77.36635,Greenville,North Carolina,US,1
+I157417397,Bowling Green State University,41.37477,-83.65132,Bowling Green,Ohio,US,1
+I128956969,Texas Christian University,32.72541,-97.32085,Fort Worth,Texas,US,1
+I4405271599,Texas Materials Institute,30.26715,-97.74306,Austin,Texas,US,1
+I120156002,Boise State University,43.61349868774414,-116.20345306396484,Boise,,US,1
+I169335092,University of North Carolina at Greensboro,36.07263946533203,-79.79197692871094,Greensboro,,US,1
+I67031392,Carleton University,45.411170959472656,-75.6981201171875,Ottawa,,CA,1
+I145610796,Southern University and Agricultural and Mechanical College,30.44331932067871,-91.18746948242188,Baton Rouge,,US,1
+I24571045,University of North Dakota,47.92526,-97.03285,Grand Forks,North Dakota,US,1
+I189196454,The University of Texas at Arlington,32.73569,-97.10807,Arlington,Texas,US,1
+I57328836,North Dakota State University,46.87719,-96.7898,Fargo,North Dakota,US,1
+I160262251,Thompson Rivers University,50.666481018066406,-120.31919860839844,Kamloops,,CA,1
+I107077323,Worcester Polytechnic Institute,42.26259,-71.80229,Worcester,Massachusetts,US,1
+I82495205,University of Alabama in Huntsville,34.73040008544922,-86.5859375,Huntsville,,US,1
+I19648265,Wright State University,39.75895,-84.19161,Dayton,Ohio,US,1
+I157394403,Baylor University,31.54932975769043,-97.14666748046875,Waco,,US,1
+I71838634,San Francisco State University,37.77493,-122.41942,San Francisco,California,US,1
+I10052268,New Mexico State University,32.31232,-106.77834,Las Cruces,New Mexico,US,1
+I52669646,Western Washington University,48.75955,-122.48822,Bellingham,Washington,US,1
+I90871651,University of Toledo,41.66394,-83.55521,Toledo,Ohio,US,1
+I166088655,Montclair State University,40.825931549072266,-74.20903015136719,Montclair,,US,1
+I102149020,University of North Carolina at Charlotte,35.22709,-80.84313,Charlotte,North Carolina,US,1
+I368840534,University of Mississippi,34.36650085449219,-89.51924896240234,Oxford,,US,1
+I123946342,Binghamton University,42.098690032958984,-75.91796875,Binghamton,,US,1
+I193531525,George Washington University,38.89511,-77.03637,Washington,District of Columbia,US,1
+I55061410,U.S. Air Force Institute of Technology,39.75895,-84.19161,Dayton,Ohio,US,1
+I158012942,University of Richmond,37.55376052856445,-77.46025848388672,Richmond,,US,1
+I121934306,Tufts University,42.41843,-71.10616,Medford,Massachusetts,US,1
+I150693791,Mount Holyoke College,42.258419036865234,-72.57453155517578,South Hadley,,US,1
+I17626003,University of Rhode Island,41.48038,-71.52256,Kingston,Rhode Island,US,1
+I119443389,East Tennessee State University,36.31344,-82.35347,Johnson City,Tennessee,US,1
+I174216632,City University of New York,40.71427,-74.00597,New York,New York,US,1
+I52890796,Mississippi College,32.33491516113281,-90.33041381835938,Clinton,Mississippi,US,1
+I133999245,"University of Nevada, Las Vegas",36.17497,-115.13722,Las Vegas,Nevada,US,1
+I8248082,Florida Agricultural and Mechanical University,30.43825912475586,-84.28073120117188,Tallahassee,,US,1
+I8606887,Grand Valley State University,42.972251892089844,-85.95365142822266,Allendale,,US,1
+I2799652382,Saskatchewan Polytechnic,52.132381439208984,-106.6689224243164,Saskatoon,,CA,1
+I155707491,Haverford College,40.01317,-75.29435,Haverford,Pennsylvania,US,1
+I75381157,Wilfrid Laurier University,43.4668,-80.51639,Waterloo,Ontario,CA,1
+I16944753,Clarkson University,44.66978,-74.98131,Potsdam,New York,US,1
+I55302922,The University of Texas Medical Branch at Galveston,29.30135,-94.7977,Galveston,Texas,US,1
+I4210118108,New York State College of Ceramics,42.25423812866211,-77.7905502319336,Alfred,,US,1
+I44461941,University of Houston,29.763280868530273,-95.36327362060547,Houston,,US,1
+I6902469,Brandeis University,42.37649154663086,-71.23561096191406,Waltham,,US,1
+I135117807,Université de Sherbrooke,45.40008,-71.89908,Sherbrooke,Quebec,CA,1
+I83328450,Miami University,39.50699996948242,-84.74523162841797,Oxford,,US,1
+I117309725,St. Bonaventure University,42.09006118774414,-78.49418640136719,Allegany,,US,1
+I7947594,University of Maine,44.883121490478516,-68.67198181152344,Orono,,US,1
+I142934699,"California State University, Fullerton",33.87028884887695,-117.92533874511719,Fullerton,,US,1
+I22188714,University of Prince Edward Island,46.23459,-63.1256,Charlottetown,Prince Edward Island,CA,1
+I106938459,University of New Brunswick,45.94541,-66.66558,Fredericton,New Brunswick,CA,1
+I130186095,Sacred Heart University,41.14120864868164,-73.26373291015625,Fairfield,,US,1
+I145608581,University of Miami,25.72149,-80.26838,Coral Gables,Florida,US,1
+I275799156,University of New England,43.49258,-70.45338,Biddeford,Maine,US,1
+I72541430,Lakehead University,48.38202,-89.25018,Thunder Bay,Ontario,CA,1
+I114493937,Creighton University,41.25625991821289,-95.9404296875,Omaha,,US,1
+I194028371,University of Regina,50.45008,-104.6178,Regina,Saskatchewan,CA,1
+I204593131,College of Charleston,32.77656936645508,-79.93092346191406,Charleston,,US,1
+I43579087,University of Wisconsin–Milwaukee,43.0389,-87.90647,Milwaukee,Wisconsin,US,1
+I88694374,Marshall University,38.41925,-82.44515,Huntington,West Virginia,US,1
+I35566140,Loyola Marymount University,34.05223,-118.24368,Los Angeles,California,US,1
+I189158971,United States Naval Academy,38.97859,-76.49184,Annapolis,Maryland,US,1
+I111236770,University of Vermont,44.47588,-73.21207,Burlington,Vermont,US,1
+I921990950,University of Colorado Denver,39.73915100097656,-104.98470306396484,Denver,,US,1
+I184647316,South Dakota School of Mines and Technology,44.08054,-103.23101,Rapid City,South Dakota,US,1
+I192389796,Cal Poly Humboldt,40.86652,-124.08284,Arcata,California,US,1
+I18014758,Simon Fraser University,49.26636,-122.95263,Burnaby,British Columbia,CA,1
+I177097968,University of Tennessee at Chattanooga,35.04563,-85.30968,Chattanooga,Tennessee,US,1
+I208333798,University of Missouri–St. Louis,38.62727,-90.19789,St Louis,Missouri,US,1
+I63920570,Tennessee Technological University,36.162841796875,-85.50164031982422,Cookeville,,US,1
+I51077184,Saint Joseph's University,39.95238,-75.16362,Philadelphia,Pennsylvania,US,1
+I47209331,Nicholls State University,29.795759201049805,-90.82286834716797,Thibodaux,,US,1
+I4387153466,Weill Cornell Medicine,40.71427,-74.00597,New York,New York,US,1
+I102461120,Marquette University,43.0389,-87.90647,Milwaukee,Wisconsin,US,1
+I39587148,Wichita State University,37.69224166870117,-97.33753967285156,Wichita,,US,1
+I4584351,A.T. Still University,40.19475,-92.58325,Kirksville,Missouri,US,1
+I93393672,Western University of Health Sciences,34.05529,-117.75228,Pomona,California,US,1
+I130785548,Clark University,42.26259,-71.80229,Worcester,Massachusetts,US,1
+I24511612,Wabash College,40.0411491394043,-86.87445068359375,Crawfordsville,,US,1
+I55769427,Indiana University – Purdue University Indianapolis,39.76838,-86.15804,Indpls,Indiana,US,1
+I151328261,Hampton University,37.02987,-76.34522,Hampton,Virginia,US,1
+I165690674,Oregon Health & Science University,45.5234489440918,-122.67620849609375,Portland,,US,1
+I59897056,"California State University, Long Beach",33.76696014404297,-118.1892318725586,Long Beach,,US,1
+I63772739,Florida Atlantic University,26.35869,-80.0831,Boca Raton,Florida,US,1
+I155093810,University of Idaho,46.732391357421875,-117.00016784667969,Moscow,,US,1
+I137853757,Howard University,38.89511,-77.03637,Washington,District of Columbia,US,1
+I919571938,The University of Texas Health Science Center at Houston,29.76328,-95.36327,Houston,Texas,US,1
+I1925986,Loyola University Chicago,41.85003,-87.65005,Chicago,Illinois,US,1
+I72816309,Drexel University,39.95238,-75.16362,Philadelphia,Pennsylvania,US,1
+I185103710,"University of California, Santa Cruz",36.97412,-122.0308,Santa Cruz,California,US,1
+I161057412,University of New Hampshire,43.13397,-70.92645,Durham,New Hampshire,US,1
+I145402516,Hope College,42.78752,-86.10893,Holland,Michigan,US,1
+I51204116,Arcadia University,40.09211349487305,-75.16552734375,Glenside,Pennsylvania,US,1
+I11883440,James Madison University,38.44956970214844,-78.8689193725586,Harrisonburg,,US,1
+I172980758,Kennesaw State University,34.02342987060547,-84.61549377441406,Kennesaw,,US,1
+I21104390,Skidmore College,43.0831298828125,-73.7845687866211,Saratoga Springs,,US,1
+I43522216,"California State University, Sacramento",38.58156967163086,-121.49440002441406,Sacramento,,US,1
+I170606269,University of the Fraser Valley,49.057979583740234,-122.25257110595703,Abbotsford,,CA,1
+I16269868,Santa Clara University,37.35411071777344,-121.95523834228516,Santa Clara,,US,1
+I2800717037,University of Florida Health,29.65163,-82.32483,Gainesville,Florida,US,1
+I64281891,The College of New Jersey,40.26983,-74.79988,Ewing,New Jersey,US,1

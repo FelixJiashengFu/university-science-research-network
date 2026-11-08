@@ -20,10 +20,11 @@ jobs:
       - uses: actions/checkout@v4
       - name: Assemble site
         run: |
-          mkdir -p _site/uoft _site/stanford
+          mkdir -p _site/uoft _site/stanford _site/na-quantum-chem-map
           cp index.html _site/
           cp -r uoft/site/. _site/uoft/
           cp -r stanford/site/. _site/stanford/
+          cp -r na-quantum-chem-map/site/. _site/na-quantum-chem-map/
       - uses: actions/configure-pages@v5
         with:
           enablement: true

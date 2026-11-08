@@ -1,0 +1,1045 @@
+openalex_id,name,institution_id,institution,city,region,country,area,corpus_papers,core_theory_papers,theory_title_share,corpus_share,h_index,coauthor_degree,orcid
+A5022921172,Bill R. Miller,I4584351,A.T. Still University,Kirksville,Missouri,US,分子动力学与统计力学,13,2,0.692,0.302,12,2,0000-0003-4868-7692
+A5019162320,Emanuele Curotto,I51204116,Arcadia University,Glenside,Pennsylvania,US,电子结构与量子化学方法,43,43,0.721,0.518,16,0,0000-0001-9119-3263
+A5070279915,Abhishek Singharoy,I55732556,Arizona State University,Tempe,Arizona,US,分子动力学与统计力学,54,9,0.741,0.31,28,15,0000-0002-9000-2397
+A5017468639,Arunima K. Singh,I55732556,Arizona State University,Tempe,Arizona,US,计算材料与密度泛函,32,4,0.645,0.33,30,5,0000-0002-7212-6310
+A5061932900,Houlong L. Zhuang,I55732556,Arizona State University,Tempe,Arizona,US,计算材料与密度泛函,41,6,0.675,0.263,52,4,0000-0001-7276-7938
+A5062949053,K. Balasubramanian,I55732556,Arizona State University,Tempe,Arizona,US,电子结构与量子化学方法,86,75,0.494,0.302,59,3,0000-0002-9612-8783
+A5053804404,Matthias Heyden,I55732556,Arizona State University,Tempe,Arizona,US,分子动力学与统计力学,51,9,0.431,0.415,29,5,0000-0002-7956-5287
+A5049797937,Robert D. Skeel,I55732556,Arizona State University,Tempe,Arizona,US,分子动力学与统计力学,24,18,0.696,0.371,45,9,0000-0002-4807-8988
+A5050843177,Sefika Banu Ozkan,I55732556,Arizona State University,Tempe,Arizona,US,分子动力学与统计力学,46,2,0.304,0.371,32,6,0000-0002-9351-3758
+A5024563016,Vladimiro Mújica,I55732556,Arizona State University,Tempe,Arizona,US,电子结构与量子化学方法,40,26,0.4,0.211,48,5,0000-0002-5237-4851
+A5047572413,Xihong Peng,I55732556,Arizona State University,Tempe,Arizona,US,计算材料与密度泛函,31,3,0.581,0.313,24,1,0000-0002-6370-6460
+A5091283421,Andrew J. Adamczyk,I82497590,Auburn University,Auburn,Alabama,US,计算材料与密度泛函,13,6,0.538,0.361,16,3,0000-0002-9523-7849
+A5039267183,Evangelos Miliordos,I82497590,Auburn University,Auburn,Alabama,US,电子结构与量子化学方法,76,65,0.342,0.528,28,10,0000-0003-3471-7133
+A5044149120,J. V. Ortiz,I82497590,Auburn University,Auburn,Alabama,US,电子结构与量子化学方法,146,144,0.572,0.89,37,12,0000-0002-9277-0226
+A5001210693,Konrad Patkowski,I82497590,Auburn University,Auburn,Alabama,US,电子结构与量子化学方法,64,62,0.714,0.7,34,11,0000-0002-4468-207X
+A5042558079,Michael L. McKee,I82497590,Auburn University,Auburn,Alabama,US,计算材料与密度泛函,40,19,0.575,0.294,39,2,0000-0002-3055-7470
+A5046436466,Michael P. Howard,I82497590,Auburn University,Auburn,Alabama,US,分子动力学与统计力学,45,29,0.5,0.506,23,11,0000-0002-9561-4165
+A5020634590,Rafael C. Bernardi,I82497590,Auburn University,Auburn,Alabama,US,分子动力学与统计力学,38,5,0.474,0.432,26,7,0000-0003-0758-2026
+A5043052490,Garritt J. Tucker,I157394403,Baylor University,Waco,,US,分子动力学与统计力学,35,1,0.6,0.297,33,3,0000-0002-4011-450X
+A5015526612,Manuel Smeu,I123946342,Binghamton University,Binghamton,,US,计算材料与密度泛函,41,8,0.61,0.376,24,4,0000-0001-9548-4623
+A5070325997,Oliviero Andreussi,I120156002,Boise State University,Boise,,US,电子结构与量子化学方法,41,27,0.659,0.402,29,8,0000-0002-1869-5678
+A5032591549,D. F. Coker,I111088046,Boston University,Boston,Massachusetts,US,激发态、光谱与非绝热动力学,57,30,0.509,0.626,45,14,0000-0001-6210-5228
+A5110200187,Eugene Stanley,I111088046,Boston University,Boston,Massachusetts,US,分子动力学与统计力学,95,24,0.362,0.093,190,8,0000-0003-2800-4495
+A5058069370,John E. Straub,I111088046,Boston University,Boston,Massachusetts,US,分子动力学与统计力学,104,45,0.51,0.462,59,14,0000-0002-2355-3316
+A5025117389,Ksenia B. Bravaya,I111088046,Boston University,Boston,Massachusetts,US,电子结构与量子化学方法,31,25,0.533,0.462,31,5,0000-0002-5033-8240
+A5036789652,Qiang Cui,I111088046,Boston University,Boston,Massachusetts,US,分子动力学与统计力学,243,118,0.642,0.376,81,34,0000-0001-6214-5211
+A5044394957,Sahar Sharifzadeh,I111088046,Boston University,Boston,Massachusetts,US,计算材料与密度泛函,49,20,0.694,0.383,28,11,0000-0003-4215-4668
+A5013743403,Tom Keyes,I111088046,Boston University,Boston,Massachusetts,US,分子动力学与统计力学,30,12,0.567,0.545,33,4,0000-0002-4955-3621
+A5061368894,Massimo Olivucci,I157417397,Bowling Green State University,Bowling Green,Ohio,US,电子结构与量子化学方法,72,49,0.514,0.237,77,9,0000-0002-8247-209X
+A5007741601,Rebecca L. M. Gieseking,I6902469,Brandeis University,Waltham,,US,电子结构与量子化学方法,12,10,0.583,0.267,21,3,0000-0002-7343-1253
+A5086726463,Daniel H. Ess,I100005738,Brigham Young University,Provo,,US,计算材料与密度泛函,65,20,0.692,0.178,51,10,0000-0001-5689-9762
+A5067260052,Thomas A. Knotts,I100005738,Brigham Young University,Provo,,US,分子动力学与统计力学,27,21,0.538,0.394,18,0,0000-0001-6248-4459
+A5049777382,Andrew A. Peterson,I27804330,Brown University,Providence,Rhode Island,US,计算材料与密度泛函,42,13,0.548,0.331,49,5,0000-0003-2855-9482
+A5077462395,Axel van de Walle,I27804330,Brown University,Providence,Rhode Island,US,机器学习与数据驱动化学,59,23,0.78,0.324,48,10,0000-0002-3415-1494
+A5036947439,Brenda M. Rubenstein,I27804330,Brown University,Providence,Rhode Island,US,电子结构与量子化学方法,33,21,0.818,0.266,20,7,0000-0003-1643-0358
+A5062786033,Lai-Sheng Wang,I27804330,Brown University,Providence,Rhode Island,US,电子结构与量子化学方法,241,200,0.301,0.358,121,14,0000-0003-1816-5738
+A5026994436,Richard M. Stratt,I27804330,Brown University,Providence,Rhode Island,US,激发态、光谱与非绝热动力学,34,25,0.303,0.66,42,1,0000-0001-9271-2176
+A5051475129,William H. Green,I27804330,Brown University,Providence,Rhode Island,US,电子结构与量子化学方法,97,57,0.794,0.187,86,11,0000-0003-2603-9694
+A5083642835,Robert W. Zoellner,I192389796,Cal Poly Humboldt,Arcata,California,US,计算材料与密度泛函,14,6,0.929,0.519,12,0,0000-0003-2876-5163
+A5087957929,Alexis T. Bell,I122411786,California Institute of Technology,Pasadena,California,US,计算材料与密度泛函,88,36,0.674,0.139,138,13,0000-0002-5738-4645
+A5000151397,Anastassia N. Alexandrova,I122411786,California Institute of Technology,Pasadena,California,US,电子结构与量子化学方法,123,64,0.426,0.293,58,9,0000-0002-3003-1911
+A5082397890,Garnet Kin-Lic Chan,I122411786,California Institute of Technology,Pasadena,California,US,电子结构与量子化学方法,149,137,0.788,0.472,72,41,0000-0001-8009-6038
+A5013692222,Marco Bernardi,I122411786,California Institute of Technology,Pasadena,California,US,电子结构与量子化学方法,32,22,0.781,0.181,39,3,0000-0001-7289-9666
+A5051289041,R. A. Marcus,I122411786,California Institute of Technology,Pasadena,California,US,反应动力学与速率理论,31,24,0.6,0.252,90,0,0000-0001-6547-1469
+A5053213854,Sandeep Sharma,I122411786,California Institute of Technology,Pasadena,California,US,电子结构与量子化学方法,56,53,0.709,0.55,39,19,0000-0002-6598-8887
+A5028949819,Thomas F. Miller,I122411786,California Institute of Technology,Pasadena,California,US,电子结构与量子化学方法,88,57,0.701,0.39,55,20,0000-0002-1882-5380
+A5038038703,Tianyu Zhu,I122411786,California Institute of Technology,Pasadena,California,US,电子结构与量子化学方法,35,31,0.743,0.412,22,13,0000-0003-2061-3237
+A5083684380,Tyler Luchko,I122411786,California Institute of Technology,Pasadena,California,US,分子动力学与统计力学,26,14,0.692,0.413,21,15,0000-0001-6737-6019
+A5035627473,William A. Goddard,I122411786,California Institute of Technology,Pasadena,California,US,分子动力学与统计力学,531,170,0.602,0.298,189,27,0000-0003-0097-5716
+A5015108167,Zhen-Gang Wang,I122411786,California Institute of Technology,Pasadena,California,US,分子动力学与统计力学,72,38,0.333,0.266,59,8,0000-0002-3361-6114
+A5102844639,Bohdan Schatschneider,I98947143,California State Polytechnic University,Pomona,California,US,电子结构与量子化学方法,12,7,0.417,0.4,11,2,0000-0001-5316-8622
+A5021505554,Lloyd L. Lee,I98947143,California State Polytechnic University,Pomona,California,US,分子动力学与统计力学,14,10,0.429,0.25,26,2,
+A5018538774,Andrew S. Petit,I142934699,"California State University, Fullerton",Fullerton,,US,电子结构与量子化学方法,22,16,0.636,0.44,15,3,0000-0002-9428-3499
+A5032864967,Eric J. Sorin,I59897056,"California State University, Long Beach",Long Beach,,US,分子动力学与统计力学,23,3,0.696,0.561,19,3,0000-0003-4081-1142
+A5088993170,Gang Lü,I157638225,"California State University, Northridge",Northridge,,US,计算材料与密度泛函,56,20,0.554,0.23,63,9,0000-0002-9168-8968
+A5056810686,Nicholas Kioussis,I157638225,"California State University, Northridge",Northridge,,US,电子结构与量子化学方法,37,29,0.459,0.164,47,3,0000-0002-3277-3716
+A5010238111,Sean A. Peebles,I43522216,"California State University, Sacramento",Sacramento,,US,激发态、光谱与非绝热动力学,35,35,0.371,0.289,19,4,0000-0002-8787-0679
+A5060557743,Christopher N. Rowley,I67031392,Carleton University,Ottawa,,CA,分子动力学与统计力学,49,25,0.857,0.408,35,8,0000-0002-0205-952X
+A5014826801,Alan J. H. McGaughey,I74973139,Carnegie Mellon University,Pittsburgh,Pennsylvania,US,分子动力学与统计力学,68,7,0.642,0.272,57,6,0000-0002-0118-6893
+A5084936713,David Yaron,I74973139,Carnegie Mellon University,Pittsburgh,Pennsylvania,US,电子结构与量子化学方法,24,22,0.875,0.195,31,3,0000-0001-8485-8685
+A5045952465,Hyung J. Kim,I74973139,Carnegie Mellon University,Pittsburgh,Pennsylvania,US,分子动力学与统计力学,47,19,0.447,0.376,52,3,0000-0003-4334-1879
+A5003442464,John R. Kitchin,I74973139,Carnegie Mellon University,Pittsburgh,Pennsylvania,US,机器学习与数据驱动化学,82,16,0.61,0.414,47,20,0000-0003-2625-9232
+A5022450476,Maria G. Kurnikova,I74973139,Carnegie Mellon University,Pittsburgh,Pennsylvania,US,分子动力学与统计力学,57,8,0.789,0.467,31,4,0000-0002-8010-8374
+A5057094529,Noa Marom,I74973139,Carnegie Mellon University,Pittsburgh,Pennsylvania,US,电子结构与量子化学方法,72,32,0.722,0.411,35,10,0000-0002-1508-1312
+A5031553111,Alfred B. Anderson,I58956616,Case Western Reserve University,Cleveland,Ohio,US,计算材料与密度泛函,43,9,0.721,0.417,62,0,0000-0003-3691-0439
+A5065925491,Shane M. Parker,I58956616,Case Western Reserve University,Cleveland,Ohio,US,电子结构与量子化学方法,30,24,0.6,0.577,18,8,0000-0002-1110-3393
+A5016558608,Juan E. Peralta,I1629065,Central Michigan University,Mount Pleasant,Michigan,US,电子结构与量子化学方法,93,75,0.685,0.517,36,10,0000-0003-2849-8472
+A5020941997,Koblar Alan Jackson,I1629065,Central Michigan University,Mount Pleasant,Michigan,US,电子结构与量子化学方法,89,84,0.511,0.481,42,7,0000-0002-5342-7978
+A5031922505,Gennady M. Verkhivker,I185071736,Chapman University,Orange,,US,分子动力学与统计力学,62,9,0.871,0.333,44,2,0000-0002-4507-4471
+A5023698777,Grace Gupta,I185071736,Chapman University,Orange,,US,分子动力学与统计力学,16,2,0.875,0.5,12,2,
+A5031337592,Ronald L. Birke,I125687163,City College of New York,New York,,US,电子结构与量子化学方法,14,10,0.714,0.333,39,1,0000-0001-8162-9254
+A5045514460,Themis Lazaridis,I125687163,City College of New York,New York,,US,分子动力学与统计力学,61,12,0.55,0.455,45,12,0000-0003-4218-7590
+A5064547308,Viraht Sahni,I174216632,City University of New York,New York,New York,US,电子结构与量子化学方法,95,95,0.842,0.605,33,2,0000-0001-8412-8981
+A5032769652,Shuanghong Huo,I130785548,Clark University,Worcester,Massachusetts,US,分子动力学与统计力学,19,8,0.421,0.475,21,7,0000-0002-2196-0858
+A5088831868,Dhara J. Trivedi,I16944753,Clarkson University,Potsdam,New York,US,电子结构与量子化学方法,17,11,0.647,0.378,18,3,0000-0002-8151-3929
+A5023250729,Dilpuneet S. Aidhy,I8078737,Clemson University,Clemson,,US,分子动力学与统计力学,36,1,0.694,0.429,29,3,0000-0002-5254-3862
+A5015199573,Yunxiang Sun,I8078737,Clemson University,Clemson,,US,分子动力学与统计力学,29,0,0.276,0.276,34,1,0000-0001-9799-7131
+A5004558831,Gamil A. Guirgis,I204593131,College of Charleston,Charleston,,US,激发态、光谱与非绝热动力学,142,140,0.81,0.654,27,3,0000-0002-2202-0964
+A5007040952,Amadeu K. Sum,I167576493,Colorado School of Mines,Golden,Colorado,US,分子动力学与统计力学,71,29,0.648,0.213,68,4,0000-0003-1903-4537
+A5003047880,C. Mark Maupin,I167576493,Colorado School of Mines,Golden,Colorado,US,分子动力学与统计力学,25,6,0.72,0.417,24,4,0000-0001-8593-7035
+A5022250670,Cristian V. Ciobanu,I167576493,Colorado School of Mines,Golden,Colorado,US,计算材料与密度泛函,55,9,0.37,0.338,35,4,0000-0002-8476-4467
+A5070648355,Mark E. Eberhart,I167576493,Colorado School of Mines,Golden,Colorado,US,电子结构与量子化学方法,55,41,0.315,0.659,28,2,0000-0002-7061-3908
+A5048793815,Shubham Vyas,I167576493,Colorado School of Mines,Golden,Colorado,US,计算材料与密度泛函,31,7,0.548,0.292,26,2,0000-0002-5849-8919
+A5035733058,E. R. Bernstein,I92446798,Colorado State University,Fort Collins,Colorado,US,电子结构与量子化学方法,83,61,0.337,0.494,57,0,0000-0003-0045-7193
+A5030094962,Grzegorz Szamel,I92446798,Colorado State University,Fort Collins,Colorado,US,分子动力学与统计力学,33,22,0.394,0.168,39,1,0000-0002-7269-7711
+A5100366907,Qiang Wang,I92446798,Colorado State University,Fort Collins,Colorado,US,电子结构与量子化学方法,29,25,0.621,0.117,32,0,0000-0001-6456-9288
+A5035697433,Chris A. Marianetti,I78577930,Columbia University,New York,New York,US,计算材料与密度泛函,43,10,0.628,0.269,39,3,0000-0003-3812-2751
+A5074305095,David Elliot Shaw,I78577930,Columbia University,New York,New York,US,分子动力学与统计力学,75,22,0.693,0.171,99,2,0000-0001-8265-5761
+A5014624803,David R. Reichman,I78577930,Columbia University,New York,New York,US,电子结构与量子化学方法,123,101,0.648,0.328,82,26,0000-0002-5265-5637
+A5039964251,Goran Krilov,I78577930,Columbia University,New York,New York,US,分子动力学与统计力学,17,8,0.824,0.459,22,6,0009-0008-7665-5448
+A5020910604,Renata M. M. Wentzcovitch,I78577930,Columbia University,New York,New York,US,电子结构与量子化学方法,46,24,0.543,0.09,72,5,0000-0001-5663-9426
+A5012437524,Richard A. Friesner,I78577930,Columbia University,New York,New York,US,电子结构与量子化学方法,163,109,0.798,0.549,109,17,0000-0002-1708-9342
+A5078014032,Ruhong Zhou,I78577930,Columbia University,New York,New York,US,分子动力学与统计力学,135,25,0.291,0.252,90,10,0000-0001-8624-5591
+A5033735762,Sanat K. Kumar,I78577930,Columbia University,New York,New York,US,分子动力学与统计力学,69,26,0.449,0.135,83,19,0000-0002-6690-2221
+A5017031564,Timothy C. Berkelbach,I78577930,Columbia University,New York,New York,US,电子结构与量子化学方法,74,68,0.676,0.451,40,15,0000-0002-7445-2136
+A5036890828,Gilles H. Peslherbe,I60158472,Concordia University,Montreal,Quebec,CA,电子结构与量子化学方法,78,39,0.603,0.491,33,7,0000-0003-4711-6927
+A5014125102,Heidi M. Muchall,I60158472,Concordia University,Montreal,Quebec,CA,电子结构与量子化学方法,14,10,0.357,0.412,15,2,
+A5039643157,Cyrus J. Umrigar,I205783295,Cornell University,Ithaca,New York,US,电子结构与量子化学方法,56,51,0.849,0.349,53,15,0000-0002-4791-7196
+A5070568143,Fernando A. Escobedo,I205783295,Cornell University,Ithaca,New York,US,分子动力学与统计力学,89,64,0.607,0.445,48,5,0000-0002-4722-9836
+A5022665888,Harold A. Scheraga,I205783295,Cornell University,Ithaca,New York,US,分子动力学与统计力学,113,59,0.67,0.345,127,6,0000-0002-6314-5376
+A5052144654,Nandini Ananth,I205783295,Cornell University,Ithaca,New York,US,激发态、光谱与非绝热动力学,33,23,0.727,0.673,20,7,0000-0001-5845-1961
+A5019215700,Roger F. Loring,I205783295,Cornell University,Ithaca,New York,US,激发态、光谱与非绝热动力学,50,32,0.58,0.725,33,1,0000-0003-3954-9749
+A5040227027,T. A. Arias,I205783295,Cornell University,Ithaca,New York,US,电子结构与量子化学方法,60,52,0.883,0.278,44,7,0000-0001-5880-0260
+A5044193587,Eric Vanden-Eijnden,I36672615,Courant Institute of Mathematical Sciences,New York,New York,US,反应动力学与速率理论,56,44,0.714,0.235,69,11,0000-0001-7982-5854
+A5068215051,Mark E. Tuckerman,I36672615,Courant Institute of Mathematical Sciences,New York,New York,US,分子动力学与统计力学,189,105,0.807,0.472,85,27,0000-0003-2194-9955
+A5046513501,Tamar Schlick A,I36672615,Courant Institute of Mathematical Sciences,New York,New York,US,分子动力学与统计力学,48,24,0.739,0.112,68,2,0000-0002-2392-2062
+A5051625056,Sándor Lovas,I114493937,Creighton University,Omaha,,US,分子动力学与统计力学,33,10,0.697,0.268,30,1,0000-0002-5089-5186
+A5015077264,Axel D. Becke,I129902397,Dalhousie University,Halifax,Nova Scotia,CA,电子结构与量子化学方法,51,50,0.824,0.85,60,5,0000-0002-6668-7728
+A5007296680,Cherif  Farid Matta,I129902397,Dalhousie University,Halifax,Nova Scotia,CA,电子结构与量子化学方法,110,86,0.33,0.44,46,7,0000-0001-8397-5353
+A5057923625,Erin R. Johnson,I129902397,Dalhousie University,Halifax,Nova Scotia,CA,电子结构与量子化学方法,144,114,0.701,0.562,54,20,0000-0002-5651-468X
+A5061295554,Russell Jaye Boyd,I129902397,Dalhousie University,Halifax,Nova Scotia,CA,电子结构与量子化学方法,73,54,0.63,0.487,50,13,0000-0001-6802-2976
+A5080510232,James C. Gumbart,I107672454,Dartmouth College,Hanover,New Hampshire,US,分子动力学与统计力学,93,19,0.645,0.308,51,15,0000-0002-1510-7842
+A5086966166,Joseph J. BelBruno,I107672454,Dartmouth College,Hanover,New Hampshire,US,电子结构与量子化学方法,37,20,0.514,0.468,27,0,0000-0001-8794-2874
+A5036112318,Wenlin Zhang,I107672454,Dartmouth College,Hanover,New Hampshire,US,分子动力学与统计力学,23,3,0.783,0.535,15,2,0000-0001-6026-4284
+A5002779860,David D. Hibbitts,I141720752,Davidson College,Davidson,North Carolina,US,计算材料与密度泛函,34,0,0.324,0.366,35,1,0000-0001-8606-7000
+A5110013135,Jeff Greeley,I141720752,Davidson College,Davidson,North Carolina,US,计算材料与密度泛函,33,3,0.636,0.384,45,1,0000-0001-8469-1715
+A5041897244,Brigita Urbanc,I72816309,Drexel University,Philadelphia,Pennsylvania,US,分子动力学与统计力学,42,4,0.732,0.369,34,3,0000-0001-9159-7698
+A5003618068,David N. Beratan,I170897317,Duke University,Durham,North Carolina,US,激发态、光谱与非绝热动力学,49,20,0.286,0.158,76,5,0000-0003-4758-8676
+A5050671822,Heather J. Kulik,I170897317,Duke University,Durham,North Carolina,US,电子结构与量子化学方法,180,85,0.689,0.372,60,34,0000-0001-9342-0191
+A5061472917,Jianfeng Lu,I170897317,Duke University,Durham,North Carolina,US,电子结构与量子化学方法,48,43,0.729,0.114,47,11,0000-0001-6255-5165
+A5006314784,Stefano Curtarolo A,I170897317,Duke University,Durham,North Carolina,US,机器学习与数据驱动化学,125,27,0.516,0.3,76,25,0000-0003-0570-8238
+A5050792689,Volker Blüm,I170897317,Duke University,Durham,North Carolina,US,电子结构与量子化学方法,92,56,0.644,0.277,59,26,0000-0001-8660-7230
+A5019365851,Weitao Yang,I170897317,Duke University,Durham,North Carolina,US,电子结构与量子化学方法,271,246,0.767,0.611,95,34,0000-0001-5576-2828
+A5077725607,Libero J. Bartolotti,I186335123,East Carolina University,Greenville,North Carolina,US,电子结构与量子化学方法,43,28,0.651,0.462,36,1,0000-0003-4155-5048
+A5004539829,Frank Hagelberg,I119443389,East Tennessee State University,Johnson City,Tennessee,US,电子结构与量子化学方法,43,22,0.381,0.347,24,4,0000-0002-9895-3576
+A5064662152,Fang Liu,I150468666,Emory University,Atlanta,Georgia,US,电子结构与量子化学方法,45,35,0.953,0.566,28,12,0000-0003-1322-4997
+A5090917114,Francesco A. Evangelista,I150468666,Emory University,Atlanta,Georgia,US,电子结构与量子化学方法,85,82,0.627,0.686,39,21,0000-0002-7917-6652
+A5027162705,James T. Kindt,I150468666,Emory University,Atlanta,Georgia,US,分子动力学与统计力学,43,19,0.767,0.518,27,5,0000-0002-9050-8144
+A5064654490,Joel M. Bowman,I150468666,Emory University,Atlanta,Georgia,US,电子结构与量子化学方法,383,310,0.664,0.789,89,32,0000-0001-9692-2672
+A5035584337,Michael C. Heaven,I150468666,Emory University,Atlanta,Georgia,US,电子结构与量子化学方法,95,90,0.309,0.257,47,10,0000-0003-4738-2408
+A5025945532,Charles A. Weatherford,I8248082,Florida Agricultural and Mechanical University,Tallahassee,,US,电子结构与量子化学方法,44,39,0.273,0.431,19,2,0000-0003-4635-9636
+A5070324843,Ilyas Yildirim,I63772739,Florida Atlantic University,Boca Raton,Florida,US,分子动力学与统计力学,15,8,0.867,0.288,26,1,0000-0001-8357-1922
+A5011836705,Roberto Peverati,I106959904,Florida Institute of Technology,Melbourne,Florida,US,电子结构与量子化学方法,33,29,0.906,0.464,25,6,0000-0001-7774-9923
+A5080022083,Alexander Moiseevich Mebel,I19700959,Florida International University,Miami,Florida,US,电子结构与量子化学方法,148,126,0.642,0.23,62,12,0000-0002-7233-3133
+A5013532448,John C. Hackett,I19700959,Florida International University,Miami,Florida,US,分子动力学与统计力学,16,6,0.312,0.327,22,0,0000-0002-4923-2668
+A5059776754,A. Eugene DePrince,I103163165,Florida State University,Tallahassee,Florida,US,电子结构与量子化学方法,76,76,0.842,0.623,34,18,0000-0003-1061-2521
+A5070260665,Bin Ouyang,I103163165,Florida State University,Tallahassee,Florida,US,机器学习与数据驱动化学,33,2,0.424,0.282,34,2,0000-0002-8181-6815
+A5025652747,Wei Yuan Yang,I103163165,Florida State University,Tallahassee,Florida,US,分子动力学与统计力学,60,39,0.831,0.513,40,20,0000-0002-4520-3253
+A5052474010,George C. Shields,I86115722,Furman University,Greenville,,US,电子结构与量子化学方法,52,43,0.615,0.4,43,5,0000-0003-1287-8585
+A5033300881,DIMITRIOS A. PAPACONSTANTOPOULOS,I162714631,George Mason University,Fairfax,Virginia,US,电子结构与量子化学方法,58,31,0.638,0.319,57,5,
+A5079525568,Dmitri K. Klimov,I162714631,George Mason University,Fairfax,Virginia,US,分子动力学与统计力学,59,8,0.5,0.518,33,2,0000-0002-2893-867X
+A5042238461,Estela Blaisten-Barojas,I162714631,George Mason University,Fairfax,Virginia,US,分子动力学与统计力学,42,18,0.714,0.488,24,3,0000-0003-3259-1573
+A5058582694,Yuri M. Mishin,I162714631,George Mason University,Fairfax,Virginia,US,分子动力学与统计力学,64,6,0.516,0.312,60,6,0000-0001-7299-433X
+A5018878010,Yongsheng Leng,I193531525,George Washington University,Washington,District of Columbia,US,分子动力学与统计力学,63,12,0.629,0.747,28,3,0000-0002-3558-5016
+A5077690796,Miklós Kertész,I184565670,Georgetown University,Washington,District of Columbia,US,计算材料与密度泛函,66,23,0.439,0.335,55,9,0000-0002-7930-3260
+A5047602027,Toshiko Ichiye,I184565670,Georgetown University,Washington,District of Columbia,US,分子动力学与统计力学,57,28,0.544,0.57,36,2,0000-0003-2474-5253
+A5036197373,Andrew James Medford,I130701444,Georgia Institute of Technology,Atlanta,Georgia,US,机器学习与数据驱动化学,64,23,0.672,0.37,48,15,0000-0001-8311-9581
+A5012621100,C. David Sherrill,I130701444,Georgia Institute of Technology,Atlanta,Georgia,US,电子结构与量子化学方法,164,157,0.798,0.586,84,47,0000-0002-5570-7666
+A5004903882,Jesse G. McDaniel,I130701444,Georgia Institute of Technology,Atlanta,Georgia,US,电子结构与量子化学方法,39,23,0.632,0.481,26,4,0000-0002-9211-1108
+A5004444057,Joshua S. Kretchmer,I130701444,Georgia Institute of Technology,Atlanta,Georgia,US,电子结构与量子化学方法,16,11,0.688,0.571,11,5,0000-0003-3468-0481
+A5087157004,Phanish Suryanarayana,I130701444,Georgia Institute of Technology,Atlanta,Georgia,US,电子结构与量子化学方法,80,64,0.9,0.784,31,12,0000-0001-5172-0049
+A5031952600,Rampi Ramprasad,I130701444,Georgia Institute of Technology,Atlanta,Georgia,US,机器学习与数据驱动化学,171,32,0.68,0.415,75,15,0000-0003-4630-1565
+A5090363901,Seung Soon Jang,I130701444,Georgia Institute of Technology,Atlanta,Georgia,US,分子动力学与统计力学,102,5,0.832,0.373,52,5,0000-0002-1920-421X
+A5051822349,Donald Hamelberg,I181565077,Georgia State University,Atlanta,Georgia,US,分子动力学与统计力学,57,20,0.526,0.324,37,3,0000-0002-3785-3037
+A5013808727,Gary Hastings,I181565077,Georgia State University,Atlanta,Georgia,US,激发态、光谱与非绝热动力学,20,0,0.7,0.263,27,1,0000-0001-9372-438X
+A5061915100,Samer Gozem,I181565077,Georgia State University,Atlanta,Georgia,US,电子结构与量子化学方法,39,27,0.538,0.375,28,4,0000-0002-6429-2853
+A5086031462,George C. McBane,I8606887,Grand Valley State University,Allendale,,US,电子结构与量子化学方法,27,26,0.5,0.542,22,4,0000-0002-2790-3467
+A5100457310,Liqun Zhang,I151328261,Hampton University,Hampton,Virginia,US,分子动力学与统计力学,38,3,0.921,0.273,26,2,0000-0001-6933-4330
+A5075010416,Boris Kozinsky,I136199984,Harvard University,Cambridge,Massachusetts,US,机器学习与数据驱动化学,75,15,0.658,0.287,49,9,0000-0002-0638-539X
+A5000346379,Dudley R. Herschbach,I136199984,Harvard University,Cambridge,Massachusetts,US,电子结构与量子化学方法,23,21,0.261,0.204,73,6,0000-0003-3225-0648
+A5005174623,Efthimios Kaxiras,I136199984,Harvard University,Cambridge,Massachusetts,US,计算材料与密度泛函,158,54,0.538,0.241,111,22,0000-0002-4682-0165
+A5076499540,Martin Karplus,I136199984,Harvard University,Cambridge,Massachusetts,US,分子动力学与统计力学,120,43,0.714,0.39,172,17,0000-0002-5485-6117
+A5073997953,Steven L. Richardson,I136199984,Harvard University,Cambridge,Massachusetts,US,计算材料与密度泛函,12,6,0.583,0.273,15,3,0000-0002-1657-3546
+A5065063998,Steve Ndengué,I155707491,Haverford College,Haverford,Pennsylvania,US,电子结构与量子化学方法,23,21,0.652,0.397,16,2,0000-0001-7136-3827
+A5085210707,Brent P. Krueger,I145402516,Hope College,Holland,Michigan,US,激发态、光谱与非绝热动力学,16,2,0.562,0.327,17,0,0009-0005-1845-5358
+A5089969132,Nikolai V. Priezjev,I137853757,Howard University,Washington,District of Columbia,US,分子动力学与统计力学,40,6,0.3,0.312,30,0,0000-0002-4611-3479
+A5000978218,Marta Filizola,I98704320,Icahn School of Medicine at Mount Sinai,New York,New York,US,分子动力学与统计力学,63,5,0.603,0.264,50,2,0000-0002-4382-8276
+A5009434832,Mihaly Mezei,I98704320,Icahn School of Medicine at Mount Sinai,New York,New York,US,分子动力学与统计力学,41,16,0.829,0.263,48,4,0000-0003-0294-4307
+A5087396555,David D. L. Minh,I180949307,Illinois Institute of Technology,Chicago,Illinois,US,分子动力学与统计力学,30,21,0.724,0.322,23,5,0000-0002-4802-2618
+A5044070375,Jeff Wereszczynski,I180949307,Illinois Institute of Technology,Chicago,Illinois,US,分子动力学与统计力学,56,5,0.75,0.431,26,2,0000-0002-2218-3827
+A5067849119,Sohail Murad,I180949307,Illinois Institute of Technology,Chicago,Illinois,US,分子动力学与统计力学,72,10,0.681,0.541,36,4,0000-0002-1486-0680
+A5054207606,Eric D. Glendening,I86420138,Indiana State University,Terre Haute,Indiana,US,电子结构与量子化学方法,32,28,0.677,0.646,36,2,0000-0002-9227-7431
+A5011183754,Krishnan Raghavachari,I4210119109,Indiana University Bloomington,Bloomington,Indiana,US,电子结构与量子化学方法,151,120,0.68,0.493,102,10,0000-0003-3275-1426
+A5078991971,Nicholas J. Mayhall,I4210119109,Indiana University Bloomington,Bloomington,Indiana,US,电子结构与量子化学方法,48,47,0.688,0.449,33,6,0000-0002-1312-9781
+A5113529328,P. Ortoleva,I4210119109,Indiana University Bloomington,Bloomington,Indiana,US,分子动力学与统计力学,41,31,0.756,0.315,46,4,0000-0001-9070-1617
+A5019081599,Srinivasan S. Iyengar,I4210119109,Indiana University Bloomington,Bloomington,Indiana,US,电子结构与量子化学方法,78,67,0.718,0.75,29,12,0000-0001-6526-2907
+A5079002066,Fangqiang Zhu,I55769427,Indiana University – Purdue University Indianapolis,Indpls,Indiana,US,分子动力学与统计力学,33,7,0.667,0.254,26,2,0000-0001-6202-2262
+A5047700735,Duane D. Johnson,I173911158,Iowa State University,Ames,Iowa,US,计算材料与密度泛函,101,26,0.505,0.245,77,10,0000-0003-0794-7283
+A5011278300,James W. Evans,I173911158,Iowa State University,Ames,Iowa,US,计算材料与密度泛函,66,33,0.561,0.273,42,4,0000-0002-5806-3720
+A5109807279,K. M. Ho,I173911158,Iowa State University,Ames,Iowa,US,分子动力学与统计力学,22,8,0.409,0.393,51,2,
+A5112608315,K. M. Ho,I173911158,Iowa State University,Ames,Iowa,US,分子动力学与统计力学,20,9,0.7,0.4,37,1,0009-0000-6988-5642
+A5069234338,Kai-Ming Ho,I173911158,Iowa State University,Ames,Iowa,US,分子动力学与统计力学,175,59,0.541,0.33,77,7,0000-0003-2703-0560
+A5112330883,Kai-Ming Ho,I173911158,Iowa State University,Ames,Iowa,US,分子动力学与统计力学,12,1,0.333,0.316,18,3,
+A5087969901,Klaus Ruedenberg,I173911158,Iowa State University,Ames,Iowa,US,电子结构与量子化学方法,70,70,0.486,0.875,65,13,0000-0003-4834-0314
+A5036545977,Mark S. Gordon,I173911158,Iowa State University,Ames,Iowa,US,电子结构与量子化学方法,91,84,0.637,0.595,41,28,0000-0003-2371-1318
+A5010977651,Mark S. Gordon,I173911158,Iowa State University,Ames,Iowa,US,电子结构与量子化学方法,250,236,0.667,0.697,90,27,0000-0001-6893-553X
+A5081731526,Theresa L. Windus,I173911158,Iowa State University,Ames,Iowa,US,电子结构与量子化学方法,89,73,0.69,0.373,41,56,0000-0001-6065-3167
+A5070148419,Wenjie Xia,I173911158,Iowa State University,Ames,Iowa,US,分子动力学与统计力学,63,10,0.571,0.412,38,2,0000-0001-7870-0128
+A5049703046,Xueyu Song,I173911158,Iowa State University,Ames,Iowa,US,分子动力学与统计力学,31,24,0.742,0.47,25,0,0000-0001-5142-4223
+A5027690522,Glake Hill,I61937129,Jackson State University,Jackson,Mississippi,US,电子结构与量子化学方法,35,21,0.514,0.5,19,3,0000-0002-7947-5556
+A5026733952,Jerzy Leszczyński,I61937129,Jackson State University,Jackson,Mississippi,US,电子结构与量子化学方法,471,298,0.676,0.424,97,11,0000-0001-5290-6136
+A5016229922,Isaiah Sumner,I11883440,James Madison University,Harrisonburg,,US,分子动力学与统计力学,16,8,0.5,0.333,10,3,0000-0002-1422-5476
+A5084263396,Christopher D. Stiles,I145311948,Johns Hopkins University,Baltimore,Maryland,US,机器学习与数据驱动化学,13,1,0.769,0.371,8,1,0000-0001-6067-6051
+A5019493730,David R. Yarkony,I145311948,Johns Hopkins University,Baltimore,Maryland,US,电子结构与量子化学方法,137,115,0.365,0.835,56,10,0000-0002-5446-1350
+A5036566464,Ioannis G. Kevrekidis,I145311948,Johns Hopkins University,Baltimore,Maryland,US,分子动力学与统计力学,38,20,0.605,0.082,69,8,0000-0003-2220-3522
+A5025017424,Jaafar A. El-Awady,I145311948,Johns Hopkins University,Baltimore,Maryland,US,分子动力学与统计力学,35,1,0.6,0.263,39,2,0000-0002-5715-2481
+A5055279415,Kit H. Bowen,I145311948,Johns Hopkins University,Baltimore,Maryland,US,电子结构与量子化学方法,171,147,0.294,0.455,57,16,0000-0002-2858-6352
+A5033808182,Lan Cheng,I145311948,Johns Hopkins University,Baltimore,Maryland,US,电子结构与量子化学方法,74,71,0.767,0.493,30,8,0000-0003-1165-9559
+A5029667852,Margaret E. Johnson,I145311948,Johns Hopkins University,Baltimore,Maryland,US,分子动力学与统计力学,23,11,0.565,0.274,19,6,0000-0001-9881-291X
+A5004518896,Michael A. Bevan,I145311948,Johns Hopkins University,Baltimore,Maryland,US,电子结构与量子化学方法,25,22,0.4,0.156,39,0,0000-0002-9368-4899
+A5073262211,Michael E. Paulaitis,I145311948,Johns Hopkins University,Baltimore,Maryland,US,反应动力学与速率理论,25,17,0.5,0.267,51,5,0000-0002-9628-1091
+A5052062252,Paul J. Dagdigian,I145311948,Johns Hopkins University,Baltimore,Maryland,US,电子结构与量子化学方法,94,92,0.522,0.451,47,3,0000-0002-6378-221X
+A5030863265,Paulette Clancy,I145311948,Johns Hopkins University,Baltimore,Maryland,US,分子动力学与统计力学,78,26,0.662,0.383,44,5,0000-0002-0468-6420
+A5046797476,Rigoberto Hernandez,I145311948,Johns Hopkins University,Baltimore,Maryland,US,反应动力学与速率理论,97,69,0.521,0.447,39,10,0000-0001-8526-7414
+A5013792729,Tim Mueller,I145311948,Johns Hopkins University,Baltimore,Maryland,US,机器学习与数据驱动化学,46,5,0.565,0.38,37,14,0000-0001-8284-7747
+A5032181533,Christine M. Aikens,I189590672,Kansas State University,Manhattan,Kansas,US,电子结构与量子化学方法,107,60,0.443,0.449,53,7,0000-0002-0854-7997
+A5091673051,Paul E. Smith,I189590672,Kansas State University,Manhattan,Kansas,US,分子动力学与统计力学,42,32,0.429,0.404,47,0,0000-0002-5565-3274
+A5042193191,Martina Kaledin,I172980758,Kennesaw State University,Kennesaw,,US,激发态、光谱与非绝热动力学,22,14,0.818,0.564,8,3,0000-0003-1763-3552
+A5028116042,Barry D. Dunietz,I149910238,Kent State University,Kent,Ohio,US,电子结构与量子化学方法,62,45,0.918,0.399,39,9,0000-0002-6982-8995
+A5049904386,Eitan Geva,I149910238,Kent State University,Kent,Ohio,US,激发态、光谱与非绝热动力学,108,58,0.794,0.656,46,13,0000-0002-7935-4586
+A5058113729,John J. Portman,I149910238,Kent State University,Kent,Ohio,US,分子动力学与统计力学,12,7,0.583,0.324,13,1,0000-0002-0400-5226
+A5058229033,Michael J. Tubergen,I149910238,Kent State University,Kent,Ohio,US,激发态、光谱与非绝热动力学,23,23,0.435,0.284,20,2,0000-0002-5646-0300
+A5045213352,Peter Politzer,I192396691,LSU New Orleans,New Orleans,Louisiana,US,电子结构与量子化学方法,99,95,0.313,0.32,104,4,0000-0002-8488-4282
+A5064045880,Steven W. Rick,I192396691,LSU New Orleans,New Orleans,Louisiana,US,分子动力学与统计力学,50,32,0.551,0.653,36,8,0000-0001-9491-0686
+A5087267973,Robert C. Mawhinney,I72541430,Lakehead University,Thunder Bay,Ontario,CA,电子结构与量子化学方法,21,18,0.667,0.467,15,4,0000-0002-6077-2403
+A5064458339,Chinedu E. Ekuma,I186143895,Lehigh University,Bethlehem,Pennsylvania,US,计算材料与密度泛函,46,14,0.543,0.267,22,2,0000-0002-5852-7556
+A5054995190,Edmund B. Webb,I186143895,Lehigh University,Bethlehem,Pennsylvania,US,分子动力学与统计力学,39,7,0.564,0.406,26,6,0000-0002-7386-3945
+A5030884127,Wonpil Im,I186143895,Lehigh University,Bethlehem,Pennsylvania,US,分子动力学与统计力学,254,65,0.709,0.473,76,27,0000-0001-5642-6041
+A5022362432,Dorel Moldovan,I121820613,Louisiana State University,Baton Rouge,Louisiana,US,分子动力学与统计力学,35,0,0.829,0.432,26,2,0000-0001-7850-4207
+A5086620497,Jane S. Murray,I121820613,Louisiana State University,Baton Rouge,Louisiana,US,电子结构与量子化学方法,91,88,0.264,0.301,92,3,0000-0002-5086-4216
+A5049515996,Yaxin An,I121820613,Louisiana State University,Baton Rouge,Louisiana,US,机器学习与数据驱动化学,15,5,0.867,0.536,14,2,0000-0003-2578-369X
+A5080739361,Bala Ramu Ramachandran,I919208787,Louisiana Tech University,Ruston,Louisiana,US,电子结构与量子化学方法,29,20,0.448,0.475,21,6,0000-0002-5179-5750
+A5031310157,Collin D. Wick,I919208787,Louisiana Tech University,Ruston,Louisiana,US,激发态、光谱与非绝热动力学,50,18,0.66,0.515,30,8,0000-0002-0261-0780
+A5035442374,Daniela S. Mainardi,I919208787,Louisiana Tech University,Ruston,Louisiana,US,计算材料与密度泛函,13,4,0.308,0.333,13,1,
+A5049658578,Sungwook Leo Hong,I35566140,Loyola Marymount University,Los Angeles,California,US,分子动力学与统计力学,34,2,0.824,0.5,20,8,0000-0003-3569-7701
+A5050700234,Peter Michael Kekenes-Huskey,I1925986,Loyola University Chicago,Chicago,Illinois,US,分子动力学与统计力学,36,7,0.514,0.271,23,4,0000-0001-7286-3022
+A5001304268,Dmitri Babikov,I102461120,Marquette University,Milwaukee,Wisconsin,US,电子结构与量子化学方法,79,77,0.769,0.569,26,5,0000-0002-4667-7645
+A5008174659,Iyad A. Hijazi,I88694374,Marshall University,Huntington,West Virginia,US,分子动力学与统计力学,13,2,0.385,0.5,5,0,
+A5087104793,Adam P. Willard,I63966007,Massachusetts Institute of Technology,Cambridge,Massachusetts,US,激发态、光谱与非绝热动力学,54,19,0.333,0.355,36,10,0000-0002-0934-4737
+A5000143645,Bernhardt L. Trout,I63966007,Massachusetts Institute of Technology,Cambridge,Massachusetts,US,分子动力学与统计力学,60,29,0.667,0.22,73,5,0000-0003-1417-9470
+A5063259943,Gregory C. Rutledge,I63966007,Massachusetts Institute of Technology,Cambridge,Massachusetts,US,分子动力学与统计力学,63,28,0.857,0.209,77,0,0000-0001-8137-1732
+A5083309623,Jeffrey C. Grossman,I63966007,Massachusetts Institute of Technology,Cambridge,Massachusetts,US,电子结构与量子化学方法,108,40,0.579,0.196,95,24,0000-0003-1281-2359
+A5049476042,Jianshu Cao,I63966007,Massachusetts Institute of Technology,Cambridge,Massachusetts,US,激发态、光谱与非绝热动力学,80,46,0.253,0.295,65,7,0000-0001-7616-7809
+A5100609041,Ju Li,I63966007,Massachusetts Institute of Technology,Cambridge,Massachusetts,US,分子动力学与统计力学,148,31,0.592,0.142,154,19,0000-0002-7841-8058
+A5018079613,Rafael Gómez-Bombarelli,I63966007,Massachusetts Institute of Technology,Cambridge,Massachusetts,US,机器学习与数据驱动化学,114,19,0.623,0.361,47,15,0000-0002-9495-8599
+A5080372722,Sidney Yip A,I63966007,Massachusetts Institute of Technology,Cambridge,Massachusetts,US,分子动力学与统计力学,101,35,0.594,0.375,82,11,0000-0002-2727-0137
+A5012778333,Troy Van Voorhis,I63966007,Massachusetts Institute of Technology,Cambridge,Massachusetts,US,电子结构与量子化学方法,144,117,0.754,0.454,76,26,0000-0001-7111-0176
+A5064001999,Alejandro D. Rey,I5023651,McGill University,Montreal,Quebec,CA,分子动力学与统计力学,55,21,0.691,0.155,35,1,0000-0002-0440-8762
+A5041358091,Lena Simine,I5023651,McGill University,Montreal,Quebec,CA,机器学习与数据驱动化学,14,6,0.643,0.341,14,2,0000-0002-8188-0550
+A5041593378,Rustam Z. Khaliullin,I5023651,McGill University,Montreal,Quebec,CA,电子结构与量子化学方法,31,19,0.613,0.403,29,3,0000-0002-9073-6753
+A5110010198,J.J. Hoyt,I98251732,McMaster University,Hamilton,Ontario,CA,分子动力学与统计力学,62,2,0.823,0.508,45,7,
+A5063874950,Rodrigo A. Vargas–Hernández,I98251732,McMaster University,Hamilton,Ontario,CA,电子结构与量子化学方法,17,14,0.765,0.362,13,5,0000-0002-5559-6521
+A5019227777,James W. Gauld,I130438778,Memorial University of Newfoundland,St. John's,Newfoundland and Labrador,CA,分子动力学与统计力学,44,14,0.841,0.277,27,1,0000-0002-2956-9781
+A5019654694,Jolanta B. Lagowski,I130438778,Memorial University of Newfoundland,St. John's,Newfoundland and Labrador,CA,计算材料与密度泛函,24,6,0.875,0.585,18,0,0000-0002-5350-008X
+A5052274774,Raymond A. Poirier,I130438778,Memorial University of Newfoundland,St. John's,Newfoundland and Labrador,CA,电子结构与量子化学方法,51,38,0.569,0.56,30,2,0000-0002-8533-7846
+A5024768348,Sam Nakhla,I130438778,Memorial University of Newfoundland,St. John's,Newfoundland and Labrador,CA,分子动力学与统计力学,13,0,0.923,0.26,10,0,0000-0001-8388-454X
+A5006878923,Travis D. Fridgen,I130438778,Memorial University of Newfoundland,St. John's,Newfoundland and Labrador,CA,激发态、光谱与非绝热动力学,27,0,0.519,0.297,25,1,0000-0001-7625-868X
+A5017774950,Andrew S. Paluch,I83328450,Miami University,Oxford,,US,分子动力学与统计力学,32,14,0.871,0.437,19,4,0000-0002-2748-0783
+A5054841813,Alex Dickson,I87216513,Michigan State University,East Lansing,Michigan,US,分子动力学与统计力学,39,17,0.486,0.451,25,7,0000-0002-9640-1380
+A5058793147,Angela K. Wilson,I87216513,Michigan State University,East Lansing,Michigan,US,电子结构与量子化学方法,161,136,0.694,0.637,50,22,0000-0001-9500-1628
+A5000351641,David Tománek,I87216513,Michigan State University,East Lansing,Michigan,US,电子结构与量子化学方法,64,30,0.484,0.255,80,0,0000-0003-1131-4788
+A5038778212,Guo-Wei Wei,I87216513,Michigan State University,East Lansing,Michigan,US,分子动力学与统计力学,32,20,0.688,0.194,42,1,0000-0002-5781-2937
+A5072718512,Hasan Metin Aktulga,I87216513,Michigan State University,East Lansing,Michigan,US,分子动力学与统计力学,34,14,0.735,0.254,26,21,0000-0003-3061-6378
+A5077354153,J. Harrison,I87216513,Michigan State University,East Lansing,Michigan,US,电子结构与量子化学方法,33,32,0.303,0.569,33,4,0000-0002-3643-0489
+A5083528587,James J. Shepherd,I87216513,Michigan State University,East Lansing,Michigan,US,电子结构与量子化学方法,33,32,0.788,0.306,24,4,0000-0002-6164-485X
+A5021416803,José L. Mendoza-Cortés,I87216513,Michigan State University,East Lansing,Michigan,US,计算材料与密度泛函,35,12,0.371,0.255,31,4,0000-0001-5184-1406
+A5053374300,Katharine L. C. Hunt,I87216513,Michigan State University,East Lansing,Michigan,US,电子结构与量子化学方法,34,34,0.412,0.63,27,4,0000-0002-2641-1129
+A5085994852,Kenneth M. Merz,I87216513,Michigan State University,East Lansing,Michigan,US,电子结构与量子化学方法,183,126,0.674,0.343,85,34,0000-0001-9139-5893
+A5061800523,Michael Feig,I87216513,Michigan State University,East Lansing,Michigan,US,分子动力学与统计力学,113,37,0.664,0.465,63,20,0000-0001-9380-6422
+A5036199301,Piotr Piecuch B,I87216513,Michigan State University,East Lansing,Michigan,US,电子结构与量子化学方法,167,163,0.837,0.741,69,34,0000-0002-7207-1815
+A5087916971,Loredana Valenzano,I11957088,Michigan Technological University,Houghton,,US,计算材料与密度泛函,16,6,0.5,0.271,22,1,0000-0002-0476-883X
+A5083116223,Ravindra Pandey,I11957088,Michigan Technological University,Houghton,,US,计算材料与密度泛函,142,41,0.465,0.469,61,2,0000-0002-2126-1985
+A5061099667,Anatoliy V. Volkov,I169615421,Middle Tennessee State University,Murfreesboro,Tennessee,US,电子结构与量子化学方法,27,20,0.593,0.314,29,0,
+A5002786455,Jing Kong,I169615421,Middle Tennessee State University,Murfreesboro,Tennessee,US,电子结构与量子化学方法,38,37,0.921,0.623,23,11,0000-0002-0649-2232
+A5077714448,David H. Magers,I52890796,Mississippi College,Clinton,Mississippi,US,电子结构与量子化学方法,14,9,0.357,0.538,17,3,0000-0002-8822-947X
+A5102734017,Christopher D. Barrett,I99041443,Mississippi State University,Starkville,Mississippi,US,分子动力学与统计力学,20,1,0.579,0.297,26,0,0000-0003-3230-4343
+A5031949934,Neeraj Rai,I99041443,Mississippi State University,Starkville,Mississippi,US,分子动力学与统计力学,30,12,0.533,0.353,28,7,0000-0002-0058-9623
+A5062261841,Steven R. Gwaltney,I99041443,Mississippi State University,Starkville,Mississippi,US,电子结构与量子化学方法,42,17,0.763,0.452,29,10,0000-0003-3833-5087
+A5022153749,Gregory S. Tschumper,I20382870,Missouri University of Science and Technology,Rolla,Missouri,US,电子结构与量子化学方法,100,67,0.469,0.583,39,13,0000-0002-3933-2200
+A5053438967,Rainer Glaser,I20382870,Missouri University of Science and Technology,Rolla,Missouri,US,电子结构与量子化学方法,30,23,0.5,0.142,33,0,0000-0003-3673-3858
+A5043847716,Henk Eshuis,I166088655,Montclair State University,Montclair,,US,电子结构与量子化学方法,13,12,0.846,0.65,11,4,0000-0002-2415-2856
+A5075725414,Maria Alexandra Gomez,I150693791,Mount Holyoke College,South Hadley,,US,电子结构与量子化学方法,14,8,0.286,0.389,18,1,0000-0002-1098-7721
+A5034742045,Cristiano L. Dias,I118118575,New Jersey Institute of Technology,Newark,New Jersey,US,分子动力学与统计力学,36,6,0.333,0.468,20,1,0000-0002-8765-3922
+A5049423398,Dibakar Datta,I118118575,New Jersey Institute of Technology,Newark,New Jersey,US,分子动力学与统计力学,22,0,0.409,0.275,22,1,0000-0003-0233-3581
+A5013935133,Farnaz A. Shakib,I118118575,New Jersey Institute of Technology,Newark,New Jersey,US,分子动力学与统计力学,23,10,0.609,0.277,16,3,0000-0003-1432-2812
+A5066527689,John G. Curro,I207123951,New Mexico Institute of Mining and Technology,Socorro,New Mexico,US,反应动力学与速率理论,34,28,0.794,0.362,47,2,0000-0002-1372-9832
+A5047745844,Pabitra Choudhury,I207123951,New Mexico Institute of Mining and Technology,Socorro,New Mexico,US,计算材料与密度泛函,20,0,0.65,0.426,18,3,0000-0002-5023-9154
+A5064553861,Igor Vasiliev,I10052268,New Mexico State University,Las Cruces,New Mexico,US,电子结构与量子化学方法,34,26,0.879,0.317,24,2,0000-0001-8229-3457
+A5068753261,Alastair N. Cormack,I4210118108,New York State College of Ceramics,Alfred,,US,分子动力学与统计力学,48,1,0.851,0.511,48,2,0000-0003-1440-4404
+A5087654509,Glen M. Hocky,I57206974,New York University,New York,New York,US,分子动力学与统计力学,37,21,0.595,0.33,29,6,0000-0002-5637-0698
+A5112635003,John Z. H. Zhang,I57206974,New York University,New York,New York,US,电子结构与量子化学方法,39,27,0.846,0.629,36,2,0000-0003-2853-7910
+A5111940891,John Z. H. Zhang,I57206974,New York University,New York,New York,US,分子动力学与统计力学,13,6,0.385,0.619,12,0,
+A5031929282,Serdal Kırmızıaltın,I57206974,New York University,New York,New York,US,分子动力学与统计力学,47,7,0.66,0.409,28,6,0000-0001-8380-5725
+A5011746218,William J. Glover,I57206974,New York University,New York,New York,US,电子结构与量子化学方法,49,41,0.612,0.925,23,6,0000-0002-2908-5680
+A5086983313,Xiang Sun,I57206974,New York University,New York,New York,US,激发态、光谱与非绝热动力学,35,27,0.853,0.667,18,5,0000-0002-2846-8532
+A5082303358,Xiao Dong He,I57206974,New York University,New York,New York,US,电子结构与量子化学方法,82,54,0.772,0.228,50,18,0000-0002-4199-8175
+A5063629758,Yingkai Zhang,I57206974,New York University,New York,New York,US,分子动力学与统计力学,62,37,0.71,0.371,52,11,0000-0002-4984-3354
+A5024574386,Zachary W. Ulissi,I57206974,New York University,New York,New York,US,机器学习与数据驱动化学,65,6,0.672,0.339,43,12,0000-0002-9401-4918
+A5071386325,Zlatko Bačić,I57206974,New York University,New York,New York,US,电子结构与量子化学方法,67,54,0.652,0.647,42,6,0000-0003-2033-3147
+A5102093756,Yusheng Dou,I47209331,Nicholls State University,Thibodaux,,US,分子动力学与统计力学,37,11,0.703,0.463,21,0,
+A5022312011,Brian Space,I137902535,North Carolina State University,Raleigh,North Carolina,US,激发态、光谱与非绝热动力学,50,25,0.694,0.152,60,5,0000-0003-0246-7408
+A5057051008,Carol K. Hall,I137902535,North Carolina State University,Raleigh,North Carolina,US,分子动力学与统计力学,88,20,0.693,0.362,62,7,0000-0002-7425-587X
+A5001101043,Celeste Sagui,I137902535,North Carolina State University,Raleigh,North Carolina,US,分子动力学与统计力学,57,30,0.526,0.46,35,6,0000-0002-2750-5186
+A5067360381,Christopher Roland,I137902535,North Carolina State University,Raleigh,North Carolina,US,分子动力学与统计力学,49,23,0.592,0.419,41,6,0000-0003-4562-8136
+A5060938733,Douglas L. Irving,I137902535,North Carolina State University,Raleigh,North Carolina,US,计算材料与密度泛函,34,5,0.5,0.291,31,2,0000-0003-4642-0548
+A5064519981,Erik E. Santiso,I137902535,North Carolina State University,Raleigh,North Carolina,US,分子动力学与统计力学,40,23,0.45,0.4,28,7,0000-0003-1768-8414
+A5075440770,J. Bernholc,I137902535,North Carolina State University,Raleigh,North Carolina,US,电子结构与量子化学方法,50,34,0.7,0.168,74,3,0000-0002-9981-8851
+A5045012255,Jerry L. Whitten,I137902535,North Carolina State University,Raleigh,North Carolina,US,电子结构与量子化学方法,48,45,0.404,0.505,43,1,0000-0002-3339-7425
+A5001203301,Jim Pfaendtner,I137902535,North Carolina State University,Raleigh,North Carolina,US,分子动力学与统计力学,121,24,0.636,0.511,43,18,0000-0001-6727-2957
+A5055124393,Keith E. Gubbins,I137902535,North Carolina State University,Raleigh,North Carolina,US,分子动力学与统计力学,107,53,0.477,0.426,94,13,0000-0003-0546-080X
+A5031459958,Luboš Mitáš,I137902535,North Carolina State University,Raleigh,North Carolina,US,电子结构与量子化学方法,78,76,0.821,0.291,46,19,0000-0002-2357-9815
+A5002003910,Melissa A. Pasquinelli,I137902535,North Carolina State University,Raleigh,North Carolina,US,分子动力学与统计力学,28,7,0.607,0.346,21,4,0000-0001-5815-2558
+A5083228553,Myung-Hwan Whangbo,I137902535,North Carolina State University,Raleigh,North Carolina,US,计算材料与密度泛函,91,30,0.516,0.131,84,0,0000-0002-2220-1124
+A5017775824,Sabre Kais,I137902535,North Carolina State University,Raleigh,North Carolina,US,电子结构与量子化学方法,88,65,0.42,0.201,50,9,0000-0003-0574-5346
+A5046770281,Yaroslava G. Yingling,I137902535,North Carolina State University,Raleigh,North Carolina,US,分子动力学与统计力学,60,3,0.567,0.303,33,5,0000-0002-8557-9992
+A5042811544,Dmitri S. Kilin,I57328836,North Dakota State University,Fargo,North Dakota,US,计算材料与密度泛函,108,47,0.611,0.462,31,5,0000-0001-7847-5549
+A5020716125,Francisco R. Hung,I12912129,Northeastern University,Boston,Massachusetts,US,分子动力学与统计力学,33,5,0.515,0.418,29,4,0000-0003-3096-0945
+A5004441687,Hai-Ping Cheng,I12912129,Northeastern University,Boston,Massachusetts,US,计算材料与密度泛函,85,41,0.588,0.278,66,9,0000-0001-5990-1725
+A5023699202,Mona S. Minkara,I12912129,Northeastern University,Boston,Massachusetts,US,分子动力学与统计力学,10,3,0.8,0.357,11,2,0000-0003-1821-2725
+A5049076496,Paul C. Whitford,I12912129,Northeastern University,Boston,Massachusetts,US,分子动力学与统计力学,45,7,0.422,0.281,38,1,0000-0001-7104-2265
+A5057535114,Peter Schindler,I12912129,Northeastern University,Boston,Massachusetts,US,机器学习与数据驱动化学,10,0,0.9,0.25,16,1,0000-0002-1319-6570
+A5063013684,Qimin Yan,I12912129,Northeastern University,Boston,Massachusetts,US,机器学习与数据驱动化学,36,5,0.389,0.254,41,8,0000-0002-3377-0314
+A5057813194,Sijia S. Dong,I12912129,Northeastern University,Boston,Massachusetts,US,电子结构与量子化学方法,25,17,0.72,0.455,15,9,0000-0001-8182-6522
+A5071669681,Srirupa Chakraborty,I12912129,Northeastern University,Boston,Massachusetts,US,分子动力学与统计力学,21,0,0.524,0.344,13,2,0000-0002-7155-2764
+A5015892086,Iman Salehinia,I102502594,Northern Illinois University,DeKalb,,US,分子动力学与统计力学,13,0,0.615,0.289,17,0,0000-0001-7955-1160
+A5065061819,Ralph A. Wheeler,I102502594,Northern Illinois University,DeKalb,,US,电子结构与量子化学方法,24,12,0.696,0.469,34,2,0000-0002-4158-823X
+A5087057269,Charles B. Musgrave,I111979921,Northwestern University,Evanston,Illinois,US,计算材料与密度泛函,98,21,0.551,0.333,66,5,0000-0002-5732-3180
+A5110175742,Donald E. Ellis,I111979921,Northwestern University,Evanston,Illinois,US,计算材料与密度泛函,64,27,0.594,0.395,60,3,
+A5064735594,George Chappell Schatz,I111979921,Northwestern University,Evanston,Illinois,US,电子结构与量子化学方法,316,191,0.522,0.223,159,28,0000-0001-5837-4740
+A5065234406,Igal G. Szleifer,I111979921,Northwestern University,Evanston,Illinois,US,分子动力学与统计力学,59,23,0.508,0.183,74,6,0000-0002-8708-0335
+A5034511172,Joan-Emma Shea,I111979921,Northwestern University,Evanston,Illinois,US,分子动力学与统计力学,95,29,0.495,0.214,71,15,0000-0002-9801-9273
+A5054861635,Linda J. Broadbelt,I111979921,Northwestern University,Evanston,Illinois,US,计算材料与密度泛函,51,22,0.784,0.148,65,4,0000-0003-4253-592X
+A5026490818,Mark A. Ratner,I111979921,Northwestern University,Evanston,Illinois,US,电子结构与量子化学方法,213,126,0.462,0.29,142,27,0000-0001-7983-3387
+A5019016673,Randall Q. Snurr,I111979921,Northwestern University,Evanston,Illinois,US,分子动力学与统计力学,100,27,0.73,0.171,120,16,0000-0003-2925-9246
+A5085523713,Roel Tempelaar,I111979921,Northwestern University,Evanston,Illinois,US,激发态、光谱与非绝热动力学,27,15,0.296,0.318,22,3,0000-0003-0786-7304
+A5015247675,Seth Lichter,I111979921,Northwestern University,Evanston,Illinois,US,分子动力学与统计力学,11,1,0.273,0.306,19,2,0000-0001-9124-9976
+A5014744105,Sinan Keten,I111979921,Northwestern University,Evanston,Illinois,US,分子动力学与统计力学,78,8,0.364,0.283,55,5,0000-0003-2203-1425
+A5022034984,Tamar Seideman,I111979921,Northwestern University,Evanston,Illinois,US,电子结构与量子化学方法,79,58,0.338,0.304,60,11,0000-0002-0643-3742
+A5072031636,Toru Shiozaki,I111979921,Northwestern University,Evanston,Illinois,US,电子结构与量子化学方法,45,45,0.711,0.662,34,10,0000-0002-0955-3862
+A5075546861,Alexander A. Rusakov,I177721651,Oakland University,Rochester,Michigan,US,电子结构与量子化学方法,11,11,0.818,0.333,11,4,0000-0002-6221-0009
+A5039358511,Małgorzata M. Szczęśniak,I177721651,Oakland University,Rochester,Michigan,US,电子结构与量子化学方法,55,53,0.741,0.74,40,1,0000-0003-3304-9727
+A5007707302,David Alan Drabold,I4210106879,Ohio University,Athens,Ohio,US,电子结构与量子化学方法,73,30,0.699,0.248,54,4,0000-0001-5344-5837
+A5038201474,Sumit Sharma,I4210106879,Ohio University,Athens,Ohio,US,分子动力学与统计力学,25,8,0.72,0.258,20,7,0000-0003-3138-5487
+A5004059379,Jindal K. Shah,I115475287,Oklahoma State University,Stillwater,Oklahoma,US,分子动力学与统计力学,42,14,0.61,0.461,28,5,0000-0002-3838-6266
+A5040297662,John W. Mintmire,I115475287,Oklahoma State University,Stillwater,Oklahoma,US,电子结构与量子化学方法,26,19,0.577,0.338,37,3,0000-0002-6551-0349
+A5003813944,Daniel M. Zuckerman,I165690674,Oregon Health & Science University,Portland,,US,分子动力学与统计力学,95,51,0.723,0.337,46,12,0000-0001-7662-2031
+A5026844728,Juan M. Vanegas,I131249849,Oregon State University,Corvallis,Oregon,US,分子动力学与统计力学,27,7,0.519,0.281,16,1,0000-0003-1381-1649
+A5074338360,Líney Árnadóttir,I131249849,Oregon State University,Corvallis,Oregon,US,计算材料与密度泛函,27,1,0.667,0.29,23,7,0000-0001-9013-4173
+A5006376061,Wei Kong,I131249849,Oregon State University,Corvallis,Oregon,US,激发态、光谱与非绝热动力学,38,32,0.289,0.481,23,0,0000-0003-3882-5019
+A5077401838,Adri C. T. van Duin,I130769515,Pennsylvania State University,State College,Pennsylvania,US,分子动力学与统计力学,507,129,0.6,0.628,117,57,0000-0002-3478-4945
+A5058027216,Bladimir Ramos-Alvarado,I130769515,Pennsylvania State University,State College,Pennsylvania,US,分子动力学与统计力学,25,7,0.5,0.316,25,1,0000-0003-2573-4134
+A5080514794,Gerald Knizia,I130769515,Pennsylvania State University,State College,Pennsylvania,US,电子结构与量子化学方法,21,19,0.619,0.368,33,5,0000-0002-7163-4823
+A5102857544,James B. Anderson,I130769515,Pennsylvania State University,State College,Pennsylvania,US,电子结构与量子化学方法,17,17,1.0,0.279,36,0,0000-0002-0478-5680
+A5039807477,John C. Mauro,I130769515,Pennsylvania State University,State College,Pennsylvania,US,分子动力学与统计力学,93,38,0.565,0.15,65,8,0000-0002-4319-3530
+A5076689818,Jorge O. Sofo,I130769515,Pennsylvania State University,State College,Pennsylvania,US,电子结构与量子化学方法,37,15,0.514,0.255,39,5,0000-0003-4513-3694
+A5068546520,Kristen A. Fichthorn,I130769515,Pennsylvania State University,State College,Pennsylvania,US,分子动力学与统计力学,84,33,0.655,0.429,43,6,0000-0002-4256-714X
+A5053090797,Lasse Jensen,I130769515,Pennsylvania State University,State College,Pennsylvania,US,电子结构与量子化学方法,79,59,0.705,0.368,56,12,0000-0003-1237-5021
+A5049003918,Mark Maroncelli,I130769515,Pennsylvania State University,State College,Pennsylvania,US,激发态、光谱与非绝热动力学,24,9,0.417,0.267,68,3,0000-0003-1633-1472
+A5031735060,Michael  John Janik,I130769515,Pennsylvania State University,State College,Pennsylvania,US,计算材料与密度泛函,126,16,0.635,0.391,68,14,0000-0001-9975-0650
+A5058360244,Susan B. Sinnott,I130769515,Pennsylvania State University,State College,Pennsylvania,US,分子动力学与统计力学,193,32,0.703,0.504,64,20,0000-0002-3598-0403
+A5045190286,Vincent Meunier,I130769515,Pennsylvania State University,State College,Pennsylvania,US,计算材料与密度泛函,110,30,0.345,0.22,85,12,0000-0002-7013-179X
+A5035545283,Wesley F. Reinhart,I130769515,Pennsylvania State University,State College,Pennsylvania,US,机器学习与数据驱动化学,43,6,0.488,0.512,20,10,0000-0001-7256-2123
+A5047456908,William G. Noid,I130769515,Pennsylvania State University,State College,Pennsylvania,US,反应动力学与速率理论,59,49,0.627,0.608,33,4,0000-0001-9675-8489
+A5100462392,Zi-Kui Liu,I130769515,Pennsylvania State University,State College,Pennsylvania,US,计算材料与密度泛函,180,38,0.733,0.189,95,15,0000-0003-3346-3696
+A5077627599,Annabella Selloni,I20089843,Princeton University,Princeton,New Jersey,US,计算材料与密度泛函,157,50,0.548,0.439,99,9,0000-0001-5896-3158
+A5053607565,Athanassios Z. Panagiotopoulos,I20089843,Princeton University,Princeton,New Jersey,US,分子动力学与统计力学,181,105,0.695,0.433,81,30,0000-0002-8152-6615
+A5074521314,Dmytro Kosenkov,I20089843,Princeton University,Princeton,New Jersey,US,电子结构与量子化学方法,11,10,0.727,0.25,19,6,0000-0003-0187-3308
+A5071854504,E Weinan,I20089843,Princeton University,Princeton,New Jersey,US,电子结构与量子化学方法,62,43,0.855,0.17,97,13,0000-0003-0272-9500
+A5090200106,Emily A. Carter,I20089843,Princeton University,Princeton,New Jersey,US,电子结构与量子化学方法,254,150,0.722,0.45,106,30,0000-0001-7330-7554
+A5043714146,Frank H. Stillinger,I20089843,Princeton University,Princeton,New Jersey,US,分子动力学与统计力学,63,49,0.587,0.317,100,8,0000-0002-1225-8186
+A5019365403,HERSCHEL A. RABITZ,I20089843,Princeton University,Princeton,New Jersey,US,电子结构与量子化学方法,109,88,0.376,0.158,90,4,0000-0002-4433-6142
+A5055420458,Joseph Eli Subotnik,I20089843,Princeton University,Princeton,New Jersey,US,电子结构与量子化学方法,194,163,0.569,0.732,51,12,0000-0003-2170-2020
+A5072988684,Michael A. Webb,I20089843,Princeton University,Princeton,New Jersey,US,机器学习与数据驱动化学,44,12,0.432,0.463,29,14,0000-0002-7420-4474
+A5088416663,Pablo G. Debenedetti,I20089843,Princeton University,Princeton,New Jersey,US,分子动力学与统计力学,143,75,0.599,0.469,94,27,0000-0003-1881-1728
+A5007841515,Roberto Car,I20089843,Princeton University,Princeton,New Jersey,US,电子结构与量子化学方法,155,81,0.688,0.368,115,34,0000-0001-5243-2647
+A5062172005,Salvatore Torquato A,I20089843,Princeton University,Princeton,New Jersey,US,分子动力学与统计力学,47,41,0.283,0.092,114,7,0000-0003-4614-335X
+A5041302371,Sharon Hammes-Schiffer,I20089843,Princeton University,Princeton,New Jersey,US,电子结构与量子化学方法,237,150,0.57,0.312,85,31,0000-0002-3782-6995
+A5036386532,Adam Wasserman,I219193219,Purdue University West Lafayette,West Lafayette,Indiana,US,电子结构与量子化学方法,52,52,0.904,0.426,20,5,0000-0002-8037-4453
+A5036381334,Alejandro H. Strachan,I219193219,Purdue University West Lafayette,West Lafayette,Indiana,US,分子动力学与统计力学,190,40,0.72,0.424,49,14,0000-0002-4174-9750
+A5025731480,David S. Corti,I219193219,Purdue University West Lafayette,West Lafayette,Indiana,US,反应动力学与速率理论,28,24,0.75,0.295,24,1,0000-0003-3289-3926
+A5103933316,Jorge H. Rodriguez,I219193219,Purdue University West Lafayette,West Lafayette,Indiana,US,计算材料与密度泛函,12,5,0.545,0.297,12,2,
+A5057581232,Lyudmila V. Slipchenko,I219193219,Purdue University West Lafayette,West Lafayette,Indiana,US,电子结构与量子化学方法,80,64,0.6,0.548,43,28,0000-0002-0445-2990
+A5079708864,Shengfeng Yang,I219193219,Purdue University West Lafayette,West Lafayette,Indiana,US,分子动力学与统计力学,10,0,0.9,0.303,14,1,0000-0002-8855-5558
+A5007779946,Thomas A. Manz,I219193219,Purdue University West Lafayette,West Lafayette,Indiana,US,电子结构与量子化学方法,31,24,0.633,0.248,21,1,0000-0002-4033-9864
+A5023732917,Laurent Karim Béland,I204722609,Queen's University,Kingston,Ontario,CA,分子动力学与统计力学,48,11,0.5,0.358,30,6,0000-0001-5332-7128
+A5082330744,Nicholas J. Mosey,I204722609,Queen's University,Kingston,Ontario,CA,电子结构与量子化学方法,37,19,0.757,0.316,27,3,0000-0001-7006-0752
+A5086485887,Tucker Carrington,I204722609,Queen's University,Kingston,Ontario,CA,电子结构与量子化学方法,152,135,0.815,0.634,59,20,0000-0002-5200-2353
+A5047133596,William J. Weber,I204722609,Queen's University,Kingston,Ontario,CA,分子动力学与统计力学,162,39,0.667,0.244,106,5,0000-0002-9017-7365
+A5073530333,Angel E. García,I165799507,Rensselaer Polytechnic Institute,Troy,New York,US,分子动力学与统计力学,121,14,0.575,0.508,70,8,0000-0002-0912-0960
+A5002387866,Emily L. Liu,I165799507,Rensselaer Polytechnic Institute,Troy,New York,US,分子动力学与统计力学,16,7,0.5,0.286,14,1,0000-0002-6396-067X
+A5001695739,Pawel Keblinski,I165799507,Rensselaer Polytechnic Institute,Troy,New York,US,分子动力学与统计力学,80,19,0.525,0.335,74,12,0000-0002-6901-8458
+A5003671262,Shekhar Garde,I165799507,Rensselaer Polytechnic Institute,Troy,New York,US,分子动力学与统计力学,56,17,0.25,0.491,53,11,0000-0002-3307-6007
+A5052879411,Shengbai Zhang,I165799507,Rensselaer Polytechnic Institute,Troy,New York,US,计算材料与密度泛函,80,28,0.519,0.13,93,5,0000-0003-0833-5860
+A5028130589,Yunfeng Shi,I165799507,Rensselaer Polytechnic Institute,Troy,New York,US,分子动力学与统计力学,58,7,0.684,0.345,40,4,0000-0003-1700-6049
+A5048289852,Anatoly B. Kolomeisky,I74775410,Rice University,Houston,Texas,US,分子动力学与统计力学,26,13,0.346,0.28,30,2,0000-0001-9089-667X
+A5040071198,Anatoly B. Kolomeisky,I74775410,Rice University,Houston,Texas,US,分子动力学与统计力学,55,25,0.4,0.224,41,5,0000-0001-5677-6690
+A5066742416,Bruce R. Johnson,I74775410,Rice University,Houston,Texas,US,电子结构与量子化学方法,13,13,0.538,0.333,26,1,0000-0003-2262-6787
+A5061903235,Cecilia Clementi,I74775410,Rice University,Houston,Texas,US,分子动力学与统计力学,62,35,0.71,0.376,56,16,0000-0001-9221-2358
+A5031523641,David S. Sholl,I74775410,Rice University,Houston,Texas,US,计算材料与密度泛函,206,50,0.723,0.358,100,14,0000-0002-2771-9168
+A5055016850,Frank Noé,I74775410,Rice University,Houston,Texas,US,分子动力学与统计力学,71,44,0.814,0.241,77,15,0000-0003-4169-9324
+A5016283866,Gustavo E. Scuseria,I74775410,Rice University,Houston,Texas,US,电子结构与量子化学方法,358,312,0.803,0.599,128,49,0000-0002-4635-8126
+A5023161837,Peter Guy Wolynes,I74775410,Rice University,Houston,Texas,US,分子动力学与统计力学,75,32,0.56,0.18,112,9,0000-0001-7975-9287
+A5000410825,Peter J. Rossky,I74775410,Rice University,Houston,Texas,US,激发态、光谱与非绝热动力学,87,42,0.448,0.515,80,18,0000-0002-0461-4179
+A5067754249,Thomas Patrick Senftle,I74775410,Rice University,Houston,Texas,US,计算材料与密度泛函,32,4,0.406,0.344,38,6,0000-0002-5889-5009
+A5032527934,Walter G. Chapman,I74775410,Rice University,Houston,Texas,US,分子动力学与统计力学,92,46,0.764,0.34,60,3,0000-0002-8789-9041
+A5031292318,Chun Fu Wu,I44265643,Rowan University,Glassboro,New Jersey,US,分子动力学与统计力学,60,8,0.883,0.469,37,5,0000-0002-0176-3873
+A5001701189,Vojislava Pophristic,I44265643,Rowan University,Glassboro,New Jersey,US,电子结构与量子化学方法,22,13,0.5,0.386,20,3,0000-0002-8848-2651
+A5013313042,Alexander V. Neimark,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,分子动力学与统计力学,75,30,0.568,0.267,76,1,0000-0002-3443-0389
+A5076436548,Darrin M. York,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,电子结构与量子化学方法,135,96,0.77,0.496,61,31,0000-0002-9193-7055
+A5014694160,David Andrew Case,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,分子动力学与统计力学,149,55,0.738,0.408,108,51,0000-0003-2314-2346
+A5000393220,David H. Vanderbilt,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,电子结构与量子化学方法,43,23,0.581,0.098,123,6,0000-0002-2465-9091
+A5032749422,Edward W. Castner,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,电子结构与量子化学方法,37,21,0.378,0.481,49,6,0000-0003-1101-1090
+A5017245953,Grace H. Brannigan,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,分子动力学与统计力学,42,7,0.405,0.278,27,2,0000-0001-8949-2694
+A5071147242,Kolattukudy Poulose Santo,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,分子动力学与统计力学,27,10,0.333,0.519,14,2,0000-0001-6817-737X
+A5086996761,Lu Wang,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,激发态、光谱与非绝热动力学,25,11,0.48,0.41,22,5,0000-0001-6230-1835
+A5075457888,Meenakshi Dutt,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,分子动力学与统计力学,28,8,0.536,0.292,15,1,0000-0001-5383-2992
+A5024093329,Michele Pavanello,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,电子结构与量子化学方法,98,88,0.691,0.647,32,12,0000-0001-8294-7481
+A5011989115,Neepa T. Maitra,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,电子结构与量子化学方法,91,85,0.689,0.612,41,9,0000-0002-1840-8827
+A5082495194,Richard C. Remsing,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,分子动力学与统计力学,53,26,0.585,0.5,29,12,0000-0002-0922-4882
+A5022477798,Stephen H. Garofalini,I102322142,"Rutgers, The State University of New Jersey",New Brunswick,New Jersey,US,分子动力学与统计力学,48,9,0.638,0.566,40,1,0000-0003-1718-2034
+A5069972140,Marlina Slamet,I130186095,Sacred Heart University,Fairfield,,US,电子结构与量子化学方法,10,10,0.9,0.4,12,2,0000-0002-4646-2548
+A5052002699,Preston B. Moore,I51077184,Saint Joseph's University,Philadelphia,Pennsylvania,US,分子动力学与统计力学,48,18,0.792,0.842,38,5,0000-0001-5633-9087
+A5004481397,Sara Adibi,I26538001,San Diego State University,San Diego,,US,分子动力学与统计力学,12,0,0.833,0.4,10,1,0000-0003-2233-619X
+A5015766644,Venkatesan S. Thimmakondu,I26538001,San Diego State University,San Diego,,US,电子结构与量子化学方法,27,22,0.37,0.45,16,2,0000-0002-7505-077X
+A5021763131,Nicole Adelstein,I71838634,San Francisco State University,San Francisco,California,US,分子动力学与统计力学,26,3,0.538,0.329,14,2,0000-0002-7491-9592
+A5046939966,Michelle E. McCully,I16269868,Santa Clara University,Santa Clara,,US,分子动力学与统计力学,16,1,0.5,0.471,12,2,0000-0002-9774-0608
+A5051836241,Kaya Forest B,I2799652382,Saskatchewan Polytechnic,Saskatoon,,CA,电子结构与量子化学方法,41,37,0.951,0.263,25,0,0000-0003-1036-7124
+A5007536107,Gulzari L. Malli,I18014758,Simon Fraser University,Burnaby,British Columbia,CA,电子结构与量子化学方法,39,39,0.692,0.886,30,2,0000-0002-9635-473X
+A5020933684,K. Aurelia Ball,I21104390,Skidmore College,Saratoga Springs,,US,分子动力学与统计力学,25,2,0.32,0.51,10,4,0000-0001-9645-555X
+A5010556164,Kenneth M. Benjamin,I184647316,South Dakota School of Mines and Technology,Rapid City,South Dakota,US,分子动力学与统计力学,10,3,0.9,0.37,11,1,0000-0002-7200-9579
+A5055014215,Lichang Wang,I110378019,Southern Illinois University Carbondale,Carbondale,Illinois,US,计算材料与密度泛函,93,39,0.548,0.429,43,3,0000-0002-6131-3532
+A5011150326,Qingfeng Ge,I110378019,Southern Illinois University Carbondale,Carbondale,Illinois,US,计算材料与密度泛函,84,8,0.583,0.357,63,3,0000-0001-6026-6693
+A5019062687,Devin A. Matthews,I178169726,Southern Methodist University,Dallas,,US,电子结构与量子化学方法,59,57,0.712,0.641,26,19,0000-0003-2795-5483
+A5049447118,Elfi Kraka,I178169726,Southern Methodist University,Dallas,,US,电子结构与量子化学方法,120,74,0.358,0.453,67,7,0000-0002-9658-5626
+A5010373442,Peng Tao,I178169726,Southern Methodist University,Dallas,,US,分子动力学与统计力学,56,33,0.554,0.318,37,5,0000-0002-2488-0239
+A5029847974,Diola Bagayoko,I145610796,Southern University and Agricultural and Mechanical College,Baton Rouge,,US,电子结构与量子化学方法,55,41,0.709,0.324,25,1,0000-0003-4357-0663
+A5003431435,Scott Simpson,I117309725,St. Bonaventure University,Allegany,,US,计算材料与密度泛函,17,6,0.529,0.34,17,2,0000-0001-8093-1814
+A5091856988,M. Shajahan G. Razul,I197191942,St. Francis Xavier University,Antigonish,,CA,分子动力学与统计力学,16,11,0.438,0.552,10,2,0000-0001-7973-7571
+A5040646046,Peter H. Poole,I197191942,St. Francis Xavier University,Antigonish,,CA,分子动力学与统计力学,25,13,0.6,0.385,43,6,0000-0001-5985-0585
+A5049135299,Evan J. Reed,I97018004,Stanford University,Stanford,California,US,机器学习与数据驱动化学,55,18,0.691,0.255,51,11,0000-0001-7910-9401
+A5039238061,Richard M. Martin,I97018004,Stanford University,Stanford,California,US,电子结构与量子化学方法,120,111,0.525,0.426,94,8,0000-0002-3932-805X
+A5069747836,Thomas E. Markland,I97018004,Stanford University,Stanford,California,US,激发态、光谱与非绝热动力学,70,36,0.638,0.556,47,18,0000-0002-2747-0518
+A5040462364,Todd J. Martínez,I97018004,Stanford University,Stanford,California,US,电子结构与量子化学方法,277,230,0.696,0.514,94,45,0000-0002-4798-8947
+A5032418986,Vijay S. Pande,I97018004,Stanford University,Stanford,California,US,分子动力学与统计力学,204,99,0.757,0.464,110,42,0000-0003-2774-1178
+A5042456721,Benjamin G. Levine,I4210087560,Stony Brook School,Stony Brook,New York,US,电子结构与量子化学方法,65,53,0.538,0.43,39,8,0000-0002-0356-0738
+A5054766202,Carlos L. Simmerling,I59553526,Stony Brook University,Stony Brook,New York,US,分子动力学与统计力学,72,28,0.732,0.452,51,20,0000-0002-7252-4730
+A5003474105,Jesús Pérez-Ríos,I59553526,Stony Brook University,Stony Brook,New York,US,电子结构与量子化学方法,38,24,0.368,0.167,30,0,0000-0001-9491-9859
+A5013305919,Ken A. Dill,I59553526,Stony Brook University,Stony Brook,New York,US,分子动力学与统计力学,117,78,0.73,0.296,108,13,0000-0002-2390-2002
+A5017814193,Mariví Fernández-Serra,I59553526,Stony Brook University,Stony Brook,New York,US,电子结构与量子化学方法,44,25,0.628,0.269,32,1,0000-0001-6823-8339
+A5015984763,Robert C. Rizzo,I59553526,Stony Brook University,Stony Brook,New York,US,分子动力学与统计力学,23,10,0.652,0.28,34,3,0000-0003-0525-6147
+A5010174060,Robert J. Harrison,I59553526,Stony Brook University,Stony Brook,New York,US,电子结构与量子化学方法,59,52,0.78,0.237,53,18,0000-0002-8777-7466
+A5047165687,Yuefan Deng,I59553526,Stony Brook University,Stony Brook,New York,US,分子动力学与统计力学,30,1,0.933,0.27,23,0,0000-0002-5224-3958
+A5039375182,Arindam Chakraborty,I70983195,Syracuse University,Syracuse,New York,US,电子结构与量子化学方法,32,28,0.483,0.475,19,6,0000-0003-2710-0637
+A5034237670,Shikha Nangia,I70983195,Syracuse University,Syracuse,New York,US,分子动力学与统计力学,37,19,0.472,0.396,28,7,0000-0003-1170-8461
+A5089949727,Timothy M. Korter,I70983195,Syracuse University,Syracuse,New York,US,计算材料与密度泛函,73,15,0.671,0.302,38,0,0000-0002-0398-5680
+A5068247471,Michael Lawrence Klein,I84392919,Temple University,Philadelphia,Pennsylvania,US,分子动力学与统计力学,270,98,0.685,0.469,118,30,0000-0002-0027-9262
+A5033874771,Ronald M. Levy,I84392919,Temple University,Philadelphia,Pennsylvania,US,分子动力学与统计力学,71,31,0.915,0.394,68,3,0000-0001-8696-5177
+A5052363442,Spiridoula Matsika,I84392919,Temple University,Philadelphia,Pennsylvania,US,电子结构与量子化学方法,85,63,0.353,0.395,40,10,0000-0003-2773-3979
+A5074806960,Vincent A. Voelz,I84392919,Temple University,Philadelphia,Pennsylvania,US,分子动力学与统计力学,95,13,0.874,0.54,31,12,0000-0002-1054-2124
+A5045123888,Xifan Wu,I84392919,Temple University,Philadelphia,Pennsylvania,US,电子结构与量子化学方法,49,32,0.571,0.333,37,16,0000-0001-6561-8942
+A5012071644,Wilson K. Gichuhi,I63920570,Tennessee Technological University,Cookeville,,US,电子结构与量子化学方法,11,11,0.727,0.393,8,1,0000-0002-0217-2311
+A5052728383,Danny L. Yeager,I91045830,Texas A&M University,College Station,Texas,US,电子结构与量子化学方法,20,19,0.8,0.588,35,0,0000-0001-9832-0034
+A5082358369,Jaan Laane,I91045830,Texas A&M University,College Station,Texas,US,激发态、光谱与非绝热动力学,48,40,0.875,0.306,42,0,0000-0003-4423-6122
+A5088540108,Jeetain Mittal,I91045830,Texas A&M University,College Station,Texas,US,分子动力学与统计力学,92,18,0.416,0.3,66,11,0000-0002-9725-6402
+A5038840640,Jorge M. Seminario,I91045830,Texas A&M University,College Station,Texas,US,分子动力学与统计力学,95,37,0.543,0.379,55,1,0000-0001-5397-9281
+A5061126493,Michael B. Hall,I91045830,Texas A&M University,College Station,Texas,US,计算材料与密度泛函,91,24,0.659,0.188,68,3,0000-0003-3263-3219
+A5026445123,Perla B. Balbuena,I91045830,Texas A&M University,College Station,Texas,US,计算材料与密度泛函,172,28,0.427,0.343,80,3,0000-0002-2358-3910
+A5055147706,Raymundo Arróyave,I91045830,Texas A&M University,College Station,Texas,US,机器学习与数据驱动化学,141,12,0.443,0.27,62,7,0000-0001-7548-8686
+A5056986198,Simon W. North,I91045830,Texas A&M University,College Station,Texas,US,电子结构与量子化学方法,40,34,0.256,0.257,37,6,0000-0002-0795-796X
+A5012492171,Tahir Çağın,I91045830,Texas A&M University,College Station,Texas,US,分子动力学与统计力学,74,14,0.486,0.295,61,7,
+A5008945116,W. H. Marlow,I91045830,Texas A&M University,College Station,Texas,US,分子动力学与统计力学,10,7,0.6,0.4,21,0,0000-0003-0272-6473
+A5080925372,Zubaer M. Hossain,I91045830,Texas A&M University,College Station,Texas,US,分子动力学与统计力学,12,2,0.333,0.261,15,0,0000-0003-1631-2511
+A5023929087,Benjamin G. Janesko,I128956969,Texas Christian University,Fort Worth,Texas,US,电子结构与量子化学方法,129,117,0.73,0.603,35,9,0000-0002-2572-5273
+A5087273177,Gyeong Soon Hwang,I4405271599,Texas Materials Institute,Austin,Texas,US,计算材料与密度泛函,111,19,0.586,0.357,48,1,0000-0002-5538-9426
+A5003787880,Edward L. Quitevis,I12315562,Texas Tech University,Lubbock,Texas,US,分子动力学与统计力学,19,7,0.632,0.279,34,4,0000-0002-5617-7652
+A5063314829,Hans Lischka,I12315562,Texas Tech University,Lubbock,Texas,US,电子结构与量子化学方法,141,109,0.589,0.397,75,24,0000-0002-5656-3975
+A5044624275,Jorge A. Morales,I12315562,Texas Tech University,Lubbock,Texas,US,电子结构与量子化学方法,29,28,0.897,0.604,17,2,0000-0003-0411-5481
+A5057719786,Rajesh Khare,I12315562,Texas Tech University,Lubbock,Texas,US,分子动力学与统计力学,43,10,0.651,0.453,30,6,0000-0002-8859-766X
+A5071498517,Roland Faller,I12315562,Texas Tech University,Lubbock,Texas,US,分子动力学与统计力学,115,32,0.728,0.401,47,3,0000-0001-9946-3846
+A5066015556,Ruibin Liang,I12315562,Texas Tech University,Lubbock,Texas,US,分子动力学与统计力学,27,13,0.481,0.397,19,7,0000-0001-8741-1520
+A5069124714,William L. Hase,I12315562,Texas Tech University,Lubbock,Texas,US,反应动力学与速率理论,187,134,0.667,0.713,74,24,0000-0002-0560-5100
+A5048679385,Joseph L. Baker,I64281891,The College of New Jersey,Ewing,New Jersey,US,分子动力学与统计力学,17,1,0.765,0.34,14,0,0000-0003-1286-6605
+A5022883014,Andrzej A. Jarzęcki,I121847817,"The Graduate Center, CUNY",New York,New York,US,计算材料与密度泛函,13,6,0.692,0.289,28,3,0000-0002-8737-2354
+A5017376122,Anton O. Oliynyk,I121847817,"The Graduate Center, CUNY",New York,New York,US,机器学习与数据驱动化学,38,0,0.632,0.255,25,2,0000-0003-0732-7340
+A5038553566,Johannes Flick,I121847817,"The Graduate Center, CUNY",New York,New York,US,电子结构与量子化学方法,24,16,0.667,0.261,29,8,0000-0003-0273-7797
+A5037380376,Lou Massa,I121847817,"The Graduate Center, CUNY",New York,New York,US,电子结构与量子化学方法,98,64,0.694,0.516,27,3,0000-0001-6662-3428
+A5054728983,Nicolás Giovambattista,I121847817,"The Graduate Center, CUNY",New York,New York,US,分子动力学与统计力学,68,26,0.294,0.453,47,11,0000-0003-1149-0693
+A5063124884,Sharon M. Loverde,I121847817,"The Graduate Center, CUNY",New York,New York,US,分子动力学与统计力学,38,7,0.632,0.5,20,1,0000-0002-7643-6498
+A5051959591,Tom Kurtzman,I121847817,"The Graduate Center, CUNY",New York,New York,US,分子动力学与统计力学,21,12,0.524,0.467,17,16,0000-0003-0900-772X
+A5065587671,Alexander Yu. Sokolov,I52357470,The Ohio State University,Columbus,Ohio,US,电子结构与量子化学方法,49,44,0.822,0.592,22,13,0000-0003-2637-4134
+A5101849688,Christopher David Taylor,I52357470,The Ohio State University,Columbus,Ohio,US,计算材料与密度泛函,52,16,0.769,0.281,35,6,0000-0002-0252-0988
+A5058604635,Isamu Kusaka,I52357470,The Ohio State University,Columbus,Ohio,US,分子动力学与统计力学,18,15,0.833,0.474,18,1,0000-0003-4254-3225
+A5052766760,John M. Herbert,I52357470,The Ohio State University,Columbus,Ohio,US,电子结构与量子化学方法,172,149,0.741,0.597,66,19,0000-0002-1663-2278
+A5047327114,Lisa M. Hall,I52357470,The Ohio State University,Columbus,Ohio,US,分子动力学与统计力学,26,12,0.846,0.283,27,3,0000-0002-3430-3494
+A5027751221,Philip J. Grandinetti,I52357470,The Ohio State University,Columbus,Ohio,US,电子结构与量子化学方法,21,21,0.286,0.214,40,0,0000-0003-0102-316X
+A5083330988,Rafael Brüschweiler,I52357470,The Ohio State University,Columbus,Ohio,US,分子动力学与统计力学,72,16,0.458,0.301,65,5,0000-0003-3649-4543
+A5058863384,Russell M. Pitzer,I52357470,The Ohio State University,Columbus,Ohio,US,电子结构与量子化学方法,25,24,0.72,0.325,46,17,
+A5067760420,Sherwin J. Singer,I52357470,The Ohio State University,Columbus,Ohio,US,激发态、光谱与非绝热动力学,29,16,0.517,0.426,87,2,0000-0002-4539-5742
+A5047733294,Siddharth S. Gautam,I52357470,The Ohio State University,Columbus,Ohio,US,分子动力学与统计力学,24,2,0.458,0.364,20,2,0000-0003-1443-5382
+A5061947031,Terry A. Miller,I52357470,The Ohio State University,Columbus,Ohio,US,激发态、光谱与非绝热动力学,49,48,0.265,0.168,53,4,0000-0003-0731-8006
+A5087588530,Alemayehu Abebe Gorfe,I919571938,The University of Texas Health Science Center at Houston,Houston,Texas,US,分子动力学与统计力学,49,3,0.429,0.277,47,2,0000-0002-9328-4692
+A5049887816,Bernard Montgomery Pettitt,I55302922,The University of Texas Medical Branch at Galveston,Galveston,Texas,US,分子动力学与统计力学,87,43,0.459,0.383,69,1,0000-0003-4902-3046
+A5056264063,Muhammad N. Huda,I189196454,The University of Texas at Arlington,Arlington,Texas,US,计算材料与密度泛函,60,14,0.45,0.385,33,0,0000-0002-2655-498X
+A5036725653,Dave Thirumalai,I86519309,The University of Texas at Austin,Austin,Texas,US,分子动力学与统计力学,127,34,0.26,0.252,102,14,0000-0003-1801-5924
+A5058605984,Dmitrii E. Makarov,I86519309,The University of Texas at Austin,Austin,Texas,US,分子动力学与统计力学,85,65,0.388,0.447,48,8,0000-0002-8421-1846
+A5062146876,Feliciano Giustino,I86519309,The University of Texas at Austin,Austin,Texas,US,电子结构与量子化学方法,34,21,0.559,0.096,72,4,0000-0001-9293-1176
+A5078587306,Isaac B. Bersuker,I86519309,The University of Texas at Austin,Austin,Texas,US,电子结构与量子化学方法,47,40,0.277,0.343,36,0,0000-0002-6382-7721
+A5076118690,James R. Chelikowsky,I86519309,The University of Texas at Austin,Austin,Texas,US,电子结构与量子化学方法,159,104,0.696,0.373,80,15,0000-0003-2181-3070
+A5073593948,Narayana R. Aluru,I86519309,The University of Texas at Austin,Austin,Texas,US,分子动力学与统计力学,148,47,0.354,0.234,74,7,0000-0002-9622-7837
+A5013890468,Pengyu Y. Ren,I86519309,The University of Texas at Austin,Austin,Texas,US,分子动力学与统计力学,140,85,0.741,0.513,56,18,0000-0002-5613-1910
+A5081349407,Ron Elber,I86519309,The University of Texas at Austin,Austin,Texas,US,分子动力学与统计力学,105,51,0.638,0.495,60,9,0000-0001-7849-415X
+A5048049212,Venkat Ganesan,I86519309,The University of Texas at Austin,Austin,Texas,US,分子动力学与统计力学,81,40,0.35,0.216,52,10,0000-0003-3899-5843
+A5048229424,Gerardo Andrés Cisneros,I162577319,The University of Texas at Dallas,Richardson,Texas,US,电子结构与量子化学方法,84,59,0.699,0.364,40,22,0000-0001-6629-3430
+A5054528922,Hedieh Torabifard,I162577319,The University of Texas at Dallas,Richardson,Texas,US,分子动力学与统计力学,21,5,0.619,0.276,13,6,0000-0003-0687-6858
+A5065656919,K. Cho,I162577319,The University of Texas at Dallas,Richardson,Texas,US,计算材料与密度泛函,146,25,0.507,0.268,88,4,0000-0003-2698-7774
+A5034611520,Steven O. Nielsen,I162577319,The University of Texas at Dallas,Richardson,Texas,US,分子动力学与统计力学,51,20,0.804,0.495,40,4,0000-0003-3390-3313
+A5036477452,James D. Kubicki,I164936912,The University of Texas at El Paso,El Paso,Texas,US,计算材料与密度泛函,118,40,0.769,0.391,68,9,0000-0002-9277-9044
+A5027424609,Lela Vuković,I164936912,The University of Texas at El Paso,El Paso,Texas,US,分子动力学与统计力学,31,4,0.29,0.282,27,0,0000-0002-9053-5708
+A5067593473,Mark R. Pederson,I164936912,The University of Texas at El Paso,El Paso,Texas,US,电子结构与量子化学方法,80,55,0.487,0.354,52,18,0000-0002-1236-7438
+A5041838488,Rajendra R. Zope,I164936912,The University of Texas at El Paso,El Paso,Texas,US,电子结构与量子化学方法,66,57,0.662,0.389,28,9,0000-0002-4626-6491
+A5079404496,Ramon J. Ravelo,I164936912,The University of Texas at El Paso,El Paso,Texas,US,分子动力学与统计力学,24,1,0.667,0.282,20,0,0000-0001-7355-6075
+A5023168759,Abelardo Ramírez-Hernández,I45438204,The University of Texas at San Antonio,San Antonio,Texas,US,分子动力学与统计力学,21,8,0.476,0.288,25,2,0000-0002-3569-5223
+A5019588941,Liao Yuan Chen,I45438204,The University of Texas at San Antonio,San Antonio,Texas,US,分子动力学与统计力学,27,14,0.556,0.325,24,0,0000-0003-1911-8634
+A5075006366,Walter C. Ermler,I45438204,The University of Texas at San Antonio,San Antonio,Texas,US,电子结构与量子化学方法,17,17,0.647,0.378,35,1,0000-0003-2428-9040
+A5111699208,Charles W. Bock,I149251103,Thomas Jefferson University,Philadelphia,Pennsylvania,US,电子结构与量子化学方法,37,21,0.838,0.552,38,2,
+A5045389074,John Z. H. Zhang,I149251103,Thomas Jefferson University,Philadelphia,Pennsylvania,US,分子动力学与统计力学,131,67,0.612,0.427,61,6,0000-0003-4612-1863
+A5059085901,Nelaine Mora-Diez,I160262251,Thompson Rivers University,Kamloops,,CA,电子结构与量子化学方法,20,19,0.75,0.444,20,1,0000-0002-1648-2222
+A5042499249,ERROL GEORGE LEWARS,I662221,Trent University,Peterborough,,CA,电子结构与量子化学方法,39,38,0.692,0.52,19,1,0009-0006-9256-2976
+A5013515595,Igor M. Svishchev,I662221,Trent University,Peterborough,,CA,分子动力学与统计力学,26,9,0.577,0.52,31,1,0000-0002-4301-7174
+A5048752016,Nav Nidhi Rajput,I121934306,Tufts University,Medford,Massachusetts,US,分子动力学与统计力学,32,2,0.562,0.337,30,4,0000-0003-4740-8217
+A5007224077,Adrienn Ruzsinszky,I114832834,Tulane University,New Orleans,Louisiana,US,电子结构与量子化学方法,112,103,0.759,0.61,48,16,0000-0002-2200-1122
+A5069666582,Gábor I. Csonka,I114832834,Tulane University,New Orleans,Louisiana,US,电子结构与量子化学方法,48,44,0.787,0.547,42,7,0000-0001-5701-4401
+A5011002849,Henry S. Ashbaugh,I114832834,Tulane University,New Orleans,Louisiana,US,分子动力学与统计力学,51,34,0.471,0.468,37,8,0000-0001-9869-1900
+A5069057216,Jianwei Sun,I114832834,Tulane University,New Orleans,Louisiana,US,电子结构与量子化学方法,83,69,0.8,0.415,55,16,0000-0002-2361-6823
+A5014987686,John P. Perdew,I114832834,Tulane University,New Orleans,Louisiana,US,电子结构与量子化学方法,227,213,0.727,0.64,116,32,0000-0003-4237-824X
+A5026395503,Lawrence R. Pratt,I114832834,Tulane University,New Orleans,Louisiana,US,反应动力学与速率理论,73,48,0.592,0.386,63,16,0000-0003-2351-7451
+A5017671052,M. M. Montemore,I114832834,Tulane University,New Orleans,Louisiana,US,计算材料与密度泛函,35,7,0.429,0.333,29,2,0000-0002-4157-1745
+A5032939678,Mel Levy,I114832834,Tulane University,New Orleans,Louisiana,US,电子结构与量子化学方法,52,51,0.827,0.867,50,6,0000-0002-8151-135X
+A5089329833,Adib J. Samin,I55061410,U.S. Air Force Institute of Technology,Dayton,Ohio,US,计算材料与密度泛函,22,4,0.773,0.367,15,3,0000-0001-7493-2829
+A5102995031,Judith A. Harrison,I189158971,United States Naval Academy,Annapolis,Maryland,US,分子动力学与统计力学,46,13,0.587,0.529,40,1,0000-0002-2777-7990
+A5083739979,Alexey V. Akimov,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,激发态、光谱与非绝热动力学,82,40,0.61,0.667,35,11,0000-0002-7815-3731
+A5080215947,David A. Kofke,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,反应动力学与速率理论,87,74,0.776,0.552,47,7,0000-0002-2530-8816
+A5033543687,Eli Ruckenstein,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,电子结构与量子化学方法,75,51,0.419,0.152,90,1,0000-0001-5192-4922
+A5060805106,Eric A. Walker,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,计算材料与密度泛函,13,0,0.615,0.342,17,3,0000-0002-8125-7160
+A5000262710,Eva Zurek,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,计算材料与密度泛函,106,25,0.467,0.306,52,11,0000-0003-0738-867X
+A5004762529,Ganesh Sivaraman,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,机器学习与数据驱动化学,22,6,0.682,0.328,18,2,0000-0001-9056-9855
+A5040995220,Jeffrey R. Errington,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,分子动力学与统计力学,55,40,0.66,0.491,44,7,0000-0003-0365-0271
+A5007821807,Jochen Autschbach,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,电子结构与量子化学方法,298,229,0.757,0.274,85,33,0000-0001-9392-877X
+A5033582284,Johannes Hachmann,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,机器学习与数据驱动化学,36,13,0.778,0.571,21,8,0000-0003-4501-4118
+A5079203984,Krishna Rajan,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,机器学习与数据驱动化学,51,2,0.294,0.386,37,12,0000-0001-8496-3311
+A5103205107,Krishna Rajan,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,机器学习与数据驱动化学,40,1,0.325,0.357,30,12,0000-0001-9303-2797
+A5074474528,Michel Dupuis,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,电子结构与量子化学方法,79,47,0.747,0.473,71,11,0000-0003-4799-3364
+A5049712012,Viviana Monje-Galvan,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,分子动力学与统计力学,35,3,0.686,0.473,17,4,0000-0002-9202-782X
+A5049050864,Wenjun Zheng,I63190737,"University at Buffalo, State University of New York",Buffalo,New York,US,分子动力学与统计力学,50,7,0.9,0.42,33,3,0000-0002-6236-9765
+A5067616114,Fardin Khabaz,I110152177,University of Akron,Akron,Ohio,US,分子动力学与统计力学,24,3,0.522,0.319,23,6,0000-0002-6879-8587
+A5063010726,Gustavo A. Carri,I110152177,University of Akron,Akron,Ohio,US,分子动力学与统计力学,15,10,0.333,0.326,17,2,0000-0002-9320-6424
+A5015149744,J. Richard Elliott,I110152177,University of Akron,Akron,Ohio,US,分子动力学与统计力学,34,11,0.647,0.442,26,2,0000-0002-1159-4786
+A5001454717,Mesfin Tsige,I110152177,University of Akron,Akron,Ohio,US,分子动力学与统计力学,74,25,0.514,0.295,32,2,0000-0002-7540-2050
+A5041071414,Chongze Hu,I17301866,University of Alabama,Tuscaloosa,Alabama,US,分子动力学与统计力学,17,4,0.765,0.293,21,3,0000-0003-3881-1645
+A5009728884,Christoffer Heath Turner,I17301866,University of Alabama,Tuscaloosa,Alabama,US,分子动力学与统计力学,75,21,0.587,0.441,36,6,0000-0002-5707-9480
+A5089126712,David A. Dixon,I17301866,University of Alabama,Tuscaloosa,Alabama,US,电子结构与量子化学方法,295,208,0.538,0.325,97,21,0000-0002-9492-0056
+A5015943958,Jerome Y. Baudry,I82495205,University of Alabama in Huntsville,Huntsville,,US,分子动力学与统计力学,34,5,0.5,0.286,34,9,0000-0002-1969-1679
+A5002741412,Alex Brown,I154425047,University of Alberta,Edmonton,Alberta,CA,电子结构与量子化学方法,93,68,0.57,0.378,38,7,0000-0002-5384-9222
+A5004675177,Andriy Kovalenko,I154425047,University of Alberta,Edmonton,Alberta,CA,分子动力学与统计力学,105,59,0.867,0.443,50,7,0000-0001-5033-4314
+A5060232001,Gabriel Hanna,I154425047,University of Alberta,Edmonton,Alberta,CA,激发态、光谱与非绝热动力学,51,19,0.608,0.573,22,5,0000-0003-0554-8887
+A5055032206,Hassan Safouhi,I154425047,University of Alberta,Edmonton,Alberta,CA,电子结构与量子化学方法,35,34,0.529,0.425,19,0,0000-0002-6413-0854
+A5036678443,Mariusz Kłobukowski,I154425047,University of Alberta,Edmonton,Alberta,CA,电子结构与量子化学方法,68,62,0.779,0.618,35,6,0000-0001-9232-9900
+A5058757443,Phillip Choi,I154425047,University of Alberta,Edmonton,Alberta,CA,分子动力学与统计力学,17,6,0.875,0.296,21,0,
+A5051726412,Phillip Y. K. Choi,I154425047,University of Alberta,Edmonton,Alberta,CA,分子动力学与统计力学,42,10,0.857,0.29,31,0,0000-0002-6411-7967
+A5025240564,Tian Tang,I154425047,University of Alberta,Edmonton,Alberta,CA,分子动力学与统计力学,59,6,0.81,0.31,41,1,0000-0002-2387-3571
+A5078386378,Wolfgang Jäger,I154425047,University of Alberta,Edmonton,Alberta,CA,激发态、光谱与非绝热动力学,57,53,0.439,0.174,46,3,0000-0002-2841-2125
+A5042504954,Yunjie Xu,I154425047,University of Alberta,Edmonton,Alberta,CA,激发态、光谱与非绝热动力学,66,47,0.455,0.236,47,3,0000-0003-3736-3190
+A5021231690,Jean-Luc Brédas,I138006243,University of Arizona,Tucson,Arizona,US,计算材料与密度泛函,275,91,0.357,0.253,163,9,0000-0001-7278-4471
+A5089609314,Ludwik Adamowicz,I138006243,University of Arizona,Tucson,Arizona,US,电子结构与量子化学方法,260,197,0.788,0.54,62,5,0000-0001-9557-0484
+A5002233468,Paul Blowers,I138006243,University of Arizona,Tucson,Arizona,US,计算材料与密度泛函,28,15,0.964,0.262,27,1,0000-0003-3072-714X
+A5076633958,Stephen G. Kukolich,I138006243,University of Arizona,Tucson,Arizona,US,激发态、光谱与非绝热动力学,25,23,0.375,0.218,33,1,0000-0002-8229-8423
+A5079231031,Steven D. Schwartz,I138006243,University of Arizona,Tucson,Arizona,US,分子动力学与统计力学,79,20,0.57,0.436,39,0,0000-0002-0308-1059
+A5033663315,Feng Wang,I78715868,University of Arkansas at Fayetteville,Fayetteville,Arkansas,US,电子结构与量子化学方法,63,45,0.742,0.602,29,5,0000-0002-2740-3534
+A5071912456,Mahmoud Moradi,I78715868,University of Arkansas at Fayetteville,Fayetteville,Arkansas,US,分子动力学与统计力学,109,12,0.679,0.592,22,6,0000-0002-0601-402X
+A5060032085,Péter Pulay,I78715868,University of Arkansas at Fayetteville,Fayetteville,Arkansas,US,电子结构与量子化学方法,73,69,0.877,0.76,79,1,0000-0003-4410-4373
+A5000568663,Delano Pun Chong,I141945490,University of British Columbia,Vancouver,British Columbia,CA,电子结构与量子化学方法,66,55,0.894,0.805,38,1,
+A5029685120,Gino A. DiLabio,I141945490,University of British Columbia,Vancouver,British Columbia,CA,电子结构与量子化学方法,84,68,0.774,0.389,50,7,0000-0002-3778-3892
+A5020314323,Grenfell N. Patey,I141945490,University of British Columbia,Vancouver,British Columbia,CA,分子动力学与统计力学,74,52,0.486,0.655,60,1,0000-0002-2102-2642
+A5082632103,Jörg Rottler,I141945490,University of British Columbia,Vancouver,British Columbia,CA,分子动力学与统计力学,52,14,0.647,0.283,38,5,0000-0002-5273-7480
+A5036545875,Mark Thachuk,I141945490,University of British Columbia,Vancouver,British Columbia,CA,电子结构与量子化学方法,22,20,0.318,0.611,16,2,0000-0002-8398-1013
+A5087205640,Roman V. Krems,I141945490,University of British Columbia,Vancouver,British Columbia,CA,电子结构与量子化学方法,53,39,0.596,0.169,43,8,0000-0002-9918-211X
+A5056710816,Yan Alexander Wang,I141945490,University of British Columbia,Vancouver,British Columbia,CA,电子结构与量子化学方法,47,29,0.543,0.535,27,1,0000-0001-8616-5540
+A5017696854,D. Peter Tieleman,I168635309,University of Calgary,Calgary,Alberta,CA,分子动力学与统计力学,194,31,0.742,0.467,92,9,0000-0001-5507-0688
+A5080199946,Dennis Russell Salahub,I168635309,University of Calgary,Calgary,Alberta,CA,电子结构与量子化学方法,119,85,0.714,0.7,76,17,0000-0002-9848-3762
+A5034269087,Peter D. Tieleman,I168635309,University of Calgary,Calgary,Alberta,CA,分子动力学与统计力学,18,0,0.444,0.383,3,2,
+A5038669552,Peter G. Kusalik,I168635309,University of Calgary,Calgary,Alberta,CA,分子动力学与统计力学,67,29,0.507,0.615,52,5,0000-0001-6270-663X
+A5029235749,Sergei Yu. Noskov,I168635309,University of Calgary,Calgary,Alberta,CA,分子动力学与统计力学,93,23,0.516,0.366,46,10,0000-0001-7769-335X
+A5030903328,A. D. J. Haymet,I36258959,University of California San Diego,San Diego,California,US,分子动力学与统计力学,20,11,0.7,0.303,57,3,0000-0002-5617-2106
+A5034521455,Andrew C. Kummel,I36258959,University of California San Diego,San Diego,California,US,计算材料与密度泛函,65,38,0.406,0.172,47,2,0000-0001-8301-9855
+A5100374473,Bo Li,I36258959,University of California San Diego,San Diego,California,US,分子动力学与统计力学,23,17,0.609,0.371,20,3,0000-0002-9183-4654
+A5063875420,Francesco Paesani,I36258959,University of California San Diego,San Diego,California,US,电子结构与量子化学方法,181,100,0.598,0.581,65,29,0000-0002-4451-1203
+A5015837947,James Andrew McCammon,I36258959,University of California San Diego,San Diego,California,US,分子动力学与统计力学,296,93,0.697,0.385,134,29,0000-0003-3065-1456
+A5054454592,Joel Y. Yuen-Zhou,I36258959,University of California San Diego,San Diego,California,US,电子结构与量子化学方法,36,20,0.353,0.209,41,3,0000-0002-8701-8793
+A5111499572,John H. Weare,I36258959,University of California San Diego,San Diego,California,US,电子结构与量子化学方法,26,18,0.808,0.605,43,3,
+A5049982297,Michael K. Gilson,I36258959,University of California San Diego,San Diego,California,US,分子动力学与统计力学,96,70,0.691,0.329,84,13,0000-0002-3375-1738
+A5081468273,Rommie E. Amaro,I36258959,University of California San Diego,San Diego,California,US,分子动力学与统计力学,105,19,0.667,0.264,61,20,0000-0002-9275-9553
+A5112785999,Ross C. Walker,I36258959,University of California San Diego,San Diego,California,US,分子动力学与统计力学,57,29,0.789,0.491,47,19,
+A5002723657,Shyue Ping Ong,I36258959,University of California San Diego,San Diego,California,US,机器学习与数据驱动化学,105,13,0.629,0.266,96,16,0000-0001-5726-2587
+A5049020441,Aditi S. Krishnapriyan,I95457486,"University of California, Berkeley",Berkeley,California,US,机器学习与数据驱动化学,26,2,0.615,0.351,20,8,0000-0003-3472-6080
+A5075317126,Berend Smit,I95457486,"University of California, Berkeley",Berkeley,California,US,分子动力学与统计力学,94,31,0.532,0.126,122,11,0000-0003-4653-8562
+A5042914409,Bingqing Cheng,I95457486,"University of California, Berkeley",Berkeley,California,US,机器学习与数据驱动化学,18,9,0.611,0.281,27,3,0000-0002-3584-9632
+A5041503459,Eran Rabani,I95457486,"University of California, Berkeley",Berkeley,California,US,电子结构与量子化学方法,73,62,0.583,0.291,54,22,0000-0003-2031-3525
+A5006578267,Eric Neuscamman,I95457486,"University of California, Berkeley",Berkeley,California,US,电子结构与量子化学方法,62,60,0.902,0.678,28,8,0000-0002-4760-8238
+A5014983956,Gerbrand Ceder,I95457486,"University of California, Berkeley",Berkeley,California,US,机器学习与数据驱动化学,189,36,0.511,0.194,161,15,0000-0001-9275-3605
+A5000868233,Jeffrey B. Neaton,I95457486,"University of California, Berkeley",Berkeley,California,US,计算材料与密度泛函,169,75,0.601,0.234,101,26,0000-0001-7585-6135
+A5019265176,K. Birgitta Whaley,I95457486,"University of California, Berkeley",Berkeley,California,US,电子结构与量子化学方法,70,44,0.257,0.184,70,14,0000-0002-7164-4757
+A5037535334,Kristin Aslaug Persson,I95457486,"University of California, Berkeley",Berkeley,California,US,机器学习与数据驱动化学,214,37,0.529,0.302,123,28,0000-0003-2495-5509
+A5107195431,Lin Lin,I95457486,"University of California, Berkeley",Berkeley,California,US,电子结构与量子化学方法,74,67,0.73,0.273,52,18,0000-0001-6860-9566
+A5036265708,Mark Asta,I95457486,"University of California, Berkeley",Berkeley,California,US,分子动力学与统计力学,171,25,0.716,0.335,97,21,0000-0002-8968-321X
+A5015311244,Martin Head-Gordon,I95457486,"University of California, Berkeley",Berkeley,California,US,电子结构与量子化学方法,504,423,0.715,0.595,133,74,0000-0002-4309-6669
+A5068578690,Marvin L. Cohen,I95457486,"University of California, Berkeley",Berkeley,California,US,计算材料与密度泛函,80,33,0.405,0.173,156,11,0000-0002-1489-9227
+A5030567048,Phillip L. Geissler,I95457486,"University of California, Berkeley",Berkeley,California,US,激发态、光谱与非绝热动力学,70,31,0.304,0.373,54,8,0000-0003-0268-6547
+A5057808947,Rui Wang,I95457486,"University of California, Berkeley",Berkeley,California,US,分子动力学与统计力学,16,7,0.25,0.308,18,0,0000-0002-4058-9521
+A5045377460,Steven G. Louie,I95457486,"University of California, Berkeley",Berkeley,California,US,电子结构与量子化学方法,162,100,0.503,0.18,164,21,0000-0003-0622-0170
+A5056814590,Teresa L. Head-Gordon,I95457486,"University of California, Berkeley",Berkeley,California,US,电子结构与量子化学方法,174,92,0.509,0.566,71,34,0000-0003-0025-8987
+A5103483505,William A. Lester,I95457486,"University of California, Berkeley",Berkeley,California,US,电子结构与量子化学方法,60,54,0.75,0.583,44,8,
+A5022709501,Alexei A. Stuchebrukhov,I84218800,"University of California, Davis",Davis,California,US,分子动力学与统计力学,43,25,0.512,0.336,42,2,0000-0002-0673-1037
+A5042039275,Ambarish R. Kulkarni,I84218800,"University of California, Davis",Davis,California,US,计算材料与密度泛函,31,4,0.742,0.32,33,3,0000-0001-9834-8264
+A5042024105,C. Y. Ng,I84218800,"University of California, Davis",Davis,California,US,电子结构与量子化学方法,84,82,0.361,0.413,52,4,0000-0003-4425-5307
+A5014039622,Davide Donadio,I84218800,"University of California, Davis",Davis,California,US,分子动力学与统计力学,76,25,0.618,0.259,57,8,0000-0002-2150-4182
+A5079094106,Dean Joseph Tantillo,I84218800,"University of California, Davis",Davis,California,US,计算材料与密度泛函,87,30,0.465,0.107,62,3,0000-0002-2992-8844
+A5031310158,Igor V. Vorobyov,I84218800,"University of California, Davis",Davis,California,US,分子动力学与统计力学,55,10,0.6,0.327,33,8,0000-0002-4767-5297
+A5016265600,Yong Duan,I84218800,"University of California, Davis",Davis,California,US,分子动力学与统计力学,77,39,0.701,0.3,46,8,0000-0003-3793-5099
+A5054153033,Craig C. Martens,I204250578,"University of California, Irvine",Irvine,California,US,激发态、光谱与非绝热动力学,36,24,0.722,0.571,32,2,0000-0002-2350-4346
+A5007496868,David L. Mobley,I204250578,"University of California, Irvine",Irvine,California,US,分子动力学与统计力学,124,90,0.697,0.318,63,20,0000-0002-1083-5533
+A5054892499,Douglas J. Tobias,I204250578,"University of California, Irvine",Irvine,California,US,分子动力学与统计力学,160,23,0.613,0.569,73,15,0000-0002-6971-9828
+A5048985003,Filipp Furche,I204250578,"University of California, Irvine",Irvine,California,US,电子结构与量子化学方法,72,56,0.718,0.128,67,8,0000-0001-8520-3971
+A5085371660,Ioan Andricioaei,I204250578,"University of California, Irvine",Irvine,California,US,分子动力学与统计力学,78,22,0.603,0.591,33,10,0000-0002-6655-0721
+A5023469360,Jason M. Yu,I204250578,"University of California, Irvine",Irvine,California,US,电子结构与量子化学方法,12,11,0.833,0.353,14,8,0000-0002-2270-6798
+A5051354232,Kenneth C. Janda,I204250578,"University of California, Irvine",Irvine,California,US,激发态、光谱与非绝热动力学,36,28,0.472,0.655,48,2,
+A5037708910,Kieron Burke,I204250578,"University of California, Irvine",Irvine,California,US,电子结构与量子化学方法,202,181,0.806,0.552,78,32,0000-0002-6159-0054
+A5032088629,Ray Luo,I204250578,"University of California, Irvine",Irvine,California,US,分子动力学与统计力学,104,70,0.709,0.534,49,18,0000-0002-6346-8271
+A5083649334,Robert Benny Gerber,I204250578,"University of California, Irvine",Irvine,California,US,激发态、光谱与非绝热动力学,138,83,0.533,0.576,61,12,0000-0001-8468-0258
+A5085637107,Shaul Mukamel,I204250578,"University of California, Irvine",Irvine,California,US,激发态、光谱与非绝热动力学,365,164,0.375,0.422,107,16,0000-0002-6015-3135
+A5046358965,Steven R. White,I204250578,"University of California, Irvine",Irvine,California,US,电子结构与量子化学方法,24,21,0.708,0.123,85,6,0000-0003-3496-0707
+A5043924542,Vladimir A. Mandelshtam,I204250578,"University of California, Irvine",Irvine,California,US,电子结构与量子化学方法,40,31,0.538,0.464,40,6,0000-0001-6395-1397
+A5091345754,Amartya Banerjee,I161318765,"University of California, Los Angeles",Los Angeles,California,US,电子结构与量子化学方法,16,12,0.75,0.271,14,2,0000-0001-5916-9167
+A5044054259,Benjamin J. Schwartz,I161318765,"University of California, Los Angeles",Los Angeles,California,US,激发态、光谱与非绝热动力学,90,54,0.614,0.313,65,2,0000-0003-3257-9152
+A5064071670,Daniel Neuhauser,I161318765,"University of California, Los Angeles",Los Angeles,California,US,电子结构与量子化学方法,106,96,0.651,0.627,54,15,0000-0003-3160-386X
+A5076174797,Howard Reiss,I161318765,"University of California, Los Angeles",Los Angeles,California,US,电子结构与量子化学方法,20,16,0.5,0.36,64,1,0000-0003-1023-1462
+A5042178740,Kendall N. Houk,I161318765,"University of California, Los Angeles",Los Angeles,California,US,计算材料与密度泛函,261,71,0.465,0.107,162,17,0000-0002-8387-5261
+A5032462770,Mathieu Bauchy,I161318765,"University of California, Los Angeles",Los Angeles,California,US,分子动力学与统计力学,85,22,0.682,0.244,61,3,0000-0003-4600-0631
+A5006516741,Ashlie Martini,I156087764,"University of California, Merced",Merced,,US,分子动力学与统计力学,109,11,0.509,0.329,52,8,0000-0003-2017-6081
+A5008349631,Aurora Pribram−Jones,I156087764,"University of California, Merced",Merced,,US,电子结构与量子化学方法,28,25,0.893,0.56,14,5,0000-0003-0244-1814
+A5009969515,Christine M. Isborn,I156087764,"University of California, Merced",Merced,,US,电子结构与量子化学方法,72,48,0.69,0.612,38,18,0000-0002-4905-9113
+A5075873771,David A. Strubbe,I156087764,"University of California, Merced",Merced,,US,电子结构与量子化学方法,35,26,0.657,0.181,17,11,0000-0003-2426-5532
+A5060594038,Michael E. Colvin,I156087764,"University of California, Merced",Merced,,US,分子动力学与统计力学,37,6,0.486,0.259,37,5,0000-0002-6581-4764
+A5022569738,Bryan M. Wong,I103635307,"University of California, Riverside",Riverside,California,US,电子结构与量子化学方法,115,68,0.626,0.309,62,8,0000-0002-3477-8043
+A5032380209,Chia-en A. Chang,I103635307,"University of California, Riverside",Riverside,California,US,分子动力学与统计力学,48,14,0.604,0.314,36,7,0000-0002-6504-8529
+A5040293891,Gregory J. O. Beran,I103635307,"University of California, Riverside",Riverside,California,US,电子结构与量子化学方法,93,68,0.848,0.462,42,11,0000-0002-2229-2580
+A5088942752,Jianzhong Wu,I103635307,"University of California, Riverside",Riverside,California,US,计算材料与密度泛函,152,80,0.693,0.412,68,6,0000-0002-4582-5941
+A5002727198,Bernard Kirtman,I154570441,"University of California, Santa Barbara",Santa Barbara,California,US,电子结构与量子化学方法,113,108,0.705,0.679,59,2,0000-0002-8284-0315
+A5002203805,Chris G. Van de Walle,I154570441,"University of California, Santa Barbara",Santa Barbara,California,US,计算材料与密度泛函,122,30,0.421,0.174,130,4,0000-0002-4212-5990
+A5041552434,Frank L. H. Brown,I154570441,"University of California, Santa Barbara",Santa Barbara,California,US,分子动力学与统计力学,42,29,0.341,0.436,38,2,0000-0002-4335-4947
+A5067839341,Glenn H. Fredrickson,I154570441,"University of California, Santa Barbara",Santa Barbara,California,US,电子结构与量子化学方法,77,60,0.763,0.142,94,6,0000-0002-6716-9017
+A5021640058,Linda Ruth Petzold,I154570441,"University of California, Santa Barbara",Santa Barbara,California,US,电子结构与量子化学方法,28,26,0.714,0.1,70,0,0000-0001-6251-6078
+A5018615228,M. Scott Shell,I154570441,"University of California, Santa Barbara",Santa Barbara,California,US,分子动力学与统计力学,74,42,0.603,0.172,43,12,0000-0002-0439-1534
+A5048779376,Mattanjah S. de Vries,I154570441,"University of California, Santa Barbara",Santa Barbara,California,US,激发态、光谱与非绝热动力学,34,15,0.353,0.354,48,3,0000-0001-5007-8074
+A5077096576,Vojtěch Vlček,I154570441,"University of California, Santa Barbara",Santa Barbara,California,US,电子结构与量子化学方法,25,23,0.48,0.258,22,16,0000-0002-2836-7619
+A5026408688,Ilan Benjamin,I185103710,"University of California, Santa Cruz",Santa Cruz,California,US,激发态、光谱与非绝热动力学,74,24,0.378,0.679,43,1,0000-0003-0056-4925
+A5018921059,Abdelkader Kara,I106165777,University of Central Florida,Orlando,Florida,US,计算材料与密度泛函,81,20,0.407,0.302,44,1,0000-0003-1445-1315
+A5049536483,Aniket Bhattacharya,I106165777,University of Central Florida,Orlando,Florida,US,分子动力学与统计力学,31,16,0.29,0.272,25,0,0000-0002-4370-0037
+A5077670633,Artëm E. Masunov,I106165777,University of Central Florida,Orlando,Florida,US,电子结构与量子化学方法,88,47,0.713,0.367,46,1,0000-0003-4924-3380
+A5059934837,Patrick K. Schelling,I106165777,University of Central Florida,Orlando,Florida,US,分子动力学与统计力学,33,7,0.788,0.418,27,3,0000-0002-5314-2833
+A5023756211,Robert R. Lucchese,I106165777,University of Central Florida,Orlando,Florida,US,电子结构与量子化学方法,93,84,0.278,0.25,51,1,0000-0002-7200-3775
+A5020848176,Talat Shahnaz Rahman,I106165777,University of Central Florida,Orlando,Florida,US,计算材料与密度泛函,124,30,0.363,0.24,55,5,0000-0003-3889-7776
+A5075498364,Aaron R. Dinner,I40347166,University of Chicago,Chicago,Illinois,US,分子动力学与统计力学,53,39,0.49,0.17,57,16,0000-0001-8328-6427
+A5102778212,Benoît Roux,I40347166,University of Chicago,Chicago,Illinois,US,分子动力学与统计力学,324,122,0.674,0.494,126,39,0000-0002-5254-2712
+A5109428020,Chengze Yang,I40347166,University of Chicago,Chicago,Illinois,US,电子结构与量子化学方法,15,14,1.0,0.517,6,0,0009-0008-1503-3127
+A5052995521,David A. Mazziotti,I40347166,University of Chicago,Chicago,Illinois,US,电子结构与量子化学方法,187,178,0.642,0.603,51,13,0000-0002-9938-3886
+A5060038535,Esmael J. Haddadian,I40347166,University of Chicago,Chicago,Illinois,US,分子动力学与统计力学,35,1,0.657,0.593,14,1,0000-0002-1147-4426
+A5058293814,Giulia Galli,I40347166,University of Chicago,Chicago,Illinois,US,电子结构与量子化学方法,216,137,0.637,0.322,96,26,0000-0002-8001-5290
+A5088327041,Gregory A. Voth,I40347166,University of Chicago,Chicago,Illinois,US,分子动力学与统计力学,424,207,0.654,0.553,114,37,0000-0002-3267-6748
+A5052757593,Karl F. Freed,I40347166,University of Chicago,Chicago,Illinois,US,分子动力学与统计力学,145,104,0.715,0.585,82,5,0000-0001-6240-2599
+A5062631568,Laura Gagliardi,I40347166,University of Chicago,Chicago,Illinois,US,电子结构与量子化学方法,287,199,0.722,0.296,100,37,0000-0001-5227-1396
+A5009904434,S. J. Sibener,I40347166,University of Chicago,Chicago,Illinois,US,分子动力学与统计力学,49,24,0.327,0.265,45,8,0000-0002-5298-5484
+A5024301711,Yi Biao Sun,I40347166,University of Chicago,Chicago,Illinois,US,电子结构与量子化学方法,12,11,0.833,0.375,4,0,0000-0002-9789-4498
+A5102937657,George Stan,I63135867,University of Cincinnati,Cincinnati,Ohio,US,分子动力学与统计力学,22,4,0.545,0.319,19,2,0000-0003-1880-4173
+A5071172787,Mohammad Sadegh Avestan,I63135867,University of Cincinnati,Cincinnati,Ohio,US,分子动力学与统计力学,11,2,0.636,0.688,8,1,0000-0002-3507-8364
+A5016930081,Thomas L. Beck,I63135867,University of Cincinnati,Cincinnati,Ohio,US,电子结构与量子化学方法,44,36,0.591,0.393,35,7,0000-0001-8973-7145
+A5101556511,Woo Kyun Kim,I63135867,University of Cincinnati,Cincinnati,Ohio,US,分子动力学与统计力学,27,5,0.778,0.628,12,2,0000-0002-1591-701X
+A5007886751,Alex Zunger,I188538660,University of Colorado Boulder,Boulder,Colorado,US,机器学习与数据驱动化学,69,23,0.551,0.112,147,6,0000-0001-5525-3003
+A5054378080,Andrés Montoya−Castillo,I188538660,University of Colorado Boulder,Boulder,Colorado,US,激发态、光谱与非绝热动力学,35,25,0.571,0.422,18,7,0000-0003-3037-3695
+A5080422594,G. Barney Ellison,I188538660,University of Colorado Boulder,Boulder,Colorado,US,电子结构与量子化学方法,23,23,0.261,0.219,54,8,0000-0003-3107-1613
+A5064535564,Hendrik Heinz,I188538660,University of Colorado Boulder,Boulder,Colorado,US,分子动力学与统计力学,61,22,0.557,0.227,62,5,0000-0002-6776-7404
+A5000113075,James T. Hynes,I188538660,University of Colorado Boulder,Boulder,Colorado,US,激发态、光谱与非绝热动力学,89,22,0.326,0.454,93,5,0000-0003-2683-0304
+A5070425009,Josef Michl,I188538660,University of Colorado Boulder,Boulder,Colorado,US,电子结构与量子化学方法,58,39,0.466,0.126,84,3,0000-0002-4707-8230
+A5080360440,Michael R. Shirts,I188538660,University of Colorado Boulder,Boulder,Colorado,US,分子动力学与统计力学,97,71,0.698,0.43,51,11,0000-0003-3249-1097
+A5046342814,Rex T. Skodje,I188538660,University of Colorado Boulder,Boulder,Colorado,US,电子结构与量子化学方法,47,35,0.391,0.554,45,3,0000-0003-1601-5189
+A5033882381,Timothy K. Minton,I188538660,University of Colorado Boulder,Boulder,Colorado,US,电子结构与量子化学方法,49,34,0.479,0.251,50,6,0000-0003-4577-7879
+A5065919537,Hai Lin,I921990950,University of Colorado Denver,Denver,,US,电子结构与量子化学方法,54,39,0.66,0.434,32,5,0000-0002-3525-9122
+A5077667571,José A. Gascón,I140172145,University of Connecticut,Storrs,Connecticut,US,分子动力学与统计力学,47,17,0.404,0.367,31,1,0000-0002-4176-9030
+A5085012750,Qian Yang,I140172145,University of Connecticut,Storrs,Connecticut,US,机器学习与数据驱动化学,12,2,0.833,0.3,9,5,0000-0001-5519-1092
+A5013532569,Alexei A. Kananenka,I86501945,University of Delaware,Newark,Delaware,US,激发态、光谱与非绝热动力学,33,17,0.515,0.623,20,8,0000-0001-9422-7203
+A5008345084,Arthi Jayaraman,I86501945,University of Delaware,Newark,Delaware,US,分子动力学与统计力学,77,19,0.779,0.321,39,11,0000-0002-5295-4581
+A5066110304,Dionisios G. Vlachos,I86501945,University of Delaware,Newark,Delaware,US,计算材料与密度泛函,151,42,0.603,0.193,113,5,0000-0002-6795-8403
+A5049584163,Edward R. Lyman,I86501945,University of Delaware,Newark,Delaware,US,分子动力学与统计力学,39,9,0.487,0.269,32,8,0000-0003-4590-0363
+A5056514842,Jodi A. Hadden-Perilla,I86501945,University of Delaware,Newark,Delaware,US,分子动力学与统计力学,21,0,0.619,0.259,18,1,0000-0003-4685-8291
+A5089406511,Juan R. Perilla,I86501945,University of Delaware,Newark,Delaware,US,分子动力学与统计力学,49,3,0.612,0.366,32,4,0000-0003-1171-6816
+A5053900475,Krzysztof Szalewicz,I86501945,University of Delaware,Newark,Delaware,US,电子结构与量子化学方法,149,142,0.755,0.693,80,17,0000-0002-2947-4694
+A5048973716,Adrián E. Roitberg,I33213144,University of Florida,Gainesville,Florida,US,分子动力学与统计力学,138,72,0.645,0.548,67,27,0000-0003-3963-8784
+A5063704705,Alberto Pérez,I33213144,University of Florida,Gainesville,Florida,US,分子动力学与统计力学,49,16,0.646,0.306,43,7,0000-0002-5054-5338
+A5059420993,Coray M. Colina,I33213144,University of Florida,Gainesville,Florida,US,分子动力学与统计力学,50,16,0.7,0.385,39,7,0000-0003-2367-1352
+A5036764900,David A. Micha,I33213144,University of Florida,Gainesville,Florida,US,电子结构与量子化学方法,73,57,0.315,0.702,33,3,0000-0003-4479-5370
+A5014909385,Janani Sampath,I33213144,University of Florida,Gainesville,Florida,US,分子动力学与统计力学,24,5,0.833,0.522,16,6,0000-0001-6005-9096
+A5100681146,Mingjie Liu,I33213144,University of Florida,Gainesville,Florida,US,机器学习与数据驱动化学,30,7,0.533,0.323,27,9,0000-0002-5341-4448
+A5032670273,Paul W. Ayers,I33213144,University of Florida,Gainesville,Florida,US,电子结构与量子化学方法,380,363,0.583,0.758,78,16,0000-0003-2605-3883
+A5043599635,Richard G. Hennig,I33213144,University of Florida,Gainesville,Florida,US,机器学习与数据驱动化学,129,34,0.648,0.349,66,22,0000-0003-4933-7686
+A5045664755,Robert Lynn Coldwell,I33213144,University of Florida,Gainesville,Florida,US,电子结构与量子化学方法,23,22,0.773,0.229,32,0,
+A5088187289,Rodney J. Bartlett,I33213144,University of Florida,Gainesville,Florida,US,电子结构与量子化学方法,272,262,0.858,0.759,119,20,0000-0003-3865-9639
+A5000930582,Samuel B. Trickey,I33213144,University of Florida,Gainesville,Florida,US,电子结构与量子化学方法,109,100,0.752,0.592,46,8,0000-0001-9224-6304
+A5023818754,Simon R. Phillpot,I33213144,University of Florida,Gainesville,Florida,US,分子动力学与统计力学,150,19,0.76,0.412,81,15,0000-0002-7774-6535
+A5016895041,Youping Chen,I33213144,University of Florida,Gainesville,Florida,US,分子动力学与统计力学,48,5,0.688,0.397,37,4,0000-0002-9626-9009
+A5060135475,Douglas E. Spearot,I2800717037,University of Florida Health,Gainesville,Florida,US,分子动力学与统计力学,45,0,0.756,0.326,33,3,0000-0003-1875-6036
+A5033633287,Henry F. Schaefer,I165733156,University of Georgia,Athens,Georgia,US,电子结构与量子化学方法,592,470,0.336,0.538,130,48,0000-0003-0252-2083
+A5065742191,Phillip C. Stancil,I165733156,University of Georgia,Athens,Georgia,US,电子结构与量子化学方法,43,37,0.415,0.115,38,7,0000-0003-4661-6735
+A5077383248,Robert Bruce King,I165733156,University of Georgia,Athens,Georgia,US,计算材料与密度泛函,185,51,0.281,0.29,72,2,0000-0001-9177-5220
+A5076283101,Christophe J. Chipot,I117965899,University of Hawaiʻi at Mānoa,Honolulu,Hawaii,US,分子动力学与统计力学,132,60,0.573,0.321,68,14,0000-0002-9122-1698
+A5085005476,Ralf I. Kaiser,I117965899,University of Hawaiʻi at Mānoa,Honolulu,Hawaii,US,电子结构与量子化学方法,118,98,0.385,0.158,70,8,0000-0002-7233-7206
+A5005845215,Rui Sun,I117965899,University of Hawaiʻi at Mānoa,Honolulu,Hawaii,US,电子结构与量子化学方法,52,35,0.549,0.372,23,13,0000-0003-0638-1353
+A5059402471,Eric R. Bittner,I44461941,University of Houston,Houston,,US,激发态、光谱与非绝热动力学,74,49,0.333,0.33,34,2,0000-0002-0775-9664
+A5027222200,Frederick Marty Ytreberg,I155093810,University of Idaho,Moscow,,US,分子动力学与统计力学,30,14,0.862,0.266,22,3,0000-0001-7439-8224
+A5022725756,Ao Ma,I39422238,University of Illinois Chicago,Chicago,Illinois,US,分子动力学与统计力学,25,21,0.48,0.455,21,2,0000-0002-9872-7333
+A5038508476,Cameron F. Abrams,I39422238,University of Illinois Chicago,Chicago,Illinois,US,分子动力学与统计力学,68,21,0.721,0.384,35,3,0000-0002-1240-0816
+A5003390039,Fatemeh Khalili-Araghi,I39422238,University of Illinois Chicago,Chicago,Illinois,US,分子动力学与统计力学,23,1,0.696,0.359,20,4,0000-0002-0756-5560
+A5046197938,Huan-Xiang Zhou,I39422238,University of Illinois Chicago,Chicago,Illinois,US,分子动力学与统计力学,104,30,0.558,0.237,75,7,0000-0001-9020-0302
+A5037024512,Santanu Chaudhuri,I39422238,University of Illinois Chicago,Chicago,Illinois,US,分子动力学与统计力学,52,7,0.827,0.371,27,4,0000-0002-4328-2947
+A5032401397,Sara Kadkhodaei,I39422238,University of Illinois Chicago,Chicago,Illinois,US,机器学习与数据驱动化学,12,2,0.833,0.462,14,2,0000-0003-4263-3191
+A5076175038,Aleksei Aksimentiev,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,分子动力学与统计力学,116,7,0.426,0.359,75,10,0000-0002-6042-8442
+A5086627523,André Schleife,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,电子结构与量子化学方法,43,23,0.605,0.144,43,5,0000-0003-0496-8214
+A5004021471,Antonia Statt,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,分子动力学与统计力学,25,10,0.667,0.308,18,4,0000-0002-6120-5072
+A5003451698,Baron Peters,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,反应动力学与速率理论,70,57,0.536,0.342,48,9,0000-0003-1935-6085
+A5011485947,David M. Ceperley,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,电子结构与量子化学方法,73,59,0.764,0.234,85,15,0000-0001-5082-6271
+A5053940473,Diwakar Shukla,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,分子动力学与统计力学,64,8,0.422,0.264,43,6,0000-0003-4079-5381
+A5087810793,Emad Tajkhorshid,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,分子动力学与统计力学,267,23,0.423,0.376,86,31,0000-0001-8434-1010
+A5062408256,Eric Jakobsson,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,分子动力学与统计力学,37,11,0.703,0.27,38,4,0000-0002-7892-5295
+A5072496984,James M. Lisy,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,激发态、光谱与非绝热动力学,53,22,0.302,0.482,42,3,0000-0002-9894-9163
+A5011336390,Josh V. Vermaas,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,分子动力学与统计力学,49,3,0.592,0.308,32,11,0000-0003-3139-6469
+A5045572539,Kenneth S. Schweizer,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,分子动力学与统计力学,113,79,0.455,0.299,79,10,0000-0003-1275-3790
+A5083579335,Lucas K. Wagner,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,电子结构与量子化学方法,55,46,0.852,0.251,32,17,0000-0002-3755-044X
+A5009810193,Martin Gruebele,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,分子动力学与统计力学,105,24,0.305,0.19,69,11,0000-0001-9291-8123
+A5065219049,Nancy Makri,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,激发态、光谱与非绝热动力学,86,60,0.477,0.619,55,14,0000-0002-3310-7328
+A5024672065,Nicholas E. Jackson,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,机器学习与数据驱动化学,68,26,0.515,0.553,35,14,0000-0002-1470-1903
+A5041373282,So Hirata,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,电子结构与量子化学方法,176,162,0.797,0.882,58,28,0000-0002-9578-1502
+A5063950942,Subramanian K. R. S. Sankaranarayanan,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,机器学习与数据驱动化学,137,19,0.537,0.36,53,11,0000-0002-9708-396X
+A5067468644,Taras V. Pogorelov,I157725225,University of Illinois Urbana-Champaign,Urbana,Illinois,US,分子动力学与统计力学,32,0,0.531,0.34,23,6,0000-0001-5851-7721
+A5004422743,Adrian H. Elcock,I126307644,University of Iowa,Iowa City,Iowa,US,分子动力学与统计力学,39,18,0.868,0.306,44,0,0000-0003-2820-1376
+A5075534538,Claudio Javier Margulis,I126307644,University of Iowa,Iowa City,Iowa,US,分子动力学与统计力学,50,22,0.36,0.357,41,8,0000-0003-1671-9784
+A5045540729,Sara Elizabeth Mason,I126307644,University of Iowa,Iowa City,Iowa,US,计算材料与密度泛函,52,14,0.808,0.327,28,5,0000-0003-1515-6780
+A5050379603,Brian B. Laird,I146416000,University of Kansas,Lawrence,Kansas,US,分子动力学与统计力学,62,40,0.672,0.504,44,6,0000-0003-1859-732X
+A5069970299,Krzysztof Kuczera,I146416000,University of Kansas,Lawrence,Kansas,US,分子动力学与统计力学,75,6,0.72,0.586,33,14,0000-0003-2358-1349
+A5073668898,Marco Caricato,I146416000,University of Kansas,Lawrence,Kansas,US,电子结构与量子化学方法,77,65,0.701,0.527,36,7,0000-0001-7830-0562
+A5050040176,Ward H. Thompson,I146416000,University of Kansas,Lawrence,Kansas,US,激发态、光谱与非绝热动力学,97,57,0.536,0.584,37,6,0000-0002-3636-6448
+A5100676088,Chang-Guo Zhan,I143302722,University of Kentucky,Lexington,Kentucky,US,分子动力学与统计力学,83,37,0.817,0.195,61,7,0000-0002-4128-7269
+A5069728983,Qing Shao,I143302722,University of Kentucky,Lexington,Kentucky,US,分子动力学与统计力学,39,5,0.615,0.331,36,3,0000-0001-9433-1131
+A5021590110,Caroline Chick Jarrold,I142740786,University of Louisville,Louisville,Kentucky,US,电子结构与量子化学方法,69,65,0.29,0.535,29,8,0000-0001-9725-4581
+A5082427922,Hrant P. Hratchian,I142740786,University of Louisville,Louisville,Kentucky,US,电子结构与量子化学方法,61,51,0.733,0.5,28,11,0000-0003-1436-5257
+A5006135562,Lee M. Thompson,I142740786,University of Louisville,Louisville,Kentucky,US,电子结构与量子化学方法,26,23,0.731,0.5,13,3,0000-0003-1485-5934
+A5048056000,Madhu Menon,I142740786,University of Louisville,Louisville,Kentucky,US,分子动力学与统计力学,80,30,0.362,0.381,52,3,0000-0002-8283-138X
+A5028886408,Ming Yu,I142740786,University of Louisville,Louisville,Kentucky,US,电子结构与量子化学方法,21,9,0.571,0.269,19,1,0000-0002-4041-5177
+A5078131690,Pawel Michal Kozlowski,I142740786,University of Louisville,Louisville,Kentucky,US,计算材料与密度泛函,69,26,0.594,0.421,45,5,0000-0002-4090-8078
+A5055560548,Vance W. Jaeger,I142740786,University of Louisville,Louisville,Kentucky,US,分子动力学与统计力学,10,0,0.8,0.357,11,1,0000-0003-2294-4451
+A5054769976,Jayendran C. Rasaiah,I7947594,University of Maine,Orono,,US,分子动力学与统计力学,28,16,0.607,0.509,41,1,0000-0002-4453-7438
+A5076218164,Georg Schreckenbach,I46247651,University of Manitoba,Winnipeg,Manitoba,CA,计算材料与密度泛函,77,31,0.75,0.342,46,6,0000-0002-4614-0901
+A5013626426,Joshua W. Hollett,I46247651,University of Manitoba,Winnipeg,Manitoba,CA,电子结构与量子化学方法,18,15,0.5,0.439,13,1,0000-0002-5998-4732
+A5088061355,Katie R. Mitchell-Koch,I46247651,University of Manitoba,Winnipeg,Manitoba,CA,分子动力学与统计力学,17,2,0.294,0.27,18,1,0000-0002-9173-3677
+A5056944006,Alexander D. MacKerell,I126744593,"University of Maryland, Baltimore",Baltimore,Maryland,US,分子动力学与统计力学,275,146,0.571,0.387,109,31,0000-0001-8287-6804
+A5103575399,Jana K. Shen,I126744593,"University of Maryland, Baltimore",Baltimore,Maryland,US,分子动力学与统计力学,22,6,0.773,0.733,17,0,0000-0002-3234-0769
+A5084434392,Jana Shen,I126744593,"University of Maryland, Baltimore",Baltimore,Maryland,US,分子动力学与统计力学,46,11,0.565,0.469,32,12,0000-0002-3234-0769
+A5070740163,Pratyush Tiwary,I126744593,"University of Maryland, Baltimore",Baltimore,Maryland,US,分子动力学与统计力学,91,50,0.582,0.555,39,25,0000-0002-2412-6922
+A5030186105,Joel Fredric Liebman,I79272384,"University of Maryland, Baltimore County",Baltimore,,US,电子结构与量子化学方法,67,46,0.597,0.175,49,4,0000-0002-6109-7753
+A5053081104,Joseph W. Bennett,I79272384,"University of Maryland, Baltimore County",Baltimore,,US,计算材料与密度泛函,41,9,0.659,0.451,26,5,0000-0002-7971-4772
+A5049807318,Jeffery B. Klauda,I66946132,"University of Maryland, College Park",College Park,Maryland,US,分子动力学与统计力学,152,32,0.684,0.517,56,16,0000-0001-8725-1870
+A5038095132,John D. Weeks,I66946132,"University of Maryland, College Park",College Park,Maryland,US,反应动力学与速率理论,36,27,0.667,0.522,49,5,0000-0003-3764-3715
+A5064571267,Millard H. Alexander,I66946132,"University of Maryland, College Park",College Park,Maryland,US,电子结构与量子化学方法,110,107,0.56,0.747,59,5,0000-0002-4348-5111
+A5057459575,Silvina Matysiak,I66946132,"University of Maryland, College Park",College Park,Maryland,US,分子动力学与统计力学,36,6,0.361,0.313,22,4,0000-0003-3824-9787
+A5022663242,Bret Jackson,I24603500,University of Massachusetts Amherst,Amherst Center,Massachusetts,US,电子结构与量子化学方法,55,48,0.327,0.524,49,0,0000-0002-7127-1735
+A5032839759,Jianhan Chen,I24603500,University of Massachusetts Amherst,Amherst Center,Massachusetts,US,分子动力学与统计力学,66,20,0.515,0.365,40,9,0000-0002-5281-1150
+A5047715090,Murugappan Muthukumar,I24603500,University of Massachusetts Amherst,Amherst Center,Massachusetts,US,电子结构与量子化学方法,93,64,0.355,0.277,80,1,0000-0001-7872-4883
+A5091777449,Peter A. Monson,I24603500,University of Massachusetts Amherst,Amherst Center,Massachusetts,US,分子动力学与统计力学,47,22,0.889,0.378,51,1,0000-0002-7458-3443
+A5075368706,Scott M. Auerbach,I24603500,University of Massachusetts Amherst,Amherst Center,Massachusetts,US,分子动力学与统计力学,51,15,0.843,0.375,42,2,0000-0001-8598-3082
+A5100351945,Zhou Lin,I24603500,University of Massachusetts Amherst,Amherst Center,Massachusetts,US,电子结构与量子化学方法,29,18,0.586,0.362,20,6,0000-0003-3271-5345
+A5048862619,Jérôme Delhommelle,I133738476,University of Massachusetts Lowell,Lowell,Massachusetts,US,分子动力学与统计力学,78,45,0.641,0.419,35,1,0000-0002-6498-6927
+A5004298380,Stephen Lam,I133738476,University of Massachusetts Lowell,Lowell,Massachusetts,US,机器学习与数据驱动化学,32,5,0.812,0.525,16,5,0000-0002-7683-1201
+A5091402963,Mohamed Laradji,I94658018,University of Memphis,Memphis,,US,分子动力学与统计力学,39,22,0.385,0.315,30,0,0000-0002-9687-2166
+A5078787564,Nathan J. DeYonker,I94658018,University of Memphis,Memphis,,US,电子结构与量子化学方法,68,59,0.731,0.419,31,13,0000-0003-0435-2006
+A5053870181,Orlando Acevedo,I145608581,University of Miami,Coral Gables,Florida,US,分子动力学与统计力学,45,21,0.778,0.479,32,6,0000-0002-6110-3930
+A5023302612,Andrew L. Ferguson,I27837315,University of Michigan,Ann Arbor,Michigan,US,分子动力学与统计力学,80,21,0.637,0.388,43,20,0000-0002-8829-9726
+A5060440052,Charles L. Brooks,I27837315,University of Michigan,Ann Arbor,Michigan,US,分子动力学与统计力学,155,63,0.606,0.404,104,28,0000-0002-8149-5417
+A5090281925,Dominika Zgid,I27837315,University of Michigan,Ann Arbor,Michigan,US,电子结构与量子化学方法,61,59,0.8,0.536,33,16,0000-0003-4363-8285
+A5042777510,Paul Martin Zimmerman,I27837315,University of Michigan,Ann Arbor,Michigan,US,电子结构与量子化学方法,77,68,0.532,0.285,57,17,0000-0002-7444-1314
+A5029067826,Ronald G. Larson,I27837315,University of Michigan,Ann Arbor,Michigan,US,分子动力学与统计力学,102,27,0.762,0.229,93,4,0000-0001-7465-1963
+A5045900230,Sharon C. Glotzer,I27837315,University of Michigan,Ann Arbor,Michigan,US,分子动力学与统计力学,96,37,0.49,0.163,90,15,0000-0002-7197-0085
+A5067474505,Thomas M. Truskett,I27837315,University of Michigan,Ann Arbor,Michigan,US,分子动力学与统计力学,96,62,0.37,0.298,50,14,0000-0002-6607-6468
+A5006888181,Vikram Gavini,I27837315,University of Michigan,Ann Arbor,Michigan,US,电子结构与量子化学方法,67,51,0.862,0.551,29,17,0000-0002-9451-2300
+A5067876893,Yue Fan,I27837315,University of Michigan,Ann Arbor,Michigan,US,分子动力学与统计力学,18,1,0.5,0.265,23,2,0000-0001-6558-3970
+A5061717048,Donald G. Truhlar,I130238516,University of Minnesota,Minneapolis,Minnesota,US,电子结构与量子化学方法,813,725,0.754,0.694,189,47,0000-0002-7742-7294
+A5084382830,Eric Ganz,I130238516,University of Minnesota,Minneapolis,Minnesota,US,计算材料与密度泛函,27,10,0.259,0.5,44,0,0000-0001-5744-2043
+A5078961588,Jason D. Goodpaster,I130238516,University of Minnesota,Minneapolis,Minnesota,US,电子结构与量子化学方法,24,17,0.875,0.286,25,6,0000-0001-6461-4501
+A5051728653,Jiali Gao,I130238516,University of Minnesota,Minneapolis,Minnesota,US,电子结构与量子化学方法,176,137,0.686,0.545,83,13,0000-0003-0106-7154
+A5002652750,Joern Ilja Siepmann,I130238516,University of Minnesota,Minneapolis,Minnesota,US,分子动力学与统计力学,104,55,0.731,0.297,77,23,0000-0003-2534-4507
+A5011052605,John M. Stubbs,I130238516,University of Minnesota,Minneapolis,Minnesota,US,分子动力学与统计力学,12,6,0.833,0.387,14,4,0000-0002-0218-3504
+A5005690158,Jonathan N. Sachs,I130238516,University of Minnesota,Minneapolis,Minnesota,US,分子动力学与统计力学,39,4,0.769,0.291,36,4,0000-0003-1403-5960
+A5081196865,Kade Head-Marsden,I130238516,University of Minnesota,Minneapolis,Minnesota,US,电子结构与量子化学方法,13,12,0.538,0.325,13,2,0000-0002-4122-4081
+A5080268173,Kevin D. Dorfman,I130238516,University of Minnesota,Minneapolis,Minnesota,US,分子动力学与统计力学,58,27,0.264,0.112,43,4,0000-0003-0065-5157
+A5029991019,Lars Christian Grabow,I130238516,University of Minnesota,Minneapolis,Minnesota,US,计算材料与密度泛函,48,3,0.375,0.298,44,13,0000-0002-7766-8856
+A5010884148,Matthew Neurock,I130238516,University of Minnesota,Minneapolis,Minnesota,US,计算材料与密度泛函,112,19,0.634,0.317,84,12,0000-0003-1458-7837
+A5085121177,Rachel B. Getman,I130238516,University of Minnesota,Minneapolis,Minnesota,US,计算材料与密度泛函,35,8,0.686,0.285,25,6,0000-0003-0755-0534
+A5086764605,Sapna Sarupria,I130238516,University of Minnesota,Minneapolis,Minnesota,US,分子动力学与统计力学,33,14,0.606,0.407,24,13,0000-0001-7692-8313
+A5003377020,Traian Dumitrică,I130238516,University of Minnesota,Minneapolis,Minnesota,US,分子动力学与统计力学,65,16,0.562,0.335,37,5,0000-0001-6320-1625
+A5038005055,William Hughes Miller,I130238516,University of Minnesota,Minneapolis,Minnesota,US,激发态、光谱与非绝热动力学,82,69,0.78,0.22,130,13,0000-0002-1561-9696
+A5091168232,Ryan C. Fortenberry,I368840534,University of Mississippi,Oxford,,US,电子结构与量子化学方法,138,121,0.453,0.355,37,14,0000-0003-4716-8225
+A5048942154,Carsten A. Ullrich,I76835614,University of Missouri,Columbia,Missouri,US,电子结构与量子化学方法,63,58,0.762,0.279,38,6,0000-0003-0102-5894
+A5023765609,David Joseph Singh,I76835614,University of Missouri,Columbia,Missouri,US,计算材料与密度泛函,90,24,0.523,0.112,108,5,0000-0001-7750-1485
+A5020224221,Giovanni Vignale,I76835614,University of Missouri,Columbia,Missouri,US,电子结构与量子化学方法,54,49,0.796,0.131,65,1,0000-0003-3851-5790
+A5072440014,Ioan Kosztin,I76835614,University of Missouri,Columbia,Missouri,US,分子动力学与统计力学,28,4,0.607,0.283,30,0,0009-0000-7801-235X
+A5002305884,Kurt R. Brorsen,I76835614,University of Missouri,Columbia,Missouri,US,电子结构与量子化学方法,32,30,0.688,0.681,19,5,0000-0003-3351-4975
+A5100706865,Shi-Jie Chen,I76835614,University of Missouri,Columbia,Missouri,US,分子动力学与统计力学,32,20,0.5,0.118,49,2,0000-0002-8093-7244
+A5057793752,Thomas D. Sewell,I76835614,University of Missouri,Columbia,Missouri,US,分子动力学与统计力学,79,33,0.747,0.52,37,2,0000-0003-0469-9640
+A5044868665,J. R. Durig,I75421653,University of Missouri–Kansas City,Kansas City,Missouri,US,激发态、光谱与非绝热动力学,184,184,0.745,0.783,56,4,0009-0001-0093-7528
+A5005385426,W. Y. Ching,I75421653,University of Missouri–Kansas City,Kansas City,Missouri,US,电子结构与量子化学方法,79,29,0.692,0.283,75,0,0000-0001-7738-8822
+A5084901506,Chung F. Wong,I208333798,University of Missouri–St. Louis,St Louis,Missouri,US,分子动力学与统计力学,31,12,0.71,0.437,27,5,0000-0001-7782-4612
+A5100423946,Hui Li,I114395901,University of Nebraska–Lincoln,Lincoln,Nebraska,US,电子结构与量子化学方法,20,17,0.75,0.357,22,7,0000-0003-0580-7033
+A5018264718,Vitaly Alexandrov,I114395901,University of Nebraska–Lincoln,Lincoln,Nebraska,US,计算材料与密度泛函,37,7,0.73,0.407,34,1,0000-0003-2063-6914
+A5022669696,N. Balakrishnan,I133999245,"University of Nevada, Las Vegas",Las Vegas,Nevada,US,电子结构与量子化学方法,96,86,0.312,0.341,41,7,0000-0001-7196-1851
+A5080554933,Andrei Derevianko,I134113660,"University of Nevada, Reno",Reno,Nevada,US,电子结构与量子化学方法,24,21,0.826,0.082,57,1,0000-0002-7105-4853
+A5072120356,David M. Leitner,I134113660,"University of Nevada, Reno",Reno,Nevada,US,分子动力学与统计力学,72,21,0.296,0.504,46,8,0000-0002-3105-818X
+A5039341498,Samuel O. Odoh,I134113660,"University of Nevada, Reno",Reno,Nevada,US,计算材料与密度泛函,32,15,0.656,0.299,25,5,0000-0002-6633-8229
+A5069472487,Sergey A. Varganov,I134113660,"University of Nevada, Reno",Reno,Nevada,US,电子结构与量子化学方法,39,28,0.579,0.319,25,7,0000-0001-8301-3891
+A5038332899,Friedrich Grein,I106938459,University of New Brunswick,Fredericton,New Brunswick,CA,电子结构与量子化学方法,79,78,0.633,0.681,34,0,0000-0001-9926-5188
+A5091386458,Olgun Guvench,I275799156,University of New England,Biddeford,Maine,US,分子动力学与统计力学,38,14,0.447,0.475,30,4,0000-0001-5673-7026
+A5026298622,Harish Vashisth,I161057412,University of New Hampshire,Durham,New Hampshire,US,分子动力学与统计力学,35,7,0.371,0.299,19,4,0000-0002-2087-2880
+A5072134023,Ganesh Balasubramanian,I40253897,University of New Haven,West Haven,,US,分子动力学与统计力学,57,3,0.456,0.35,36,8,0000-0003-1834-5501
+A5004949574,Yigui Wang,I40253897,University of New Haven,West Haven,,US,电子结构与量子化学方法,22,20,0.591,0.524,23,4,0000-0001-6681-1525
+A5038375764,Hua Guo,I169521973,University of New Mexico,Albuquerque,New Mexico,US,电子结构与量子化学方法,504,412,0.504,0.66,86,31,0000-0001-9901-053X
+A5024170542,William P. Bricker,I169521973,University of New Mexico,Albuquerque,New Mexico,US,电子结构与量子化学方法,25,11,0.56,0.595,18,0,0000-0001-9724-0905
+A5003347453,Elisa Pieri,I114027177,University of North Carolina at Chapel Hill,Chapel Hill,North Carolina,US,电子结构与量子化学方法,18,14,0.278,0.486,13,6,0000-0002-5377-5382
+A5017660699,Max L. Berkowitz,I114027177,University of North Carolina at Chapel Hill,Chapel Hill,North Carolina,US,分子动力学与统计力学,57,14,0.754,0.407,67,4,0000-0002-9116-0362
+A5009013437,Robert G. Parr,I114027177,University of North Carolina at Chapel Hill,Chapel Hill,North Carolina,US,电子结构与量子化学方法,31,31,0.613,0.721,88,4,
+A5062471687,Shubin Liu,I114027177,University of North Carolina at Chapel Hill,Chapel Hill,North Carolina,US,电子结构与量子化学方法,184,138,0.716,0.468,64,5,0000-0001-9331-0427
+A5055831887,Yinglong Miao,I114027177,University of North Carolina at Chapel Hill,Chapel Hill,North Carolina,US,分子动力学与统计力学,82,22,0.695,0.337,44,14,0000-0003-3714-1395
+A5072172171,Yosuke Kanai,I114027177,University of North Carolina at Chapel Hill,Chapel Hill,North Carolina,US,电子结构与量子化学方法,73,48,0.819,0.398,35,21,0000-0002-2320-4394
+A5009471123,Jonathan Joseph Foley,I102149020,University of North Carolina at Charlotte,Charlotte,North Carolina,US,电子结构与量子化学方法,24,19,0.565,0.287,22,10,0000-0001-8814-4444
+A5011717029,Yirong Mo,I169335092,University of North Carolina at Greensboro,Greensboro,,US,电子结构与量子化学方法,112,87,0.532,0.422,52,5,0000-0002-2994-7754
+A5084410882,Mark R. Hoffmann,I24571045,University of North Dakota,Grand Forks,North Dakota,US,电子结构与量子化学方法,81,72,0.613,0.741,34,10,0000-0001-6016-8620
+A5004364689,Jincheng Du,I123534392,University of North Texas,Denton,Texas,US,分子动力学与统计力学,132,16,0.862,0.398,59,7,0000-0003-4805-7498
+A5012206702,Marco Buongiorno Nardelli,I123534392,University of North Texas,Denton,Texas,US,电子结构与量子化学方法,72,37,0.583,0.199,65,16,0000-0003-0793-5055
+A5007692847,Paul Marshall,I123534392,University of North Texas,Denton,Texas,US,电子结构与量子化学方法,37,33,0.514,0.294,45,4,0000-0002-8181-983X
+A5030200062,Thomas R. Cundari,I123534392,University of North Texas,Denton,Texas,US,计算材料与密度泛函,101,44,0.723,0.097,72,7,0000-0003-1822-6473
+A5013076223,Brett M. Savoie,I107639228,University of Notre Dame,Notre Dame,Indiana,US,机器学习与数据驱动化学,50,23,0.54,0.223,41,7,0000-0002-7039-4039
+A5088479281,Daniel M. Chipman,I107639228,University of Notre Dame,Notre Dame,Indiana,US,电子结构与量子化学方法,40,33,0.538,0.78,39,2,0000-0002-9992-6684
+A5031577108,Edward Joseph Maginn,I107639228,University of Notre Dame,Notre Dame,Indiana,US,分子动力学与统计力学,175,63,0.746,0.454,86,27,0000-0002-6309-1347
+A5049074187,J. Daniel Gezelter,I107639228,University of Notre Dame,Notre Dame,Indiana,US,分子动力学与统计力学,34,17,0.765,0.567,23,0,0000-0002-2935-3163
+A5039906501,Jesús A. Izaguirre,I107639228,University of Notre Dame,Notre Dame,Indiana,US,分子动力学与统计力学,23,10,0.826,0.311,26,5,0000-0002-4687-4884
+A5012026163,Jonathan K. Whitmer,I107639228,University of Notre Dame,Notre Dame,Indiana,US,反应动力学与速率理论,38,26,0.649,0.33,24,5,0000-0003-0370-0873
+A5079168905,Steven A. Corcelli,I107639228,University of Notre Dame,Notre Dame,Indiana,US,激发态、光谱与非绝热动力学,60,21,0.467,0.541,37,6,0000-0001-6451-4447
+A5007309417,Steven E. Wheeler,I107639228,University of Notre Dame,Notre Dame,Indiana,US,电子结构与量子化学方法,53,43,0.396,0.272,48,6,0000-0001-7824-6906
+A5037264129,William F. Schneider,I107639228,University of Notre Dame,Notre Dame,Indiana,US,计算材料与密度泛函,79,16,0.62,0.29,69,7,0000-0003-0664-2138
+A5072941998,Yamil J. Colón,I107639228,University of Notre Dame,Notre Dame,Indiana,US,机器学习与数据驱动化学,35,13,0.657,0.35,25,4,0000-0001-5316-9692
+A5034083940,Alberto Striolo,I8692664,University of Oklahoma,Norman,Oklahoma,US,分子动力学与统计力学,113,23,0.434,0.321,61,10,0000-0001-6542-8065
+A5005661488,Ulrich H. E. Hansmann,I8692664,University of Oklahoma,Norman,Oklahoma,US,分子动力学与统计力学,69,42,0.42,0.194,41,1,0000-0002-0700-4835
+A5033374983,Dhiman Ray,I181233156,University of Oregon,Eugene,Oregon,US,分子动力学与统计力学,21,11,0.524,0.375,18,4,0000-0002-7103-0886
+A5089833480,Jeffrey A. Cina,I181233156,University of Oregon,Eugene,Oregon,US,激发态、光谱与非绝热动力学,34,14,0.312,0.457,23,2,0000-0002-3637-2995
+A5087430767,Marina Guenza,I181233156,University of Oregon,Eugene,Oregon,US,分子动力学与统计力学,59,34,0.458,0.476,29,0,0000-0002-1151-4766
+A5049176904,Gary W. Slater,I153718931,University of Ottawa,Ottawa,Ontario,CA,分子动力学与统计力学,45,21,0.467,0.177,45,1,0000-0002-7996-355X
+A5029833367,Isaac Tamblyn,I153718931,University of Ottawa,Ottawa,Ontario,CA,机器学习与数据驱动化学,44,16,0.523,0.297,29,14,0000-0002-8146-6667
+A5036001490,Michael S. Schuurman,I153718931,University of Ottawa,Ottawa,Ontario,CA,电子结构与量子化学方法,67,52,0.5,0.5,27,6,0000-0002-0922-9034
+A5022187815,Tom K. Woo,I153718931,University of Ottawa,Ottawa,Ontario,CA,分子动力学与统计力学,75,27,0.893,0.383,58,6,0000-0003-0073-3901
+A5035641566,Abraham Nitzan,I79576946,University of Pennsylvania,Philadelphia,Pennsylvania,US,电子结构与量子化学方法,88,68,0.299,0.266,91,8,0000-0002-8431-0967
+A5016063877,Aleksandra Vojvodić,I79576946,University of Pennsylvania,Philadelphia,Pennsylvania,US,计算材料与密度泛函,37,8,0.324,0.287,52,3,0000-0002-5584-6711
+A5059503004,Andrew M. Rappe,I79576946,University of Pennsylvania,Philadelphia,Pennsylvania,US,计算材料与密度泛函,146,48,0.428,0.23,96,17,0000-0003-4620-6496
+A5068394830,Jennifer R. Lukes,I79576946,University of Pennsylvania,Philadelphia,Pennsylvania,US,分子动力学与统计力学,25,6,0.64,0.281,25,0,0000-0002-7763-6141
+A5029553936,Joseph S. Francisco,I79576946,University of Pennsylvania,Philadelphia,Pennsylvania,US,电子结构与量子化学方法,327,262,0.31,0.385,77,19,0000-0002-5461-1486
+A5065260816,Robert A. Riggleman,I79576946,University of Pennsylvania,Philadelphia,Pennsylvania,US,分子动力学与统计力学,58,22,0.293,0.28,38,4,0000-0002-5434-4787
+A5076490097,Talid R. Sinno,I79576946,University of Pennsylvania,Philadelphia,Pennsylvania,US,分子动力学与统计力学,39,15,0.641,0.285,31,0,0000-0003-2489-1613
+A5069354331,Geoffrey Hutchison,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,电子结构与量子化学方法,35,22,0.686,0.241,37,3,0000-0002-1757-1980
+A5066394844,Giannis Mpourmpakis,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,计算材料与密度泛函,54,15,0.315,0.307,47,6,0000-0002-3063-0607
+A5100389618,Guofeng Wang,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,计算材料与密度泛函,67,9,0.567,0.295,78,4,0000-0001-8249-4101
+A5024333457,J. Karl Johnson,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,计算材料与密度泛函,106,37,0.571,0.463,70,20,0000-0002-3608-8003
+A5007577939,John A. Keith,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,电子结构与量子化学方法,65,40,0.714,0.45,42,10,0000-0002-6583-6322
+A5100643054,Junmei Wang,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,分子动力学与统计力学,82,44,0.765,0.293,65,21,0000-0002-9607-8229
+A5019158207,Kenneth D. Jordan,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,电子结构与量子化学方法,178,117,0.585,0.649,80,24,0000-0001-9178-6771
+A5029475330,Lillian T. Chong,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,分子动力学与统计力学,49,17,0.714,0.45,29,14,0000-0002-0590-483X
+A5083001000,Mert Gür,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,分子动力学与统计力学,22,3,0.591,0.333,19,0,0000-0003-0983-4397
+A5109052231,Rob D. Coalson,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,分子动力学与统计力学,38,10,0.711,0.369,45,3,0000-0003-0201-0176
+A5054623889,Wissam  Abdo Saidi,I170201317,University of Pittsburgh,Pittsburgh,Pennsylvania,US,计算材料与密度泛函,97,23,0.546,0.37,49,12,0000-0001-6714-4832
+A5006784008,Jason K. Pearson,I22188714,University of Prince Edward Island,Charlottetown,Prince Edward Island,CA,电子结构与量子化学方法,20,15,0.55,0.465,15,1,0000-0002-1001-1606
+A5065527553,Allan L. L. East,I194028371,University of Regina,Regina,Saskatchewan,CA,电子结构与量子化学方法,39,31,0.462,0.513,28,5,0000-0003-1898-4370
+A5016209604,Michael L. Greenfield,I17626003,University of Rhode Island,Kingston,Rhode Island,US,分子动力学与统计力学,22,9,0.864,0.379,23,1,0000-0002-4704-1489
+A5056769433,Carol A. Parish,I158012942,University of Richmond,Richmond,,US,电子结构与量子化学方法,30,15,0.433,0.294,25,10,0000-0003-2878-3070
+A5041647675,Alan M. Grossfield,I5388228,University of Rochester,Rochester,New York,US,分子动力学与统计力学,103,11,0.777,0.542,37,10,0000-0002-5877-2789
+A5057731721,Niaz Abdolrahim,I5388228,University of Rochester,Rochester,New York,US,分子动力学与统计力学,25,0,0.609,0.383,18,0,0000-0002-9333-8179
+A5063558193,Pengfei Huo,I5388228,University of Rochester,Rochester,New York,US,激发态、光谱与非绝热动力学,50,38,0.694,0.327,32,4,0000-0002-8639-9299
+A5083410596,John S. Tse,I32625721,University of Saskatchewan,Saskatoon,Saskatchewan,CA,分子动力学与统计力学,116,35,0.448,0.225,81,3,0000-0001-8389-7615
+A5014616451,Richard K. Bowles,I32625721,University of Saskatchewan,Saskatoon,Saskatchewan,CA,分子动力学与统计力学,39,29,0.447,0.494,24,2,0000-0003-1664-0590
+A5067740646,Yansun Yao,I32625721,University of Saskatchewan,Saskatoon,Saskatchewan,CA,分子动力学与统计力学,40,12,0.462,0.257,34,1,0000-0003-1972-5055
+A5063674208,Andreas Heyden,I155781252,University of South Carolina,Columbia,South Carolina,US,计算材料与密度泛函,57,21,0.596,0.345,50,6,0000-0002-4939-7489
+A5019629033,Changyong Qin,I155781252,University of South Carolina,Columbia,South Carolina,US,电子结构与量子化学方法,15,8,0.667,0.333,15,2,0000-0003-2717-3131
+A5047676104,Graeme Henkelman,I155781252,University of South Carolina,Columbia,South Carolina,US,计算材料与密度泛函,160,68,0.572,0.343,93,9,0000-0002-0336-7153
+A5018769135,Sophya V. Garashchuk,I155781252,University of South Carolina,Columbia,South Carolina,US,电子结构与量子化学方法,71,49,0.486,0.432,29,6,0000-0003-2452-7379
+A5101686778,Tao Wei,I155781252,University of South Carolina,Columbia,South Carolina,US,分子动力学与统计力学,34,3,0.765,0.548,26,3,0000-0001-6888-1658
+A5033284516,Vitaly A. Rassolov,I155781252,University of South Carolina,Columbia,South Carolina,US,电子结构与量子化学方法,51,42,0.7,0.299,33,15,0000-0002-7244-8870
+A5012698288,Arjan van der Vaart,I2613432,University of South Florida,Tampa,Florida,US,分子动力学与统计力学,44,22,0.659,0.324,32,2,0000-0002-8950-1850
+A5090428395,David Simmons,I2613432,University of South Florida,Tampa,Florida,US,分子动力学与统计力学,32,8,0.5,0.291,30,1,0000-0002-1436-9269
+A5036075015,Sagar A Pandit,I2613432,University of South Florida,Tampa,Florida,US,分子动力学与统计力学,45,13,0.778,0.391,29,5,0000-0001-7126-9144
+A5004495836,Sameer Varma,I2613432,University of South Florida,Tampa,Florida,US,分子动力学与统计力学,38,16,0.447,0.388,20,4,0000-0002-7827-5632
+A5017686746,Anna I. Krylov,I1174212,University of Southern California,Los Angeles,California,US,电子结构与量子化学方法,236,204,0.627,0.616,81,36,0000-0001-6788-5016
+A5088665303,Arieh Warshel,I1174212,University of Southern California,Los Angeles,California,US,分子动力学与统计力学,87,32,0.655,0.244,123,10,0000-0001-7971-5401
+A5020830787,Hanna Reisler,I1174212,University of Southern California,Los Angeles,California,US,激发态、光谱与非绝热动力学,46,32,0.261,0.489,42,4,0000-0003-0176-6131
+A5087150520,Muhammad Sahimi,I1174212,University of Southern California,Los Angeles,California,US,分子动力学与统计力学,52,21,0.731,0.111,77,1,0000-0002-8009-542X
+A5061633372,Oleg V. Prezhdo,I1174212,University of Southern California,Los Angeles,California,US,电子结构与量子化学方法,316,170,0.652,0.42,100,10,0000-0002-5140-7500
+A5052894521,Priya D. Vashishta,I1174212,University of Southern California,Los Angeles,California,US,分子动力学与统计力学,209,34,0.662,0.44,73,11,0000-0003-4683-429X
+A5014791144,Shaama Mallikarjun Sharada,I1174212,University of Southern California,Los Angeles,California,US,电子结构与量子化学方法,32,21,0.8,0.323,20,5,0000-0001-7332-5373
+A5083957032,Gopinath Subramanian,I44854399,University of Southern Mississippi,Hattiesburg,,US,电子结构与量子化学方法,13,10,0.615,0.295,16,0,0000-0001-8392-7810
+A5103252330,Parthapratim Biswas,I44854399,University of Southern Mississippi,Hattiesburg,,US,分子动力学与统计力学,27,9,0.741,0.267,20,2,0000-0003-4257-2392
+A5062856668,Murat Barışık,I177097968,University of Tennessee at Chattanooga,Chattanooga,Tennessee,US,分子动力学与统计力学,33,2,0.515,0.351,29,0,0000-0002-2413-1991
+A5079657136,David J. Keffer,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,分子动力学与统计力学,77,20,0.766,0.389,34,6,0000-0002-6246-0286
+A5046802658,Haixuan Xu,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,分子动力学与统计力学,36,2,0.444,0.269,31,6,0000-0001-6460-6149
+A5018366869,Jeremy C. Smith,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,分子动力学与统计力学,160,34,0.594,0.274,83,12,0000-0002-2978-3227
+A5091149690,Konstantinos D. Vogiatzis,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,电子结构与量子化学方法,41,25,0.659,0.255,32,8,0000-0002-7439-3850
+A5082950413,Manolis Doxastakis,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,分子动力学与统计力学,29,14,0.586,0.319,36,2,0000-0002-9175-9906
+A5029519677,Robert J. Hinde,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,电子结构与量子化学方法,40,38,0.475,0.43,23,8,0000-0003-3499-9222
+A5075039930,Sharani Roy,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,电子结构与量子化学方法,16,7,0.4,0.405,14,4,0000-0002-1020-482X
+A5089160653,Stephen J. Paddison,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,分子动力学与统计力学,70,20,0.714,0.332,50,3,0000-0003-1064-8233
+A5004868183,T. Papenbrock,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,电子结构与量子化学方法,34,32,0.882,0.157,60,1,0000-0001-8733-2849
+A5078174602,Tongye Shen,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,分子动力学与统计力学,33,10,0.485,0.344,30,7,0000-0003-1495-3104
+A5059700931,Victor N. Nemykin,I75027704,University of Tennessee at Knoxville,Knoxville,Tennessee,US,电子结构与量子化学方法,76,57,0.333,0.112,49,1,0000-0003-4345-0848
+A5002015744,S. V. Khare,I90871651,University of Toledo,Toledo,Ohio,US,计算材料与密度泛函,42,11,0.81,0.378,36,1,0000-0003-2532-1591
+A5071495561,Alán Aspuru-Guzik,I185261750,University of Toronto,Toronto,Ontario,CA,机器学习与数据驱动化学,283,115,0.53,0.3,136,31,0000-0002-8277-4434
+A5080074500,Artur F. Izmaylov,I185261750,University of Toronto,Toronto,Ontario,CA,电子结构与量子化学方法,77,68,0.636,0.606,39,12,0000-0001-8035-6020
+A5069795012,Dvira Segal,I185261750,University of Toronto,Toronto,Ontario,CA,电子结构与量子化学方法,27,23,0.423,0.136,45,2,0000-0002-8027-8920
+A5073635313,Jason R. Hattrick-Simpers,I185261750,University of Toronto,Toronto,Ontario,CA,机器学习与数据驱动化学,71,1,0.471,0.335,34,9,0000-0003-2937-3188
+A5067502042,Jeremy Schofield,I185261750,University of Toronto,Toronto,Ontario,CA,计算材料与密度泛函,54,34,0.593,0.628,23,3,0000-0001-5366-559X
+A5088793872,O. Anatole von Lilienfeld,I185261750,University of Toronto,Toronto,Ontario,CA,电子结构与量子化学方法,82,57,0.695,0.337,61,12,0000-0001-7419-0466
+A5061216131,Paul W. Brumer,I185261750,University of Toronto,Toronto,Ontario,CA,电子结构与量子化学方法,71,56,0.343,0.293,55,3,0000-0002-4763-2393
+A5041147881,Raymond Kapral,I185261750,University of Toronto,Toronto,Ontario,CA,激发态、光谱与非绝热动力学,86,57,0.262,0.382,63,8,0000-0002-4652-645X
+A5076945305,Régis Pomès,I185261750,University of Toronto,Toronto,Ontario,CA,分子动力学与统计力学,68,8,0.515,0.38,50,4,0000-0003-3068-9833
+A5064842246,Sarah Rauscher,I185261750,University of Toronto,Toronto,Ontario,CA,分子动力学与统计力学,34,3,0.618,0.4,17,4,0000-0001-9860-3237
+A5003301534,Taylor D. Sparks,I185261750,University of Toronto,Toronto,Ontario,CA,机器学习与数据驱动化学,83,0,0.398,0.349,36,4,0000-0001-8020-7711
+A5048639368,Aurora E. Clark,I223532165,University of Utah,Salt Lake City,Utah,US,电子结构与量子化学方法,105,53,0.394,0.321,35,14,0000-0001-9381-721X
+A5028759819,Grant D. Smith,I223532165,University of Utah,Salt Lake City,Utah,US,分子动力学与统计力学,155,57,0.916,0.552,77,7,0000-0002-8407-0692
+A5030959916,Jack Simons,I223532165,University of Utah,Salt Lake City,Utah,US,电子结构与量子化学方法,68,63,0.382,0.519,64,8,0000-0001-8722-184X
+A5036542834,Jessica M. J. Swanson,I223532165,University of Utah,Salt Lake City,Utah,US,分子动力学与统计力学,33,17,0.545,0.393,31,9,0000-0002-9820-1307
+A5007190695,Julio Cesar Facelli,I223532165,University of Utah,Salt Lake City,Utah,US,电子结构与量子化学方法,35,22,0.857,0.121,44,0,0000-0003-1449-477X
+A5012564920,P. B. Armentrout,I223532165,University of Utah,Salt Lake City,Utah,US,电子结构与量子化学方法,130,83,0.531,0.327,93,9,0000-0003-2953-6039
+A5055988079,Ryan P. Steele,I223532165,University of Utah,Salt Lake City,Utah,US,电子结构与量子化学方法,54,40,0.444,0.783,24,11,0000-0002-3292-9805
+A5026596166,Thanh N. Truong,I223532165,University of Utah,Salt Lake City,Utah,US,电子结构与量子化学方法,78,46,0.701,0.562,57,1,0000-0003-1832-1526
+A5020579549,Thomas E. Cheatham,I223532165,University of Utah,Salt Lake City,Utah,US,分子动力学与统计力学,92,26,0.707,0.482,69,29,0000-0003-0298-3904
+A5074139872,Valeria Molinero,I223532165,University of Utah,Salt Lake City,Utah,US,分子动力学与统计力学,85,37,0.329,0.381,65,11,0000-0002-8577-4675
+A5068711194,Bill Poirier,I111236770,University of Vermont,Burlington,Vermont,US,电子结构与量子化学方法,72,70,0.736,0.456,32,6,0000-0001-8277-746X
+A5030696048,Camille Bilodeau,I51556381,University of Virginia,Charlottesville,Virginia,US,分子动力学与统计力学,16,3,0.562,0.444,13,4,0000-0002-8358-5280
+A5025382823,Carl O. Trindle,I51556381,University of Virginia,Charlottesville,Virginia,US,电子结构与量子化学方法,42,36,0.286,0.429,30,1,0000-0001-8158-7824
+A5029634322,Lester S. Andrews,I51556381,University of Virginia,Charlottesville,Virginia,US,计算材料与密度泛函,151,34,0.636,0.319,80,5,0000-0001-6306-0340
+A5029281241,Prasanna V. Balachandran,I51556381,University of Virginia,Charlottesville,Virginia,US,机器学习与数据驱动化学,59,2,0.576,0.44,34,9,0000-0002-7496-5521
+A5046613137,Anne B. McCoy,I201448701,University of Washington,Seattle,Washington,US,激发态、光谱与非绝热动力学,187,104,0.39,0.346,47,24,0000-0001-6851-6634
+A5046917773,Christopher J. Mundy,I201448701,University of Washington,Seattle,Washington,US,电子结构与量子化学方法,126,65,0.579,0.612,59,27,0000-0003-1378-5241
+A5018062862,Ernest R. Davidson,I201448701,University of Washington,Seattle,Washington,US,电子结构与量子化学方法,67,59,0.582,0.528,87,16,0000-0002-3096-480X
+A5068343952,Gianluca Interlandi,I201448701,University of Washington,Seattle,Washington,US,分子动力学与统计力学,10,0,0.9,0.256,15,0,0000-0001-5445-9587
+A5027671553,John F. Stanton,I201448701,University of Washington,Seattle,Washington,US,电子结构与量子化学方法,234,221,0.543,0.35,84,31,0000-0003-2345-9781
+A5002248940,Lutz Maibaum,I201448701,University of Washington,Seattle,Washington,US,分子动力学与统计力学,27,11,0.593,0.429,15,4,0000-0002-3516-8415
+A5035174994,Munira Khalil,I201448701,University of Washington,Seattle,Washington,US,激发态、光谱与非绝热动力学,63,26,0.254,0.441,37,2,0000-0002-6508-4124
+A5068503645,Sotiris S. Xantheas,I201448701,University of Washington,Seattle,Washington,US,电子结构与量子化学方法,169,121,0.435,0.672,68,32,0000-0002-6303-1037
+A5016462450,Stéphanie Valleau,I201448701,University of Washington,Seattle,Washington,US,激发态、光谱与非绝热动力学,16,6,0.688,0.615,12,2,0000-0003-0499-2054
+A5075316492,Thom H. Dunning,I201448701,University of Washington,Seattle,Washington,US,电子结构与量子化学方法,77,77,0.429,0.72,73,8,0000-0002-3290-6507
+A5021239442,Valerie Daggett,I201448701,University of Washington,Seattle,Washington,US,分子动力学与统计力学,103,1,0.456,0.402,77,1,0000-0002-5116-6102
+A5100689329,Xiaosong Li,I201448701,University of Washington,Seattle,Washington,US,电子结构与量子化学方法,217,175,0.586,0.345,65,42,0000-0001-7341-6240
+A5017106396,Frederick R. W. McCourt,I151746483,University of Waterloo,Waterloo,Ontario,CA,电子结构与量子化学方法,23,19,0.571,0.396,31,1,
+A5010204961,Jeff Z. Y. Chen,I151746483,University of Waterloo,Waterloo,Ontario,CA,反应动力学与速率理论,31,22,0.387,0.261,28,0,0000-0002-7994-6231
+A5027217102,Marcel Nooijen,I151746483,University of Waterloo,Waterloo,Ontario,CA,电子结构与量子化学方法,79,75,0.896,0.713,54,11,0000-0002-9691-563X
+A5048857282,Mark W. Matsen,I151746483,University of Waterloo,Waterloo,Ontario,CA,电子结构与量子化学方法,24,20,0.583,0.141,58,0,0000-0003-2099-0892
+A5027010562,Pierre–Nicholas Roy,I151746483,University of Waterloo,Waterloo,Ontario,CA,电子结构与量子化学方法,92,85,0.663,0.541,33,12,0000-0002-3468-1604
+A5013861330,William Richard Smith,I151746483,University of Waterloo,Waterloo,Ontario,CA,分子动力学与统计力学,45,32,0.889,0.304,62,4,0000-0002-1982-2050
+A5024631055,James A. Phillips,I124727415,University of Wisconsin–Eau Claire,Eau Claire,Wisconsin,US,电子结构与量子化学方法,12,6,0.5,0.3,32,0,0000-0002-6697-7004
+A5068476777,Sudeep Bhattacharyya,I124727415,University of Wisconsin–Eau Claire,Eau Claire,Wisconsin,US,分子动力学与统计力学,14,2,0.571,0.259,20,2,0000-0002-3960-1239
+A5051680576,Arun Yethiraj,I135310074,University of Wisconsin–Madison,Madison,Wisconsin,US,分子动力学与统计力学,111,73,0.627,0.46,58,6,0000-0002-8579-449X
+A5028372112,Dane D. Morgan,I135310074,University of Wisconsin–Madison,Madison,Wisconsin,US,计算材料与密度泛函,178,49,0.743,0.23,81,15,0000-0002-4911-0046
+A5030243146,Edwin L. Sibert,I135310074,University of Wisconsin–Madison,Madison,Wisconsin,US,激发态、光谱与非绝热动力学,75,39,0.4,0.54,37,8,0000-0003-2752-1044
+A5028194420,Frank Weinhold,I135310074,University of Wisconsin–Madison,Madison,Wisconsin,US,电子结构与量子化学方法,86,65,0.277,0.494,74,6,0000-0002-9580-054X
+A5088916558,J. R. Schmidt,I135310074,University of Wisconsin–Madison,Madison,Wisconsin,US,电子结构与量子化学方法,48,32,0.542,0.44,48,4,0000-0002-1438-117X
+A5062626839,Jeffrey Greeley,I135310074,University of Wisconsin–Madison,Madison,Wisconsin,US,计算材料与密度泛函,85,6,0.548,0.294,70,4,0000-0001-8469-1715
+A5031683423,Manos Mavrikakis,I135310074,University of Wisconsin–Madison,Madison,Wisconsin,US,计算材料与密度泛函,141,12,0.348,0.359,100,7,0000-0002-5293-5356
+A5026973748,Reid C. Van Lehn,I135310074,University of Wisconsin–Madison,Madison,Wisconsin,US,分子动力学与统计力学,46,5,0.739,0.274,34,2,0000-0003-4885-6599
+A5083071253,Xuhui Huang,I135310074,University of Wisconsin–Madison,Madison,Wisconsin,US,分子动力学与统计力学,66,21,0.667,0.238,64,12,0000-0002-7119-9358
+A5104977762,Yang Yang,I135310074,University of Wisconsin–Madison,Madison,Wisconsin,US,电子结构与量子化学方法,51,46,0.902,0.245,46,9,0000-0001-8572-5155
+A5039811712,Arjun Saha,I43579087,University of Wisconsin–Milwaukee,Milwaukee,Wisconsin,US,电子结构与量子化学方法,17,13,0.706,0.405,15,3,0000-0003-1198-1820
+A5110077175,Noham N. Weinberg,I170606269,University of the Fraser Valley,Abbotsford,,CA,反应动力学与速率理论,19,12,0.684,0.396,18,0,
+A5053648717,Matthias Ernzerhof,I70931966,Université de Montréal,Montreal,Quebec,CA,电子结构与量子化学方法,59,57,0.586,0.707,38,5,0000-0001-5679-8902
+A5076632634,Michel Côté,I70931966,Université de Montréal,Montreal,Quebec,CA,电子结构与量子化学方法,47,25,0.609,0.231,38,8,0000-0001-9046-9491
+A5022137374,Normand Mousseau,I70931966,Université de Montréal,Montreal,Quebec,CA,分子动力学与统计力学,105,44,0.505,0.277,51,6,0000-0003-0575-7590
+A5036982709,Armand Soldera,I135117807,Université de Sherbrooke,Sherbrooke,Quebec,CA,分子动力学与统计力学,50,18,0.82,0.253,29,1,0000-0001-5467-5714
+A5072586806,Clare McCabe,I200719446,Vanderbilt University,Nashville,Tennessee,US,分子动力学与统计力学,88,42,0.784,0.44,48,10,0000-0002-8552-9135
+A5031199152,De-en Jiang,I200719446,Vanderbilt University,Nashville,Tennessee,US,计算材料与密度泛函,161,21,0.484,0.276,109,9,0000-0001-5167-0731
+A5034899152,Kálmán Varga,I200719446,Vanderbilt University,Nashville,Tennessee,US,电子结构与量子化学方法,62,40,0.733,0.207,45,3,0000-0002-8093-1096
+A5049584797,Peter T. Cummings,I200719446,Vanderbilt University,Nashville,Tennessee,US,分子动力学与统计力学,207,84,0.678,0.487,82,22,0000-0002-9766-2216
+A5055785990,Zhongyue John Yang,I200719446,Vanderbilt University,Nashville,Tennessee,US,分子动力学与统计力学,39,13,0.579,0.288,32,6,0000-0003-0395-6617
+A5022075325,Alexey V. Onufriev,I859038795,Virginia Tech,Blacksburg,Virginia,US,分子动力学与统计力学,69,47,0.739,0.411,43,17,0000-0002-4930-6612
+A5036131147,Céline Hin,I859038795,Virginia Tech,Blacksburg,Virginia,US,计算材料与密度泛函,16,6,0.625,0.25,17,1,
+A5012315225,Diana Farkas,I859038795,Virginia Tech,Blacksburg,Virginia,US,分子动力学与统计力学,46,1,0.674,0.331,55,4,0000-0003-3976-0595
+A5003028286,Diego Troya,I859038795,Virginia Tech,Blacksburg,Virginia,US,电子结构与量子化学方法,68,55,0.544,0.417,42,4,0000-0003-4971-4998
+A5055658408,Edward F. Valeev,I859038795,Virginia Tech,Blacksburg,Virginia,US,电子结构与量子化学方法,122,121,0.793,0.621,49,37,0000-0001-9923-6256
+A5040429065,Hongliang Xin,I859038795,Virginia Tech,Blacksburg,Virginia,US,机器学习与数据驱动化学,50,8,0.56,0.417,46,12,0000-0001-9344-1697
+A5025714037,Justin A. Lemkul,I859038795,Virginia Tech,Blacksburg,Virginia,US,分子动力学与统计力学,74,15,0.649,0.493,35,8,0000-0001-6661-8653
+A5085371954,Sanket A. Deshmukh,I859038795,Virginia Tech,Blacksburg,Virginia,US,分子动力学与统计力学,49,13,0.49,0.495,32,5,0000-0001-7573-0057
+A5046036704,T. Daniel Crawford,I859038795,Virginia Tech,Blacksburg,Virginia,US,电子结构与量子化学方法,126,117,0.683,0.594,46,46,0000-0002-7961-7016
+A5055958465,Valerie Vaissier Welborn,I859038795,Virginia Tech,Blacksburg,Virginia,US,分子动力学与统计力学,25,9,0.375,0.293,17,6,0000-0003-0834-4441
+A5041535407,Xian-Ming Bai,I859038795,Virginia Tech,Blacksburg,Virginia,US,分子动力学与统计力学,30,4,0.533,0.286,35,2,0000-0002-4609-6576
+A5111564274,Scott E. Feller,I24511612,Wabash College,Crawfordsville,,US,分子动力学与统计力学,60,5,0.7,0.632,47,8,
+A5019936771,Akbar Salam,I47251452,Wake Forest University,Winston-Salem,North Carolina,US,电子结构与量子化学方法,38,31,0.378,0.366,26,3,0000-0001-5167-4767
+A5000192327,Freddie R. Salsbury,I47251452,Wake Forest University,Winston-Salem,North Carolina,US,分子动力学与统计力学,43,9,0.721,0.358,24,2,0000-0002-2699-829X
+A5039599790,Samuel S. Cho,I47251452,Wake Forest University,Winston-Salem,North Carolina,US,分子动力学与统计力学,15,0,0.533,0.375,17,3,0000-0002-6113-135X
+A5022511116,Timo Thonhauser,I47251452,Wake Forest University,Winston-Salem,North Carolina,US,电子结构与量子化学方法,55,40,0.527,0.214,59,6,0000-0003-4771-7511
+A5029596133,Kirk A. Peterson,I72951846,Washington State University,Pullman,Washington,US,电子结构与量子化学方法,241,234,0.709,0.712,77,37,0000-0003-4901-3235
+A5101411050,Soumik Banerjee,I72951846,Washington State University,Pullman,Washington,US,分子动力学与统计力学,26,5,0.692,0.371,20,2,0000-0002-4677-885X
+A5029297375,Gregory R. Bowman,I204465549,Washington University in St. Louis,St Louis,Missouri,US,分子动力学与统计力学,56,19,0.5,0.279,55,10,0000-0002-2083-4892
+A5046980575,Jay W. Ponder,I204465549,Washington University in St. Louis,St Louis,Missouri,US,电子结构与量子化学方法,52,43,0.635,0.612,45,14,0000-0001-5450-9230
+A5014444186,Alice R. Walker,I185443292,Wayne State University,Detroit,Michigan,US,分子动力学与统计力学,23,6,0.409,0.265,11,2,0000-0002-8617-3425
+A5072645125,H. Bernhard Schlegel,I185443292,Wayne State University,Detroit,Michigan,US,电子结构与量子化学方法,122,98,0.762,0.332,94,26,0000-0001-7114-2821
+A5003802798,Jeffrey J. Potoff,I185443292,Wayne State University,Detroit,Michigan,US,分子动力学与统计力学,26,16,0.808,0.321,30,10,0000-0002-4421-8787
+A5010936562,M. T. Rodgers,I185443292,Wayne State University,Detroit,Michigan,US,激发态、光谱与非绝热动力学,58,7,0.362,0.358,52,2,0000-0002-5614-0948
+A5046600331,Md Mahbubul Islam,I185443292,Wayne State University,Detroit,Michigan,US,分子动力学与统计力学,54,4,0.556,0.545,33,10,0000-0003-4584-2204
+A5014370221,Harel Weinstein,I4387153466,Weill Cornell Medicine,New York,New York,US,分子动力学与统计力学,84,14,0.607,0.284,80,6,0000-0003-3473-9818
+A5062449462,David L. Beveridge,I100538780,Wesleyan University,Middletown,,US,分子动力学与统计力学,34,0,0.882,0.596,48,5,0000-0003-2150-899X
+A5001298955,Francis W. Starr,I100538780,Wesleyan University,Middletown,,US,分子动力学与统计力学,78,32,0.397,0.325,54,7,0000-0002-2895-6595
+A5012941965,George A. Petersson,I100538780,Wesleyan University,Middletown,,US,电子结构与量子化学方法,32,32,0.594,0.681,33,4,0000-0002-3521-934X
+A5087286790,Kelly M. Thayer,I100538780,Wesleyan University,Middletown,,US,分子动力学与统计力学,16,1,0.875,0.262,14,3,0000-0001-7437-9517
+A5064664549,Aldo Humberto Romero,I12097938,West Virginia University,Morgantown,West Virginia,US,电子结构与量子化学方法,56,30,0.464,0.147,64,7,0000-0001-5968-0571
+A5024498115,Blake Mertz,I12097938,West Virginia University,Morgantown,West Virginia,US,分子动力学与统计力学,38,3,0.579,0.404,16,3,0000-0002-7677-0496
+A5124940110,Danielle M. Colussi,I125749732,Western University,London,Ontario,CA,分子动力学与统计力学,13,0,1.0,0.271,7,0,0000-0001-9134-1692
+A5034852833,Mikko Karttunen,I125749732,Western University,London,Ontario,CA,分子动力学与统计力学,130,28,0.592,0.32,67,9,0000-0002-8626-3033
+A5015727377,Styliani Consta,I125749732,Western University,London,Ontario,CA,分子动力学与统计力学,60,16,0.254,0.656,22,2,0000-0001-8869-4155
+A5064925546,Viktor N. Staroverov,I125749732,Western University,London,Ontario,CA,电子结构与量子化学方法,105,95,0.592,0.493,41,13,0000-0002-6828-3815
+A5101602550,Yun Luo,I93393672,Western University of Health Sciences,Pomona,California,US,分子动力学与统计力学,43,9,0.651,0.323,26,3,0000-0003-3581-754X
+A5033852131,Robert Berger,I52669646,Western Washington University,Bellingham,Washington,US,计算材料与密度泛函,15,2,0.333,0.268,17,2,0000-0002-2691-8667
+A5013157574,Ryan Jorn,I39587148,Wichita State University,Wichita,,US,分子动力学与统计力学,12,5,0.333,0.353,15,2,0000-0002-0192-9298
+A5090529427,Ian  P. Hamilton,I75381157,Wilfrid Laurier University,Waterloo,Ontario,CA,电子结构与量子化学方法,33,22,0.781,0.533,23,2,0000-0001-9581-0687
+A5065319628,Henry Krakauer,I16285277,William & Mary,Williamsburg,Virginia,US,电子结构与量子化学方法,28,27,0.893,0.241,66,5,0000-0003-2517-0957
+A5079027854,Nathanael M. Kidwell,I16285277,William & Mary,Williamsburg,Virginia,US,激发态、光谱与非绝热动力学,22,11,0.273,0.458,13,5,0000-0002-7065-4486
+A5100449694,Shiwei Zhang,I16285277,William & Mary,Williamsburg,Virginia,US,电子结构与量子化学方法,50,47,0.9,0.243,44,9,0000-0001-9635-170X
+A5072657571,Fanglin Che,I107077323,Worcester Polytechnic Institute,Worcester,Massachusetts,US,计算材料与密度泛函,27,1,0.481,0.333,31,5,0000-0001-5109-8296
+A5016949065,Paul G. Seybold,I19648265,Wright State University,Dayton,Ohio,US,电子结构与量子化学方法,36,35,0.611,0.562,30,3,0000-0002-7642-2619
+A5000912176,Amir Haji-Akbari,I32971472,Yale University,New Haven,Connecticut,US,分子动力学与统计力学,30,18,0.633,0.5,26,6,0000-0002-2228-6957
+A5012956193,John C. Tully,I32971472,Yale University,New Haven,Connecticut,US,电子结构与量子化学方法,54,43,0.604,0.646,83,15,0000-0002-4358-1920
+A5069830262,Patrick H. Vaccaro,I32971472,Yale University,New Haven,Connecticut,US,电子结构与量子化学方法,32,20,0.25,0.299,30,5,0000-0001-7178-7638
+A5003543257,Sohrab Ismail-Beigi,I32971472,Yale University,New Haven,Connecticut,US,电子结构与量子化学方法,47,30,0.489,0.173,49,9,0000-0002-7331-9624
+A5089129603,Víctor S. Batista,I32971472,Yale University,New Haven,Connecticut,US,电子结构与量子化学方法,172,81,0.471,0.26,80,22,0000-0002-3262-1237
+A5053850265,William L. Jorgensen,I32971472,Yale University,New Haven,Connecticut,US,分子动力学与统计力学,106,70,0.651,0.234,120,9,0000-0002-3993-9520
+A5062504994,Jennifer van Wijngaarden,I192455969,York University,Toronto,Ontario,CA,激发态、光谱与非绝热动力学,28,22,0.571,0.267,15,1,0000-0001-6073-1153
+A5051922432,René Fournier,I192455969,York University,Toronto,Ontario,CA,电子结构与量子化学方法,34,31,0.559,0.596,29,1,0000-0002-3570-4708
+A5071974200,Tao Zeng,I192455969,York University,Toronto,Ontario,CA,电子结构与量子化学方法,58,48,0.586,0.439,30,6,0000-0002-1553-7850

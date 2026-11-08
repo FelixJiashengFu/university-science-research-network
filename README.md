@@ -6,8 +6,9 @@
 |---|---|---|
 | 多伦多大学（三校区） | [`uoft/`](uoft/) | 298 位教授 · 主网 6,274 节点 / 24,618 边 · 12 张网络 |
 | 斯坦福大学 | [`stanford/`](stanford/) | 136 位教授 · 主网 3,844 节点 / 12,312 边 · 18 张网络 |
+| 美国 + 加拿大：量子化学 / 计算化学 | [`na-quantum-chem-map/`](na-quantum-chem-map/) | 1,044 位教授 · 277 所学校 · 4,244 条合作线 · 真实地图 |
 
-**在线浏览**：仓库 Settings → Pages → Source 选 *GitHub Actions*，`.github/workflows/pages.yml` 会把顶层入口页和两个学校的 `site/` 一起发布。
+**在线浏览**：仓库 Settings → Pages → Source 选 *GitHub Actions*，`.github/workflows/pages.yml` 会把顶层入口页和各子项目的 `site/` 一起发布。
 
 **本地浏览**：
 
