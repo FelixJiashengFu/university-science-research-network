@@ -1,0 +1,20 @@
+{
+ "mit": {"zh": "麻省理工学院", "en": "Massachusetts Institute of Technology", "cc": "US", "inst": ["I63966007"]},
+ "harvard": {"zh": "哈佛大学", "en": "Harvard University", "cc": "US", "inst": ["I136199984"]},
+ "caltech": {"zh": "加州理工学院", "en": "California Institute of Technology", "cc": "US", "inst": ["I122411786"]},
+ "berkeley": {"zh": "加州大学伯克利分校", "en": "University of California, Berkeley", "cc": "US", "inst": ["I95457486"]},
+ "princeton": {"zh": "普林斯顿大学", "en": "Princeton University", "cc": "US", "inst": ["I20089843"]},
+ "uchicago": {"zh": "芝加哥大学", "en": "University of Chicago", "cc": "US", "inst": ["I40347166"]},
+ "columbia": {"zh": "哥伦比亚大学", "en": "Columbia University", "cc": "US", "inst": ["I78577930"]},
+ "yale": {"zh": "耶鲁大学", "en": "Yale University", "cc": "US", "inst": ["I32971472"]},
+ "cornell": {"zh": "康奈尔大学", "en": "Cornell University", "cc": "US", "inst": ["I205783295"]},
+ "tsinghua": {"zh": "清华大学", "en": "Tsinghua University", "cc": "CN", "inst": ["I99065089"]},
+ "pku": {"zh": "北京大学", "en": "Peking University", "cc": "CN", "inst": ["I20231570"]},
+ "ustc": {"zh": "中国科学技术大学", "en": "University of Science and Technology of China", "cc": "CN", "inst": ["I126520041"]},
+ "fudan": {"zh": "复旦大学", "en": "Fudan University", "cc": "CN", "inst": ["I24943067"]},
+ "sjtu": {"zh": "上海交通大学", "en": "Shanghai Jiao Tong University", "cc": "CN", "inst": ["I183067930"]},
+ "zju": {"zh": "浙江大学", "en": "Zhejiang University", "cc": "CN", "inst": ["I76130692"]},
+ "nju": {"zh": "南京大学", "en": "Nanjing University", "cc": "CN", "inst": ["I881766915"]},
+ "whu": {"zh": "武汉大学", "en": "Wuhan University", "cc": "CN", "inst": ["I37461747"]},
+ "sysu": {"zh": "中山大学", "en": "Sun Yat-sen University", "cc": "CN", "inst": ["I157773358"]}
+}

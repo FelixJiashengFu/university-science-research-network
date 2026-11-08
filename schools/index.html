@@ -54,14 +54,16 @@ body.glassy { background: radial-gradient(900px 600px at 90% -10%, color-mix(in 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const N = window.RA_NAV, grid = document.getElementById("grid");
-  const STATS = { uoft: [298, "5.2 万", 12], stanford: [136, "4.0 万", 18] };
+  const STATS = { uoft: [298, 52000, 12], stanford: [136, 40000, 18] };
+  const wan = n => n >= 10000 ? (n / 10000).toFixed(1) + " 万" : n.toLocaleString();
   let filt = "all";
+  fetch("stats.json").then(r => r.ok ? r.json() : {}).then(j => { for (const k in j) STATS[k] = [j[k][0], j[k][1], j[k][2]]; paint(); }).catch(() => {});
   function paint() {
     grid.innerHTML = N.ordered(N.SCHOOLS, "schools").map(([k, zh, en, cc, p]) => {
       const s = STATS[k];
       return `<div class="sc${p ? "" : " off"}" data-key="${k}" id="${k}"${filt !== "all" && cc !== filt ? " hidden" : ""}><div class="top"><span class="fl ${cc}">${N.FLAG[cc]}</span><span class="st${p ? " on" : ""}">${p ? "已上线" : "建设中"}</span></div>
         <h3><a href="${p ? "../" + p : "#" + k}">${zh}</a></h3><div class="en">${en}</div>
-        <div class="nums">${s ? `<span><b>${s[0]}</b>位教授</span><span><b>${s[1]}</b>篇论文</span><span><b>${s[2]}</b>张网络</span>` : `<span><b>—</b>数学 · 物理 · 化学</span>`}</div></div>`;
+        <div class="nums">${s ? `<span><b>${s[0]}</b>位教授</span><span><b>${wan(s[1])}</b>篇论文</span><span><b>${s[2]}</b>张网络</span>` : `<span><b>—</b>数学 · 物理 · 化学</span>`}</div></div>`;
     }).join("");
     const h = location.hash.slice(1), t = h && document.getElementById(h); if (t) t.classList.add("hl");
   }
