@@ -1,4 +1,8 @@
 {
+ "cn_companies": 51,
+ "cn_corpus_companies": 378,
+ "cn_company_works": 3401,
+ "cn_funding_total_musd": 4916,
  "companies": 113,
  "corpus_companies": 785,
  "company_works": 5890,
@@ -25,5 +29,5 @@
  },
  "academic_spinouts": 80,
  "founder_prof_matches": 13,
- "charts": 29
+ "charts": 57
 }

@@ -1,0 +1,197 @@
+professor_id,professor,institution,company_id,company,co_papers
+A5101648065,Weile Jia,Institute of Computing Technology,I4405256866,ByteDance,2
+A5101648065,Weile Jia,Institute of Computing Technology,I98301712,Baidu,2
+A5101648065,Weile Jia,Institute of Computing Technology,I2250955327,Huawei Technologies,2
+A5033079136,Wenhui Duan,Tsinghua University,I2250653659,Tencent,4
+A5046561934,Ping Qian,Liaoning Normal University,I4210087919,Kuang-Chi,2
+A5046561934,Ping Qian,Liaoning Normal University,I4210093784,Higher Education Press,1
+A5051732177,Yi Qin Gao,Peking University,I4405256866,ByteDance,5
+A5051732177,Yi Qin Gao,Peking University,I2250955327,Huawei Technologies,3
+A5037467829,Ji Chen,Peking University,I4405256866,ByteDance,13
+A5083481518,Lichun Bai,Central South University,I1311643757,Commercial Aircraft Corporation of China,1
+A5083481518,Lichun Bai,Central South University,I4210150832,Oriental Yuhong,1
+A5006197715,Jun Jie Cheng,Xiamen University,I4405262974,"Contemporary Amperex Technology Co., Limited.",2
+A5006197715,Jun Jie Cheng,Xiamen University,I4210094030,Ansteel,1
+A5010837231,Chong-Yu Wang,Kunming University of Science and Technology,I4210123492,Advanced Technology & Materials,2
+A5010837231,Chong-Yu Wang,Kunming University of Science and Technology,I4210118245,Shandong Iron and Steel Group,1
+A5100650302,Sheng Meng,Tongji University,I2250653659,Tencent,2
+A5100361667,Jun Liu,Qiqihar University,I106994412,Sinopec,6
+A5100361667,Jun Liu,Qiqihar University,I4405274254,"Sinopec Beijing Research Institute of Chemical Industry Co., Ltd.",5
+A5100361667,Jun Liu,Qiqihar University,I4210116579,Beijing Chemical Industry Research Institute,3
+A5100361667,Jun Liu,Qiqihar University,I158108717,China National Offshore Oil Corporation,1
+A5051146702,Qu Zhou,Southwest University,I17442442,State Grid Corporation of China,5
+A5051146702,Qu Zhou,Southwest University,I4405270698,State Grid Chongqing Electric Power Company,5
+A5051146702,Qu Zhou,Southwest University,I4405270234,"Yunnan Power Grid Co., Ltd.",3
+A5051146702,Qu Zhou,Southwest University,I98227222,China National Petroleum Corporation,3
+A5051146702,Qu Zhou,Southwest University,I4392738110,State Grid Shanxi Electric Power Company,2
+A5061281482,Xinguo Ren,Institute of Physics,I2250653659,Tencent,1
+A5100361761,Jun Liu,Beijing University of Chemical Technology,I106994412,Sinopec,1
+A5100361761,Jun Liu,Beijing University of Chemical Technology,I4210116579,Beijing Chemical Industry Research Institute,1
+A5100361761,Jun Liu,Beijing University of Chemical Technology,I4405274254,"Sinopec Beijing Research Institute of Chemical Industry Co., Ltd.",1
+A5107845404,Zhao-Yan Sun,University of Science and Technology of China,I4210144430,Kingfa,2
+A5082303358,Xiao Dong He,New York University Shanghai,I4210113369,Microsoft Research Asia,1
+A5101468692,Baoshan Wang,Wuhan University,I74872605,China Southern Power Grid,1
+A5101468692,Baoshan Wang,Wuhan University,I4405272762,Guangdong Power Grid Company,1
+A5101468692,Baoshan Wang,Wuhan University,I17442442,State Grid Corporation of China,1
+A5044070229,Shiping Huang,Beijing University of Chemical Technology,I106994412,Sinopec,23
+A5100410700,Zhi Zeng,University of Science and Technology of China,I4210126590,General Research Institute for Nonferrous Metals,1
+A5039306865,Kuang Yu,Tsinghua Shenzhen International Graduate School,I2250955327,Huawei Technologies,1
+A5039306865,Kuang Yu,Tsinghua Shenzhen International Graduate School,I4405256866,ByteDance,1
+A5080750066,Gang Jiang,Chongqing Normal University,I17442442,State Grid Corporation of China,3
+A5078198032,Longjiu Cheng,Anhui University,I17442442,State Grid Corporation of China,4
+A5076173054,Jucai Yang,Inner Mongolia University of Technology,I4210130035,China Communications Construction Company,1
+A5036163052,Xin Xu,Fudan University,I4405267977,Adagene Inc.,1
+A5060285813,Zhenggang Lan,South China Normal University,I4210120238,PowerChina,1
+A5063505795,Rongshun Wang,Jianghan University,I4210127843,First Automotive Works,1
+A5046506870,Houfu Dai,Shantou University,I4210159425,Chengdu Tool Research Institute,1
+A5057098553,Qingyong Meng,Northwestern Polytechnical University,I3017770710,China North Industries Group Corporation,1
+A5037829735,Ye Mei,East China Normal University,I4210096870,Simcere Pharmaceutical,1
+A5053214702,Mingli Yang,Sichuan University,I4387154057,Exploration and Development Research Institute of PetroChina Southwest Oil & Gas Field Company,7
+A5053214702,Mingli Yang,Sichuan University,I4387156274,PetroChina Southwest Oil and Gas Field Company,7
+A5100705190,Haibo Ma,Shandong University,I17442442,State Grid Corporation of China,2
+A5023766640,Mengqiu Long,Central South University,I4210148359,Lifan,1
+A5066544142,Daiqian Xie,Nanjing University,I4210150405,Hongzhiwei Technology,1
+A5007556253,Yuanzheng Tang,Qingdao University of Science and Technology,I106994412,Sinopec,1
+A5040301471,Honglai Liu,East China University of Science and Technology,I4387154190,Yunnan Botanee Biotechnology Group Co.,2
+A5040301471,Honglai Liu,East China University of Science and Technology,I4405262974,"Contemporary Amperex Technology Co., Limited.",1
+A5040301471,Honglai Liu,East China University of Science and Technology,I4210101469,China National Salt Industry Corporation,1
+A5040301471,Honglai Liu,East China University of Science and Technology,I98227222,China National Petroleum Corporation,1
+A5111263269,Jingchuan Zhu,Harbin Institute of Technology,I4210156095,Aero Engine Corporation of China,1
+A5111263269,Jingchuan Zhu,Harbin Institute of Technology,I4210122878,Chongqing 2D Materials Institute,1
+A5111263269,Jingchuan Zhu,Harbin Institute of Technology,I2800372957,China Electronics Technology Group Corporation,1
+A5019157263,Bin Jiang,University of Science and Technology of China,I2250955327,Huawei Technologies,1
+A5100619997,Jun Jiang,University of Science and Technology of China,I2250955327,Huawei Technologies,2
+A5023510217,Haisheng Ren,Sichuan University,I4210150405,Hongzhiwei Technology,1
+A5100647288,Jun Gao,Huazhong Agricultural University,I4210150405,Hongzhiwei Technology,1
+A5019399075,Wenjian Liu,Shandong University,I4210150405,Hongzhiwei Technology,1
+A5014043910,Yi Gao,Shanghai Advanced Research Institute,I4210149943,Chambroad Chemical Industry Research Institute,1
+A5100458442,Jinlong Yang,University of Science and Technology of China,I4405278235,Zhengzhou Research Institute for Abrasives & Grinding,2
+A5044873694,Chungen Liu,Nanjing University,I98301712,Baidu,1
+A5109120449,Chengbu Liu,Shandong University,I4210105139,Tianjin Institute of Pharmaceutical Research,3
+A5091144208,Lin-Wang Wang,Institute of Semiconductors,I2250955327,Huawei Technologies,1
+A5042974614,Chuying Ouyang,Peking University,I4405262974,"Contemporary Amperex Technology Co., Limited.",5
+A5042974614,Chuying Ouyang,Peking University,I4210133355,Jiangling Motors Corporation,1
+A5030799762,Zhigang Shuai,Chinese University of Hong Kong,I2250653659,Tencent,2
+A5030799762,Zhigang Shuai,Chinese University of Hong Kong,I4405256866,ByteDance,1
+A5064262109,Wangyu Hu,Hunan University,I4210134419,Neusoft,2
+A5064262109,Wangyu Hu,Hunan University,I4405274137,China Nuclear Power Technology Research Institute,2
+A5064262109,Wangyu Hu,Hunan University,I4210097777,China General Nuclear Power Corporation,1
+A5062582969,Xi-Jing Ning,Fudan University,I4210150405,Hongzhiwei Technology,1
+A5100430090,Zhiguo Wang,Nanchang University,I2800372957,China Electronics Technology Group Corporation,2
+A5059875221,Zhimei Sun,Huainan Normal University,I4405270965,State Grid Fujian Electric Power Company,1
+A5100405781,Ping Zhang,Qufu Normal University,I15089104,China Aerospace Science and Industry Corporation,2
+A5033751081,Xiaotao Zu,University of Electronic Science and Technology of China,I4405274137,China Nuclear Power Technology Research Institute,3
+A5040171715,Quan Xie,Yunnan Normal University,I4210166719,WengFu Group,1
+A5059210458,Yuelei Bai,Harbin Institute of Technology,I4210156095,Aero Engine Corporation of China,1
+A5059210458,Yuelei Bai,Harbin Institute of Technology,I4210147525,AviChina Industry & Technology,1
+A5059210458,Yuelei Bai,Harbin Institute of Technology,I4405277481,AVIC Manufacturing Technology Institute,1
+A5081628324,Xue-Hai Ju,Nanjing University of Science and Technology,I4210116579,Beijing Chemical Industry Research Institute,2
+A5081628324,Xue-Hai Ju,Nanjing University of Science and Technology,I4210087919,Kuang-Chi,1
+A5023502514,Zhi-Pan Liu,Fudan University,I106994412,Sinopec,1
+A5037586164,Zhijian Wu,Qinghai University,I4210091069,Dongfang Electric Corporation,5
+A5108423344,Kaiming Deng,Nanjing University of Science and Technology,I4210102267,Changsha Mining and Metallurgy Research Institute,1
+A5044701012,Ruifeng Lu,Nanjing University of Science and Technology,I4210102267,Changsha Mining and Metallurgy Research Institute,1
+A5010710586,Lingna Xu,Southwest University,I4405282011,State Grid Jiangsu Electric Power,9
+A5010710586,Lingna Xu,Southwest University,I17442442,State Grid Corporation of China,2
+A5010710586,Lingna Xu,Southwest University,I4405270698,State Grid Chongqing Electric Power Company,2
+A5006520119,Daojian Cheng,Beijing University of Chemical Technology,I106994412,Sinopec,4
+A5006520119,Daojian Cheng,Beijing University of Chemical Technology,I4405274254,"Sinopec Beijing Research Institute of Chemical Industry Co., Ltd.",3
+A5006520119,Daojian Cheng,Beijing University of Chemical Technology,I98227222,China National Petroleum Corporation,1
+A5006520119,Daojian Cheng,Beijing University of Chemical Technology,I4210129545,Grinm Advanced Materials,1
+A5100361956,Jun Li,Henan University,I106994412,Sinopec,1
+A5100361956,Jun Li,Henan University,I4405274254,"Sinopec Beijing Research Institute of Chemical Industry Co., Ltd.",1
+A5100361956,Jun Li,Henan University,I98227222,China National Petroleum Corporation,1
+A5056166029,Dapeng Cao,Xiangtan University,I4210105136,Yangtze River Delta Physics Research Center,1
+A5056166029,Dapeng Cao,Xiangtan University,I4210129545,Grinm Advanced Materials,1
+A5056166029,Dapeng Cao,Xiangtan University,I4210126257,CRRC,1
+A5056166029,Dapeng Cao,Xiangtan University,I4210134393,China National Chemical Engineering,1
+A5111951320,Xin Guo,Zhejiang Sci-Tech University,I11838497,Aviation Industry Corporation of China,1
+A5023326722,Pengbo Hu,Chongqing University,I106994412,Sinopec,2
+A5023326722,Pengbo Hu,Chongqing University,I4392738174,"China Huaneng Group Co., Ltd.",2
+A5023326722,Pengbo Hu,Chongqing University,I4210126065,Shanghai Electric,1
+A5100459431,Xiaoyan Li,Tianjin University,I98227222,China National Petroleum Corporation,1
+A5085852346,Xue-Qing Gong,Shanghai Jiao Tong University,I106994412,Sinopec,1
+A5062895384,Huihui Xiong,Jiangxi University of Science and Technology,I4210140329,Jiangxi Copper,1
+A5052875226,Huiqiu Deng,Hunan University,I4405274137,China Nuclear Power Technology Research Institute,2
+A5052875226,Huiqiu Deng,Hunan University,I4210097777,China General Nuclear Power Corporation,1
+A5052875226,Huiqiu Deng,Hunan University,I4405276746,Shanghai Nuclear Engineering Research and Design Institute,1
+A5100777141,Jiaxu Zhang,Heilongjiang University of Chinese Medicine,I4401726915,Zhipu AI,1
+A5022454993,Baojun Wang,Shanghai University,I4210142993,China Shenhua Energy,4
+A5035271390,Xuyun Zhang,Northeast Petroleum University,I4387155657,Daqing Oilfield of CNPC,1
+A5035271390,Xuyun Zhang,Northeast Petroleum University,I4210156095,Aero Engine Corporation of China,1
+A5019864544,Qingxin Kang,Northeast Petroleum University,I4387155657,Daqing Oilfield of CNPC,1
+A5070673257,Weijie Yang,North China Electric Power University,I158108717,China National Offshore Oil Corporation,5
+A5070673257,Weijie Yang,North China Electric Power University,I17442442,State Grid Corporation of China,1
+A5070673257,Weijie Yang,North China Electric Power University,I4405270619,State Grid Zhejiang Electric Power Company,1
+A5102966539,Ran Jia,Jilin University,I106994412,Sinopec,1
+A5100377834,Qiang Sun,Xi'an University of Science and Technology,I4210087919,Kuang-Chi,2
+A5100377834,Qiang Sun,Xi'an University of Science and Technology,I4210100528,ENN,1
+A5044562088,Yun-Dong Wu,Peking University,I4210106541,Chengdu Organic Chemicals,1
+A5061205386,Zi-Zhong Zhu,Xiamen University,I4405262974,"Contemporary Amperex Technology Co., Limited.",1
+A5010421198,Ping Peng,Hunan University,I4210109033,Sinosteel,1
+A5082947595,Xianqi Dai,Zhengzhou Normal University,I4210150405,Hongzhiwei Technology,1
+A5004933770,Xiaoqing Lü,Guangdong Pharmaceutical University,I98227222,China National Petroleum Corporation,6
+A5004933770,Xiaoqing Lü,Guangdong Pharmaceutical University,I106994412,Sinopec,1
+A5004933770,Xiaoqing Lü,Guangdong Pharmaceutical University,I4210144143,Inspur,1
+A5024136853,Wenyue Guo,"China University of Petroleum, East China",I98227222,China National Petroleum Corporation,4
+A5024136853,Wenyue Guo,"China University of Petroleum, East China",I106994412,Sinopec,2
+A5013508325,Gui-Chang Wang,Nankai University,I4210091192,Zhejiang Zanyu Technology,1
+A5070923325,Zi-Zhong Zhu,Xiamen University,I4210150405,Hongzhiwei Technology,1
+A5004415040,David Lee Phillips,University of Hong Kong,I98227222,China National Petroleum Corporation,2
+A5102835823,Chuan-Hui Zhang,University of Science and Technology Beijing,I4210096346,Golden Concord Group,1
+A5022560236,Xuefeng Lu,Lanzhou University of Technology,I4210094623,Jiuquan Iron & Steel,8
+A5004710943,Ai-Min Ren,Jilin University,I4401726770,Cambricon,1
+A5031021857,Yudou Wang,"China University of Petroleum, East China",I4405281964,PetroChina Xinjiang Oilfield Company,4
+A5031021857,Yudou Wang,"China University of Petroleum, East China",I98227222,China National Petroleum Corporation,2
+A5006689093,Shaorui Sun,Beijing University of Technology,I2800372957,China Electronics Technology Group Corporation,1
+A5101674393,Xiaolong Zhou,Kunming University of Science and Technology,I4210126991,China Nonferrous Metal Mining,1
+A5110806356,Jianhua Chen,Guangxi University,I4210126590,General Research Institute for Nonferrous Metals,1
+A5110806356,Jianhua Chen,Guangxi University,I4210129545,Grinm Advanced Materials,1
+A5110806356,Jianhua Chen,Guangxi University,I4210140329,Jiangxi Copper,1
+A5037816258,Jianbo Cheng,Peking University,I4210086109,Focused Photonics,1
+A5034838582,Jianyong Liu,Dalian Institute of Chemical Physics,I106994412,Sinopec,2
+A5009861048,Beibei Xiao,Jiangsu University of Science and Technology,I17442442,State Grid Corporation of China,1
+A5009861048,Beibei Xiao,Jiangsu University of Science and Technology,I4405270698,State Grid Chongqing Electric Power Company,1
+A5009861048,Beibei Xiao,Jiangsu University of Science and Technology,I4405282011,State Grid Jiangsu Electric Power,1
+A5031472203,Huali Hao,Wuhan University,I17442442,State Grid Corporation of China,1
+A5102830030,Jian-Gang Guo,Tianjin University,I4210137963,China Railway Design Corporation,1
+A5028525523,Tingjun Hou,Zhejiang University,I4210135979,Yangtze River Pharmaceutical Group,1
+A5028525523,Tingjun Hou,Zhejiang University,I2250955327,Huawei Technologies,1
+A5028525523,Tingjun Hou,Zhejiang University,I45928872,Alibaba Group,1
+A5012329595,Shuangliang Zhao,East China University of Science and Technology,I98227222,China National Petroleum Corporation,4
+A5012329595,Shuangliang Zhao,East China University of Science and Technology,I106994412,Sinopec,1
+A5100776330,Fengchao Wang,University of Science and Technology of China,I4210155468,ZTT,1
+A5100776330,Fengchao Wang,University of Science and Technology of China,I4387155657,Daqing Oilfield of CNPC,1
+A5070063506,Zhaoxi Sun,Shenzhen University of Advanced Technology,I4405271797,XtalPi,1
+A5056147538,Shiling Yuan,Shandong University,I106994412,Sinopec,2
+A5037785133,Xiaojun Yao,Macao Polytechnic University,I4401726822,Ping An,1
+A5037785133,Xiaojun Yao,Macao Polytechnic University,I2250653659,Tencent,1
+A5015565192,Chuanfu Luo,University of Science and Technology of China,I4210111758,BASF,1
+A5015565192,Chuanfu Luo,University of Science and Technology of China,I4210144430,Kingfa,1
+A5091514152,Qingzhao Chu,Beijing Institute of Technology,I3017770710,China North Industries Group Corporation,2
+A5067333581,Xuefei Xu,Chengdu University of Information Technology,I106994412,Sinopec,1
+A5109986133,Xuedong Gong,Nanjing University of Science and Technology,I4405270619,State Grid Zhejiang Electric Power Company,1
+A5101870978,Tao Gao,Sichuan University,I4210120155,Tebian Electric Apparatus,1
+A5103185316,Chunfu Liu,Anhui University of Science and Technology,I4210161568,Huainan Mining Industry Group,1
+A5052359429,Sizhu Wu,Beijing University of Chemical Technology,I4405274254,"Sinopec Beijing Research Institute of Chemical Industry Co., Ltd.",1
+A5034886921,Chengzhen Sun,Xi'an Jiaotong University,I158108717,China National Offshore Oil Corporation,1
+A5100337869,Guohui Li,Liaoning Normal University,I4405277418,Shenyang Research Institute of Chemical Industry,1
+A5036239584,Zongli Sun,North China Electric Power University,I4210151703,China Coal Technology and Engineering Group Corp,1
+A5036239584,Zongli Sun,North China Electric Power University,I4210163007,Shaanxi Yulin Energy Group,1
+A5030540342,Dadong Yan,Zhejiang University,I4210144430,Kingfa,2
+A5060606278,Ruochen Sun,Beijing Institute of Aeronautical Materials,I4210152946,Jiangnan Industry Group,1
+A5060606278,Ruochen Sun,Beijing Institute of Aeronautical Materials,I3017770710,China North Industries Group Corporation,1
+A5060606278,Ruochen Sun,Beijing Institute of Aeronautical Materials,I4210156095,Aero Engine Corporation of China,1
+A5084673397,Zhenli Xu,Shanghai Jiao Tong University,I2250955327,Huawei Technologies,1
+A5091274866,Guiwu Lu,"China University of Petroleum, Beijing",I98227222,China National Petroleum Corporation,1
+A5009468534,Fenhong Song,Northeast Electric Power University,I17442442,State Grid Corporation of China,1
+A5086386273,Dongqi Wang,Dalian University of Technology,I98227222,China National Petroleum Corporation,1
+A5035816005,Qiangqiang Gu,University of Science and Technology of China,I4405262974,"Contemporary Amperex Technology Co., Limited.",1
+A5079099788,Qing Hou,Sichuan University,I4392738174,"China Huaneng Group Co., Ltd.",1
+A5078343121,Jianyang Wu,Xiamen University,I4210113402,China National Chemical Corporation,1
+A5087101952,Mingjun Peng,Kunming University of Science and Technology,I146279334,Aluminum Corporation of China,1
+A5101826210,Xin-Gao Gong,Fudan University,I4405262974,"Contemporary Amperex Technology Co., Limited.",1
+A5088722533,Hongjun Xiang,Fudan University,I4405262974,"Contemporary Amperex Technology Co., Limited.",1
+A5080787409,Yujun Zheng,Shandong University,I4405271797,XtalPi,1
+A5034715756,Shenzhen Xu,Peking University,I4405256866,ByteDance,1
+A5074195688,Ze-Sheng Li,Beijing University of Technology,I17442442,State Grid Corporation of China,2

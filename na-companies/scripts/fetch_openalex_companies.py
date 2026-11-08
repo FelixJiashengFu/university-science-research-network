@@ -1,13 +1,18 @@
-"""Fetch every OpenAlex work (2000-2026) in the North America quantum/computational chemistry corpus
-that has at least one company-affiliated author, using the same five corpus queries as na-quantum-chem-map.
+"""Fetch every OpenAlex work (2000-2026) in the quantum/computational chemistry corpus that has at least one
+company-affiliated author in the chosen region, using the same five corpus queries as na-quantum-chem-map
+and cn-quantum-chem-map.
 
+Usage: python3 scripts/fetch_openalex_companies.py [na|cn]      (default na)
+  na  US + Canada          -> data/raw/company_works.jsonl
+  cn  mainland China + Hong Kong + Macao -> data/raw/cn_company_works.jsonl
 Needs OPENALEX_API_KEY in the environment (never commit it).
-Output: data/raw/company_works.jsonl (one compact work per line, deduplicated across queries).
 """
 import json, os, sys, time, urllib.parse, urllib.request
 
 KEY = os.environ["OPENALEX_API_KEY"]
-BASE = "authorships.institutions.type:company,authorships.institutions.country_code:US|CA,publication_year:2000-2026"
+REGION = (sys.argv[1] if len(sys.argv) > 1 else "na").lower()
+COUNTRIES = {"na": "US|CA", "cn": "CN|HK|MO"}[REGION]
+BASE = f"authorships.institutions.type:company,authorships.institutions.country_code:{COUNTRIES},publication_year:2000-2026"
 QUERIES = {
     "topic": "primary_topic.id:T10002|T11177|T12044|T11948",
     "qc": "concepts.id:C183971685|C22994065|C81263218|C20853536|C19637589",
@@ -16,7 +21,7 @@ QUERIES = {
     "journal": "primary_location.source.issn:1549-9618|0021-9606|0192-8651|1759-0876|0020-7608|1432-881X",
 }
 SELECT = "id,doi,title,publication_year,cited_by_count,authorships,primary_topic"
-OUT = os.path.join(os.path.dirname(__file__), "..", "data", "raw", "company_works.jsonl")
+OUT = os.path.join(os.path.dirname(__file__), "..", "data", "raw", {"na": "company_works.jsonl", "cn": "cn_company_works.jsonl"}[REGION])
 
 def get(params):
     url = "https://api.openalex.org/works?" + urllib.parse.urlencode(params)
