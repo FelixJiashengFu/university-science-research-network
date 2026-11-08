@@ -88,6 +88,68 @@ def works(slug, aid):
     with open(fn, "w") as f:
         for x in rows: f.write(json.dumps(x, ensure_ascii=False) + "\n")
 
+def toks(name):
+    """Name -> (given tokens, family) in lower-case ASCII; hyphens and spaces inside given names are joined
+    (Wei-Hai / Wei Hai / Weihai), so pinyin spellings compare equal."""
+    import unicodedata, re
+    n = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode().lower()
+    n = re.sub(r"\(.*?\)|\b(dr|prof)\b\.?", " ", n)
+    parts = re.sub(r"[^a-z\- ]", " ", n).split()
+    if not parts: return "", ""
+    fam = parts[-1].replace("-", ""); given = "".join(p.replace("-", "") for p in parts[:-1])
+    return given, fam
+
+def same_person(r, c):
+    """0 = no, 1 = initial match, 2 = full given-name match (also tries family/given swapped, common for Chinese names)."""
+    best = 0
+    for g, f in (r, (r[1], r[0])):
+        if not f or f != c[1]: continue
+        if g and g == c[0]: best = max(best, 2)
+        elif g and c[0] and (c[0][0] == g[0]) and (len(c[0]) == 1 or c[0].startswith(g) or g.startswith(c[0])): best = max(best, 1)
+    return best
+
+def from_roster(slug, inst, S, roster):
+    """Match department roster names to authors seen in the school's corpus (no search requests needed)."""
+    FID = {v: k for k, v in FIELD.items()}
+    by_fam = collections.defaultdict(list)
+    for aid, s in S.items():
+        if not s["name"]: continue
+        t = toks(s["name"]); by_fam[t[1]].append((aid, t))
+    rows, used = [], set()
+    for r in roster:
+        rt = toks(r["name"]); best, bs = None, 0
+        for fam in {rt[1], rt[0]}:
+            for aid, t in by_fam.get(fam, ()):
+                m = same_person(rt, t)
+                if not m or aid in used: continue
+                s = S[aid]; fshare = s["f"][FID.get(r["dept"], "")] / s["n"]
+                score = m + 1.0 * fshare + 0.3 * min(s["n"], 60) / 60
+                if score > bs: best, bs = aid, score
+        rows.append((r, best, bs))
+        if best: used.add(best)
+    ids = [b for _, b, _ in rows if b]
+    info = {}
+    for i in range(0, len(ids), 50):
+        res = get("authors", filter="openalex_id:" + "|".join(ids[i:i + 50]), per_page=50,
+                  select="id,display_name,works_count,cited_by_count,summary_stats,last_known_institutions,orcid")
+        for a in (res or {}).get("results", []): info[a["id"].split("/")[-1]] = a
+    out = f"{HERE}/../{slug}/data/processed"
+    with open(f"{out}/matches.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["name", "dept", "campus", "title", "all_depts", "areas", "url", "source", "note", "openalex_id", "openalex_name", "match_score", "match_note", "works_count", "h_index", "orcid"])
+        for r, aid, sc in rows:
+            a = info.get(aid) if aid else None
+            ok = a is not None and sc >= 1.6
+            w.writerow([r["name"], r["dept"], r.get("campus", ""), r.get("title", ""), r.get("all_depts") or r["dept"], r.get("areas", ""), r.get("url", ""), r.get("source", ""), r.get("note", ""),
+                        aid if ok else "", a["display_name"] if ok else "", round(sc, 3) if ok else 0,
+                        f"name matched in {S[aid]['n']} school papers 2019-2025" if ok else "no confident match among the school's 2019-2025 authors",
+                        a["works_count"] if ok else 0, ((a.get("summary_stats") or {}).get("h_index") or "") if ok else "", (a.get("orcid") or "") if ok else ""])
+    good = [aid for r, aid, sc in rows if aid in info and sc >= 1.6]
+    print(slug, "roster", len(roster), "matched", len(good), flush=True)
+    os.makedirs(f"{HERE}/raw/{slug}/works", exist_ok=True)
+    with ThreadPoolExecutor(4) as ex: list(ex.map(lambda x: works(slug, x), good))
+    print(slug, "works done", flush=True)
+
 def main(slug):
     c = CFG[slug]; inst = c["inst"]
     rows = corpus(slug, inst)
@@ -97,6 +159,9 @@ def main(slug):
             s = S[aid]; s["n"] += 1; s["name"] = s["name"] or nm; s["f"][w["f"]] += 1; s["au"] += w["n"]
             if w["y"] >= 2023: s["recent"] += 1
             if w["n"] <= 50: s["small"] += 1; s["last"] += last
+    roster_fn = f"{HERE}/../{slug}/data/processed/roster.csv"
+    if os.path.exists(roster_fn):
+        return from_roster(slug, inst, S, list(csv.DictReader(open(roster_fn, encoding="utf-8"))))
     cand = []
     for aid, s in S.items():
         fid = s["f"].most_common(1)[0][0]; math_ = fid == "26"

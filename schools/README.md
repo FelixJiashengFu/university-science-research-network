@@ -10,7 +10,9 @@ python3 build_graph.py mit             # 17 networks -> schools/mit/site/data/
 python3 make_site.py mit               # page from the Stanford template + schools/stats.json
 ```
 
-**Roster inference.** These schools do not share a common faculty list, so the roster is inferred from publications (method in `fetch.py`):
+**Rosters.** When `schools/<slug>/data/processed/roster.csv` exists (faculty lists taken from the department websites, same columns as Stanford's), `fetch.py` matches those names to the authors in the school's 2019–2025 corpus locally. It needs no author-search requests. Pinyin spellings, hyphens and swapped family/given order are handled; a match needs the full given name, or an initial plus most papers in the right field. Unmatched names stay in `matches.csv` without an OpenAlex id.
+
+**Roster inference (fallback when no roster file).** These schools do not share a common faculty list, so the roster is inferred from publications (method in `fetch.py`):
 - **Corpus.** Works from 2019 to 2025 with an author affiliated to the school and a primary topic in Mathematics, Physics or Chemistry.
 - **Who counts.** A person is kept when, on papers carrying the school's affiliation, they meet all of these:
 
