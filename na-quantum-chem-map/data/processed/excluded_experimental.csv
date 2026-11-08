@@ -1,0 +1,133 @@
+openalex_id,name,institution,corpus_papers,theory_title_share
+A5003059556,Dmitry V. Matyushov,Arizona State University,105,0.2
+A5066675483,Ranko Richert,Arizona State University,103,0.068
+A5078206358,Daniel B. Turner,Boise State University,46,0.174
+A5060858043,James E. Patterson,Brigham Young University,16,0.125
+A5025793161,S. C. Ying,Brown University,22,0.182
+A5037026533,John M. Gregoire,California Institute of Technology,71,0.225
+A5074061910,Timothy C. Steimle,California Institute of Technology,59,0.017
+A5090981806,Amber T. Krummel,Colorado State University,26,0.077
+A5047941225,Valter Zazubovich,Concordia University,31,0.161
+A5001331359,Roald Hoffmann,Cornell University,71,0.197
+A5067322077,Tianquan T. Lian,Emory University,58,0.19
+A5080598273,Vlad Sadtchenko,George Washington University,18,0.0
+A5000130400,Megan C. Thielges,Indiana University Bloomington,41,0.0
+A5038839224,Arthur G. Suits,Kansas State University,94,0.106
+A5038953017,Ryszard Jankowiak,Kansas State University,46,0.196
+A5036956510,Daniel G. Kuroda,Louisiana State University,54,0.148
+A5037831244,Marvin Bishop,Manhattan University,25,0.24
+A5055336678,John Morrison Galbraith,Marist University,12,0.083
+A5000269609,Robert G. Griffin,Massachusetts Institute of Technology,34,0.176
+A5032132306,Gabriela S. Schlau‐Cohen,Massachusetts Institute of Technology,63,0.063
+A5078723351,Robert W. Field,Massachusetts Institute of Technology,84,0.226
+A5046374024,An‐Chang Shi,McMaster University,41,0.244
+A5034537676,Gyan P. Johari,McMaster University,87,0.023
+A5016205190,Elad Harel,Michigan State University,28,0.071
+A5006938084,Warren F. Beck,Michigan State University,31,0.032
+A5010378124,Tatyana G. Karabencheva‐Christova,Michigan Technological University,19,0.211
+A5035994374,Joseph W. Bozzelli,New Jersey Institute of Technology,72,0.194
+A5068153815,Mónica Olvera de la Cruz,Northwestern University,96,0.229
+A5003694711,Fedor Y. Naumkin,Ontario Tech University,35,0.229
+A5018921099,Kwong Tin Tang,Pacific Lutheran University,28,0.214
+A5029838157,Gregory D. Scholes,Princeton University,176,0.136
+A5013252080,Timothy S. Zwier,Purdue University West Lafayette,91,0.165
+A5023716556,Dor Ben‐Amotz,Purdue University West Lafayette,71,0.169
+A5078149381,M. D. Fayer,Stanford University,233,0.193
+A5024513735,Richard N. Zare,Stanford University,93,0.097
+A5026024199,Michael G. White,Stony Brook University,28,0.214
+A5044822281,Thomas C. Weinacht,Stony Brook University,32,0.188
+A5009564631,Hai‐Lung Dai,Temple University,35,0.143
+A5061558119,Frank C. Spano,Temple University,45,0.2
+A5014454561,G. Barratt Park,Texas Tech University,19,0.158
+A5034056432,Barbara Ellen Wyslouzil,The Ohio State University,31,0.194
+A5058209317,Heather Cecile Allen,The Ohio State University,96,0.177
+A5078096234,Carlos R. Baiz,The University of Texas at Austin,92,0.152
+A5050795574,Mary Jane Shultz,Tufts University,35,0.086
+A5023817415,Igor V. Rubtsov,Tulane University,64,0.109
+A5021940253,Andrei Sanov,University of Arizona,53,0.075
+A5004813461,Lucy M Ziurys,University of Arizona,40,0.2
+A5058849663,Hong Peter Lu,University of British Columbia,39,0.077
+A5068236013,N. Moazzen‐Ahmadi,University of Calgary,49,0.184
+A5083276153,Robert E. Continetti,University of California San Diego,32,0.188
+A5001250186,Wei Xiong,University of California San Diego,39,0.179
+A5013306898,Julia H. Ortony,University of California San Diego,13,0.0
+A5016483541,Graham R. Fleming,"University of California, Berkeley",208,0.115
+A5069188516,Richard J. Saykally,"University of California, Berkeley",96,0.094
+A5005884690,Daniel M. Neumark,"University of California, Berkeley",193,0.104
+A5065870462,Stephen R. Leone,"University of California, Berkeley",65,0.154
+A5081870439,David T. Limmer,"University of California, Berkeley",65,0.2
+A5030513939,Y. Ron Shen,"University of California, Berkeley",53,0.151
+A5020260192,Y. R. Shen,"University of California, Berkeley",51,0.02
+A5046083743,Sabyasachi Sen,"University of California, Davis",56,0.179
+A5038578967,David L. Osborn,"University of California, Davis",26,0.038
+A5063114212,William Morgan Jackson,"University of California, Davis",23,0.174
+A5085589113,Wilson Ho,"University of California, Irvine",34,0.059
+A5047940685,Nien‐Hui Ge,"University of California, Irvine",27,0.185
+A5076745493,Raphael David Levine,"University of California, Los Angeles",36,0.222
+A5021498763,Anne Myers Kelley,"University of California, Merced",40,0.175
+A5046876071,Horia I. Metiu,"University of California, Santa Barbara",76,0.197
+A5021659494,Andrei Tokmakoff,University of Chicago,158,0.12
+A5020706311,Stuart A. Rice,University of Chicago,43,0.163
+A5090902130,Gregory S. Engel,University of Chicago,82,0.037
+A5016720085,J. Mathias Weber,University of Colorado Boulder,71,0.07
+A5084872177,David J. Nesbitt,University of Colorado Boulder,98,0.194
+A5036233842,Joel David Eaves,University of Colorado Boulder,28,0.107
+A5091632025,David M. Jonas,University of Colorado Boulder,47,0.128
+A5011094893,Dmitry Ostrovsky,University of Colorado Denver,24,0.125
+A5080580467,Harry A. Frank,University of Connecticut,49,0.061
+A5010210029,Jason F. Weaver,University of Florida,46,0.152
+A5025449262,Michael A. Duncan,University of Georgia,114,0.202
+A5000255469,Gary E. Douberly,University of Georgia,55,0.236
+A5084313270,Steven Baldelli,University of Houston,41,0.098
+A5034879784,Russell J. Hemley,University of Illinois Chicago,63,0.063
+A5070388787,Christopher M. Cheatum,University of Iowa,34,0.059
+A5028902367,Christopher G. Elles,University of Kansas,26,0.231
+A5047250566,Dong‐Sheng Yang,University of Kentucky,63,0.222
+A5072758376,Dennis J. Clouthier,University of Kentucky,79,0.228
+A5025354889,Amy S. Mullin,"University of Maryland, College Park",19,0.053
+A5083851521,Ricardo B. Metz,University of Massachusetts Amherst,43,0.233
+A5080091652,Aaron M. Massari,University of Minnesota,30,0.2
+A5021742835,David P. Shelton,"University of Nevada, Las Vegas",32,0.0
+A5086404347,Matthew J. Tucker,"University of Nevada, Reno",24,0.042
+A5078786094,Hyung Kyu Shin,"University of Nevada, Reno",31,0.0
+A5074403319,Andrew M. Moran,University of North Carolina at Chapel Hill,63,0.143
+A5010573181,Andrew L. Lee,University of North Carolina at Chapel Hill,22,0.227
+A5085781283,Jeffrey W. Peng,University of Notre Dame,13,0.231
+A5103008254,Geraldine L. Richmond,University of Oregon,54,0.111
+A5007751623,Jennifer P. Ogilvie,University of Ottawa,60,0.1
+A5034159631,Albert Stolow,University of Ottawa,60,0.15
+A5055256390,Kevin J. Kubarych,University of Ottawa,70,0.171
+A5008490575,Marsha Isack Lester,University of Pennsylvania,88,0.148
+A5031809484,Sean Garrett-Roe,University of Pittsburgh,23,0.174
+A5008258666,Kelling J. Donald,University of Richmond,25,0.16
+A5055136612,Michael T. Ruggiero,University of Rochester,51,0.216
+A5078198461,Ignacio Franco,University of Rochester,45,0.222
+A5084657947,Mark A. Berg,University of South Carolina,30,0.167
+A5034301199,Stephen E. Bradforth,University of Southern California,46,0.13
+A5068829745,Alexander V. Benderskii,University of Southern California,29,0.034
+A5028826030,Andrey F. Vilesov,University of Southern California,31,0.065
+A5100346147,Jin Wang,University of Tennessee at Chattanooga,66,0.212
+A5051581536,Alexei P. Sokolov,University of Tennessee at Knoxville,105,0.095
+A5029288551,R. J. Dwayne Miller,University of Toronto,77,0.156
+A5040317523,Scott L. Anderson,University of Utah,46,0.109
+A5039967104,Michael D. Morse,University of Utah,65,0.062
+A5071343033,Dennis K. Hore,University of Victoria,71,0.155
+A5041133025,Brooks H. Pate,University of Virginia,31,0.226
+A5013166625,Robert J. McMahon,University of Wisconsin–Madison,36,0.222
+A5087729039,Étienne Garand,University of Wisconsin–Madison,50,0.14
+A5022637430,Martin T. Zanni,University of Wisconsin–Madison,110,0.109
+A5073592875,Lian Yu,University of Wisconsin–Madison,36,0.083
+A5055821067,Gilbert M. Nathanson,University of Wisconsin–Madison,29,0.103
+A5013003564,M. D. Ediger,University of Wisconsin–Madison,90,0.1
+A5003254841,F. Fleming Crim,University of Wisconsin–Madison,45,0.0
+A5015430753,John Curtis Wright,University of Wisconsin–Madison,48,0.125
+A5011257685,Léon Sanche,Université de Sherbrooke,62,0.161
+A5035257730,Patrick Ayotte,Université de Sherbrooke,22,0.136
+A5085422555,Steve Scheiner,Utah State University,125,0.208
+A5049921717,Yi Rao,Utah State University,38,0.105
+A5004635120,Puru Jena,Virginia Commonwealth University,239,0.201
+A5112707906,S. N. Khanna,Virginia Commonwealth University,111,0.189
+A5068222384,M. Samy El‐Shall,Virginia Commonwealth University,29,0.138
+A5002267648,Richard Mabbs,Washington University in St. Louis,19,0.105
+A5022283101,Mark A. Johnson,Yale University,147,0.095
+A5087874966,Elsa C. Y. Yan,Yale University,27,0.111

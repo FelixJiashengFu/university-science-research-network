@@ -1,0 +1,514 @@
+openalex_id,name,institution_id,institution,city,region,country,area,corpus_papers,core_theory_papers,theory_title_share,corpus_share,h_index,coauthor_degree,orcid
+A5100641055,Weijun Zhang,I4210134251,Anhui Institute of Optics and Fine Mechanics,Hefei,Anhui,CN,电子结构与量子化学方法,34,23,0.794,0.114,33,0,0000-0003-4602-3235
+A5109341743,Wuying Huang,I4472751,Anhui Normal University,Wuhu,,CN,电子结构与量子化学方法,16,10,0.8,0.682,8,1,
+A5078198032,Longjiu Cheng,I143868143,Anhui University,Hefei,Anhui,CN,电子结构与量子化学方法,70,48,0.536,0.363,29,5,0000-0001-7086-6190
+A5103185316,Chunfu Liu,I184681353,Anhui University of Science and Technology,Huainan,,CN,计算材料与密度泛函,13,1,0.846,0.371,15,0,0000-0003-1506-4712
+A5033000067,Xiang Zhao,I151075929,Army Medical University,Chongqing,Chongqing,CN,计算材料与密度泛函,100,25,0.515,0.264,39,3,0000-0003-3982-4763
+A5014504926,Yaru Zhao,I2799293361,Baoji University of Arts and Sciences,Xi'an,Shaanxi,CN,电子结构与量子化学方法,44,28,0.364,0.386,19,3,0000-0002-0645-5298
+A5017146181,Chun-Guang Liu,I121691239,Beihua University,Jilin,Jilin,CN,计算材料与密度泛函,36,4,0.694,0.353,20,2,0000-0002-1220-5236
+A5060606278,Ruochen Sun,I4210085980,Beijing Institute of Aeronautical Materials,Beijing,Beijing,CN,分子动力学与统计力学,13,0,0.846,0.65,7,1,0000-0002-4417-151X
+A5049586364,Haitao Yu,I4210133436,Beijing Institute of Nanoenergy and Nanosystems,Beijing,,CN,电子结构与量子化学方法,42,22,0.762,0.208,32,6,0000-0003-3764-9201
+A5003279680,Junying Wu,I125839683,Beijing Institute of Technology,Beijing,Beijing,CN,分子动力学与统计力学,25,1,0.92,0.333,18,0,0000-0002-9776-559X
+A5018954604,Mingming Ding,I125839683,Beijing Institute of Technology,Beijing,Beijing,CN,分子动力学与统计力学,34,4,0.294,0.258,31,0,0000-0002-9877-7699
+A5091514152,Qingzhao Chu,I125839683,Beijing Institute of Technology,Beijing,Beijing,CN,分子动力学与统计力学,25,6,0.6,0.347,23,0,0000-0002-2090-1864
+A5014014197,Shaowen Zhang,I125839683,Beijing Institute of Technology,Beijing,Beijing,CN,电子结构与量子化学方法,54,34,0.852,0.228,36,4,0000-0003-2415-3872
+A5100701675,Xiangjun Chen,I125839683,Beijing Institute of Technology,Beijing,Beijing,CN,电子结构与量子化学方法,35,24,0.257,0.197,25,1,0000-0002-4354-9330
+A5009983518,Ya-Fang Guo,I21193070,Beijing Jiaotong University,Beijing,Beijing,CN,分子动力学与统计力学,36,1,0.611,0.336,26,0,0000-0002-3367-2407
+A5112128918,Hongxia Guo,I4210116048,Beijing National Laboratory for Molecular Sciences,Beijing,,CN,分子动力学与统计力学,44,12,0.651,0.321,37,0,0000-0003-3655-6441
+A5100334211,Hui Chen,I4210116048,Beijing National Laboratory for Molecular Sciences,Beijing,,CN,电子结构与量子化学方法,33,21,0.606,0.106,61,7,0000-0003-0483-8786
+A5023754207,Sheng-Gui He,I4210116048,Beijing National Laboratory for Molecular Sciences,Beijing,,CN,计算材料与密度泛函,115,43,0.339,0.288,54,3,0000-0002-9919-6909
+A5078723806,Wei-Jun Zheng,I4210116048,Beijing National Laboratory for Molecular Sciences,Beijing,,CN,电子结构与量子化学方法,139,125,0.863,0.567,46,16,0000-0002-9136-2693
+A5046229105,Wensheng Bian,I4210116048,Beijing National Laboratory for Molecular Sciences,Beijing,,CN,电子结构与量子化学方法,74,60,0.703,0.733,25,7,0000-0003-2125-8054
+A5059392428,De-Cai Fang,I25254941,Beijing Normal University,Beijing,Beijing,CN,计算材料与密度泛函,61,22,0.672,0.316,38,2,0000-0003-3922-7221
+A5011003735,Ganglong Cui,I25254941,Beijing Normal University,Beijing,Beijing,CN,激发态、光谱与非绝热动力学,114,54,0.649,0.355,47,10,0000-0002-9752-1659
+A5089397318,Guangju Chen,I25254941,Beijing Normal University,Beijing,Beijing,CN,分子动力学与统计力学,47,15,0.681,0.276,23,2,0000-0002-1921-9390
+A5103214285,Jiushu Shao,I25254941,Beijing Normal University,Beijing,Beijing,CN,电子结构与量子化学方法,16,14,0.375,0.258,27,4,0000-0002-5209-3531
+A5008829628,Run Long,I25254941,Beijing Normal University,Beijing,Beijing,CN,电子结构与量子化学方法,125,62,0.704,0.401,65,6,0000-0003-3912-8899
+A5087674282,Wei-Hai Fang,I25254941,Beijing Normal University,Beijing,Beijing,CN,电子结构与量子化学方法,303,170,0.733,0.456,65,23,0000-0002-1668-465X
+A5100449869,Ya-Jun Liu,I25254941,Beijing Normal University,Beijing,Beijing,CN,电子结构与量子化学方法,57,37,0.789,0.326,30,7,0000-0001-8761-5339
+A5103426492,Zhang Feng-Shou,I25254941,Beijing Normal University,Beijing,Beijing,CN,分子动力学与统计力学,64,22,0.531,0.15,36,1,0000-0003-0507-0983
+A5006520119,Daojian Cheng,I75390827,Beijing University of Chemical Technology,Beijing,Beijing,CN,计算材料与密度泛函,99,7,0.293,0.34,57,7,0000-0001-7977-0750
+A5100361761,Jun Liu,I75390827,Beijing University of Chemical Technology,Beijing,Beijing,CN,分子动力学与统计力学,16,1,0.875,0.348,16,1,0000-0002-0780-439X
+A5002150542,Ming Lei,I75390827,Beijing University of Chemical Technology,Beijing,Beijing,CN,计算材料与密度泛函,53,7,0.755,0.28,31,3,0000-0001-5765-9664
+A5044070229,Shiping Huang,I75390827,Beijing University of Chemical Technology,Beijing,Beijing,CN,计算材料与密度泛函,89,13,0.764,0.543,37,2,0000-0001-8115-8368
+A5052359429,Sizhu Wu,I75390827,Beijing University of Chemical Technology,Beijing,Beijing,CN,分子动力学与统计力学,27,0,0.889,0.31,29,0,0000-0001-7863-2954
+A5100777405,Xianren Zhang,I75390827,Beijing University of Chemical Technology,Beijing,Beijing,CN,分子动力学与统计力学,79,23,0.481,0.342,40,5,0000-0002-8026-9012
+A5101585936,Xiuliang Sun,I75390827,Beijing University of Chemical Technology,Beijing,Beijing,CN,计算材料与密度泛函,12,1,0.667,0.429,11,1,0000-0002-9428-9292
+A5053459429,Pengfei Lu,I139759216,Beijing University of Posts and Telecommunications,Beijing,Beijing,CN,计算材料与密度泛函,11,1,0.727,0.268,14,1,0000-0002-1335-3433
+A5006689093,Shaorui Sun,I37796252,Beijing University of Technology,Beijing,Beijing,CN,计算材料与密度泛函,30,1,0.8,0.357,35,0,0000-0001-5891-1956
+A5074195688,Ze-Sheng Li,I37796252,Beijing University of Technology,Beijing,Beijing,CN,电子结构与量子化学方法,259,183,0.73,0.59,44,17,0000-0002-6993-8414
+A5057199691,Chuan-Jia Tong,I139660479,Central South University,Changsha,Hunan,CN,计算材料与密度泛函,18,3,0.333,0.265,27,2,0000-0001-6554-5827
+A5083481518,Lichun Bai,I139660479,Central South University,Changsha,Hunan,CN,分子动力学与统计力学,37,0,0.703,0.389,27,0,0000-0003-0720-1991
+A5023766640,Mengqiu Long,I139660479,Central South University,Changsha,Hunan,CN,计算材料与密度泛函,95,4,0.274,0.326,48,7,0000-0003-4184-9177
+A5025167336,Shandeng Chen,I139660479,Central South University,Changsha,Hunan,CN,分子动力学与统计力学,12,0,0.833,0.5,10,0,0000-0001-6651-8820
+A5070767226,Chao Xin,I106645853,Changchun University of Science and Technology,Changchun,,CN,机器学习与数据驱动化学,24,6,0.5,0.429,17,1,0000-0003-4506-7105
+A5109248108,Zhong-Min Su,I106645853,Changchun University of Science and Technology,Changchun,,CN,计算材料与密度泛函,364,148,0.677,0.126,116,15,0000-0002-3342-1966
+A5070950269,Jianping Hu,I4210125143,Chengdu University,Chengdu,,CN,分子动力学与统计力学,32,4,0.688,0.267,20,1,0000-0001-7367-3968
+A5067333581,Xuefei Xu,I24201400,Chengdu University of Information Technology,Chengdu,,CN,计算材料与密度泛函,44,21,0.523,0.256,45,2,0000-0002-2009-0483
+A5032788709,Yan-Fei Hu,I31595395,Chengdu University of Technology,Chengdu,,CN,电子结构与量子化学方法,23,12,0.435,0.511,15,4,0000-0002-4087-4242
+A5086534059,Ruifa Jin,I193114190,Chifeng University,Chifeng,,CN,计算材料与密度泛函,34,15,0.794,0.26,24,2,0000-0002-4604-8232
+A5017321709,Tianshu Chu,I52158045,China Agricultural University,Beijing,Beijing,CN,电子结构与量子化学方法,62,52,0.419,0.504,35,6,0000-0002-3519-8737
+A5102731416,Jianhua Wu,I4210096139,China Institute of Atomic Energy,Beijing,,CN,分子动力学与统计力学,12,0,0.833,0.293,15,0,0000-0002-1057-7220
+A5049154192,Shuaiwei Fan,I161350542,China Three Gorges University,Yichang,Hubei,CN,计算材料与密度泛函,19,6,0.842,0.264,16,1,0000-0001-5076-1244
+A5112362963,Jing Han,I25757504,China University of Mining and Technology,Xuzhou,Jiangsu,CN,分子动力学与统计力学,12,0,0.75,0.273,21,1,
+A5091586739,Zhijun Yi,I25757504,China University of Mining and Technology,Xuzhou,Jiangsu,CN,计算材料与密度泛函,11,3,0.636,0.423,11,5,0000-0001-7537-7003
+A5091274866,Guiwu Lu,I204553293,"China University of Petroleum, Beijing",Beijing,Beijing,CN,分子动力学与统计力学,35,4,0.853,0.268,28,2,0000-0001-8250-4664
+A5047024998,Zhen Zhao,I204553293,"China University of Petroleum, Beijing",Beijing,Beijing,CN,电子结构与量子化学方法,43,28,0.326,0.341,18,0,0000-0002-3813-6654
+A5013579713,Zhenqing Yang,I204553293,"China University of Petroleum, Beijing",Beijing,Beijing,CN,电子结构与量子化学方法,28,14,0.679,0.431,19,3,0000-0001-7453-2761
+A5100433132,Jun Zhang,I4210162190,"China University of Petroleum, East China",Qingdao,Shandong,CN,电子结构与量子化学方法,13,5,0.538,0.5,12,3,0000-0002-2637-6044
+A5024136853,Wenyue Guo,I4210162190,"China University of Petroleum, East China",Qingdao,Shandong,CN,计算材料与密度泛函,99,25,0.737,0.378,48,3,0000-0002-7537-984X
+A5031021857,Yudou Wang,I4210162190,"China University of Petroleum, East China",Qingdao,Shandong,CN,分子动力学与统计力学,19,0,0.842,0.322,17,0,0000-0002-2691-9969
+A5066822010,Lizhe Zhu,I177725633,Chinese University of Hong Kong,Hong Kong,,HK,分子动力学与统计力学,19,7,0.526,0.257,22,1,0000-0001-8252-7807
+A5100364952,Yi Wang,I177725633,Chinese University of Hong Kong,Hong Kong,,HK,分子动力学与统计力学,24,8,0.75,0.286,35,0,0000-0002-4174-8790
+A5008975635,Z.F. Liu,I177725633,Chinese University of Hong Kong,Hong Kong,,HK,电子结构与量子化学方法,29,18,0.414,0.58,24,4,0000-0002-6898-075X
+A5100703478,Zhifeng Liu,I177725633,Chinese University of Hong Kong,Hong Kong,,HK,激发态、光谱与非绝热动力学,12,5,0.5,0.316,17,1,0000-0002-6898-075X
+A5030799762,Zhigang Shuai,I177725633,Chinese University of Hong Kong,Hong Kong,,HK,电子结构与量子化学方法,123,64,0.545,0.233,100,17,0000-0003-3867-2331
+A5080750066,Gang Jiang,I126924076,Chongqing Normal University,Chongqing,,CN,电子结构与量子化学方法,108,61,0.657,0.376,29,6,0000-0002-9385-0519
+A5109892533,Guoming Liang,I126924076,Chongqing Normal University,Chongqing,,CN,电子结构与量子化学方法,13,10,0.692,0.433,10,0,
+A5074815259,Fangli Duan,I158842170,Chongqing University,Chongqing,Chongqing,CN,分子动力学与统计力学,22,0,0.545,0.423,13,0,0000-0001-8171-0781
+A5058381320,Gang Feng,I158842170,Chongqing University,Chongqing,Chongqing,CN,激发态、光谱与非绝热动力学,55,46,0.418,0.299,25,4,0000-0001-8631-7671
+A5027642792,Jun Li,I158842170,Chongqing University,Chongqing,Chongqing,CN,电子结构与量子化学方法,122,114,0.725,0.656,40,8,0000-0003-2392-8322
+A5023326722,Pengbo Hu,I158842170,Chongqing University,Chongqing,Chongqing,CN,计算材料与密度泛函,21,0,0.429,0.583,15,0,0000-0002-4019-751X
+A5071620015,Shuai Yuan,I10535382,Chongqing University of Posts and Telecommunications,Chongqing,Chongqing,CN,分子动力学与统计力学,17,1,1.0,0.415,13,1,0000-0002-1760-9731
+A5069215360,Patrick H.-L. Sit,I168719708,City University of Hong Kong,Hong Kong,,HK,计算材料与密度泛函,30,10,0.828,0.269,28,0,0000-0002-7437-4764
+A5080129546,Ruiqin Q. Zhang,I168719708,City University of Hong Kong,Hong Kong,,HK,计算材料与密度泛函,119,44,0.42,0.182,68,7,0000-0001-6897-4010
+A5019286517,Xiao Cheng Zeng,I168719708,City University of Hong Kong,Hong Kong,,HK,计算材料与密度泛函,138,34,0.29,0.156,121,23,0000-0003-4672-8585
+A5039069280,Dong Hui Zhang,I180585399,Dalian Institute of Chemical Physics,Dalian,Liaoning,CN,电子结构与量子化学方法,265,248,0.479,0.688,66,18,0000-0001-9426-8822
+A5081854327,Hongjun Fan,I180585399,Dalian Institute of Chemical Physics,Dalian,Liaoning,CN,计算材料与密度泛函,45,23,0.356,0.127,48,4,0000-0003-3406-6932
+A5034838582,Jianyong Liu,I180585399,Dalian Institute of Chemical Physics,Dalian,Liaoning,CN,激发态、光谱与非绝热动力学,54,31,0.574,0.274,31,7,0000-0003-4865-1585
+A5043300154,Ling Jiang,I180585399,Dalian Institute of Chemical Physics,Dalian,Liaoning,CN,激发态、光谱与非绝热动力学,76,37,0.342,0.308,33,13,0000-0002-8485-8893
+A5074694254,Zhigang Sun,I180585399,Dalian Institute of Chemical Physics,Dalian,Liaoning,CN,电子结构与量子化学方法,101,95,0.505,0.607,37,8,0000-0002-6600-4923
+A5086386273,Dongqi Wang,I27357992,Dalian University of Technology,Dalian,,CN,计算材料与密度泛函,61,9,0.82,0.264,37,4,0000-0001-9415-1173
+A5020585562,Jinlan Wang,I27357992,Dalian University of Technology,Dalian,,CN,计算材料与密度泛函,148,49,0.565,0.234,99,5,0000-0002-4529-874X
+A5089399263,Li-Guo Gao,I27357992,Dalian University of Technology,Dalian,,CN,电子结构与量子化学方法,14,8,0.929,0.264,9,0,0000-0003-0007-2445
+A5047555174,Maodu Chen,I27357992,Dalian University of Technology,Dalian,,CN,电子结构与量子化学方法,104,87,0.431,0.56,33,13,0000-0003-4909-7993
+A5031061637,Shu-Lin Cong,I27357992,Dalian University of Technology,Dalian,,CN,电子结构与量子化学方法,42,38,0.405,0.233,23,5,0000-0001-9726-4480
+A5042153720,Yong-Chang Han,I27357992,Dalian University of Technology,Dalian,,CN,电子结构与量子化学方法,32,32,0.406,0.32,18,2,0000-0002-9800-9390
+A5108287002,Yonggang Chen,I27357992,Dalian University of Technology,Dalian,,CN,计算材料与密度泛函,13,3,0.385,0.302,20,1,
+A5046209237,Jin Rui Lin,I4210165547,Dezhou University,Dezhou,Shandong,CN,计算材料与密度泛函,10,1,0.8,0.476,8,0,
+A5037829735,Ye Mei,I66867065,East China Normal University,Shanghai,,CN,分子动力学与统计力学,89,49,0.652,0.706,34,11,0000-0002-3953-8508
+A5102084126,Haiping Fang,I143593769,East China University of Science and Technology,Shanghai,,CN,分子动力学与统计力学,11,0,0.364,0.393,16,3,
+A5040301471,Honglai Liu,I143593769,East China University of Science and Technology,Shanghai,,CN,分子动力学与统计力学,163,43,0.742,0.16,74,4,0000-0002-5682-2295
+A5012329595,Shuangliang Zhao,I143593769,East China University of Science and Technology,Shanghai,,CN,分子动力学与统计力学,83,11,0.687,0.269,46,3,0000-0002-9547-4860
+A5102907373,Xiaoling Lei,I143593769,East China University of Science and Technology,Shanghai,,CN,分子动力学与统计力学,12,1,0.5,0.429,12,2,0000-0003-3743-231X
+A5100712531,Yongjun Liu,I143593769,East China University of Science and Technology,Shanghai,,CN,分子动力学与统计力学,58,22,0.603,0.101,55,6,0000-0002-1686-8272
+A5007399260,Guanghong Wei,I24943067,Fudan University,Shanghai,Shanghai,CN,分子动力学与统计力学,100,4,0.45,0.412,53,4,0000-0001-5814-3328
+A5088722533,Hongjun Xiang,I24943067,Fudan University,Shanghai,Shanghai,CN,机器学习与数据驱动化学,87,26,0.736,0.211,70,12,0000-0002-9396-3214
+A5100694750,Mingfei Zhou,I24943067,Fudan University,Shanghai,Shanghai,CN,计算材料与密度泛函,103,39,0.534,0.274,55,9,0000-0002-1915-6203
+A5007003236,Shang-Peng Gao,I24943067,Fudan University,Shanghai,Shanghai,CN,计算材料与密度泛函,30,13,0.667,0.319,32,0,0000-0003-4877-3363
+A5039234406,Wenning Wang,I24943067,Fudan University,Shanghai,Shanghai,CN,分子动力学与统计力学,74,21,0.712,0.497,33,3,0000-0002-8712-0536
+A5110228808,X. G. Gong,I24943067,Fudan University,Shanghai,Shanghai,CN,电子结构与量子化学方法,23,16,0.304,0.397,25,7,
+A5062582969,Xi-Jing Ning,I24943067,Fudan University,Shanghai,Shanghai,CN,分子动力学与统计力学,41,16,0.512,0.402,19,0,0000-0003-3646-3165
+A5036163052,Xin Xu,I24943067,Fudan University,Shanghai,Shanghai,CN,电子结构与量子化学方法,197,147,0.811,0.499,66,15,0000-0002-5247-2937
+A5101826210,Xin-Gao Gong,I24943067,Fudan University,Shanghai,Shanghai,CN,机器学习与数据驱动化学,75,19,0.667,0.338,56,10,0000-0001-7539-5471
+A5091863052,Y.X. Wang,I24943067,Fudan University,Shanghai,Shanghai,CN,分子动力学与统计力学,23,0,0.435,0.489,14,1,0000-0003-2904-9839
+A5023502514,Zhi-Pan Liu,I24943067,Fudan University,Shanghai,Shanghai,CN,机器学习与数据驱动化学,89,36,0.742,0.265,81,4,0000-0002-2906-5217
+A5088189891,Wei Zhuang,I4210119098,Fujian Institute of Research on the Structure of Matter,Fuzhou,Fujian,CN,激发态、光谱与非绝热动力学,53,13,0.491,0.461,33,6,0000-0003-4106-0985
+A5066222280,Wei-Ming Sun,I129708740,Fujian Medical University,Fuzhou,,CN,电子结构与量子化学方法,51,25,0.412,0.345,32,2,0000-0002-1811-4001
+A5008729728,Yongqing Li,I111753288,Fujian Normal University,Fuzhou,Fujian,CN,电子结构与量子化学方法,68,52,0.662,0.34,35,10,0000-0001-7673-1844
+A5020328811,Jiayuan Qi,I80947539,Fuzhou University,Fuzhou,Fujian,CN,计算材料与密度泛函,13,3,1.0,0.5,10,2,0000-0002-7463-2831
+A5101687276,Kaining Ding,I80947539,Fuzhou University,Fuzhou,Fujian,CN,计算材料与密度泛函,35,12,0.657,0.337,30,1,0000-0002-2029-6254
+A5101975833,Yongle Li,I4396570619,Great Bay University,Dongguan,,CN,电子结构与量子化学方法,19,13,0.737,0.317,24,5,0000-0003-0515-6613
+A5004933770,Xiaoqing Lü,I190242452,Guangdong Pharmaceutical University,Guangzhou,,CN,计算材料与密度泛函,110,17,0.655,0.261,55,3,0000-0002-7553-7131
+A5101726887,Bi-Yu Tang,I150807315,Guangxi University,Nanning,,CN,计算材料与密度泛函,22,9,0.864,0.423,19,0,0000-0002-3287-5245
+A5102975418,Cuihua Zhao,I150807315,Guangxi University,Nanning,,CN,计算材料与密度泛函,11,2,0.636,0.333,18,1,0000-0002-7735-4179
+A5100686801,Haixiang He,I150807315,Guangxi University,Nanning,,CN,计算材料与密度泛函,11,6,0.364,0.275,10,2,0000-0002-5156-8670
+A5110806356,Jianhua Chen,I150807315,Guangxi University,Nanning,,CN,计算材料与密度泛函,20,5,0.6,0.385,19,1,0000-0002-0090-315X
+A5054613564,Bozhen Chen,I117532281,Guangzhou University of Chinese Medicine,Guangzhou,Guangdong,CN,电子结构与量子化学方法,31,17,0.839,0.383,19,2,0000-0002-8795-7256
+A5005260780,Zhongsheng Yi,I38706770,Guilin University of Technology,Guilin,Guangxi,CN,分子动力学与统计力学,27,2,0.889,0.422,11,0,0000-0002-8765-9507
+A5100667174,Yachao Zhang,I4210087731,Guizhou Education University,Guiyang,,CN,电子结构与量子化学方法,17,14,0.471,0.5,12,1,0000-0001-9233-876X
+A5017541012,Fei Xia,I154893126,Guizhou Normal University,Guiyang,,CN,分子动力学与统计力学,36,17,0.639,0.379,25,4,0000-0001-9458-9175
+A5101995939,Chunshen Zhao,I178232147,Guizhou University,Guiyang,Guizhou,CN,计算材料与密度泛函,22,0,1.0,0.4,11,2,0000-0003-0437-1653
+A5014455904,Yan-Lin Tang,I178232147,Guizhou University,Guiyang,Guizhou,CN,计算材料与密度泛函,46,13,0.674,0.293,37,1,0000-0002-2134-7447
+A5100752962,Yi-Bo Wang,I178232147,Guizhou University,Guiyang,Guizhou,CN,电子结构与量子化学方法,39,26,0.846,0.75,17,0,0000-0002-7036-7188
+A5084093016,Zhixu Zhou,I178232147,Guizhou University,Guiyang,Guizhou,CN,计算材料与密度泛函,43,0,0.884,0.422,13,1,0000-0002-9633-9521
+A5055445325,Honggang Fu,I151727225,Harbin Engineering University,Harbin,,CN,电子结构与量子化学方法,50,31,0.58,0.08,112,6,0000-0002-5800-451X
+A5100702197,Junpeng Liu,I151727225,Harbin Engineering University,Harbin,,CN,分子动力学与统计力学,16,1,0.938,0.271,21,1,0000-0001-9649-7143
+A5111263269,Jingchuan Zhu,I204983213,Harbin Institute of Technology,Harbin,,CN,机器学习与数据驱动化学,21,0,0.952,0.3,23,0,0000-0002-6075-2373
+A5100623680,Li Sheng,I204983213,Harbin Institute of Technology,Harbin,,CN,电子结构与量子化学方法,32,28,0.844,0.525,12,2,0000-0001-7956-6952
+A5015701657,Youshan Wang,I204983213,Harbin Institute of Technology,Harbin,,CN,分子动力学与统计力学,11,2,0.818,0.282,13,0,0000-0001-7491-0785
+A5059210458,Yuelei Bai,I204983213,Harbin Institute of Technology,Harbin,,CN,计算材料与密度泛函,22,7,0.818,0.265,30,0,0000-0003-1738-3274
+A5011941921,Jingxiang Zhao,I134052481,Harbin Normal University,Harbin,Heilongjiang,CN,计算材料与密度泛函,115,8,0.704,0.312,64,4,0000-0001-6023-8887
+A5036612780,Minhua Sun,I134052481,Harbin Normal University,Harbin,Heilongjiang,CN,分子动力学与统计力学,20,0,0.3,0.426,7,0,0000-0001-5669-4222
+A5036727003,Zun Xie,I94611258,Hebei Normal University,Shijiazhuang,Hebei,CN,电子结构与量子化学方法,26,14,0.538,0.722,11,0,0000-0001-6964-0661
+A5111516899,Baixin Liu,I184843921,Hebei University of Technology,Tianjin,,CN,分子动力学与统计力学,35,6,0.8,0.278,22,0,0009-0000-3443-1309
+A5072831412,Qing-Jiang Pan,I55022517,Heilongjiang University,Harbin,,CN,计算材料与密度泛函,86,33,0.765,0.31,43,4,0000-0003-2763-6976
+A5100777141,Jiaxu Zhang,I192327786,Heilongjiang University of Chinese Medicine,Harbin,,CN,电子结构与量子化学方法,36,22,0.472,0.336,26,2,0000-0002-3125-7824
+A5100761343,Yufang Liu,I4210091706,Henan Academy of Sciences,Zhengzhou,,CN,电子结构与量子化学方法,90,71,0.567,0.184,42,6,0000-0003-1896-8864
+A5112358175,Yufang Liu,I4210091706,Henan Academy of Sciences,Zhengzhou,,CN,激发态、光谱与非绝热动力学,34,22,0.588,0.343,25,5,0000-0002-1967-1184
+A5036331877,Zongxian Yang,I75955062,Henan Normal University,Xinxiang,Chongqing,CN,计算材料与密度泛函,104,14,0.663,0.339,58,4,0000-0002-3015-3804
+A5108198882,Zunlue Zhu,I75955062,Henan Normal University,Xinxiang,Chongqing,CN,电子结构与量子化学方法,132,131,0.5,0.532,17,4,0000-0003-0307-4606
+A5103402959,Cao Xue,I173899330,Henan University,Kaifeng,,CN,电子结构与量子化学方法,16,14,0.688,0.889,6,0,
+A5100379755,Dawei Zhang,I173899330,Henan University,Kaifeng,,CN,分子动力学与统计力学,22,9,0.682,0.595,12,7,0000-0002-7604-7927
+A5060301743,Huai Sun,I173899330,Henan University,Kaifeng,,CN,分子动力学与统计力学,63,31,0.746,0.485,36,1,0000-0002-0783-8194
+A5039580887,Jinglai Zhang,I173899330,Henan University,Kaifeng,,CN,电子结构与量子化学方法,113,69,0.703,0.378,39,2,0000-0002-2728-0511
+A5100361956,Jun Li,I173899330,Henan University,Kaifeng,,CN,计算材料与密度泛函,199,87,0.379,0.174,116,15,0000-0002-8456-3980
+A5101419836,Yu Qing Jia,I173899330,Henan University,Kaifeng,,CN,计算材料与密度泛函,18,2,0.444,0.25,20,1,0000-0003-3803-8648
+A5101748243,Hong-Ling Cui,I167383011,Henan University of Science and Technology,Luoyang,,CN,计算材料与密度泛函,61,10,0.623,0.401,26,2,0000-0002-0688-843X
+A5006272713,Qi-Jun Liu,I167383011,Henan University of Science and Technology,Luoyang,,CN,计算材料与密度泛函,154,15,0.747,0.443,27,3,0000-0001-7221-7696
+A5019053282,Gang Zhou,I163340411,Hohai University,Nanjing,Jiangsu,CN,计算材料与密度泛函,39,14,0.487,0.257,45,1,0000-0001-7743-8631
+A5100619310,Qingwen Zhang,I163340411,Hohai University,Nanjing,Jiangsu,CN,分子动力学与统计力学,39,0,0.513,0.331,24,4,0000-0002-8885-1066
+A5006729322,Tao Liu,I163340411,Hohai University,Nanjing,Jiangsu,CN,计算材料与密度泛函,34,7,0.824,0.312,17,2,0000-0001-8960-8925
+A5117823207,Wei Han,I141568987,Hong Kong Baptist University,Hong Kong,,HK,分子动力学与统计力学,25,9,0.8,0.266,26,2,0000-0003-0759-1766
+A5059875221,Zhimei Sun,I4210135980,Huainan Normal University,Huainan,,CN,计算材料与密度泛函,88,27,0.545,0.215,80,0,0000-0002-4438-5032
+A5025949206,Huai-Qian Wang,I119045251,Huaqiao University,Xiamen,,CN,电子结构与量子化学方法,58,40,0.397,0.574,18,3,0000-0003-0388-510X
+A5100647288,Jun Gao,I204823248,Huazhong Agricultural University,Wuhan,,CN,分子动力学与统计力学,48,17,0.5,0.286,29,8,0000-0002-6692-1828
+A5101848297,Changjun Chen,I47720641,Huazhong University of Science and Technology,Wuhan,Hubei,CN,分子动力学与统计力学,13,10,0.692,0.65,7,1,0000-0002-6188-5223
+A5101654108,K.L. Yao,I47720641,Huazhong University of Science and Technology,Wuhan,Hubei,CN,计算材料与密度泛函,153,35,0.614,0.283,47,1,0000-0002-1286-5816
+A5052170150,Daohui Zhao,I75900474,Hubei University,Wuhan,Hubei,CN,分子动力学与统计力学,14,0,1.0,0.35,20,0,0000-0003-2661-2147
+A5084129197,Ben-Chao Zhu,I1285929390,Hubei University of Medicine,Shiyan,Hubei,CN,电子结构与量子化学方法,25,20,0.68,0.431,12,0,0000-0002-6028-2017
+A5101527988,Li An,I100286613,Hunan Institute of Science and Technology,Yueyang,Hunan,CN,计算材料与密度泛函,10,1,0.4,0.357,5,0,0000-0001-6689-2513
+A5033033368,Dingwang Yuan,I16609230,Hunan University,Changsha,Hunan,CN,计算材料与密度泛函,26,5,0.615,0.356,26,3,0000-0002-7273-704X
+A5027067861,Haibo Yi,I16609230,Hunan University,Changsha,Hunan,CN,分子动力学与统计力学,34,13,0.735,0.466,27,2,0000-0003-4731-2469
+A5052875226,Huiqiu Deng,I16609230,Hunan University,Changsha,Hunan,CN,分子动力学与统计力学,173,14,0.642,0.358,68,4,0000-0001-8986-104X
+A5010421198,Ping Peng,I16609230,Hunan University,Changsha,Hunan,CN,计算材料与密度泛函,97,8,0.505,0.256,43,3,0000-0003-0379-5331
+A5064262109,Wangyu Hu,I16609230,Hunan University,Changsha,Hunan,CN,分子动力学与统计力学,229,15,0.629,0.345,59,6,0000-0001-7416-3994
+A5078706989,Zhen Yang,I16609230,Hunan University,Changsha,Hunan,CN,分子动力学与统计力学,51,5,0.627,0.277,40,7,0000-0002-5205-3281
+A5011076022,Jinlu He,I2722730,Inner Mongolia University,Hohhot,Inner Mongolia,CN,计算材料与密度泛函,31,10,0.613,0.29,34,2,0000-0001-9772-8572
+A5016546361,Sen Lin,I2722730,Inner Mongolia University,Hohhot,Inner Mongolia,CN,计算材料与密度泛函,74,13,0.324,0.281,65,2,0000-0002-2288-5415
+A5100343239,Shiyang Sun,I31637741,Inner Mongolia University of Science and Technology,Baotou,Inner Mongolia,CN,计算材料与密度泛函,22,6,0.773,0.407,10,0,0000-0002-0823-2960
+A5076173054,Jucai Yang,I55654194,Inner Mongolia University of Technology,Hohhot,,CN,电子结构与量子化学方法,83,61,0.627,0.619,21,1,0000-0003-4998-0364
+A5020347295,Jing Ma,I4210155088,Institute of Chemistry,Beijing,Beijing,CN,计算材料与密度泛函,153,49,0.601,0.28,77,16,0000-0001-5848-9775
+A5034188440,Qi Liao,I4210155088,Institute of Chemistry,Beijing,Beijing,CN,分子动力学与统计力学,18,7,0.722,0.34,20,0,0000-0001-9751-4275
+A5101648066,Weile Jia,I4210090176,Institute of Computing Technology,Beijing,Beijing,CN,电子结构与量子化学方法,13,8,1.0,0.371,16,4,0000-0002-7049-2587
+A5101648065,Weile Jia,I4210090176,Institute of Computing Technology,Beijing,Beijing,CN,机器学习与数据驱动化学,22,7,0.818,0.512,8,8,0000-0001-8539-8326
+A5113962757,Zhenhao Duan,I4210154862,Institute of Deep-Sea Science and Engineering,Sanya,,CN,分子动力学与统计力学,16,5,0.75,0.267,34,0,0009-0006-1025-0355
+A5110232912,Guang-Fu Ji,I4387152340,Institute of Fluid Physics,Mianyang,,CN,计算材料与密度泛函,119,17,0.807,0.502,33,10,0000-0001-5782-1588
+A5107024364,Yanqiang Yang,I4387152340,Institute of Fluid Physics,Mianyang,,CN,激发态、光谱与非绝热动力学,11,4,0.364,0.379,10,0,0000-0003-2184-8126
+A5061281482,Xinguo Ren,I4210159876,Institute of Physics,Beijing,Beijing,CN,电子结构与量子化学方法,71,58,0.857,0.538,38,12,0000-0002-3360-2281
+A5101506103,Li Jiang Guo,I4210133325,Institute of Process Engineering,Beijing,Beijing,CN,分子动力学与统计力学,19,2,0.947,0.257,22,1,0000-0001-8950-5344
+A5091144208,Lin-Wang Wang,I4210149211,Institute of Semiconductors,Beijing,Beijing,CN,电子结构与量子化学方法,73,39,0.795,0.145,86,3,0000-0001-7061-2692
+A5063505795,Rongshun Wang,I31590910,Jianghan University,Wuhan,Hubei,CN,电子结构与量子化学方法,100,92,0.77,0.365,31,5,0009-0000-3231-1717
+A5102928749,Jian Jin,I111599522,Jiangnan University,Wuxi,Jiangsu,CN,分子动力学与统计力学,14,0,0.786,0.255,17,0,0000-0003-4054-1031
+A5007552110,Junhua Zhao,I111599522,Jiangnan University,Wuxi,Jiangsu,CN,分子动力学与统计力学,59,1,0.492,0.294,34,4,0000-0003-4566-4778
+A5059703242,Ning Wei,I111599522,Jiangnan University,Wuxi,Jiangsu,CN,分子动力学与统计力学,35,0,0.514,0.398,28,5,0000-0001-6448-4137
+A5110073683,Qingyi Shao,I111599522,Jiangnan University,Wuxi,Jiangsu,CN,计算材料与密度泛函,17,0,0.647,0.333,12,0,0000-0001-5455-6213
+A5022931215,Xiaozhen Yang,I111599522,Jiangnan University,Wuxi,Jiangsu,CN,分子动力学与统计力学,31,8,0.677,0.298,28,1,0000-0003-0691-5271
+A5009861048,Beibei Xiao,I4210096899,Jiangsu University of Science and Technology,Zhenjiang,Jiangsu,CN,计算材料与密度泛函,71,0,0.586,0.352,38,0,0000-0001-9637-7512
+A5046708304,Zhiyong Yang,I74837319,Jiangxi Agricultural University,Nanchang,Jiangxi,CN,分子动力学与统计力学,15,4,0.467,0.441,9,2,0000-0002-5044-8415
+A5026360494,Rongri Tan,I41317344,Jiangxi Science and Technology Normal University,Nanchang,Jiangxi,CN,分子动力学与统计力学,16,1,0.812,0.372,11,1,0000-0002-2890-3864
+A5054874857,B. X. Liu,I59649739,Jiangxi University of Finance and Economics,Nanchang,Jiangxi,CN,分子动力学与统计力学,26,12,0.885,0.565,20,0,0009-0001-3905-5960
+A5062895384,Huihui Xiong,I4510145,Jiangxi University of Science and Technology,Ganzhou,,CN,计算材料与密度泛函,21,0,0.952,0.328,20,0,0000-0002-7034-2407
+A5004710943,Ai-Min Ren,I194450716,Jilin University,Changchun,Jilin,CN,计算材料与密度泛函,130,69,0.815,0.4,36,5,0000-0002-9192-1483
+A5091441354,Bing Yan,I194450716,Jilin University,Changchun,Jilin,CN,电子结构与量子化学方法,129,123,0.5,0.674,15,3,0000-0003-0641-3087
+A5084564242,Dajun Ding,I194450716,Jilin University,Changchun,Jilin,CN,电子结构与量子化学方法,39,28,0.282,0.17,29,5,0000-0003-3120-8392
+A5100430330,Hong Zhang,I194450716,Jilin University,Changchun,Jilin,CN,计算材料与密度泛函,143,62,0.622,0.312,37,5,0000-0003-3098-7988
+A5100718689,Hong-Xing Zhang,I194450716,Jilin University,Changchun,Jilin,CN,电子结构与量子化学方法,238,100,0.803,0.437,46,15,0000-0001-5334-733X
+A5100634336,Hui Li,I194450716,Jilin University,Changchun,Jilin,CN,电子结构与量子化学方法,78,57,0.68,0.231,54,14,0000-0002-2689-2241
+A5102966539,Ran Jia,I194450716,Jilin University,Changchun,Jilin,CN,计算材料与密度泛函,43,9,0.628,0.402,28,4,0000-0002-3722-1195
+A5041388467,Ran Jia,I194450716,Jilin University,Changchun,Jilin,CN,电子结构与量子化学方法,23,13,0.783,0.523,17,4,0000-0002-3722-1195
+A5100326186,Song Wang,I194450716,Jilin University,Changchun,Jilin,CN,分子动力学与统计力学,11,2,0.818,0.344,9,1,0000-0001-5196-1926
+A5001913247,Weiwei Han,I194450716,Jilin University,Changchun,Jilin,CN,分子动力学与统计力学,60,0,0.983,0.369,25,2,0000-0002-1931-9316
+A5088817033,Yanming Ma,I194450716,Jilin University,Changchun,Jilin,CN,电子结构与量子化学方法,125,65,0.656,0.208,92,2,0000-0003-3711-0011
+A5086545796,Zhong-Yuan Lu,I194450716,Jilin University,Changchun,Jilin,CN,分子动力学与统计力学,133,60,0.624,0.375,53,7,0000-0001-7884-0091
+A5086578535,Xian-Fang Yue,I4210127530,Jining University,Qufu,,CN,电子结构与量子化学方法,24,21,0.292,0.545,11,4,0000-0002-7964-3345
+A5010837231,Chong-Yu Wang,I10660446,Kunming University of Science and Technology,Kunming,Yunnan,CN,计算材料与密度泛函,60,11,0.767,0.288,32,2,0000-0002-8147-961X
+A5087101952,Mingjun Peng,I10660446,Kunming University of Science and Technology,Kunming,Yunnan,CN,计算材料与密度泛函,46,4,0.778,0.273,38,1,0000-0001-6528-9499
+A5101981982,Shenggang Zhou,I10660446,Kunming University of Science and Technology,Kunming,Yunnan,CN,计算材料与密度泛函,14,0,0.929,0.25,15,0,0000-0002-7455-8715
+A5101674393,Xiaolong Zhou,I10660446,Kunming University of Science and Technology,Kunming,Yunnan,CN,计算材料与密度泛函,10,1,0.5,0.476,10,1,0000-0001-8038-8524
+A5021656770,Yuanxu Wang,I76214153,Lanzhou University,Lanzhou,,CN,计算材料与密度泛函,61,25,0.721,0.26,45,1,0000-0002-1612-0424
+A5022560236,Xuefeng Lu,I22716506,Lanzhou University of Technology,Lanzhou,Gansu,CN,分子动力学与统计力学,73,2,0.681,0.261,29,0,0000-0003-1066-5180
+A5034160895,Zhenghao Wu,I196934937,Liaocheng University,Liaocheng,Shandong,CN,分子动力学与统计力学,17,5,0.562,0.381,14,1,0000-0003-2862-4432
+A5120196541,Chang-Sheng Wang,I153374732,Liaoning Normal University,Dalian,Liaoning,CN,电子结构与量子化学方法,13,11,0.615,0.371,11,1,0000-0001-9098-9999
+A5100337869,Guohui Li,I153374732,Liaoning Normal University,Dalian,Liaoning,CN,分子动力学与统计力学,90,30,0.652,0.272,49,6,0000-0001-8223-705X
+A5046561934,Ping Qian,I153374732,Liaoning Normal University,Dalian,Liaoning,CN,分子动力学与统计力学,106,22,0.708,0.341,33,1,0000-0002-1724-7339
+A5060002741,Zhong-Zhi Yang,I153374732,Liaoning Normal University,Dalian,Liaoning,CN,电子结构与量子化学方法,116,100,0.75,0.617,35,3,0000-0002-6767-2915
+A5016285482,Jingting Sun,I166846921,Liaoning Shihua University,Fushun,Liaoning,CN,分子动力学与统计力学,10,0,0.4,0.4,9,0,0009-0009-7043-7631
+A5100516304,Fengcai Ma,I118803816,Liaoning University,Shenyang,,CN,激发态、光谱与非绝热动力学,49,25,0.286,0.322,33,6,
+A5049397366,Qiying Xia,I15823474,Linyi University,Linyi,,CN,计算材料与密度泛函,44,9,0.909,0.53,12,6,0000-0003-1248-0753
+A5101683412,Hongwei Gao,I182707071,Ludong University,Yantai,Shandong,CN,计算材料与密度泛函,17,8,0.882,0.415,14,0,0000-0003-1030-7244
+A5108389168,Meishan Wang,I182707071,Ludong University,Yantai,Shandong,CN,计算材料与密度泛函,16,2,0.5,0.258,18,1,0000-0001-8085-2657
+A5087970810,Xiao-Guang Ma,I182707071,Ludong University,Yantai,Shandong,CN,计算材料与密度泛函,105,45,0.457,0.304,36,5,0000-0002-7935-499X
+A5037785133,Xiaojun Yao,I49835588,Macao Polytechnic University,Macao,Macau,MO,分子动力学与统计力学,136,21,0.882,0.141,75,3,0000-0002-8974-0173
+A5090193453,Shu-Hua Xia,I145897649,Minzu University of China,Beijing,,CN,激发态、光谱与非绝热动力学,23,6,0.739,0.742,14,2,0000-0002-9955-9191
+A5100599219,Qiang Shi,I141649914,Nanchang University,Nanchang,Jiangxi,CN,激发态、光谱与非绝热动力学,101,60,0.703,0.354,51,9,0000-0002-9046-2924
+A5101484342,Yingxiang Cai,I141649914,Nanchang University,Nanchang,Jiangxi,CN,计算材料与密度泛函,15,0,0.533,0.326,16,0,0000-0002-5160-8177
+A5100430090,Zhiguo Wang,I141649914,Nanchang University,Nanchang,Jiangxi,CN,计算材料与密度泛函,84,7,0.464,0.268,55,6,0000-0002-5652-5362
+A5100363225,Gang Zhang,I167027274,Nanjing Forestry University,Nanjing,Jiangsu,CN,电子结构与量子化学方法,28,22,0.929,0.148,44,3,0000-0001-6486-501X
+A5069706605,Hua Fang,I167027274,Nanjing Forestry University,Nanjing,Jiangsu,CN,激发态、光谱与非绝热动力学,39,26,0.923,0.481,15,0,0000-0002-3921-6250
+A5101817975,Lihui Zhao,I167027274,Nanjing Forestry University,Nanjing,Jiangsu,CN,电子结构与量子化学方法,23,19,1.0,0.299,12,1,0000-0002-0219-3665
+A5048936555,Congming Ma,I134687103,Nanjing Tech University,Nanjing,Jiangsu,CN,计算材料与密度泛函,35,5,0.657,0.372,15,2,0000-0002-4189-5520
+A5084365589,Xiaoning Yang,I134687103,Nanjing Tech University,Nanjing,Jiangsu,CN,分子动力学与统计力学,89,13,0.816,0.544,38,1,0000-0003-0811-3774
+A5003350925,Yu Jia,I134687103,Nanjing Tech University,Nanjing,Jiangsu,CN,计算材料与密度泛函,97,19,0.546,0.26,47,6,0000-0002-5514-0639
+A5044873694,Chungen Liu,I881766915,Nanjing University,Nanjing,Jiangsu,CN,电子结构与量子化学方法,31,23,0.645,0.574,19,7,0000-0001-7839-0799
+A5066544142,Daiqian Xie,I881766915,Nanjing University,Nanjing,Jiangsu,CN,电子结构与量子化学方法,261,205,0.676,0.7,49,16,0000-0001-7185-7085
+A5100778488,Jianwei Zhao,I881766915,Nanjing University,Nanjing,Jiangsu,CN,分子动力学与统计力学,50,12,0.44,0.316,33,0,0000-0001-6604-3634
+A5100629308,Shuhua Li,I881766915,Nanjing University,Nanjing,Jiangsu,CN,电子结构与量子化学方法,165,127,0.806,0.46,56,14,0000-0001-6756-057X
+A5041258394,Qingjun Ding,I9842412,Nanjing University of Aeronautics and Astronautics,Nanjing,,CN,分子动力学与统计力学,20,0,0.7,0.282,20,0,0000-0002-7749-1851
+A5059083216,Weiliang Zhu,I131434179,Nanjing University of Chinese Medicine,Nanjing,Jiangsu,CN,分子动力学与统计力学,108,27,0.796,0.237,60,4,0000-0001-6699-5299
+A5102856919,Bingcheng Hu,I36399199,Nanjing University of Science and Technology,Nanjing,Jiangsu,CN,计算材料与密度泛函,14,0,0.429,0.424,8,1,0000-0003-4572-6713
+A5108423344,Kaiming Deng,I36399199,Nanjing University of Science and Technology,Nanjing,Jiangsu,CN,计算材料与密度泛函,57,18,0.474,0.329,38,4,
+A5044701012,Ruifeng Lu,I36399199,Nanjing University of Science and Technology,Nanjing,Jiangsu,CN,计算材料与密度泛函,49,20,0.367,0.249,50,4,0000-0002-1752-2070
+A5057295660,Weihua Zhu,I36399199,Nanjing University of Science and Technology,Nanjing,Jiangsu,CN,计算材料与密度泛函,216,36,0.787,0.477,41,6,0000-0002-0295-8744
+A5078525076,Weijie Hua,I36399199,Nanjing University of Science and Technology,Nanjing,Jiangsu,CN,电子结构与量子化学方法,34,16,0.588,0.321,25,5,0000-0002-6706-651X
+A5081628324,Xue-Hai Ju,I36399199,Nanjing University of Science and Technology,Nanjing,Jiangsu,CN,计算材料与密度泛函,180,33,0.9,0.542,37,5,0000-0002-9668-3066
+A5109986133,Xuedong Gong,I36399199,Nanjing University of Science and Technology,Nanjing,Jiangsu,CN,计算材料与密度泛函,122,21,0.836,0.598,40,5,
+A5013508325,Gui-Chang Wang,I205237279,Nankai University,Tianjin,Tianjin,CN,计算材料与密度泛函,126,22,0.786,0.406,52,2,0000-0001-8137-6007
+A5006877899,Tianying Yan,I205237279,Nankai University,Tianjin,Tianjin,CN,分子动力学与统计力学,54,9,0.667,0.4,45,3,0000-0002-2708-7906
+A5036165576,Tiege Zhou,I205237279,Nankai University,Tianjin,Tianjin,CN,计算材料与密度泛函,18,3,0.667,0.327,13,0,0000-0002-4902-9934
+A5010656224,Wensheng Cai,I205237279,Nankai University,Tianjin,Tianjin,CN,分子动力学与统计力学,97,39,0.454,0.249,49,2,0000-0002-6457-7058
+A5101639531,Xueguang Shao,I205237279,Nankai University,Tianjin,Tianjin,CN,分子动力学与统计力学,85,36,0.424,0.191,53,2,0000-0001-5027-4382
+A5100451421,Wentao Li,I4210110718,Nanyang Normal University,Nanyang,,CN,电子结构与量子化学方法,50,48,0.84,0.505,17,4,0000-0003-0996-8694
+A5059721592,Yu-Ling Song,I4210110718,Nanyang Normal University,Nanyang,,CN,计算材料与密度泛函,26,0,0.462,0.283,19,2,0000-0002-7946-6051
+A5008759277,Yu-qiang Ma,I4391768004,National Laboratory of Solid State Microstructures,Nanjing,,CN,分子动力学与统计力学,64,20,0.469,0.18,42,1,0000-0002-5433-3199
+A5068215051,Mark E. Tuckerman,I258800397,New York University Shanghai,Shanghai,,CN,分子动力学与统计力学,68,38,0.809,0.172,85,6,0000-0003-2194-9955
+A5011746218,William J. Glover,I258800397,New York University Shanghai,Shanghai,,CN,电子结构与量子化学方法,27,25,0.667,0.509,23,3,0000-0002-2908-5680
+A5086983313,Xiang Sun,I258800397,New York University Shanghai,Shanghai,,CN,激发态、光谱与非绝热动力学,32,24,0.839,0.608,18,2,0000-0002-2846-8532
+A5082303358,Xiao Dong He,I258800397,New York University Shanghai,Shanghai,,CN,电子结构与量子化学方法,120,64,0.752,0.337,50,14,0000-0002-4199-8175
+A5071386325,Zlatko Bačić,I258800397,New York University Shanghai,Shanghai,,CN,激发态、光谱与非绝热动力学,39,29,0.789,0.373,42,2,0000-0003-2033-3147
+A5004067642,Chaohui Tong,I109935558,Ningbo University,Ningbo,Zhejiang,CN,电子结构与量子化学方法,13,9,0.462,0.283,12,3,0000-0002-5467-7282
+A5081025817,Tian Shu Cui,I109935558,Ningbo University,Ningbo,Zhejiang,CN,电子结构与量子化学方法,119,68,0.546,0.164,61,3,0000-0002-9664-848X
+A5000121893,Xiangmei Duan,I109935558,Ningbo University,Ningbo,Zhejiang,CN,计算材料与密度泛函,30,5,0.367,0.297,25,5,0000-0002-7022-753X
+A5015199573,Yunxiang Sun,I109935558,Ningbo University,Ningbo,Zhejiang,CN,分子动力学与统计力学,39,1,0.385,0.371,34,6,0000-0001-9799-7131
+A5033180082,Yang Xiang-Dong,I159389169,Ningbo University of Technology,Ningbo,Zhejiang,CN,电子结构与量子化学方法,86,61,0.593,0.261,40,5,0000-0002-0797-8293
+A5007262192,Ying-Tao Liu,I21642278,Ningxia University,Yinchuan,Ningxia,CN,计算材料与密度泛函,24,2,0.708,0.407,14,4,0000-0001-6032-9914
+A5070673257,Weijie Yang,I153473198,North China Electric Power University,Beijing,,CN,计算材料与密度泛函,63,2,0.476,0.306,53,1,0000-0002-0232-1129
+A5100624636,Yi-hong Ding,I153473198,North China Electric Power University,Beijing,,CN,电子结构与量子化学方法,163,123,0.644,0.457,36,11,0000-0001-9598-437X
+A5036239584,Zongli Sun,I153473198,North China Electric Power University,Beijing,,CN,分子动力学与统计力学,10,5,0.7,0.385,7,0,0000-0002-8021-3529
+A5030768344,Dapeng Yang,I198645480,North China University of Water Resources and Electric Power,Zhengzhou,Henan,CN,激发态、光谱与非绝热动力学,90,69,0.611,0.559,22,6,0000-0002-2319-6355
+A5100380488,Fan Wang,I135714990,North University of China,Taiyuan,Shanxi,CN,电子结构与量子化学方法,91,86,0.933,0.489,38,11,0000-0001-7222-9734
+A5021236903,Shuhai Zhang,I135714990,North University of China,Taiyuan,Shanxi,CN,分子动力学与统计力学,50,13,0.86,0.397,21,0,0000-0002-8779-7424
+A5046107997,Yizheng Fu,I135714990,North University of China,Taiyuan,Shanxi,CN,分子动力学与统计力学,26,0,0.962,0.448,16,1,0000-0002-9862-0982
+A5100704220,Chen Guo,I169572211,Northeast Agricultural University,Harbin,Heilongjiang,CN,计算材料与密度泛函,13,2,0.692,0.481,11,1,0000-0001-9450-8195
+A5009468534,Fenhong Song,I179060312,Northeast Electric Power University,Jilin,Jilin,CN,分子动力学与统计力学,24,0,0.667,0.253,20,0,0000-0003-2145-3116
+A5091777715,Yuanzuo Li,I47689461,Northeast Forestry University,Harbin,,CN,计算材料与密度泛函,84,25,0.393,0.416,33,8,0000-0001-8530-6903
+A5053537780,Jingping Zhang,I184983240,Northeast Normal University,Changchun,,CN,计算材料与密度泛函,88,49,0.625,0.148,64,4,0000-0001-8004-3673
+A5003297812,Yong-Qing Qiu,I184983240,Northeast Normal University,Changchun,,CN,计算材料与密度泛函,100,37,0.48,0.526,32,5,0000-0003-1027-8869
+A5019864544,Qingxin Kang,I921716337,Northeast Petroleum University,Daqing,Heilongjiang,CN,计算材料与密度泛函,12,2,0.917,0.267,17,1,0000-0002-5543-2236
+A5035271390,Xuyun Zhang,I921716337,Northeast Petroleum University,Daqing,Heilongjiang,CN,计算材料与密度泛函,20,1,0.85,0.541,15,1,0000-0001-7797-4477
+A5054374657,Hongshan Chen,I68986083,Northwest Normal University,Lanzhou,,CN,电子结构与量子化学方法,76,40,0.329,0.434,25,1,0000-0003-4381-8569
+A5051400288,Bing Zhu Yin,I37802460,Northwest University,Xi'an,Shaanxi,CN,电子结构与量子化学方法,38,26,0.816,0.264,34,1,0000-0001-8668-9504
+A5018692086,Hong-Jian Feng,I37802460,Northwest University,Xi'an,Shaanxi,CN,计算材料与密度泛函,32,4,0.516,0.365,19,1,0000-0003-2637-4062
+A5101972594,Zhenyi Jiang,I37802460,Northwest University,Xi'an,Shaanxi,CN,电子结构与量子化学方法,16,8,0.812,0.41,12,3,0000-0003-4259-1729
+A5057773703,Fuyi Chen,I17145004,Northwestern Polytechnical University,Xi'an,,CN,机器学习与数据驱动化学,51,6,0.392,0.288,40,0,0000-0002-2191-0930
+A5055704809,Haiyang Niu,I17145004,Northwestern Polytechnical University,Xi'an,,CN,机器学习与数据驱动化学,20,4,0.684,0.26,26,2,0000-0003-3049-5916
+A5057098553,Qingyong Meng,I17145004,Northwestern Polytechnical University,Xi'an,,CN,电子结构与量子化学方法,42,37,0.667,0.724,15,2,0000-0001-9033-1214
+A5067742462,Ruihao Yuan,I17145004,Northwestern Polytechnical University,Xi'an,,CN,机器学习与数据驱动化学,30,0,0.567,0.395,28,0,0000-0002-8214-5400
+A5114888881,Zheng-Tang Liu,I17145004,Northwestern Polytechnical University,Xi'an,,CN,计算材料与密度泛函,129,13,0.775,0.341,39,2,0009-0005-3933-7887
+A5107951051,Zheng-Tang Liu,I17145004,Northwestern Polytechnical University,Xi'an,,CN,计算材料与密度泛函,14,4,0.643,0.424,5,1,
+A5010489444,Tongtao Yue,I59028903,Ocean University of China,Qingdao,,CN,分子动力学与统计力学,35,1,0.514,0.267,32,2,0000-0002-8329-167X
+A5084742252,Chen Li,I20231570,Peking University,Beijing,Beijing,CN,电子结构与量子化学方法,16,11,0.6,0.417,14,0,0000-0003-2115-8694
+A5042974614,Chuying Ouyang,I20231570,Peking University,Beijing,Beijing,CN,计算材料与密度泛函,75,22,0.667,0.234,64,4,0000-0001-8891-1682
+A5115694903,Enge Wang,I20231570,Peking University,Beijing,Beijing,CN,电子结构与量子化学方法,42,22,0.405,0.158,69,8,0000-0001-5624-5320
+A5013304593,Guohua Tao,I20231570,Peking University,Beijing,Beijing,CN,激发态、光谱与非绝热动力学,24,11,0.542,0.453,19,0,0000-0002-5374-2513
+A5080797827,Hong Yi Jiang,I20231570,Peking University,Beijing,Beijing,CN,电子结构与量子化学方法,78,50,0.705,0.382,47,13,0000-0003-3187-2023
+A5037467829,Ji Chen,I20231570,Peking University,Beijing,Beijing,CN,电子结构与量子化学方法,56,32,0.518,0.341,37,3,0000-0003-1603-1963
+A5028965445,Jian Liu,I20231570,Peking University,Beijing,Beijing,CN,激发态、光谱与非绝热动力学,38,27,0.632,0.304,38,5,0000-0002-2906-5858
+A5037816258,Jianbo Cheng,I20231570,Peking University,Beijing,Beijing,CN,电子结构与量子化学方法,108,63,0.491,0.384,42,3,0000-0003-1202-4344
+A5115602711,Jianping Wang,I20231570,Peking University,Beijing,Beijing,CN,激发态、光谱与非绝热动力学,88,21,0.261,0.19,65,4,0000-0001-7127-869X
+A5100645804,Jie Meng,I20231570,Peking University,Beijing,Beijing,CN,计算材料与密度泛函,64,27,0.828,0.094,80,1,0000-0002-0977-5318
+A5100450134,Jun Chen,I20231570,Peking University,Beijing,Beijing,CN,分子动力学与统计力学,23,3,0.783,0.271,24,4,0000-0001-6682-7228
+A5034086449,P. W. Zhao,I20231570,Peking University,Beijing,Beijing,CN,计算材料与密度泛函,43,15,0.884,0.251,37,1,0000-0001-8243-2381
+A5034715756,Shenzhen Xu,I20231570,Peking University,Beijing,Beijing,CN,电子结构与量子化学方法,20,11,0.55,0.299,21,11,0000-0001-7268-9917
+A5083588969,Shimin Hou,I20231570,Peking University,Beijing,Beijing,CN,计算材料与密度泛函,55,24,0.291,0.312,34,0,0000-0002-5042-4405
+A5051732177,Yi Qin Gao,I20231570,Peking University,Beijing,Beijing,CN,分子动力学与统计力学,101,59,0.545,0.274,48,11,0000-0002-4309-9376
+A5044562088,Yun-Dong Wu,I20231570,Peking University,Beijing,Beijing,CN,分子动力学与统计力学,58,23,0.638,0.136,69,2,0000-0003-4477-7332
+A5073928089,Yuda Lin,I64449678,Putian University,Putian,,CN,计算材料与密度泛函,10,2,0.8,0.303,11,0,0000-0003-3287-5007
+A5025054573,Lingpeng Meng,I152269853,Qilu University of Technology,Jinan,,CN,电子结构与量子化学方法,72,43,0.375,0.396,24,3,0000-0003-0445-0749
+A5113685487,Wen-Cai Lu,I108688024,Qingdao University,Qingdao,,CN,电子结构与量子化学方法,25,15,0.5,0.5,14,4,
+A5007556253,Yuanzheng Tang,I143413998,Qingdao University of Science and Technology,Qingdao,,CN,分子动力学与统计力学,22,0,0.955,0.367,20,0,0000-0003-2174-6541
+A5037586164,Zhijian Wu,I116265982,Qinghai University,Xining,Qinghai,CN,计算材料与密度泛函,114,52,0.746,0.273,63,2,0000-0002-8449-8920
+A5100361667,Jun Liu,I111971639,Qiqihar University,Qiqihar,Heilongjiang,CN,分子动力学与统计力学,110,6,0.791,0.264,50,2,0000-0001-7369-1875
+A5012461216,Ruige Wang,I111971639,Qiqihar University,Qiqihar,Heilongjiang,CN,分子动力学与统计力学,22,4,0.955,0.71,10,1,0009-0009-0214-6728
+A5010227245,António J. C. Varandas,I202126657,Qufu Normal University,Qufu,,CN,电子结构与量子化学方法,77,69,0.64,0.224,55,6,0000-0003-1501-3317
+A5100405781,Ping Zhang,I202126657,Qufu Normal University,Qufu,,CN,计算材料与密度泛函,136,35,0.649,0.238,46,2,0000-0003-1939-3943
+A5068083147,Siwei Bi,I202126657,Qufu Normal University,Qufu,,CN,计算材料与密度泛函,48,9,0.75,0.257,28,7,0000-0003-3969-7012
+A5019970428,Shiwei Yin,I88830068,Shaanxi Normal University,Xi'an,,CN,电子结构与量子化学方法,39,20,0.615,0.336,31,2,0000-0002-4389-9509
+A5007057744,Wenliang Wang,I88830068,Shaanxi Normal University,Xi'an,,CN,电子结构与量子化学方法,64,31,0.77,0.245,33,1,0000-0002-5466-596X
+A5001825375,Dezhan Chen,I28006308,Shandong Normal University,Jinan,,CN,计算材料与密度泛函,47,22,0.596,0.338,24,3,0000-0002-2192-4582
+A5043854737,Dunyou Wang,I28006308,Shandong Normal University,Jinan,,CN,电子结构与量子化学方法,57,42,0.351,0.626,24,1,0000-0002-5130-3488
+A5103344849,Gang Chen,I28006308,Shandong Normal University,Jinan,,CN,计算材料与密度泛函,47,10,0.468,0.405,27,3,0000-0003-0780-5234
+A5069734940,Qingtian Meng,I28006308,Shandong Normal University,Jinan,,CN,电子结构与量子化学方法,75,66,0.653,0.49,20,5,0000-0003-2309-1307
+A5109120449,Chengbu Liu,I154099455,Shandong University,Jinan,Shandong,CN,计算材料与密度泛函,144,48,0.743,0.485,35,15,
+A5055616745,Dongju Zhang,I154099455,Shandong University,Jinan,Shandong,CN,计算材料与密度泛函,112,29,0.679,0.358,40,7,0000-0002-6117-4958
+A5100705190,Haibo Ma,I154099455,Shandong University,Jinan,Shandong,CN,电子结构与量子化学方法,65,55,0.708,0.357,36,6,0000-0001-7915-3429
+A5087197441,Keli Han,I154099455,Shandong University,Jinan,Shandong,CN,电子结构与量子化学方法,222,165,0.543,0.295,105,29,0000-0001-9239-1827
+A5004692258,Linhua Liu,I154099455,Shandong University,Jinan,Shandong,CN,电子结构与量子化学方法,36,26,0.639,0.122,35,0,0000-0002-4547-7676
+A5031171238,Panwang Zhou,I154099455,Shandong University,Jinan,Shandong,CN,激发态、光谱与非绝热动力学,44,26,0.477,0.291,36,6,0000-0002-9618-7038
+A5006148580,Peng Zhang,I154099455,Shandong University,Jinan,Shandong,CN,激发态、光谱与非绝热动力学,37,3,0.595,0.578,12,1,0000-0002-1099-6310
+A5102802620,Shenghao Han,I154099455,Shandong University,Jinan,Shandong,CN,计算材料与密度泛函,23,2,0.522,0.28,25,2,0000-0001-6612-2498
+A5056568802,Shengrui Zhou,I154099455,Shandong University,Jinan,Shandong,CN,分子动力学与统计力学,12,0,0.917,0.343,9,0,0009-0000-0573-8221
+A5070591558,Shi-Bo Cheng,I154099455,Shandong University,Jinan,Shandong,CN,电子结构与量子化学方法,42,20,0.286,0.347,27,6,0000-0002-4131-2540
+A5056147538,Shiling Yuan,I154099455,Shandong University,Jinan,Shandong,CN,分子动力学与统计力学,113,4,0.912,0.414,39,4,0000-0002-4073-9470
+A5019399075,Wenjian Liu,I154099455,Shandong University,Jinan,Shandong,CN,电子结构与量子化学方法,164,157,0.761,0.729,58,12,0000-0002-1630-3466
+A5080787409,Yujun Zheng,I154099455,Shandong University,Jinan,Shandong,CN,电子结构与量子化学方法,59,54,0.414,0.269,33,5,0000-0001-9974-2917
+A5039508486,Yuxiang Bu,I154099455,Shandong University,Jinan,Shandong,CN,电子结构与量子化学方法,176,112,0.477,0.548,29,9,0000-0002-6445-5069
+A5064617154,Zhonghan Hu,I154099455,Shandong University,Jinan,Shandong,CN,反应动力学与速率理论,21,17,0.429,0.382,22,1,0000-0003-4879-2775
+A5101674424,Qinggang Zhang,I119203015,Shandong University of Technology,Zibo,Shandong,CN,分子动力学与统计力学,53,15,0.83,0.609,24,6,0000-0002-3921-9988
+A5014043910,Yi Gao,I4210111959,Shanghai Advanced Research Institute,Pudong,Shanghai,CN,计算材料与密度泛函,77,19,0.338,0.266,58,9,0000-0001-6015-5694
+A5109513608,Zhenchao Xu,I4210111959,Shanghai Advanced Research Institute,Pudong,Shanghai,CN,计算材料与密度泛函,13,0,0.308,0.325,10,0,0000-0001-8328-5483
+A5025690121,Hong Wang,I183067930,Shanghai Jiao Tong University,Shanghai,Shanghai,CN,机器学习与数据驱动化学,12,1,0.5,0.261,14,0,0000-0003-1986-512X
+A5053464336,Jakob P. Ulmschneider,I183067930,Shanghai Jiao Tong University,Shanghai,Shanghai,CN,分子动力学与统计力学,27,0,0.667,0.375,27,0,0000-0003-0937-6963
+A5063066778,Ling Fu,I183067930,Shanghai Jiao Tong University,Shanghai,Shanghai,CN,计算材料与密度泛函,28,1,0.714,0.318,34,0,0000-0002-8112-275X
+A5039136827,Xiangyuan Li,I183067930,Shanghai Jiao Tong University,Shanghai,Shanghai,CN,电子结构与量子化学方法,84,65,0.798,0.232,38,8,0000-0003-2201-0536
+A5085852346,Xue-Qing Gong,I183067930,Shanghai Jiao Tong University,Shanghai,Shanghai,CN,计算材料与密度泛函,110,3,0.436,0.274,80,1,0000-0002-9566-7427
+A5016774722,Yuanhang He,I183067930,Shanghai Jiao Tong University,Shanghai,Shanghai,CN,分子动力学与统计力学,10,0,0.9,0.278,11,1,0000-0002-8275-7407
+A5084673397,Zhenli Xu,I183067930,Shanghai Jiao Tong University,Shanghai,Shanghai,CN,反应动力学与速率理论,34,23,0.875,0.264,25,1,0000-0001-7645-4998
+A5022454993,Baojun Wang,I113940042,Shanghai University,Shanghai,,CN,计算材料与密度泛函,90,4,0.611,0.256,45,0,0000-0002-9069-6720
+A5101914465,Dongbo Dai,I113940042,Shanghai University,Shanghai,,CN,机器学习与数据驱动化学,13,0,0.923,0.31,9,0,0000-0003-1465-1990
+A5082545877,Jin-Wu Jiang,I113940042,Shanghai University,Shanghai,,CN,分子动力学与统计力学,45,2,0.444,0.273,48,3,0000-0002-8287-5606
+A5042929513,Linjun Wang,I113940042,Shanghai University,Shanghai,,CN,激发态、光谱与非绝热动力学,65,31,0.547,0.161,63,7,0000-0002-6169-7687
+A5008408190,Siqi Shi,I113940042,Shanghai University,Shanghai,,CN,机器学习与数据驱动化学,78,9,0.603,0.268,74,2,0000-0001-8988-9763
+A5002769517,Tienchong Chang,I113940042,Shanghai University,Shanghai,,CN,分子动力学与统计力学,34,0,0.294,0.382,30,1,0000-0001-5811-1182
+A5101967058,Wencong Lu,I113940042,Shanghai University,Shanghai,,CN,机器学习与数据驱动化学,71,12,0.761,0.336,47,0,0000-0001-5361-6122
+A5100330551,Yi Liu,I113940042,Shanghai University,Shanghai,,CN,机器学习与数据驱动化学,25,2,0.64,0.272,22,2,0000-0002-5821-9086
+A5001967719,Ying Shi,I113940042,Shanghai University,Shanghai,,CN,激发态、光谱与非绝热动力学,54,32,0.463,0.171,51,5,0000-0002-6240-8795
+A5074563285,Yongquan Wu,I113940042,Shanghai University,Shanghai,,CN,分子动力学与统计力学,29,2,0.69,0.358,14,0,0000-0002-7796-6116
+A5049805285,Zhenyu Qian,I18925743,Shanghai University of Sport,Shanghai,,CN,分子动力学与统计力学,21,1,0.667,0.447,21,3,0000-0002-3921-3818
+A5101780112,Youqi Ke,I30809798,ShanghaiTech University,Shanghai,Shanghai,CN,电子结构与量子化学方法,13,8,0.846,0.255,19,1,0000-0003-4676-0737
+A5056594797,Zhaoru Sun,I30809798,ShanghaiTech University,Shanghai,Shanghai,CN,电子结构与量子化学方法,13,6,0.462,0.271,15,4,0000-0002-2092-9779
+A5046506870,Houfu Dai,I32574673,Shantou University,Shantou,,CN,分子动力学与统计力学,13,0,0.917,0.267,26,0,0000-0002-8914-614X
+A5062029799,Hai-Shun Wu,I94310126,Shanxi Normal University,Taiyuan,,CN,计算材料与密度泛函,130,58,0.531,0.448,37,6,0000-0002-0917-5929
+A5100574481,Haishun Wu,I94310126,Shanxi Normal University,Taiyuan,,CN,电子结构与量子化学方法,25,16,0.708,0.393,15,3,
+A5010781195,Haitao Sun,I181877577,Shanxi University,Taiyuan,Shanxi,CN,电子结构与量子化学方法,36,27,0.667,0.155,40,4,0000-0003-1471-8876
+A5045389074,John Z. H. Zhang,I181877577,Shanxi University,Taiyuan,Shanxi,CN,分子动力学与统计力学,163,70,0.646,0.533,61,12,0000-0003-4612-1863
+A5112635003,John Z. H. Zhang,I181877577,Shanxi University,Taiyuan,Shanxi,CN,分子动力学与统计力学,32,17,0.906,0.516,36,6,0000-0003-2853-7910
+A5111940891,John Z. H. Zhang,I181877577,Shanxi University,Taiyuan,Shanxi,CN,分子动力学与统计力学,15,6,0.333,0.714,12,5,
+A5017630866,Si-Dian Li,I181877577,Shanxi University,Taiyuan,Shanxi,CN,计算材料与密度泛函,98,50,0.337,0.331,51,9,0000-0001-5666-0591
+A5100553511,Zhenrong Sun,I181877577,Shanxi University,Taiyuan,Shanxi,CN,电子结构与量子化学方法,47,38,0.489,0.098,41,4,0000-0002-3403-4124
+A5100399511,Ying Wen Xue,I135836153,Shenyang Agricultural University,Shenyang,,CN,计算材料与密度泛函,88,34,0.92,0.204,42,4,0000-0002-3053-5837
+A5072041257,Guoying Zhang,I32399674,Shenyang Normal University,Shenyang,Liaoning,CN,计算材料与密度泛函,13,1,0.615,0.371,5,0,0000-0002-1858-621X
+A5045640973,Jiahe Chen,I32399674,Shenyang Normal University,Shenyang,Liaoning,CN,激发态、光谱与非绝热动力学,19,14,0.789,0.352,12,1,0000-0001-5953-5702
+A5031245703,Yadi Yang,I157507598,Shenyang University of Technology,Shenyang,,CN,分子动力学与统计力学,11,0,1.0,0.647,6,0,0000-0002-4533-5571
+A5010296096,Jinggang Lan,I4405255904,Shenzhen University of Advanced Technology,Shenzhen,Guangdong,CN,电子结构与量子化学方法,13,4,0.385,0.255,23,4,0000-0001-6353-2539
+A5070063506,Zhaoxi Sun,I4405255904,Shenzhen University of Advanced Technology,Shenzhen,Guangdong,CN,分子动力学与统计力学,41,21,0.707,0.418,23,5,0000-0001-8311-7797
+A5101626403,Lihua Kang,I102208913,Shihezi University,Shihezi,Xinjiang,CN,计算材料与密度泛函,30,6,0.867,0.423,26,2,0000-0002-0059-7877
+A5066982848,Yan Li Gao,I102208913,Shihezi University,Shihezi,Xinjiang,CN,计算材料与密度泛函,10,0,0.4,0.256,14,1,0000-0001-9667-3813
+A5029285581,Guozhu Jia,I63354593,Sichuan Normal University,Chengdu,,CN,机器学习与数据驱动化学,20,0,0.75,0.345,14,0,0000-0002-1650-4276
+A5058035654,Dingguo Xu,I24185976,Sichuan University,Chengdu,Sichuan,CN,分子动力学与统计力学,79,11,0.747,0.409,32,6,0000-0002-9834-8296
+A5023510217,Haisheng Ren,I24185976,Sichuan University,Chengdu,Sichuan,CN,电子结构与量子化学方法,26,10,0.731,0.371,20,5,0000-0002-8638-7570
+A5088822791,Hua Zhu,I24185976,Sichuan University,Chengdu,Sichuan,CN,电子结构与量子化学方法,51,39,0.96,0.794,15,5,0000-0002-4289-7667
+A5053214702,Mingli Yang,I24185976,Sichuan University,Chengdu,Sichuan,CN,电子结构与量子化学方法,97,39,0.68,0.473,35,11,0000-0001-8590-8840
+A5046182390,Nanrong Zhao,I24185976,Sichuan University,Chengdu,Sichuan,CN,分子动力学与统计力学,21,15,0.286,0.273,15,3,0000-0002-0958-2348
+A5079099788,Qing Hou,I24185976,Sichuan University,Chengdu,Sichuan,CN,分子动力学与统计力学,56,3,0.821,0.438,22,0,0000-0002-2500-8362
+A5069045505,Tao Gao,I24185976,Sichuan University,Chengdu,Sichuan,CN,计算材料与密度泛函,133,58,0.744,0.556,27,5,0000-0002-4065-3802
+A5101870978,Tao Gao,I24185976,Sichuan University,Chengdu,Sichuan,CN,计算材料与密度泛函,11,3,0.818,0.367,15,0,0000-0001-9261-8518
+A5033010845,Xinlu Cheng,I24185976,Sichuan University,Chengdu,Sichuan,CN,计算材料与密度泛函,199,85,0.727,0.451,35,7,0000-0002-2661-556X
+A5037593812,Xuemei Pu,I24185976,Sichuan University,Chengdu,Sichuan,CN,分子动力学与统计力学,43,11,0.767,0.281,29,1,0000-0002-5519-4258
+A5088119150,Xiliang Yan,I101479585,South China Agricultural University,Guangzhou,Guangdong,CN,机器学习与数据驱动化学,17,1,0.765,0.254,22,1,0000-0003-4173-6228
+A5110032881,Daoling Peng,I187400657,South China Normal University,Guangzhou,,CN,电子结构与量子化学方法,13,11,0.833,0.6,15,4,
+A5071556047,Jijun Zhao,I187400657,South China Normal University,Guangzhou,,CN,计算材料与密度泛函,251,93,0.498,0.325,84,13,0000-0002-3263-7159
+A5060285813,Zhenggang Lan,I187400657,South China Normal University,Guangzhou,,CN,激发态、光谱与非绝热动力学,91,47,0.656,0.497,42,11,0000-0002-8509-0388
+A5077257705,Pei-Ying Huo,I76569877,Southeast University,Nanjing,Jiangsu,CN,电子结构与量子化学方法,13,6,0.308,0.722,4,0,
+A5112545234,Yang-Gang Wang,I3045169105,Southern University of Science and Technology,Shenzhen,Guangdong,CN,计算材料与密度泛函,45,8,0.4,0.263,59,3,0000-0002-0582-0855
+A5031194385,An Yong Li,I142108993,Southwest University,Chongqing,,CN,计算材料与密度泛函,25,14,0.48,0.49,11,0,0000-0002-5816-5620
+A5100655655,Hong Chen,I142108993,Southwest University,Chongqing,,CN,计算材料与密度泛函,64,15,0.375,0.268,34,2,0000-0003-4283-6095
+A5004272726,Hongkuan Yuan,I142108993,Southwest University,Chongqing,,CN,计算材料与密度泛函,83,18,0.386,0.319,40,3,0000-0002-2075-9327
+A5041424004,Li-Hua Gan,I142108993,Southwest University,Chongqing,,CN,计算材料与密度泛函,42,10,0.357,0.372,38,4,0000-0002-0084-1147
+A5010710586,Lingna Xu,I142108993,Southwest University,Chongqing,,CN,计算材料与密度泛函,26,0,0.654,0.26,37,1,0000-0003-1874-1651
+A5052537997,Meng Ju,I142108993,Southwest University,Chongqing,,CN,计算材料与密度泛函,20,5,0.45,0.299,14,2,0000-0002-2822-3383
+A5100340921,Min Wang,I142108993,Southwest University,Chongqing,,CN,计算材料与密度泛函,25,4,0.56,0.309,22,4,0000-0002-5160-7852
+A5051146702,Qu Zhou,I142108993,Southwest University,Chongqing,,CN,计算材料与密度泛函,69,2,0.855,0.27,53,1,0000-0002-3958-8767
+A5110446524,Qun Hui,I142108993,Southwest University,Chongqing,,CN,计算材料与密度泛函,12,3,0.5,0.353,12,3,
+A5101713269,Shaohui Zheng,I142108993,Southwest University,Chongqing,,CN,计算材料与密度泛函,33,21,0.758,0.292,28,3,0000-0002-2547-3985
+A5088434807,Yi Xiao,I142108993,Southwest University,Chongqing,,CN,分子动力学与统计力学,23,4,0.913,0.307,26,1,0000-0002-5023-3166
+A5009100949,Ni-Na Ge,I1297991670,Southwest University of Science and Technology,Mianyang,,CN,分子动力学与统计力学,19,5,0.737,0.388,14,2,0000-0002-4237-839X
+A5075519406,Shule Liu,I157773358,Sun Yat-sen University,Guangzhou,Guangdong,CN,分子动力学与统计力学,23,0,0.913,0.365,18,0,0000-0001-9250-3817
+A5034069559,Zhao-Xu Chen,I157773358,Sun Yat-sen University,Guangzhou,Guangdong,CN,计算材料与密度泛函,54,18,0.815,0.278,40,2,0000-0002-5444-776X
+A5102720816,Hao Gong,I162868743,Tianjin University,Tianjin,Tianjin,CN,分子动力学与统计力学,14,1,0.714,0.4,9,1,0000-0002-9140-0258
+A5102830030,Jian-Gang Guo,I162868743,Tianjin University,Tianjin,Tianjin,CN,分子动力学与统计力学,16,0,0.875,0.267,18,0,0000-0001-5977-3399
+A5101476500,Minhua Zhang,I162868743,Tianjin University,Tianjin,Tianjin,CN,计算材料与密度泛函,95,4,0.821,0.264,46,3,0000-0002-3426-5707
+A5100459431,Xiaoyan Li,I162868743,Tianjin University,Tianjin,Tianjin,CN,计算材料与密度泛函,27,13,0.333,0.281,20,2,0000-0003-2819-5420
+A5035684276,Yingzhe Yu,I162868743,Tianjin University,Tianjin,Tianjin,CN,计算材料与密度泛函,74,1,0.878,0.51,26,2,0000-0001-6909-8972
+A5101739090,Hui Zhao,I116953780,Tongji University,Shanghai,,CN,计算材料与密度泛函,34,10,0.765,0.343,18,0,0000-0002-0762-468X
+A5076410530,Mohan Chen,I116953780,Tongji University,Shanghai,,CN,电子结构与量子化学方法,56,32,0.893,0.361,34,14,0000-0002-8071-5633
+A5100650302,Sheng Meng,I116953780,Tongji University,Shanghai,,CN,计算材料与密度泛函,116,32,0.302,0.206,79,5,0000-0002-1553-1432
+A5054622380,Xueye Wang,I116953780,Tongji University,Shanghai,,CN,计算材料与密度泛函,84,23,0.952,0.528,31,0,0000-0001-5578-6504
+A5039306865,Kuang Yu,I4405263052,Tsinghua Shenzhen International Graduate School,Shenzhen,Guangdong,CN,机器学习与数据驱动化学,21,11,0.762,0.273,29,3,0000-0001-9142-5263
+A5033079136,Wenhui Duan,I99065089,Tsinghua University,Beijing,Beijing,CN,计算材料与密度泛函,92,35,0.522,0.168,92,10,0000-0001-9685-2547
+A5066906174,Yang-Xin Yu,I99065089,Tsinghua University,Beijing,Beijing,CN,计算材料与密度泛函,74,16,0.824,0.425,48,0,0000-0002-7677-3427
+A5028998998,Yuxiang Mo,I99065089,Tsinghua University,Beijing,Beijing,CN,电子结构与量子化学方法,28,26,0.519,0.314,21,0,0000-0002-8499-7623
+A5113202217,Aihui Zhou,I4210165038,University of Chinese Academy of Sciences,Beijing,Beijing,CN,电子结构与量子化学方法,24,21,0.917,0.179,32,1,
+A5033751081,Xiaotao Zu,I150229711,University of Electronic Science and Technology of China,Chengdu,Sichuan,CN,计算材料与密度泛函,95,22,0.716,0.153,68,2,0000-0003-4050-8725
+A5044432790,Zhi-Ru Li,I150229711,University of Electronic Science and Technology of China,Chengdu,Sichuan,CN,电子结构与量子化学方法,89,75,0.303,0.436,40,7,0000-0002-1384-0725
+A5004415040,David Lee Phillips,I889458895,University of Hong Kong,Pok Fu Lam,Southern District,HK,激发态、光谱与非绝热动力学,126,43,0.643,0.225,68,5,0000-0002-8606-8780
+A5100665980,GuanHua Chen,I889458895,University of Hong Kong,Pok Fu Lam,Southern District,HK,电子结构与量子化学方法,70,52,0.809,0.382,39,5,0000-0001-5015-0902
+A5080683645,Baotao Kang,I34949971,University of Jinan,Jinan,,CN,计算材料与密度泛函,29,2,0.379,0.326,27,1,0000-0001-6946-2279
+A5086275942,Hongqi Ai,I34949971,University of Jinan,Jinan,,CN,电子结构与量子化学方法,52,22,0.404,0.531,23,3,0000-0002-9933-390X
+A5102835823,Chuan-Hui Zhang,I92403157,University of Science and Technology Beijing,Beijing,Beijing,CN,计算材料与密度泛函,26,4,0.615,0.321,14,0,0000-0002-6035-5634
+A5030837228,Douxing Pan,I92403157,University of Science and Technology Beijing,Beijing,Beijing,CN,分子动力学与统计力学,10,2,0.5,0.286,14,0,0000-0002-9177-134X
+A5010589139,Feiwu Chen,I92403157,University of Science and Technology Beijing,Beijing,Beijing,CN,电子结构与量子化学方法,30,26,0.767,0.309,20,2,0000-0003-2420-2419
+A5100657910,Mengtao Sun,I92403157,University of Science and Technology Beijing,Beijing,Beijing,CN,计算材料与密度泛函,44,21,0.295,0.104,75,11,0000-0002-8153-2679
+A5083138488,Zhisheng Bi,I92403157,University of Science and Technology Beijing,Beijing,Beijing,CN,分子动力学与统计力学,16,0,0.938,0.696,13,0,
+A5090049046,Kechen Wu,I114117164,University of Science and Technology Liaoning,Anshan,,CN,计算材料与密度泛函,59,23,0.593,0.248,42,3,0000-0002-9531-2239
+A5039574135,Bicai Pan,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,68,27,0.397,0.263,59,2,0000-0002-5128-7860
+A5019157263,Bin Jiang,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,142,94,0.592,0.329,60,15,0000-0003-2696-5436
+A5015565192,Chuanfu Luo,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,26,3,0.731,0.419,24,2,0000-0002-4911-7870
+A5100776330,Fengchao Wang,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,52,7,0.385,0.342,48,1,0000-0002-5954-3881
+A5036086539,Haiyan Liu,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,39,24,0.821,0.113,49,2,0000-0002-5926-820X
+A5100458442,Jinlong Yang,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,计算材料与密度泛函,342,185,0.548,0.315,123,20,0000-0002-5651-5340
+A5109926338,Ju-Guang Han,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,58,29,0.914,0.652,25,2,0000-0001-9263-4972
+A5100619997,Jun Jiang,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,机器学习与数据驱动化学,151,27,0.387,0.234,91,14,0000-0002-6116-5605
+A5078865427,Lijia An,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,68,37,0.338,0.209,44,5,0009-0006-9519-2544
+A5036793185,Lixin He,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,41,28,0.85,0.28,37,8,0000-0003-2050-134X
+A5035816005,Qiangqiang Gu,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,机器学习与数据驱动化学,11,3,0.545,0.324,12,7,0000-0002-9438-9883
+A5080298787,Qunxiang Li,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,计算材料与密度泛函,61,18,0.383,0.286,49,5,0000-0001-9765-4454
+A5048768588,Shan Xi Tian,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,39,28,0.385,0.331,19,4,0000-0003-2836-6277
+A5030026152,Wen-Sheng Xu,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,25,10,0.28,0.263,29,3,0000-0002-5442-8569
+A5085216585,Yang Chen,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,36,30,0.25,0.174,18,4,0009-0004-8076-9510
+A5100719200,Yao Fu,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,63,32,0.524,0.096,100,3,0000-0003-2282-4839
+A5057282533,Yi Luo,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,计算材料与密度泛函,188,66,0.392,0.244,100,20,0000-0003-0007-0394
+A5053436721,YiJing Yan,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,122,97,0.533,0.424,52,8,0000-0002-4499-8154
+A5107845404,Zhao-Yan Sun,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,92,42,0.44,0.319,41,6,0000-0002-6357-3039
+A5027969363,Zhaochuan Fan,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,17,8,0.412,0.293,17,0,0000-0001-9492-5722
+A5100410700,Zhi Zeng,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,计算材料与密度泛函,89,25,0.382,0.249,53,3,0000-0002-8218-4274
+A5060411923,Zhonghuai Hou,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,25,21,0.32,0.144,34,4,0000-0003-1241-7041
+A5062763271,Zijing Lin,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,62,38,0.661,0.304,39,3,0000-0001-9270-1717
+A5061765389,Fei Xiong,I148128674,University of Shanghai for Science and Technology,Shanghai,Shanghai,CN,分子动力学与统计力学,13,0,0.923,0.289,12,0,0000-0002-1140-994X
+A5101989308,Ziliang Zhu,I4210136047,Weifang University of Science and Technology,Weifang,,CN,电子结构与量子化学方法,21,19,0.81,0.656,7,2,0000-0001-8149-1195
+A5100774767,Chaojie Wang,I27781120,Wenzhou Medical University,Wenzhou,Zhejiang,CN,电子结构与量子化学方法,11,5,0.909,0.333,11,1,0000-0003-2466-5704
+A5050913542,Guoyong Fang,I146620803,Wenzhou University,Wenzhou,,CN,计算材料与密度泛函,27,9,0.741,0.262,24,8,0000-0001-6817-3790
+A5090027319,Ningbo Liao,I146620803,Wenzhou University,Wenzhou,,CN,分子动力学与统计力学,44,1,0.773,0.31,25,0,0000-0002-4654-8157
+A5081459918,Shi-Yong Ran,I146620803,Wenzhou University,Wenzhou,,CN,分子动力学与统计力学,12,3,0.25,0.414,12,1,0000-0002-0202-6787
+A5040244540,Shiben Li,I146620803,Wenzhou University,Wenzhou,,CN,分子动力学与统计力学,21,10,0.45,0.278,13,1,0000-0001-7455-3482
+A5016642799,Wenjie Dou,I3133055985,Westlake University,Hangzhou,,CN,电子结构与量子化学方法,30,26,0.467,0.357,21,2,0000-0001-5410-6183
+A5109260763,Minghui Yang,I4210099135,Wuhan Institute of Physics and Mathematics,Wuhan,Hubei,CN,分子动力学与统计力学,13,7,0.846,0.619,12,6,
+A5043239673,Mojie Duan,I4210099135,Wuhan Institute of Physics and Mathematics,Wuhan,Hubei,CN,分子动力学与统计力学,20,3,0.4,0.294,18,3,0000-0002-5496-832X
+A5101468692,Baoshan Wang,I37461747,Wuhan University,Wuhan,Hubei,CN,电子结构与量子化学方法,63,50,0.714,0.289,36,2,0000-0003-3417-9283
+A5031472203,Huali Hao,I37461747,Wuhan University,Wuhan,Hubei,CN,分子动力学与统计力学,10,0,0.7,0.27,19,0,0000-0002-9657-8661
+A5077010575,Minghui Yang,I196699116,Wuhan University of Technology,Wuhan,,CN,电子结构与量子化学方法,82,68,0.439,0.594,29,11,0000-0003-1067-2217
+A5101755904,Bo Song,I87445476,Xi'an Jiaotong University,Xi'an,Shaanxi,CN,电子结构与量子化学方法,17,13,0.941,0.531,8,0,0000-0001-6392-4495
+A5034886921,Chengzhen Sun,I87445476,Xi'an Jiaotong University,Xi'an,Shaanxi,CN,分子动力学与统计力学,39,5,0.282,0.355,27,0,0000-0001-7562-0771
+A5100660057,Haisheng Li,I87445476,Xi'an Jiaotong University,Xi'an,Shaanxi,CN,计算材料与密度泛函,20,5,0.3,0.25,25,3,0000-0002-6420-8383
+A5100377834,Qiang Sun,I110440473,Xi'an University of Science and Technology,Xi'an,,CN,计算材料与密度泛函,114,27,0.342,0.197,77,6,0000-0003-3872-7267
+A5004616678,Enling Li,I4210131919,Xi'an University of Technology,Xi'an,Shaanxi,CN,计算材料与密度泛函,38,5,0.395,0.271,29,0,0000-0002-5973-3300
+A5078343121,Jianyang Wu,I191208505,Xiamen University,Xiamen,Fujian,CN,分子动力学与统计力学,58,4,0.414,0.339,32,1,0000-0002-9094-4835
+A5006197715,Jun Jie Cheng,I191208505,Xiamen University,Xiamen,Fujian,CN,分子动力学与统计力学,107,33,0.623,0.192,81,5,0000-0001-6971-0797
+A5101820473,Liang Fang,I191208505,Xiamen University,Xiamen,Fujian,CN,分子动力学与统计力学,27,0,0.815,0.265,34,1,0000-0002-6255-2105
+A5063240098,Pavlo O. Dral,I191208505,Xiamen University,Xiamen,Fujian,CN,机器学习与数据驱动化学,95,42,0.758,0.363,33,3,0000-0002-2975-9876
+A5001497356,WanZhen Liang,I191208505,Xiamen University,Xiamen,Fujian,CN,电子结构与量子化学方法,81,61,0.662,0.449,35,9,0000-0002-5931-2901
+A5005841986,Wei Wu,I191208505,Xiamen University,Xiamen,Fujian,CN,电子结构与量子化学方法,168,161,0.613,0.703,50,4,0000-0002-6139-5443
+A5034128349,Yi Zhao,I191208505,Xiamen University,Xiamen,Fujian,CN,激发态、光谱与非绝热动力学,92,62,0.451,0.286,40,7,0000-0003-1711-4250
+A5100461045,Yu-Hua Wen,I191208505,Xiamen University,Xiamen,Fujian,CN,分子动力学与统计力学,59,4,0.593,0.454,32,2,0000-0002-0578-7506
+A5018002453,Zexing Cao,I191208505,Xiamen University,Xiamen,Fujian,CN,电子结构与量子化学方法,137,68,0.757,0.471,43,11,0000-0003-0803-7732
+A5070923325,Zi-Zhong Zhu,I191208505,Xiamen University,Xiamen,Fujian,CN,计算材料与密度泛函,23,2,0.522,0.5,22,1,0000-0003-3479-8148
+A5061205386,Zi-Zhong Zhu,I191208505,Xiamen University,Xiamen,Fujian,CN,计算材料与密度泛函,42,9,0.476,0.284,37,1,0000-0001-5353-4418
+A5108839009,Zichao Tang,I191208505,Xiamen University,Xiamen,Fujian,CN,电子结构与量子化学方法,59,45,0.483,0.282,28,6,0000-0002-1127-8070
+A5056166029,Dapeng Cao,I4610292,Xiangtan University,Xiangtan,Hunan,CN,计算材料与密度泛函,84,22,0.583,0.174,94,8,0000-0002-6981-7794
+A5048906470,Bumaliya Abulimiti,I1334729051,Xinjiang Normal University,Ürümqi,,CN,电子结构与量子化学方法,33,26,0.273,0.44,9,2,0000-0002-7274-2797
+A5103286382,Xiaoning Wang,I1334729051,Xinjiang Normal University,Ürümqi,,CN,激发态、光谱与非绝热动力学,10,8,0.5,0.625,4,1,0009-0004-3781-3184
+A5029207520,Haiming Duan,I96908189,Xinjiang University,Ürümqi,,CN,计算材料与密度泛函,58,19,0.621,0.307,30,1,0000-0003-1918-9555
+A5083439000,Xiaoyu Huang,I1793135,Yanbian University,Yanji,,CN,计算材料与密度泛函,15,0,0.667,0.357,12,4,0000-0003-4973-338X
+A5046391336,Ji Guo Su,I39333907,Yanshan University,Qinhuangdao,,CN,分子动力学与统计力学,12,4,0.833,0.286,17,1,0000-0003-0778-3477
+A5031008495,Jiguo Su,I39333907,Yanshan University,Qinhuangdao,,CN,分子动力学与统计力学,13,3,0.615,0.406,10,0,
+A5015822815,Chaofan Sun,I4210108244,Yantai Institute of Coastal Zone Research,Yantai,Shandong,CN,激发态、光谱与非绝热动力学,58,21,0.586,0.411,28,7,0000-0002-1273-6707
+A5101626406,Lihua Kang,I18452120,Yantai University,Yantai,,CN,计算材料与密度泛函,10,5,0.7,0.714,8,0,0000-0002-9371-9107
+A5040171715,Quan Xie,I120825670,Yunnan Normal University,Kunming,Yunnan,CN,分子动力学与统计力学,72,3,0.556,0.279,26,2,0000-0002-2848-1745
+A5033369894,Wei-Hua Mu,I120825670,Yunnan Normal University,Kunming,Yunnan,CN,计算材料与密度泛函,19,3,0.579,0.333,15,1,0000-0002-4451-3620
+A5115594420,Weibin Zhang,I120825670,Yunnan Normal University,Kunming,Yunnan,CN,计算材料与密度泛函,12,1,1.0,0.316,14,0,0000-0002-2771-704X
+A5048870302,Chong Wang,I189210763,Yunnan University,Kunming,,CN,计算材料与密度泛函,12,2,0.583,0.333,10,2,0000-0003-0969-3301
+A5029697012,Shu-Qun Liu,I189210763,Yunnan University,Kunming,,CN,分子动力学与统计力学,33,0,0.515,0.398,25,0,0000-0003-2023-4552
+A5011623356,Junlang Chen,I1284762954,Zhejiang A & F University,Lin’an Shi,Zhejiang,CN,分子动力学与统计力学,22,1,0.591,0.278,23,0,0000-0001-9238-781X
+A5040869777,Guangjun Nan,I135237710,Zhejiang Normal University,Jinhua,,CN,计算材料与密度泛函,20,8,0.35,0.286,20,7,0000-0002-5185-8336
+A5111951320,Xin Guo,I1328775524,Zhejiang Sci-Tech University,Hangzhou,Zhejiang,CN,计算材料与密度泛函,20,0,0.5,0.27,36,0,0000-0001-8942-1343
+A5003811939,Xuming Zheng,I1328775524,Zhejiang Sci-Tech University,Hangzhou,Zhejiang,CN,激发态、光谱与非绝热动力学,95,25,0.589,0.688,24,5,0000-0002-4227-1365
+A5030540342,Dadong Yan,I76130692,Zhejiang University,Hangzhou,Zhejiang,CN,电子结构与量子化学方法,25,19,0.32,0.263,23,2,0000-0002-9944-6381
+A5057627218,Meng-Bo Luo,I76130692,Zhejiang University,Hangzhou,Zhejiang,CN,分子动力学与统计力学,50,27,0.52,0.282,21,0,0000-0002-0783-0352
+A5023979894,Min Chen,I76130692,Zhejiang University,Hangzhou,Zhejiang,CN,分子动力学与统计力学,38,3,0.684,0.345,28,0,0000-0002-8900-8855
+A5028525523,Tingjun Hou,I76130692,Zhejiang University,Hangzhou,Zhejiang,CN,分子动力学与统计力学,121,31,0.773,0.156,95,4,0000-0001-7227-2580
+A5008897912,Xiaohui Cang,I76130692,Zhejiang University,Hangzhou,Zhejiang,CN,分子动力学与统计力学,11,0,0.636,0.262,20,0,0000-0003-0944-7012
+A5032054399,Mingjuan Ji,I55712492,Zhejiang University of Technology,Hangzhou,,CN,分子动力学与统计力学,13,0,0.846,0.419,14,3,
+A5000105424,Hao Tian,I4210092058,Zhengzhou Normal University,Zhengzhou,Henan,CN,计算材料与密度泛函,35,7,0.829,0.324,19,3,0000-0002-0496-8735
+A5082947595,Xianqi Dai,I4210092058,Zhengzhou Normal University,Zhengzhou,Henan,CN,计算材料与密度泛函,84,4,0.321,0.297,43,1,0000-0002-3934-5773
+A5010495866,Xiangjian Shen,I38877650,Zhengzhou University,Zhengzhou,Henan,CN,计算材料与密度泛函,35,17,0.457,0.53,22,8,0000-0002-4870-0941
+A5082210344,Yinsheng Yu,I38877650,Zhengzhou University,Zhengzhou,Henan,CN,分子动力学与统计力学,22,0,0.955,0.259,20,0,0000-0002-8487-034X

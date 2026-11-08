@@ -19,11 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Assemble site
-        run: |
-          mkdir -p _site/uoft _site/stanford
-          cp index.html _site/
-          cp -r uoft/site/. _site/uoft/
-          cp -r stanford/site/. _site/stanford/
+        run: ./build_site.sh
       - uses: actions/configure-pages@v5
         with:
           enablement: true
