@@ -1,0 +1,301 @@
+a,b,a_name,b_name,cosine
+A5064243146,A5073780128,Brian A. Cole,Gustaaf H. Brooijmans,0.9025
+A5054611028,A5114376566,Georgia Karagiorgi,Mark Ross-Lonergan,0.9015
+A5076968000,A5110944706,Ovidiu Savin,Panagiota Daskalopoulos,0.8843
+A5076968000,A5087346601,Ovidiu Savin,Daniela De Silva,0.8712
+A5038227503,A5062917864,Brian David Metzger,Andrei M. Beloborodov,0.8464
+A5062349662,A5068442476,Milind Hegde,Ivan Corwin,0.8411
+A5018064555,A5054611028,Michael Herman Shaevitz,Georgia Karagiorgi,0.8216
+A5015048102,A5062917864,Yuri Levin,Andrei M. Beloborodov,0.8192
+A5087346601,A5110944706,Daniela De Silva,Panagiota Daskalopoulos,0.8161
+A5010334790,A5079623451,Robert D. Mawhinney,Norman H. Christ,0.8129
+A5015048102,A5038227503,Yuri Levin,Brian David Metzger,0.7958
+A5085223087,A5101155302,J. Colin Hill,Lam Hui,0.7678
+A5018064555,A5114376566,Michael Herman Shaevitz,Mark Ross-Lonergan,0.7427
+A5063948831,A5064243146,Kerstin M. Perez,Brian A. Cole,0.7229
+A5048884547,A5058876529,Marcel Nutz,Daniel Lacker,0.7196
+A5018064555,A5073780128,Michael Herman Shaevitz,Gustaaf H. Brooijmans,0.7191
+A5048884547,A5060473555,Marcel Nutz,Ioannis Karatzas,0.7172
+A5007974235,A5018064555,Elena Aprile,Michael Herman Shaevitz,0.6993
+A5063948831,A5073780128,Kerstin M. Perez,Gustaaf H. Brooijmans,0.6931
+A5007974235,A5054611028,Elena Aprile,Georgia Karagiorgi,0.6593
+A5005841572,A5020685814,Michael Harris,Eric Urban,0.6552
+A5050202467,A5067295203,Abhay Narayan Pasupathy,Cory Raymond Dean,0.6505
+A5051109529,A5070149920,Vineet Goyal,Will Ma,0.6484
+A5056976753,A5102145661,Serena Ng,Jushan Bai,0.6466
+A5025587428,A5067295203,Raquel Queiroz,Cory Raymond Dean,0.6424
+A5006605951,A5028627359,Jeffrey L. Shaman,Teresa K. Yamana,0.6398
+A5010334790,A5064243146,Robert D. Mawhinney,Brian A. Cole,0.6294
+A5025587428,A5050202467,Raquel Queiroz,Abhay Narayan Pasupathy,0.6257
+A5053874234,A5082184590,Angela Olinto,Szabolcs Marka,0.6239
+A5014624803,A5017031564,David R. Reichman,Timothy C. Berkelbach,0.6194
+A5050202467,A5080605975,Abhay Narayan Pasupathy,Andrew J. Millis,0.6183
+A5018064555,A5082184590,Michael Herman Shaevitz,Szabolcs Marka,0.615
+A5015048102,A5082184590,Yuri Levin,Szabolcs Marka,0.6142
+A5064243146,A5079623451,Brian A. Cole,Norman H. Christ,0.6001
+A5029596952,A5036606735,D. H. Phong,Igor Moiseevich Krichever,0.5993
+A5058876529,A5060473555,Daniel Lacker,Ioannis Karatzas,0.5956
+A5018064555,A5064243146,Michael Herman Shaevitz,Brian A. Cole,0.5953
+A5018064555,A5063948831,Michael Herman Shaevitz,Kerstin M. Perez,0.5945
+A5038227503,A5078330440,Brian David Metzger,Charles J. Hailey,0.5938
+A5006605951,A5089869489,Jeffrey L. Shaman,Sen Pei,0.5911
+A5025587428,A5088316107,Raquel Queiroz,James W. McIver,0.5872
+A5054611028,A5073780128,Georgia Karagiorgi,Gustaaf H. Brooijmans,0.5774
+A5076363880,A5110944706,Simon Brendle,Panagiota Daskalopoulos,0.576
+A5020685814,A5086112419,Eric Urban,Dorian M. Goldfeld,0.576
+A5024944074,A5082129067,Nabarun Deb,Sumit Mukherjee,0.5748
+A5007974235,A5114376566,Elena Aprile,Mark Ross-Lonergan,0.5677
+A5010334790,A5073780128,Robert D. Mawhinney,Gustaaf H. Brooijmans,0.5676
+A5062917864,A5082184590,Andrei M. Beloborodov,Szabolcs Marka,0.5658
+A5038227503,A5082184590,Brian David Metzger,Szabolcs Marka,0.5592
+A5017155279,A5080605975,Yasutomo J. Uemura,Andrew J. Millis,0.5589
+A5063948831,A5082184590,Kerstin M. Perez,Szabolcs Marka,0.5574
+A5024944074,A5062349662,Nabarun Deb,Milind Hegde,0.557
+A5029998274,A5051109529,Garud Iyengar,Vineet Goyal,0.5547
+A5062917864,A5078330440,Andrei M. Beloborodov,Charles J. Hailey,0.5545
+A5015048102,A5101155302,Yuri Levin,Lam Hui,0.5542
+A5053874234,A5078330440,Angela Olinto,Charles J. Hailey,0.5515
+A5053874234,A5063948831,Angela Olinto,Kerstin M. Perez,0.5489
+A5073780128,A5114376566,Gustaaf H. Brooijmans,Mark Ross-Lonergan,0.5476
+A5005841572,A5086112419,Michael Harris,Dorian M. Goldfeld,0.5458
+A5073780128,A5079623451,Gustaaf H. Brooijmans,Norman H. Christ,0.5451
+A5067917633,A5085318525,Xavier Roy,Xiaoyang Zhu,0.5424
+A5007974235,A5063948831,Elena Aprile,Kerstin M. Perez,0.5422
+A5025701161,A5074994681,Jack R. Norton,Tomislav Rovis,0.5422
+A5021008013,A5072397998,Marianthi‐Anna Kioumourtzoglou,Xiao Wu,0.5395
+A5054611028,A5082184590,Georgia Karagiorgi,Szabolcs Marka,0.5312
+A5007637381,A5087315479,Colin P. Nuckolls,Latha Venkataraman,0.5288
+A5024944074,A5068442476,Nabarun Deb,Ivan Corwin,0.5279
+A5029596952,A5090815046,D. H. Phong,Robert Friedman,0.5256
+A5062349662,A5082129067,Milind Hegde,Sumit Mukherjee,0.5251
+A5007637381,A5067917633,Colin P. Nuckolls,Xavier Roy,0.5184
+A5025701161,A5072093741,Jack R. Norton,Gerard Parkin,0.5132
+A5007974235,A5053874234,Elena Aprile,Angela Olinto,0.5126
+A5007637381,A5085318525,Colin P. Nuckolls,Xiaoyang Zhu,0.5113
+A5024944074,A5033475436,Nabarun Deb,Bodhisattva Sen,0.5093
+A5030299401,A5082129067,Mehtaab S. Sawhney,Sumit Mukherjee,0.5077
+A5015048102,A5078330440,Yuri Levin,Charles J. Hailey,0.4981
+A5068442476,A5082129067,Ivan Corwin,Sumit Mukherjee,0.4971
+A5007974235,A5082184590,Elena Aprile,Szabolcs Marka,0.4956
+A5050202467,A5088316107,Abhay Narayan Pasupathy,James W. McIver,0.4818
+A5048884547,A5076363880,Marcel Nutz,Simon Brendle,0.4797
+A5029998274,A5070149920,Garud Iyengar,Will Ma,0.4795
+A5008595840,A5071064725,Hongseok Namkoong,Henry Lam,0.4784
+A5036606735,A5070321880,Igor Moiseevich Krichever,Andrei Yur'evich Okounkov,0.4778
+A5025587428,A5080605975,Raquel Queiroz,Andrew J. Millis,0.4776
+A5058487048,A5058876529,Wenpin Tang,Daniel Lacker,0.4771
+A5028627359,A5089869489,Teresa K. Yamana,Sen Pei,0.4753
+A5053874234,A5101155302,Angela Olinto,Lam Hui,0.4751
+A5017031564,A5085318525,Timothy C. Berkelbach,Xiaoyang Zhu,0.475
+A5067295203,A5080605975,Cory Raymond Dean,Andrew J. Millis,0.4739
+A5063948831,A5078330440,Kerstin M. Perez,Charles J. Hailey,0.4731
+A5071105677,A5090815046,Brian Greene,Robert Friedman,0.4716
+A5010334790,A5063948831,Robert D. Mawhinney,Kerstin M. Perez,0.4711
+A5038227503,A5053874234,Brian David Metzger,Angela Olinto,0.4658
+A5076363880,A5087346601,Simon Brendle,Daniela De Silva,0.4639
+A5050202467,A5067917633,Abhay Narayan Pasupathy,Xavier Roy,0.4639
+A5063948831,A5079623451,Kerstin M. Perez,Norman H. Christ,0.46
+A5053874234,A5062917864,Angela Olinto,Andrei M. Beloborodov,0.4574
+A5029596952,A5071105677,D. H. Phong,Brian Greene,0.4569
+A5060629138,A5068139203,Tanya Zelevinsky,Sebastian Will,0.4567
+A5076363880,A5076968000,Simon Brendle,Ovidiu Savin,0.4541
+A5017155279,A5050202467,Yasutomo J. Uemura,Abhay Narayan Pasupathy,0.4516
+A5078330440,A5082184590,Charles J. Hailey,Szabolcs Marka,0.4497
+A5067917633,A5087315479,Xavier Roy,Latha Venkataraman,0.4489
+A5085318525,A5087315479,Xiaoyang Zhu,Latha Venkataraman,0.4456
+A5054611028,A5063948831,Georgia Karagiorgi,Kerstin M. Perez,0.4422
+A5052743324,A5076363880,Alberto González-Sanz,Simon Brendle,0.4411
+A5052743324,A5110944706,Alberto González-Sanz,Panagiota Daskalopoulos,0.4398
+A5015048102,A5053874234,Yuri Levin,Angela Olinto,0.4395
+A5064243146,A5082184590,Brian A. Cole,Szabolcs Marka,0.4321
+A5067295203,A5067917633,Cory Raymond Dean,Xavier Roy,0.4301
+A5070321880,A5081122735,Andrei Yur'evich Okounkov,Mikhail Khovanov,0.4235
+A5012437524,A5017031564,Richard A. Friesner,Timothy C. Berkelbach,0.4195
+A5024944074,A5052743324,Nabarun Deb,Alberto González-Sanz,0.419
+A5064627173,A5080186393,Kara E. Rudolph,Katherine M. Keyes,0.4168
+A5082184590,A5114376566,Szabolcs Marka,Mark Ross-Lonergan,0.4162
+A5014866889,A5054641291,Rocco A. Servedio,Clifford Stein,0.4124
+A5017031564,A5067917633,Timothy C. Berkelbach,Xavier Roy,0.41
+A5006605951,A5061502421,Jeffrey L. Shaman,Wan Yang,0.4078
+A5067295203,A5088316107,Cory Raymond Dean,James W. McIver,0.4058
+A5061246300,A5070920982,Daniel Hsu,David M. Blei,0.4047
+A5025587428,A5067917633,Raquel Queiroz,Xavier Roy,0.4026
+A5038227503,A5101155302,Brian David Metzger,Lam Hui,0.3995
+A5068442476,A5070321880,Ivan Corwin,Andrei Yur'evich Okounkov,0.399
+A5014624803,A5080605975,David R. Reichman,Andrew J. Millis,0.3987
+A5020685814,A5090815046,Eric Urban,Robert Friedman,0.3987
+A5058487048,A5060473555,Wenpin Tang,Ioannis Karatzas,0.3969
+A5008595840,A5061246300,Hongseok Namkoong,Daniel Hsu,0.3963
+A5010334790,A5018064555,Robert D. Mawhinney,Michael Herman Shaevitz,0.3938
+A5078330440,A5101155302,Charles J. Hailey,Lam Hui,0.3928
+A5082184590,A5101155302,Szabolcs Marka,Lam Hui,0.3926
+A5018064555,A5079623451,Michael Herman Shaevitz,Norman H. Christ,0.3906
+A5006605951,A5060129129,Jeffrey L. Shaman,Marta Galanti,0.3904
+A5067295203,A5085318525,Cory Raymond Dean,Xiaoyang Zhu,0.3858
+A5017031564,A5080605975,Timothy C. Berkelbach,Andrew J. Millis,0.3849
+A5050202467,A5085318525,Abhay Narayan Pasupathy,Xiaoyang Zhu,0.3822
+A5029596952,A5076363880,D. H. Phong,Simon Brendle,0.3812
+A5074994681,A5089658532,Tomislav Rovis,Makeda Tekle-Smith,0.3785
+A5061502421,A5089869489,Wan Yang,Sen Pei,0.378
+A5080605975,A5088316107,Andrew J. Millis,James W. McIver,0.3763
+A5012437524,A5062442368,Richard A. Friesner,Ann E. McDermott,0.3757
+A5044313704,A5072397998,Joan A. Casey,Xiao Wu,0.3737
+A5070321880,A5090815046,Andrei Yur'evich Okounkov,Robert Friedman,0.3735
+A5033475436,A5052743324,Bodhisattva Sen,Alberto González-Sanz,0.3731
+A5070321880,A5086112419,Andrei Yur'evich Okounkov,Dorian M. Goldfeld,0.372
+A5062917864,A5101155302,Andrei M. Beloborodov,Lam Hui,0.3683
+A5019693272,A5067917633,Jonathan S. Owen,Xavier Roy,0.3658
+A5060129129,A5089869489,Marta Galanti,Sen Pei,0.3655
+A5100382658,A5100405233,Xiaodong Wang,Xiao-Yang Liu,0.3653
+A5024944074,A5058876529,Nabarun Deb,Daniel Lacker,0.3626
+A5007637381,A5102754330,Colin P. Nuckolls,Luis M. Campos,0.3585
+A5071105677,A5101155302,Brian Greene,Lam Hui,0.3583
+A5054641291,A5070149920,Clifford Stein,Will Ma,0.3582
+A5086112419,A5090815046,Dorian M. Goldfeld,Robert Friedman,0.3578
+A5028627359,A5060129129,Teresa K. Yamana,Marta Galanti,0.3575
+A5014624803,A5067295203,David R. Reichman,Cory Raymond Dean,0.3573
+A5021008013,A5044313704,Marianthi‐Anna Kioumourtzoglou,Joan A. Casey,0.3564
+A5008595840,A5070920982,Hongseok Namkoong,David M. Blei,0.3558
+A5051109529,A5054641291,Vineet Goyal,Clifford Stein,0.3556
+A5005841572,A5090815046,Michael Harris,Robert Friedman,0.3527
+A5012437524,A5014624803,Richard A. Friesner,David R. Reichman,0.3518
+A5029596952,A5070321880,D. H. Phong,Andrei Yur'evich Okounkov,0.3506
+A5014624803,A5085318525,David R. Reichman,Xiaoyang Zhu,0.3485
+A5050202467,A5087315479,Abhay Narayan Pasupathy,Latha Venkataraman,0.3474
+A5005841572,A5070321880,Michael Harris,Andrei Yur'evich Okounkov,0.3467
+A5021452033,A5074994681,Dalibor Sames,Tomislav Rovis,0.3462
+A5007637381,A5017031564,Colin P. Nuckolls,Timothy C. Berkelbach,0.3458
+A5058876529,A5062349662,Daniel Lacker,Milind Hegde,0.3457
+A5021008013,A5025850795,Marianthi‐Anna Kioumourtzoglou,Jeff Goldsmith,0.3427
+A5036606735,A5074916646,Igor Moiseevich Krichever,Michael I. Weinstein,0.3414
+A5064243146,A5114376566,Brian A. Cole,Mark Ross-Lonergan,0.3409
+A5058876529,A5076363880,Daniel Lacker,Simon Brendle,0.3398
+A5044313704,A5064627173,Joan A. Casey,Kara E. Rudolph,0.3367
+A5040561728,A5056115552,Jacob Fish,Qiang Du,0.3345
+A5081122735,A5090815046,Mikhail Khovanov,Robert Friedman,0.331
+A5048884547,A5052743324,Marcel Nutz,Alberto González-Sanz,0.3306
+A5007423508,A5014624803,Laura J. Kaufman,David R. Reichman,0.33
+A5010739468,A5064627173,Nicholas Williams,Kara E. Rudolph,0.3297
+A5019693272,A5085318525,Jonathan S. Owen,Xiaoyang Zhu,0.3283
+A5017031564,A5087315479,Timothy C. Berkelbach,Latha Venkataraman,0.3283
+A5014866889,A5030299401,Rocco A. Servedio,Mehtaab S. Sawhney,0.3273
+A5017031564,A5019693272,Timothy C. Berkelbach,Jonathan S. Owen,0.3234
+A5021008013,A5087425858,Marianthi‐Anna Kioumourtzoglou,Linda Valeri,0.3227
+A5048884547,A5058487048,Marcel Nutz,Wenpin Tang,0.3205
+A5030299401,A5068442476,Mehtaab S. Sawhney,Ivan Corwin,0.3202
+A5058487048,A5082129067,Wenpin Tang,Sumit Mukherjee,0.3197
+A5019693272,A5072093741,Jonathan S. Owen,Gerard Parkin,0.3193
+A5058876529,A5068442476,Daniel Lacker,Ivan Corwin,0.3189
+A5021008013,A5085688534,Marianthi‐Anna Kioumourtzoglou,Andrew Rundle,0.3172
+A5052743324,A5076968000,Alberto González-Sanz,Ovidiu Savin,0.315
+A5024944074,A5058487048,Nabarun Deb,Wenpin Tang,0.3139
+A5029998274,A5071064725,Garud Iyengar,Henry Lam,0.3132
+A5087315479,A5102754330,Latha Venkataraman,Luis M. Campos,0.3098
+A5036606735,A5090815046,Igor Moiseevich Krichever,Robert Friedman,0.3097
+A5067917633,A5088316107,Xavier Roy,James W. McIver,0.3078
+A5020685814,A5070321880,Eric Urban,Andrei Yur'evich Okounkov,0.3065
+A5038657171,A5070149920,Anish Agarwal,Will Ma,0.2996
+A5048884547,A5110944706,Marcel Nutz,Panagiota Daskalopoulos,0.2986
+A5053874234,A5085223087,Angela Olinto,J. Colin Hill,0.2986
+A5060473555,A5076363880,Ioannis Karatzas,Simon Brendle,0.2936
+A5029998274,A5038657171,Garud Iyengar,Anish Agarwal,0.2908
+A5024944074,A5060473555,Nabarun Deb,Ioannis Karatzas,0.2905
+A5000308638,A5027938311,Molei Liu,Youmi Suk,0.289
+A5011908314,A5085688534,Katrina Kezios,Andrew Rundle,0.2889
+A5028627359,A5061502421,Teresa K. Yamana,Wan Yang,0.2882
+A5029998274,A5060473555,Garud Iyengar,Ioannis Karatzas,0.2862
+A5007423508,A5081170581,Laura J. Kaufman,Wei Min,0.2845
+A5000308638,A5053670656,Molei Liu,George M. Hripcsak,0.2836
+A5030299401,A5070321880,Mehtaab S. Sawhney,Andrei Yur'evich Okounkov,0.2828
+A5074916646,A5087346601,Michael I. Weinstein,Daniela De Silva,0.2821
+A5085318525,A5102754330,Xiaoyang Zhu,Luis M. Campos,0.2819
+A5025701161,A5089658532,Jack R. Norton,Makeda Tekle-Smith,0.2799
+A5010334790,A5082184590,Robert D. Mawhinney,Szabolcs Marka,0.2796
+A5058487048,A5062349662,Wenpin Tang,Milind Hegde,0.279
+A5025587428,A5085318525,Raquel Queiroz,Xiaoyang Zhu,0.2785
+A5052743324,A5087346601,Alberto González-Sanz,Daniela De Silva,0.2784
+A5062349662,A5070321880,Milind Hegde,Andrei Yur'evich Okounkov,0.2774
+A5079623451,A5082184590,Norman H. Christ,Szabolcs Marka,0.2754
+A5071105677,A5085223087,Brian Greene,J. Colin Hill,0.2751
+A5051109529,A5071064725,Vineet Goyal,Henry Lam,0.2749
+A5015048102,A5085223087,Yuri Levin,J. Colin Hill,0.2742
+A5050062866,A5080186393,Qixuan Chen,Katherine M. Keyes,0.2722
+A5080186393,A5085688534,Katherine M. Keyes,Andrew Rundle,0.2711
+A5008595840,A5029998274,Hongseok Namkoong,Garud Iyengar,0.2702
+A5058876529,A5071064725,Daniel Lacker,Henry Lam,0.2698
+A5030299401,A5062349662,Mehtaab S. Sawhney,Milind Hegde,0.2681
+A5012437524,A5081170581,Richard A. Friesner,Wei Min,0.2672
+A5085318525,A5088316107,Xiaoyang Zhu,James W. McIver,0.2671
+A5061246300,A5070196780,Daniel Hsu,Ming Yuan,0.2665
+A5070321880,A5071105677,Andrei Yur'evich Okounkov,Brian Greene,0.2659
+A5014866889,A5061246300,Rocco A. Servedio,Daniel Hsu,0.2651
+A5011908314,A5080186393,Katrina Kezios,Katherine M. Keyes,0.2649
+A5007637381,A5050202467,Colin P. Nuckolls,Abhay Narayan Pasupathy,0.2644
+A5060129129,A5061502421,Marta Galanti,Wan Yang,0.2637
+A5086116641,A5089609002,Min Qian,Bruce Lubotsky Levin,0.2632
+A5067917633,A5102754330,Xavier Roy,Luis M. Campos,0.2615
+A5058487048,A5071064725,Wenpin Tang,Henry Lam,0.2604
+A5036606735,A5071105677,Igor Moiseevich Krichever,Brian Greene,0.2601
+A5017155279,A5088316107,Yasutomo J. Uemura,James W. McIver,0.2583
+A5011646185,A5014624803,Angelo Cacciuto,David R. Reichman,0.2579
+A5033475436,A5101155302,Bodhisattva Sen,Lam Hui,0.2577
+A5029998274,A5054641291,Garud Iyengar,Clifford Stein,0.2568
+A5085688534,A5087425858,Andrew Rundle,Linda Valeri,0.2557
+A5033475436,A5082129067,Bodhisattva Sen,Sumit Mukherjee,0.2546
+A5072397998,A5085688534,Xiao Wu,Andrew Rundle,0.2538
+A5078330440,A5085223087,Charles J. Hailey,J. Colin Hill,0.2537
+A5060129129,A5062349662,Marta Galanti,Milind Hegde,0.2531
+A5084539618,A5086116641,Ying Kuen Cheung,Min Qian,0.2506
+A5017155279,A5025587428,Yasutomo J. Uemura,Raquel Queiroz,0.2502
+A5019484217,A5100382658,Vishal Misra,Xiaodong Wang,0.2481
+A5025850795,A5085688534,Jeff Goldsmith,Andrew Rundle,0.2472
+A5024944074,A5110944706,Nabarun Deb,Panagiota Daskalopoulos,0.247
+A5056115552,A5087346601,Qiang Du,Daniela De Silva,0.2457
+A5017771205,A5100382658,Arian Maleki,Xiaodong Wang,0.2429
+A5000308638,A5008595840,Molei Liu,Hongseok Namkoong,0.2423
+A5080186393,A5087425858,Katherine M. Keyes,Linda Valeri,0.2407
+A5024944074,A5060129129,Nabarun Deb,Marta Galanti,0.2401
+A5007637381,A5019693272,Colin P. Nuckolls,Jonathan S. Owen,0.2389
+A5000308638,A5070920982,Molei Liu,David M. Blei,0.2367
+A5050062866,A5085688534,Qixuan Chen,Andrew Rundle,0.2356
+A5070920982,A5074093929,David M. Blei,Andrew Gelman,0.2338
+A5033475436,A5070196780,Bodhisattva Sen,Ming Yuan,0.2279
+A5028536256,A5041445378,Sokbae Lee,Naoki Egami,0.2278
+A5010118073,A5089609002,Ian W. McKeague,Bruce Lubotsky Levin,0.2276
+A5014866889,A5051109529,Rocco A. Servedio,Vineet Goyal,0.2265
+A5019693272,A5025701161,Jonathan S. Owen,Jack R. Norton,0.2257
+A5056115552,A5076968000,Qiang Du,Ovidiu Savin,0.2252
+A5033475436,A5061246300,Bodhisattva Sen,Daniel Hsu,0.2248
+A5011908314,A5064627173,Katrina Kezios,Kara E. Rudolph,0.2246
+A5014866889,A5070149920,Rocco A. Servedio,Will Ma,0.224
+A5010118073,A5024944074,Ian W. McKeague,Nabarun Deb,0.2231
+A5017031564,A5102754330,Timothy C. Berkelbach,Luis M. Campos,0.2216
+A5029596952,A5081122735,D. H. Phong,Mikhail Khovanov,0.2206
+A5036606735,A5076363880,Igor Moiseevich Krichever,Simon Brendle,0.2198
+A5086116641,A5087425858,Min Qian,Linda Valeri,0.2197
+A5064627173,A5072397998,Kara E. Rudolph,Xiao Wu,0.2175
+A5008595840,A5051109529,Hongseok Namkoong,Vineet Goyal,0.2172
+A5064627173,A5087425858,Kara E. Rudolph,Linda Valeri,0.2172
+A5025850795,A5072397998,Jeff Goldsmith,Xiao Wu,0.2169
+A5061246300,A5071064725,Daniel Hsu,Henry Lam,0.2167
+A5036606735,A5081122735,Igor Moiseevich Krichever,Mikhail Khovanov,0.2155
+A5011908314,A5087425858,Katrina Kezios,Linda Valeri,0.2145
+A5044313704,A5087425858,Joan A. Casey,Linda Valeri,0.2141
+A5048884547,A5076968000,Marcel Nutz,Ovidiu Savin,0.2139
+A5007423508,A5011646185,Laura J. Kaufman,Angelo Cacciuto,0.2134
+A5021452033,A5025701161,Dalibor Sames,Jack R. Norton,0.2133
+A5044625906,A5102145661,Tian Zheng,Jushan Bai,0.2128
+A5025587428,A5074916646,Raquel Queiroz,Michael I. Weinstein,0.2124
+A5007637381,A5012437524,Colin P. Nuckolls,Richard A. Friesner,0.2115
+A5000308638,A5087798220,Molei Liu,Yuanjia Wang,0.2089
+A5010118073,A5087425858,Ian W. McKeague,Linda Valeri,0.2088
+A5081122735,A5108137720,Mikhail Khovanov,Andrew J. Blumberg,0.2077
+A5030299401,A5086112419,Mehtaab S. Sawhney,Dorian M. Goldfeld,0.2075
+A5007974235,A5060629138,Elena Aprile,Tanya Zelevinsky,0.2064
+A5056115552,A5110944706,Qiang Du,Panagiota Daskalopoulos,0.2055
+A5084539618,A5089609002,Ying Kuen Cheung,Bruce Lubotsky Levin,0.2044
+A5005841572,A5036606735,Michael Harris,Igor Moiseevich Krichever,0.2033
+A5072397998,A5087425858,Xiao Wu,Linda Valeri,0.2022
+A5038657171,A5061246300,Anish Agarwal,Daniel Hsu,0.2018
+A5030299401,A5070149920,Mehtaab S. Sawhney,Will Ma,0.2016
+A5044625906,A5058999096,Tian Zheng,Simon Tavaré,0.2007

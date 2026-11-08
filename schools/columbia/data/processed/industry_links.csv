@@ -1,0 +1,606 @@
+openalex_id,name,dept,company_id,company,country,joint_works
+A5007974235,Elena Aprile,Physics,I4405273848,Iwatani Industrial Gases Corp. (Japan),JP,1
+A5073780128,Gustaaf H. Brooijmans,Physics,I4210100060,Sweco (Sweden),SE,2
+A5073780128,Gustaaf H. Brooijmans,Physics,I1291425158,Google (United States),US,1
+A5073780128,Gustaaf H. Brooijmans,Physics,I4210130323,Arithmer (Japan),JP,1
+A5079623451,Norman H. Christ,Physics,I1341412227,IBM (United States),US,3
+A5064243146,Brian A. Cole,Physics,I4210128144,EIC Laboratories,US,5
+A5064243146,Brian A. Cole,Physics,I65143321,Hitachi (Japan),JP,2
+A5064243146,Brian A. Cole,Physics,I1322087612,Alcatel Lucent (Germany),DE,1
+A5064243146,Brian A. Cole,Physics,I39854257,Mitsubishi Electric (Germany),DE,1
+A5064243146,Brian A. Cole,Physics,I4210155686,Heraeus (Germany),DE,1
+A5067295203,Cory Raymond Dean,Physics,I4387152414,Alcatel-Lucent (United States),US,4
+A5067295203,Cory Raymond Dean,Physics,I1341412227,IBM (United States),US,2
+A5067295203,Cory Raymond Dean,Physics,I1343180700,Intel (United States),US,1
+A5067295203,Cory Raymond Dean,Physics,I74760111,Texas Instruments (United States),US,1
+A5067295203,Cory Raymond Dean,Physics,I4210161429,Intellectual Ventures (United States),US,1
+A5067295203,Cory Raymond Dean,Physics,I1306686416,RTX (United States),US,1
+A5067295203,Cory Raymond Dean,Physics,I2250650973,Samsung (South Korea),KR,1
+A5071105677,Brian Greene,Physics,I924451375,Incyte (United States),US,1
+A5078330440,Charles J. Hailey,Physics,I84776176,Shimadzu (Japan),JP,3
+A5078330440,Charles J. Hailey,Physics,I4210099096,Praxis (United States),US,1
+A5078330440,Charles J. Hailey,Physics,I4387152956,Alcatel-Lucent (France),FR,1
+A5078330440,Charles J. Hailey,Physics,I4210116472,Radiation Monitoring Devices (United States),US,1
+A5078330440,Charles J. Hailey,Physics,I4210163090,KMS Fusion (United States),US,1
+A5101155302,Lam Hui,Physics,I1290206253,Microsoft (United States),US,1
+A5101155302,Lam Hui,Physics,I4387152956,Alcatel-Lucent (France),FR,1
+A5054611028,Georgia Karagiorgi,Physics,I4210095091,Ion Beam Applications (Belgium),BE,2
+A5015048102,Yuri Levin,Physics,I4210129165,General Electric (Netherlands),NL,1
+A5082184590,Szabolcs Marka,Physics,I1324840837,Hewlett-Packard (United States),US,4
+A5082184590,Szabolcs Marka,Physics,I4210166129,Interventi Geo Ambientali (Italy),IT,1
+A5082184590,Szabolcs Marka,Physics,I1325886976,Siemens (Germany),DE,1
+A5082184590,Szabolcs Marka,Physics,I1341412227,IBM (United States),US,1
+A5010334790,Robert D. Mawhinney,Physics,I1341412227,IBM (United States),US,5
+A5010334790,Robert D. Mawhinney,Physics,I4210127875,Nvidia (United States),US,1
+A5038227503,Brian David Metzger,Physics,I4210132373,Ball (United States),US,2
+A5038227503,Brian David Metzger,Physics,I193427800,Applied Materials (United States),US,2
+A5080605975,Andrew J. Millis,Physics,I1283103587,AT&T (United States),US,65
+A5080605975,Andrew J. Millis,Physics,I4387152956,Alcatel-Lucent (France),FR,2
+A5080605975,Andrew J. Millis,Physics,I1290206253,Microsoft (United States),US,2
+A5080605975,Andrew J. Millis,Physics,I4210135925,Materials Center Leoben (Austria),AT,1
+A5080605975,Andrew J. Millis,Physics,I1341412227,IBM (United States),US,1
+A5080605975,Andrew J. Millis,Physics,I4210107353,NEC (United States),US,1
+A5050202467,Abhay Narayan Pasupathy,Physics,I1343180700,Intel (United States),US,1
+A5050202467,Abhay Narayan Pasupathy,Physics,I1341412227,IBM (United States),US,1
+A5050202467,Abhay Narayan Pasupathy,Physics,I4210161429,Intellectual Ventures (United States),US,1
+A5050202467,Abhay Narayan Pasupathy,Physics,I4210092597,NTT (United States),US,1
+A5053874234,Angela Olinto,Physics,I135218257,Swiss Center for Electronics and Microtechnology (Switzerland),CH,18
+A5053874234,Angela Olinto,Physics,I4210144760,S. P. Korolev Rocket and Space Corporation Energia (Russia),RU,8
+A5053874234,Angela Olinto,Physics,I2948394018,Northrop Grumman (United States),US,1
+A5063948831,Kerstin M. Perez,Physics,I84776176,Shimadzu (Japan),JP,4
+A5063948831,Kerstin M. Perez,Physics,I4210125004,Terma (Denmark),DK,1
+A5025587428,Raquel Queiroz,Physics,I1290206253,Microsoft (United States),US,2
+A5025587428,Raquel Queiroz,Physics,I4210092597,NTT (United States),US,1
+A5025587428,Raquel Queiroz,Physics,I1306686416,RTX (United States),US,1
+A5044500643,Ozgur Sahin,Physics,I864088423,Veeco (United States),US,2
+A5044500643,Ozgur Sahin,Physics,I138285227,Agilent Technologies (United States),US,1
+A5044500643,Ozgur Sahin,Physics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5018064555,Michael Herman Shaevitz,Physics,I4387152956,Alcatel-Lucent (France),FR,1
+A5018064555,Michael Herman Shaevitz,Physics,I4388891857,Lockheed (United States),US,1
+A5018064555,Michael Herman Shaevitz,Physics,I4210095091,Ion Beam Applications (Belgium),BE,1
+A5018064555,Michael Herman Shaevitz,Physics,I4210133704,Muons (United States),US,1
+A5017155279,Yasutomo J. Uemura,Physics,I1316910977,DuPont (United States),US,8
+A5017155279,Yasutomo J. Uemura,Physics,I1283103587,AT&T (United States),US,5
+A5017155279,Yasutomo J. Uemura,Physics,I2251713219,NTT (Japan),JP,4
+A5017155279,Yasutomo J. Uemura,Physics,I1332737386,General Electric (United States),US,4
+A5017155279,Yasutomo J. Uemura,Physics,I118347220,NEC (Japan),JP,2
+A5017155279,Yasutomo J. Uemura,Physics,I923382979,ExxonMobil (United States),US,2
+A5017155279,Yasutomo J. Uemura,Physics,I118136607,General Motors (United States),US,1
+A5017155279,Yasutomo J. Uemura,Physics,I1343180700,Intel (United States),US,1
+A5068139203,Sebastian Will,Physics,I1341412227,IBM (United States),US,1
+A5060629138,Tanya Zelevinsky,Physics,I4210112442,OEwaves (United States),US,1
+A5017031564,Timothy C. Berkelbach,Chemistry,I203455613,Schrodinger (United States),US,5
+A5017031564,Timothy C. Berkelbach,Chemistry,I1290206253,Microsoft (United States),US,1
+A5017031564,Timothy C. Berkelbach,Chemistry,I1341412227,IBM (United States),US,1
+A5017031564,Timothy C. Berkelbach,Chemistry,I4210163534,Lumtec (Taiwan),TW,1
+A5017031564,Timothy C. Berkelbach,Chemistry,I4405256866,ByteDance (China),CN,1
+A5017031564,Timothy C. Berkelbach,Chemistry,I4405262918,Qubit Pharmaceuticals,FR,1
+A5017031564,Timothy C. Berkelbach,Chemistry,I4405267997,Vernalis (R&D) Limited (United Kingdom),GB,1
+A5017031564,Timothy C. Berkelbach,Chemistry,I2250650973,Samsung (South Korea),KR,1
+A5017031564,Timothy C. Berkelbach,Chemistry,I1291425158,Google (United States),US,1
+A5017031564,Timothy C. Berkelbach,Chemistry,I1320553840,Amgen (United States),US,1
+A5017031564,Timothy C. Berkelbach,Chemistry,I4210157251,Diagnostics for the Real World (United States),US,1
+A5011646185,Angelo Cacciuto,Chemistry,I1327191685,deCODE Genetics (Iceland),IS,2
+A5102754330,Luis M. Campos,Chemistry,I203455613,Schrodinger (United States),US,2
+A5102754330,Luis M. Campos,Chemistry,I146094533,Mitsubishi Corporation (United States),US,1
+A5012437524,Richard A. Friesner,Chemistry,I203455613,Schrodinger (United States),US,134
+A5012437524,Richard A. Friesner,Chemistry,I67348948,Bayer (Germany),DE,4
+A5012437524,Richard A. Friesner,Chemistry,I4210102587,Pharmaron (United Kingdom),GB,3
+A5012437524,Richard A. Friesner,Chemistry,I4396570585,Leidos Biomedical Research Inc. (United States),US,2
+A5012437524,Richard A. Friesner,Chemistry,I2799548008,D. E. Shaw Research,US,2
+A5012437524,Richard A. Friesner,Chemistry,I85459889,Galapagos (Belgium),BE,1
+A5012437524,Richard A. Friesner,Chemistry,I1330995197,Boehringer Ingelheim (Germany),DE,1
+A5012437524,Richard A. Friesner,Chemistry,I1342131907,Unilever (United Kingdom),GB,1
+A5012437524,Richard A. Friesner,Chemistry,I164928964,"Merck KGaA, Darmstadt (Germany)",DE,1
+A5012437524,Richard A. Friesner,Chemistry,I188950975,GlaxoSmithKline (United Kingdom),GB,1
+A5012437524,Richard A. Friesner,Chemistry,I4210098980,Cambridge Crystallographic Data Centre,GB,1
+A5012437524,Richard A. Friesner,Chemistry,I4210138838,Sanofi (Germany),DE,1
+A5012437524,Richard A. Friesner,Chemistry,I105036370,AstraZeneca (United Kingdom),GB,1
+A5012437524,Richard A. Friesner,Chemistry,I4210143795,AstraZeneca (Sweden),SE,1
+A5012437524,Richard A. Friesner,Chemistry,I4210114143,GlaxoSmithKline (United States),US,1
+A5012437524,Richard A. Friesner,Chemistry,I4405256866,ByteDance (China),CN,1
+A5012437524,Richard A. Friesner,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5007423508,Laura J. Kaufman,Chemistry,I142395110,Astellas Pharma (Japan),JP,1
+A5062442368,Ann E. McDermott,Chemistry,I193170854,Bruker (United States),US,5
+A5062442368,Ann E. McDermott,Chemistry,I1316910977,DuPont (United States),US,3
+A5062442368,Ann E. McDermott,Chemistry,I173469426,Tokyo Gas (Japan),JP,1
+A5081170581,Wei Min,Chemistry,I4210097160,Denali Therapeutics (United States),US,1
+A5081170581,Wei Min,Chemistry,I4210148636,Retrotope (United States),US,1
+A5081170581,Wei Min,Chemistry,I4210096783,Horiba (France),FR,1
+A5081170581,Wei Min,Chemistry,I180857899,Pfizer (United States),US,1
+A5081170581,Wei Min,Chemistry,I4210120386,Biophotonic Solutions (United States),US,1
+A5025701161,Jack R. Norton,Chemistry,I4210133143,Dow Chemical (United States),US,1
+A5025701161,Jack R. Norton,Chemistry,I4210140030,Eastman Chemical Company (United States),US,1
+A5007637381,Colin P. Nuckolls,Chemistry,I1316910977,DuPont (United States),US,6
+A5007637381,Colin P. Nuckolls,Chemistry,I4387152956,Alcatel-Lucent (France),FR,2
+A5007637381,Colin P. Nuckolls,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,2
+A5007637381,Colin P. Nuckolls,Chemistry,I1341412227,IBM (United States),US,1
+A5007637381,Colin P. Nuckolls,Chemistry,I201654770,PPG Industries (United States),US,1
+A5007637381,Colin P. Nuckolls,Chemistry,I2250650973,Samsung (South Korea),KR,1
+A5019693272,Jonathan S. Owen,Chemistry,I4210128947,Kirchhoff (Germany),DE,1
+A5019693272,Jonathan S. Owen,Chemistry,I4210091812,Bristol-Myers Squibb (United States),US,1
+A5072093741,Gerard Parkin,Chemistry,I1316910977,DuPont (United States),US,1
+A5014624803,David R. Reichman,Chemistry,I203455613,Schrodinger (United States),US,9
+A5014624803,David R. Reichman,Chemistry,I1291425158,Google (United States),US,4
+A5014624803,David R. Reichman,Chemistry,I44713367,Capital Fund Management (France),FR,4
+A5014624803,David R. Reichman,Chemistry,I4210130288,American Industrial Partners (United States),US,2
+A5014624803,David R. Reichman,Chemistry,I4387155329,Form Energy (United States),US,1
+A5014624803,David R. Reichman,Chemistry,I4405270056,Numerion Labs (United States),US,1
+A5014624803,David R. Reichman,Chemistry,I2250650973,Samsung (South Korea),KR,1
+A5014624803,David R. Reichman,Chemistry,I1311688040,Amazon (United States),US,1
+A5014624803,David R. Reichman,Chemistry,I4210087022,Riverlane (United Kingdom),GB,1
+A5014624803,David R. Reichman,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5074994681,Tomislav Rovis,Chemistry,I4210091812,Bristol-Myers Squibb (United States),US,13
+A5074994681,Tomislav Rovis,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,6
+A5074994681,Tomislav Rovis,Chemistry,I4210125795,Bristol-Myers Squibb (United Kingdom),GB,4
+A5074994681,Tomislav Rovis,Chemistry,I4210098980,Cambridge Crystallographic Data Centre,GB,1
+A5074994681,Tomislav Rovis,Chemistry,I180980256,Waters (United States),US,1
+A5074994681,Tomislav Rovis,Chemistry,I4210114173,WuXi AppTec (United States),US,1
+A5067917633,Xavier Roy,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5067917633,Xavier Roy,Chemistry,I889804353,Robert Bosch (Germany),DE,1
+A5021452033,Dalibor Sames,Chemistry,I1283582996,Novartis (Switzerland),CH,3
+A5021452033,Dalibor Sames,Chemistry,I180857899,Pfizer (United States),US,2
+A5021452033,Dalibor Sames,Chemistry,I1341412227,IBM (United States),US,1
+A5021452033,Dalibor Sames,Chemistry,I4210100044,AnaBios (United States),US,1
+A5061592874,Neel H. Shah,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5030207693,Brent R. Stockwell,Chemistry,I4210148636,Retrotope (United States),US,4
+A5030207693,Brent R. Stockwell,Chemistry,I4210161177,Mycosynthetix (United States),US,3
+A5030207693,Brent R. Stockwell,Chemistry,I4210134512,GE Global Research (United States),US,3
+A5030207693,Brent R. Stockwell,Chemistry,I137469784,Miltenyi Biotec (Germany),DE,2
+A5030207693,Brent R. Stockwell,Chemistry,I4210088463,BioLegend (United States),US,2
+A5030207693,Brent R. Stockwell,Chemistry,I4210134725,Cell Signaling Technology (United States),US,2
+A5030207693,Brent R. Stockwell,Chemistry,I4210142480,Thermo Fisher Scientific (United States),US,2
+A5030207693,Brent R. Stockwell,Chemistry,I4210151096,Abcam (United Kingdom),GB,2
+A5030207693,Brent R. Stockwell,Chemistry,I4210159175,Akoya Biosciences (United States),US,2
+A5030207693,Brent R. Stockwell,Chemistry,I4210150756,AstraZeneca (United States),US,2
+A5030207693,Brent R. Stockwell,Chemistry,I4210114173,WuXi AppTec (United States),US,2
+A5030207693,Brent R. Stockwell,Chemistry,I183934855,Genentech,US,2
+A5030207693,Brent R. Stockwell,Chemistry,I4210110193,Sema4 (United States),US,1
+A5030207693,Brent R. Stockwell,Chemistry,I4210159998,Flagship Pioneering (United States),US,1
+A5030207693,Brent R. Stockwell,Chemistry,I180980256,Waters (United States),US,1
+A5030207693,Brent R. Stockwell,Chemistry,I4387155476,Kadmon Corporation (United States),US,1
+A5030207693,Brent R. Stockwell,Chemistry,I4210146950,DarwinHealth (United States),US,1
+A5030207693,Brent R. Stockwell,Chemistry,I4210151718,Eisai (United States),US,1
+A5030207693,Brent R. Stockwell,Chemistry,I1297540436,Biogen (United States),US,1
+A5089658532,Makeda Tekle-Smith,Chemistry,I4387155837,Celgene (United States),US,1
+A5085318525,Xiaoyang Zhu,Chemistry,I4210161268,MicroSurfaces (United States),US,4
+A5085318525,Xiaoyang Zhu,Chemistry,I4210161429,Intellectual Ventures (United States),US,2
+A5085318525,Xiaoyang Zhu,Chemistry,I4210130288,American Industrial Partners (United States),US,1
+A5085318525,Xiaoyang Zhu,Chemistry,I82514191,Honeywell (United States),US,1
+A5085318525,Xiaoyang Zhu,Chemistry,I4210092597,NTT (United States),US,1
+A5074093929,Andrew Gelman,Mathematics,I1283582996,Novartis (Switzerland),CH,3
+A5074093929,Andrew Gelman,Mathematics,I4401726785,Microsoft Research New York City (United States),US,3
+A5074093929,Andrew Gelman,Mathematics,I1306409833,Adobe Systems (United States),US,2
+A5074093929,Andrew Gelman,Mathematics,I4210098891,Thales (United States),US,1
+A5074093929,Andrew Gelman,Mathematics,I2802871645,Genesys (United States),US,1
+A5074093929,Andrew Gelman,Mathematics,I4405284243,International Communications Research (United States),US,1
+A5074093929,Andrew Gelman,Mathematics,I4210126490,Springer Nature (United Kingdom),GB,1
+A5074093929,Andrew Gelman,Mathematics,I4210117619,Novartis (United States),US,1
+A5074093929,Andrew Gelman,Mathematics,I1290206253,Microsoft (United States),US,1
+A5080186393,Katherine M. Keyes,Mathematics,I4405267022,"Target PharmaSolutions, Inc. (United States)",US,1
+A5080186393,Katherine M. Keyes,Mathematics,I4210113114,Social and Scientific Systems (United States),US,1
+A5080186393,Katherine M. Keyes,Mathematics,I4210136879,Arcos (United States),US,1
+A5080186393,Katherine M. Keyes,Mathematics,I4210114143,GlaxoSmithKline (United States),US,1
+A5080186393,Katherine M. Keyes,Mathematics,I4210124185,Purdue Pharma (United States),US,1
+A5058999096,Simon Tavaré,Mathematics,I100135526,BGI Group (China),CN,8
+A5058999096,Simon Tavaré,Mathematics,I4387155659,Quantitative Genomics Medicine Laboratories (qGenomics),ES,3
+A5058999096,Simon Tavaré,Mathematics,I922094183,Standard BioTools (United States),US,2
+A5058999096,Simon Tavaré,Mathematics,I4210113899,Illumina (United Kingdom),GB,2
+A5058999096,Simon Tavaré,Mathematics,I4210143795,AstraZeneca (Sweden),SE,1
+A5058999096,Simon Tavaré,Mathematics,I4210112926,Molecular Microbiology and Genomics Consultants (Germany),DE,1
+A5058999096,Simon Tavaré,Mathematics,I4210127762,Coventry (United Kingdom),GB,1
+A5058999096,Simon Tavaré,Mathematics,I4210126820,Fixstars Solutions (United States),US,1
+A5058999096,Simon Tavaré,Mathematics,I4405260140,KIOXIA Corporation (Japan),JP,1
+A5058999096,Simon Tavaré,Mathematics,I4210133601,Fimlab (Finland),FI,1
+A5058999096,Simon Tavaré,Mathematics,I105036370,AstraZeneca (United Kingdom),GB,1
+A5058999096,Simon Tavaré,Mathematics,I2948539688,AbbVie (United States),US,1
+A5058999096,Simon Tavaré,Mathematics,I4210119359,Seven Bridges Genomics (United States),US,1
+A5058999096,Simon Tavaré,Mathematics,I4210122838,SRA International (United States),US,1
+A5058999096,Simon Tavaré,Mathematics,I4210160262,Sophia Genetics (Switzerland),CH,1
+A5058999096,Simon Tavaré,Mathematics,I4396570585,Leidos Biomedical Research Inc. (United States),US,1
+A5058999096,Simon Tavaré,Mathematics,I178645029,Illumina (United States),US,1
+A5058999096,Simon Tavaré,Mathematics,I4210107206,Biobyte Solutions (Germany),DE,1
+A5058999096,Simon Tavaré,Mathematics,I4210130836,DNAnexus (United States),US,1
+A5058999096,Simon Tavaré,Mathematics,I4405272729,"Castle Biosciences, Inc. (United States)",US,1
+A5058999096,Simon Tavaré,Mathematics,I4392738181,Foundation Medicine (United States),US,1
+A5058999096,Simon Tavaré,Mathematics,I138285227,Agilent Technologies (United States),US,1
+A5070920982,David M. Blei,Mathematics,I1306409833,Adobe Systems (United States),US,5
+A5070920982,David M. Blei,Mathematics,I1290206253,Microsoft (United States),US,4
+A5070920982,David M. Blei,Mathematics,I4401726785,Microsoft Research New York City (United States),US,4
+A5070920982,David M. Blei,Mathematics,I1291425158,Google (United States),US,3
+A5070920982,David M. Blei,Mathematics,I869089601,Netflix (United States),US,3
+A5070920982,David M. Blei,Mathematics,I4210114444,Meta (United States),US,2
+A5070920982,David M. Blei,Mathematics,I4210090411,Google DeepMind (United Kingdom),GB,2
+A5070920982,David M. Blei,Mathematics,I1341412227,IBM (United States),US,1
+A5070920982,David M. Blei,Mathematics,I4405286557,IBM Research - Cambridge (United States),US,1
+A5070920982,David M. Blei,Mathematics,I4403386797,"JURA Bio, Inc. (United States)",US,1
+A5070920982,David M. Blei,Mathematics,I2802755631,Morgan Stanley (United States),US,1
+A5070920982,David M. Blei,Mathematics,I1343180700,Intel (United States),US,1
+A5070920982,David M. Blei,Mathematics,I113979032,Twitter (United States),US,1
+A5010543213,Joel E. Cohen,Mathematics,I1283103587,AT&T (United States),US,1
+A5010543213,Joel E. Cohen,Mathematics,I4210107053,Core Competence,US,1
+A5010543213,Joel E. Cohen,Mathematics,I1341412227,IBM (United States),US,1
+A5053670656,George M. Hripcsak,Mathematics,I4405282460,Janssen Research & Development (United States),US,33
+A5053670656,George M. Hripcsak,Mathematics,I4210108991,IQVIA (United States),US,26
+A5053670656,George M. Hripcsak,Mathematics,I1330063522,Johnson & Johnson (United States),US,24
+A5053670656,George M. Hripcsak,Mathematics,I4210151386,Janssen (United States),US,18
+A5053670656,George M. Hripcsak,Mathematics,I186523950,Regeneron (United States),US,10
+A5053670656,George M. Hripcsak,Mathematics,I28927889,IQVIA (United Kingdom),GB,6
+A5053670656,George M. Hripcsak,Mathematics,I4405267758,Verily Life Sciences LLC (United States),US,4
+A5053670656,George M. Hripcsak,Mathematics,I180857899,Pfizer (United States),US,4
+A5053670656,George M. Hripcsak,Mathematics,I105036370,AstraZeneca (United Kingdom),GB,4
+A5053670656,George M. Hripcsak,Mathematics,I2948539688,AbbVie (United States),US,3
+A5053670656,George M. Hripcsak,Mathematics,I4387155976,Laboratory of Data Discovery for Health,HK,3
+A5053670656,George M. Hripcsak,Mathematics,I168537998,Eli Lilly (United States),US,3
+A5053670656,George M. Hripcsak,Mathematics,I4210150756,AstraZeneca (United States),US,3
+A5053670656,George M. Hripcsak,Mathematics,I145325580,Deloitte (United States),US,2
+A5053670656,George M. Hripcsak,Mathematics,I4210149665,Wolters Kluwer Health,US,2
+A5053670656,George M. Hripcsak,Mathematics,I4210093609,Digital China Health (China),CN,2
+A5053670656,George M. Hripcsak,Mathematics,I67348948,Bayer (Germany),DE,2
+A5053670656,George M. Hripcsak,Mathematics,I4210160571,Invitae (United States),US,2
+A5053670656,George M. Hripcsak,Mathematics,I95056601,Actelion (Switzerland),CH,2
+A5053670656,George M. Hripcsak,Mathematics,I4210110193,Sema4 (United States),US,1
+A5053670656,George M. Hripcsak,Mathematics,I4210118680,Cambridge Intellectual Property (United Kingdom),GB,1
+A5053670656,George M. Hripcsak,Mathematics,I1320553840,Amgen (United States),US,1
+A5053670656,George M. Hripcsak,Mathematics,I1291425158,Google (United States),US,1
+A5053670656,George M. Hripcsak,Mathematics,I4210130836,DNAnexus (United States),US,1
+A5053670656,George M. Hripcsak,Mathematics,I61822063,ICF International (United States),US,1
+A5053670656,George M. Hripcsak,Mathematics,I137982388,Janssen (Belgium),BE,1
+A5053670656,George M. Hripcsak,Mathematics,I4210118116,Janssen (United Kingdom),GB,1
+A5053670656,George M. Hripcsak,Mathematics,I4401726900,EPAM Systems (United States),US,1
+A5053670656,George M. Hripcsak,Mathematics,I4210124834,Color (United States),US,1
+A5053670656,George M. Hripcsak,Mathematics,I4210139714,HCM Strategists (United States),US,1
+A5053670656,George M. Hripcsak,Mathematics,I4210154240,CareEvolution (United States),US,1
+A5053670656,George M. Hripcsak,Mathematics,I4210095112,The Hyve (Netherlands),NL,1
+A5010009356,Wafaa El‐Sadr,Mathematics,I4210140816,Gilead Sciences (United States),US,2
+A5010009356,Wafaa El‐Sadr,Mathematics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,2
+A5010009356,Wafaa El‐Sadr,Mathematics,I4210128969,Alphabet (United States),US,2
+A5010009356,Wafaa El‐Sadr,Mathematics,I4210152550,Abt Global (United States),US,1
+A5010009356,Wafaa El‐Sadr,Mathematics,I4210154532,John Snow (United States),US,1
+A5010009356,Wafaa El‐Sadr,Mathematics,I4210091812,Bristol-Myers Squibb (United States),US,1
+A5010009356,Wafaa El‐Sadr,Mathematics,I188950975,GlaxoSmithKline (United Kingdom),GB,1
+A5010009356,Wafaa El‐Sadr,Mathematics,I4405268060,GlaxoSmithKline Research & Development Limited (United Kingdom),GB,1
+A5010009356,Wafaa El‐Sadr,Mathematics,I194391707,BioClinica (United States),US,1
+A5010009356,Wafaa El‐Sadr,Mathematics,I4210113114,Social and Scientific Systems (United States),US,1
+A5010009356,Wafaa El‐Sadr,Mathematics,I4210106787,Gilead Sciences (United Kingdom),GB,1
+A5010009356,Wafaa El‐Sadr,Mathematics,I1333523220,Westat (United States),US,1
+A5010009356,Wafaa El‐Sadr,Mathematics,I4210123891,Narco Freedom (United States),US,1
+A5100382658,Xiaodong Wang,Mathematics,I4210114444,Meta (United States),US,16
+A5100382658,Xiaodong Wang,Mathematics,I17442442,State Grid Corporation of China (China),CN,12
+A5100382658,Xiaodong Wang,Mathematics,I1283103587,AT&T (United States),US,10
+A5100382658,Xiaodong Wang,Mathematics,I4210107353,NEC (United States),US,10
+A5100382658,Xiaodong Wang,Mathematics,I4210087596,Qualcomm (United States),US,9
+A5100382658,Xiaodong Wang,Mathematics,I36326968,InterDigital (United States),US,7
+A5100382658,Xiaodong Wang,Mathematics,I117023288,Analog Devices (United States),US,6
+A5100382658,Xiaodong Wang,Mathematics,I4210154351,Marvell (United States),US,6
+A5100382658,Xiaodong Wang,Mathematics,I2250955327,Huawei Technologies (China),CN,4
+A5100382658,Xiaodong Wang,Mathematics,I1290206253,Microsoft (United States),US,4
+A5100382658,Xiaodong Wang,Mathematics,I72090969,Nokia (United States),US,4
+A5100382658,Xiaodong Wang,Mathematics,I4210162445,Ambarella (United States),US,4
+A5100382658,Xiaodong Wang,Mathematics,I1291425158,Google (United States),US,3
+A5100382658,Xiaodong Wang,Mathematics,I4405274904,China Mobile Research Institute,CN,3
+A5100382658,Xiaodong Wang,Mathematics,I4405282011,State Grid Jiangsu Electric Power (China),CN,3
+A5100382658,Xiaodong Wang,Mathematics,I4210113369,Microsoft Research Asia (China),CN,3
+A5100382658,Xiaodong Wang,Mathematics,I126452172,Aptiv (United States),US,3
+A5100382658,Xiaodong Wang,Mathematics,I1343180700,Intel (United States),US,3
+A5100382658,Xiaodong Wang,Mathematics,I93085520,Silicon Labs (United States),US,3
+A5100382658,Xiaodong Wang,Mathematics,I4405280778,State Grid Liaoning Electric Power Company (China),CN,2
+A5100382658,Xiaodong Wang,Mathematics,I74760111,Texas Instruments (United States),US,2
+A5100382658,Xiaodong Wang,Mathematics,I4210135740,Haier Group (China),CN,2
+A5100382658,Xiaodong Wang,Mathematics,I4210111288,Meta (United Kingdom),GB,2
+A5100382658,Xiaodong Wang,Mathematics,I4210131102,Intelligent Fusion Technology (United States),US,2
+A5100382658,Xiaodong Wang,Mathematics,I4210134591,Telefonica Research and Development,ES,2
+A5100382658,Xiaodong Wang,Mathematics,I882086362,Wipro (Singapore),SG,2
+A5100382658,Xiaodong Wang,Mathematics,I887054487,MathWorks (United States),US,2
+A5100382658,Xiaodong Wang,Mathematics,I158108717,China National Offshore Oil Corporation (China),CN,1
+A5100382658,Xiaodong Wang,Mathematics,I106994412,Sinopec (China),CN,1
+A5100382658,Xiaodong Wang,Mathematics,I1341412227,IBM (United States),US,1
+A5100382658,Xiaodong Wang,Mathematics,I4405272831,State Grid Henan Electric Power Company (China),CN,1
+A5100382658,Xiaodong Wang,Mathematics,I2800372957,China Electronics Technology Group Corporation,CN,1
+A5100382658,Xiaodong Wang,Mathematics,I4210123571,Huawei Technologies (France),FR,1
+A5100382658,Xiaodong Wang,Mathematics,I118019719,F. Hoffmann-La Roche AG,CH,1
+A5100382658,Xiaodong Wang,Mathematics,I4210160498,RELX Group (United States),US,1
+A5100382658,Xiaodong Wang,Mathematics,I44896327,Mitre (United States),US,1
+A5100382658,Xiaodong Wang,Mathematics,I4210090857,Schlumberger (United States),US,1
+A5100382658,Xiaodong Wang,Mathematics,I4210160814,Risun (China),CN,1
+A5100382658,Xiaodong Wang,Mathematics,I98227222,China National Petroleum Corporation (China),CN,1
+A5100382658,Xiaodong Wang,Mathematics,I4210127875,Nvidia (United States),US,1
+A5100382658,Xiaodong Wang,Mathematics,I193427800,Applied Materials (United States),US,1
+A5100382658,Xiaodong Wang,Mathematics,I1311688040,Amazon (United States),US,1
+A5100382658,Xiaodong Wang,Mathematics,I98301712,Baidu (China),CN,1
+A5100382658,Xiaodong Wang,Mathematics,I1333370159,Motorola (United States),US,1
+A5085688534,Andrew Rundle,Mathematics,I4210141196,Assured Bio (United States),US,4
+A5085688534,Andrew Rundle,Mathematics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,3
+A5085688534,Andrew Rundle,Mathematics,I4210101632,Kyowa Kirin International (United Kingdom),GB,2
+A5085688534,Andrew Rundle,Mathematics,I1341412227,IBM (United States),US,1
+A5085688534,Andrew Rundle,Mathematics,I4210136367,DNA Diagnostic (Denmark),DK,1
+A5085688534,Andrew Rundle,Mathematics,I4210153694,Rho (United States),US,1
+A5085688534,Andrew Rundle,Mathematics,I183934855,Genentech,US,1
+A5085688534,Andrew Rundle,Mathematics,I4210118023,Emergent BioSolutions (United States),US,1
+A5085688534,Andrew Rundle,Mathematics,I180857899,Pfizer (United States),US,1
+A5085688534,Andrew Rundle,Mathematics,I4210145009,Sciensano (Belgium),BE,1
+A5085688534,Andrew Rundle,Mathematics,I79463011,Analysis Group (United States),US,1
+A5085688534,Andrew Rundle,Mathematics,I4210099899,Nima (United States),US,1
+A5056115552,Qiang Du,Mathematics,I2250653659,Tencent (China),CN,3
+A5056115552,Qiang Du,Mathematics,I4210114444,Meta (United States),US,1
+A5056115552,Qiang Du,Mathematics,I1292974536,Ford Motor Company (United States),US,1
+A5056115552,Qiang Du,Mathematics,I4210113369,Microsoft Research Asia (China),CN,1
+A5006605951,Jeffrey L. Shaman,Mathematics,I180857899,Pfizer (United States),US,4
+A5006605951,Jeffrey L. Shaman,Mathematics,I4210159872,Predictive Science (United States),US,3
+A5006605951,Jeffrey L. Shaman,Mathematics,I1290206253,Microsoft (United States),US,3
+A5006605951,Jeffrey L. Shaman,Mathematics,I4210089452,Areté Associates (United States),US,2
+A5006605951,Jeffrey L. Shaman,Mathematics,I189718659,Pfizer (United Kingdom),GB,2
+A5006605951,Jeffrey L. Shaman,Mathematics,I1311688040,Amazon (United States),US,2
+A5006605951,Jeffrey L. Shaman,Mathematics,I4405283181,Predictia Intelligent Data Solutions SL (Spain),ES,1
+A5006605951,Jeffrey L. Shaman,Mathematics,I4210155382,Knowledge Based Systems (United States),US,1
+A5006605951,Jeffrey L. Shaman,Mathematics,I180662265,China Mobile (China),CN,1
+A5006605951,Jeffrey L. Shaman,Mathematics,I114662689,Leidos (United States),US,1
+A5006605951,Jeffrey L. Shaman,Mathematics,I44896327,Mitre (United States),US,1
+A5006605951,Jeffrey L. Shaman,Mathematics,I4210100293,Pfizer (Germany),DE,1
+A5006605951,Jeffrey L. Shaman,Mathematics,I4210108991,IQVIA (United States),US,1
+A5006605951,Jeffrey L. Shaman,Mathematics,I2802239252,Sinovac Biotech,CN,1
+A5006605951,Jeffrey L. Shaman,Mathematics,I4210149662,SurveyMonkey (United States),US,1
+A5060473555,Ioannis Karatzas,Mathematics,I1283103587,AT&T (United States),US,3
+A5053607185,Zhezhen Jin,Mathematics,I4387155837,Celgene (United States),US,1
+A5053607185,Zhezhen Jin,Mathematics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5053607185,Zhezhen Jin,Mathematics,I4210106190,Deerfield (United States),US,1
+A5053607185,Zhezhen Jin,Mathematics,I1330063522,Johnson & Johnson (United States),US,1
+A5053607185,Zhezhen Jin,Mathematics,I1283582996,Novartis (Switzerland),CH,1
+A5040561728,Jacob Fish,Mathematics,I1287521167,Lockheed Martin (United States),US,5
+A5040561728,Jacob Fish,Mathematics,I1315810332,Altair Engineering (United States),US,4
+A5040561728,Jacob Fish,Mathematics,I4210159782,Metron (United States),US,3
+A5040561728,Jacob Fish,Mathematics,I118136607,General Motors (United States),US,3
+A5040561728,Jacob Fish,Mathematics,I4210127856,Rolls-Royce (United States),US,2
+A5040561728,Jacob Fish,Mathematics,I4210134512,GE Global Research (United States),US,2
+A5040561728,Jacob Fish,Mathematics,I1343180700,Intel (United States),US,2
+A5040561728,Jacob Fish,Mathematics,I4387154912,United Technologies (United States),US,1
+A5040561728,Jacob Fish,Mathematics,I4210115684,Gezhouba Explosive (China),CN,1
+A5040561728,Jacob Fish,Mathematics,I4388482704,TRW (United States),US,1
+A5040561728,Jacob Fish,Mathematics,I1332737386,General Electric (United States),US,1
+A5040561728,Jacob Fish,Mathematics,I4210143271,Goodyear (United States),US,1
+A5040561728,Jacob Fish,Mathematics,I4405260923,"Shanghai Municipal Engineering Design Institute (Group) Co., Ltd (China)",CN,1
+A5040561728,Jacob Fish,Mathematics,I4210133663,HyperSizer (United States),US,1
+A5089609002,Bruce Lubotsky Levin,Mathematics,I1333523220,Westat (United States),US,3
+A5089609002,Bruce Lubotsky Levin,Mathematics,I180857899,Pfizer (United States),US,2
+A5089609002,Bruce Lubotsky Levin,Mathematics,I1283582996,Novartis (Switzerland),CH,1
+A5089609002,Bruce Lubotsky Levin,Mathematics,I1297540436,Biogen (United States),US,1
+A5089609002,Bruce Lubotsky Levin,Mathematics,I4210091803,Asuragen (United States),US,1
+A5089609002,Bruce Lubotsky Levin,Mathematics,I1318987563,McKesson (United States),US,1
+A5089609002,Bruce Lubotsky Levin,Mathematics,I869633025,Charles River Associates,US,1
+A5089609002,Bruce Lubotsky Levin,Mathematics,I4210119886,Palladian Partners,US,1
+A5089609002,Bruce Lubotsky Levin,Mathematics,I4210135435,Statistics Collaborative,US,1
+A5081965846,Robert Todd Ogden,Mathematics,I4394709241,Tonix Pharmaceuticals (United States),US,4
+A5081965846,Robert Todd Ogden,Mathematics,I4210115315,Antaros Medical (Sweden),SE,2
+A5081965846,Robert Todd Ogden,Mathematics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,2
+A5081965846,Robert Todd Ogden,Mathematics,I1283103587,AT&T (United States),US,2
+A5081965846,Robert Todd Ogden,Mathematics,I4405271414,"Brain Biosciences, Inc. (USA)",US,1
+A5081965846,Robert Todd Ogden,Mathematics,I4210143795,AstraZeneca (Sweden),SE,1
+A5081965846,Robert Todd Ogden,Mathematics,I74680897,Procter & Gamble (United States),US,1
+A5081965846,Robert Todd Ogden,Mathematics,I4210141902,Monasterium Laboratory Skin & Hair Research Solutions (Germany),DE,1
+A5081965846,Robert Todd Ogden,Mathematics,I4210093835,Invicro (United Kingdom),GB,1
+A5070196780,Ming Yuan,Mathematics,I1332737386,General Electric (United States),US,1
+A5070196780,Ming Yuan,Mathematics,I4210134725,Cell Signaling Technology (United States),US,1
+A5070196780,Ming Yuan,Mathematics,I1290206253,Microsoft (United States),US,1
+A5070196780,Ming Yuan,Mathematics,I1291425158,Google (United States),US,1
+A5054641291,Clifford Stein,Mathematics,I1291425158,Google (United States),US,15
+A5054641291,Clifford Stein,Mathematics,I1341412227,IBM (United States),US,4
+A5054641291,Clifford Stein,Mathematics,I10734018,Akamai (United States),US,2
+A5054641291,Clifford Stein,Mathematics,I1283103587,AT&T (United States),US,2
+A5054641291,Clifford Stein,Mathematics,I4401726763,Lyft (United States),US,1
+A5054641291,Clifford Stein,Mathematics,I4210124949,Microsoft Research (India),IN,1
+A5054641291,Clifford Stein,Mathematics,I1290206253,Microsoft (United States),US,1
+A5054641291,Clifford Stein,Mathematics,I4210100430,Google (Switzerland),CH,1
+A5074916646,Michael I. Weinstein,Mathematics,I4387152956,Alcatel-Lucent (France),FR,9
+A5074916646,Michael I. Weinstein,Mathematics,I4210137004,OFS (United States),US,1
+A5074916646,Michael I. Weinstein,Mathematics,I1283103587,AT&T (United States),US,1
+A5025850795,Jeff Goldsmith,Mathematics,I4210120414,Missouri Breaks Industries Research (United States),US,5
+A5025850795,Jeff Goldsmith,Mathematics,I1283103587,AT&T (United States),US,2
+A5025850795,Jeff Goldsmith,Mathematics,I4210161344,STRATA Skin Sciences (United States),US,2
+A5025850795,Jeff Goldsmith,Mathematics,I79463011,Analysis Group (United States),US,1
+A5025850795,Jeff Goldsmith,Mathematics,I1290206253,Microsoft (United States),US,1
+A5025850795,Jeff Goldsmith,Mathematics,I923382979,ExxonMobil (United States),US,1
+A5014866889,Rocco A. Servedio,Mathematics,I1291425158,Google (United States),US,19
+A5014866889,Rocco A. Servedio,Mathematics,I1290206253,Microsoft (United States),US,18
+A5014866889,Rocco A. Servedio,Mathematics,I4210125051,Microsoft (Israel),IL,2
+A5014866889,Rocco A. Servedio,Mathematics,I4400600948,Microsoft Research New England (United States),US,2
+A5014866889,Rocco A. Servedio,Mathematics,I4210107353,NEC (United States),US,2
+A5014866889,Rocco A. Servedio,Mathematics,I4210128969,Alphabet (United States),US,1
+A5014866889,Rocco A. Servedio,Mathematics,I1341412227,IBM (United States),US,1
+A5019484217,Vishal Misra,Mathematics,I1291425158,Google (United States),US,7
+A5019484217,Vishal Misra,Mathematics,I1283103587,AT&T (United States),US,5
+A5019484217,Vishal Misra,Mathematics,I1290206253,Microsoft (United States),US,3
+A5019484217,Vishal Misra,Mathematics,I1341412227,IBM (United States),US,2
+A5019484217,Vishal Misra,Mathematics,I4210121266,Technicolor (France),FR,2
+A5019484217,Vishal Misra,Mathematics,I4387152956,Alcatel-Lucent (France),FR,1
+A5019484217,Vishal Misra,Mathematics,I4210164937,Microsoft Research (United Kingdom),GB,1
+A5019484217,Vishal Misra,Mathematics,I4210100948,AT&T (United Kingdom),GB,1
+A5019484217,Vishal Misra,Mathematics,I4210163639,TauRx (United Kingdom),GB,1
+A5021008013,Marianthi‐Anna Kioumourtzoglou,Mathematics,I4210120414,Missouri Breaks Industries Research (United States),US,4
+A5021008013,Marianthi‐Anna Kioumourtzoglou,Mathematics,I1291425158,Google (United States),US,2
+A5068442476,Ivan Corwin,Mathematics,I4400600948,Microsoft Research New England (United States),US,3
+A5061246300,Daniel Hsu,Mathematics,I1290206253,Microsoft (United States),US,19
+A5061246300,Daniel Hsu,Mathematics,I4400600948,Microsoft Research New England (United States),US,17
+A5061246300,Daniel Hsu,Mathematics,I4210134091,Yahoo (United States),US,6
+A5061246300,Daniel Hsu,Mathematics,I4401726785,Microsoft Research New York City (United States),US,6
+A5061246300,Daniel Hsu,Mathematics,I1291425158,Google (United States),US,4
+A5061246300,Daniel Hsu,Mathematics,I1341412227,IBM (United States),US,3
+A5061246300,Daniel Hsu,Mathematics,I1311688040,Amazon (United States),US,2
+A5061246300,Daniel Hsu,Mathematics,I1306409833,Adobe Systems (United States),US,1
+A5061246300,Daniel Hsu,Mathematics,I1343180700,Intel (United States),US,1
+A5061246300,Daniel Hsu,Mathematics,I1325784139,Yahoo (United Kingdom),GB,1
+A5044313704,Joan A. Casey,Mathematics,I4405272763,Propeller Health (United States),US,3
+A5044313704,Joan A. Casey,Mathematics,I4210120414,Missouri Breaks Industries Research (United States),US,1
+A5044313704,Joan A. Casey,Mathematics,I4391767992,Janssen Scientific Affairs (United States),US,1
+A5044313704,Joan A. Casey,Mathematics,I1292842697,Environmental Systems Research Institute (United States),US,1
+A5044313704,Joan A. Casey,Mathematics,I146461966,Becton Dickinson (United States),US,1
+A5010118073,Ian W. McKeague,Mathematics,I4210102514,Borealis (Finland),FI,5
+A5010118073,Ian W. McKeague,Mathematics,I4210110061,Information Management Services,US,1
+A5050062866,Qixuan Chen,Mathematics,I43591049,PerkinElmer (United States),US,1
+A5050062866,Qixuan Chen,Mathematics,I4210120414,Missouri Breaks Industries Research (United States),US,1
+A5050062866,Qixuan Chen,Mathematics,I4210133143,Dow Chemical (United States),US,1
+A5087425858,Linda Valeri,Mathematics,I4210145009,Sciensano (Belgium),BE,1
+A5087425858,Linda Valeri,Mathematics,I4210120414,Missouri Breaks Industries Research (United States),US,1
+A5087425858,Linda Valeri,Mathematics,I1290206253,Microsoft (United States),US,1
+A5100405233,Xiao-Yang Liu,Mathematics,I4210151511,National Center for Advanced Packaging (China),CN,3
+A5100405233,Xiao-Yang Liu,Mathematics,I45928872,Alibaba Group (China),CN,2
+A5100405233,Xiao-Yang Liu,Mathematics,I2250955327,Huawei Technologies (China),CN,2
+A5100405233,Xiao-Yang Liu,Mathematics,I4210163680,Tianshui Huatian Technology (China),CN,1
+A5100405233,Xiao-Yang Liu,Mathematics,I72090969,Nokia (United States),US,1
+A5100405233,Xiao-Yang Liu,Mathematics,I4210136246,China Telecom (China),CN,1
+A5100405233,Xiao-Yang Liu,Mathematics,I4387153335,China Telecom,CN,1
+A5100405233,Xiao-Yang Liu,Mathematics,I1311688040,Amazon (United States),US,1
+A5100405233,Xiao-Yang Liu,Mathematics,I17442442,State Grid Corporation of China (China),CN,1
+A5100405233,Xiao-Yang Liu,Mathematics,I4210127875,Nvidia (United States),US,1
+A5100405233,Xiao-Yang Liu,Mathematics,I176714629,Bell (Canada),CA,1
+A5100405233,Xiao-Yang Liu,Mathematics,I4210103986,Jingdong (China),CN,1
+A5100405233,Xiao-Yang Liu,Mathematics,I1341412227,IBM (United States),US,1
+A5087798220,Yuanjia Wang,Mathematics,I4405282460,Janssen Research & Development (United States),US,5
+A5087798220,Yuanjia Wang,Mathematics,I168537998,Eli Lilly (United States),US,4
+A5087798220,Yuanjia Wang,Mathematics,I1297540436,Biogen (United States),US,3
+A5087798220,Yuanjia Wang,Mathematics,I4210117619,Novartis (United States),US,2
+A5087798220,Yuanjia Wang,Mathematics,I4210091812,Bristol-Myers Squibb (United States),US,2
+A5087798220,Yuanjia Wang,Mathematics,I2948539688,AbbVie (United States),US,2
+A5087798220,Yuanjia Wang,Mathematics,I1320553840,Amgen (United States),US,1
+A5087798220,Yuanjia Wang,Mathematics,I4210159872,Predictive Science (United States),US,1
+A5087798220,Yuanjia Wang,Mathematics,I1291425158,Google (United States),US,1
+A5087798220,Yuanjia Wang,Mathematics,I1341412227,IBM (United States),US,1
+A5087798220,Yuanjia Wang,Mathematics,I4405267758,Verily Life Sciences LLC (United States),US,1
+A5087798220,Yuanjia Wang,Mathematics,I1290206253,Microsoft (United States),US,1
+A5061502421,Wan Yang,Mathematics,I4387155976,Laboratory of Data Discovery for Health,HK,2
+A5061502421,Wan Yang,Mathematics,I4210089452,Areté Associates (United States),US,1
+A5061502421,Wan Yang,Mathematics,I4210155382,Knowledge Based Systems (United States),US,1
+A5061502421,Wan Yang,Mathematics,I4210159872,Predictive Science (United States),US,1
+A5061502421,Wan Yang,Mathematics,I180662265,China Mobile (China),CN,1
+A5061502421,Wan Yang,Mathematics,I180857899,Pfizer (United States),US,1
+A5064627173,Kara E. Rudolph,Mathematics,I4405267022,"Target PharmaSolutions, Inc. (United States)",US,1
+A5064627173,Kara E. Rudolph,Mathematics,I189090001,Novo Nordisk (Denmark),DK,1
+A5064627173,Kara E. Rudolph,Mathematics,I4210140816,Gilead Sciences (United States),US,1
+A5064627173,Kara E. Rudolph,Mathematics,I186523950,Regeneron (United States),US,1
+A5064627173,Kara E. Rudolph,Mathematics,I146461966,Becton Dickinson (United States),US,1
+A5108137720,Andrew J. Blumberg,Mathematics,I1290206253,Microsoft (United States),US,4
+A5108137720,Andrew J. Blumberg,Mathematics,I93085520,Silicon Labs (United States),US,2
+A5108137720,Andrew J. Blumberg,Mathematics,I2250650973,Samsung (South Korea),KR,1
+A5108137720,Andrew J. Blumberg,Mathematics,I4399598381,Samsung Advanced Institute of Technology (South Korea),KR,1
+A5108137720,Andrew J. Blumberg,Mathematics,I4405259277,Samsung Electronics (South Korea),KR,1
+A5108137720,Andrew J. Blumberg,Mathematics,I4405267410,Verge Genomics (United States),US,1
+A5108137720,Andrew J. Blumberg,Mathematics,I4210117513,10X Genomics (United States),US,1
+A5028536256,Sokbae Lee,Mathematics,I1337397194,Emerald Group Publishing (United Kingdom),GB,1
+A5089869489,Sen Pei,Mathematics,I4387155976,Laboratory of Data Discovery for Health,HK,5
+A5089869489,Sen Pei,Mathematics,I180857899,Pfizer (United States),US,4
+A5089869489,Sen Pei,Mathematics,I4210159872,Predictive Science (United States),US,2
+A5089869489,Sen Pei,Mathematics,I189718659,Pfizer (United Kingdom),GB,2
+A5089869489,Sen Pei,Mathematics,I1290206253,Microsoft (United States),US,2
+A5089869489,Sen Pei,Mathematics,I1311688040,Amazon (United States),US,2
+A5089869489,Sen Pei,Mathematics,I4210100293,Pfizer (Germany),DE,1
+A5089869489,Sen Pei,Mathematics,I2802239252,Sinovac Biotech,CN,1
+A5089869489,Sen Pei,Mathematics,I4210125051,Microsoft (Israel),IL,1
+A5084539618,Ying Kuen Cheung,Mathematics,I4210160255,Boehringer Ingelheim (United States),US,2
+A5084539618,Ying Kuen Cheung,Mathematics,I4210111804,Sanofi (United States),US,1
+A5084539618,Ying Kuen Cheung,Mathematics,I4210111095,Theradex Oncology (United States),US,1
+A5084539618,Ying Kuen Cheung,Mathematics,I1320553840,Amgen (United States),US,1
+A5084539618,Ying Kuen Cheung,Mathematics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5017771205,Arian Maleki,Mathematics,I1290206253,Microsoft (United States),US,1
+A5017771205,Arian Maleki,Mathematics,I4400600948,Microsoft Research New England (United States),US,1
+A5017771205,Arian Maleki,Mathematics,I4210153776,Apple (United States),US,1
+A5048884547,Marcel Nutz,Mathematics,I1299907687,Bloomberg (United States),US,2
+A5044625906,Tian Zheng,Mathematics,I4387155567,State Grid Hunan Electric Power Company Limited,CN,4
+A5044625906,Tian Zheng,Mathematics,I4401726934,IFlyTek (China),CN,2
+A5044625906,Tian Zheng,Mathematics,I180857899,Pfizer (United States),US,1
+A5044625906,Tian Zheng,Mathematics,I158108717,China National Offshore Oil Corporation (China),CN,1
+A5044625906,Tian Zheng,Mathematics,I1311688040,Amazon (United States),US,1
+A5044625906,Tian Zheng,Mathematics,I4405276746,Shanghai Nuclear Engineering Research and Design Institute (China),CN,1
+A5044625906,Tian Zheng,Mathematics,I4210134076,BRCR Global (United States),US,1
+A5044625906,Tian Zheng,Mathematics,I4210134778,BioNTech (Germany),DE,1
+A5044625906,Tian Zheng,Mathematics,I4405267171,"Duality Biotherapeutics, Inc. (China)",CN,1
+A5044625906,Tian Zheng,Mathematics,I4210129256,Macrogen (South Korea),KR,1
+A5044625906,Tian Zheng,Mathematics,I4210114444,Meta (United States),US,1
+A5044625906,Tian Zheng,Mathematics,I4210151837,High Throughput Biology (United States),US,1
+A5044625906,Tian Zheng,Mathematics,I193666615,Kawasaki Heavy Industries (Japan),JP,1
+A5044625906,Tian Zheng,Mathematics,I4210127875,Nvidia (United States),US,1
+A5044625906,Tian Zheng,Mathematics,I4405280994,Seqirus (Australia),AU,1
+A5044625906,Tian Zheng,Mathematics,I1320553840,Amgen (United States),US,1
+A5044625906,Tian Zheng,Mathematics,I4210143116,Électricité de France (France),FR,1
+A5044625906,Tian Zheng,Mathematics,I4401727007,Hikvision (China),CN,1
+A5044625906,Tian Zheng,Mathematics,I1283582996,Novartis (Switzerland),CH,1
+A5044625906,Tian Zheng,Mathematics,I4210117619,Novartis (United States),US,1
+A5029998274,Garud Iyengar,Mathematics,I4210121580,Autogrid Systems (United States),US,1
+A5051109529,Vineet Goyal,Mathematics,I1311688040,Amazon (United States),US,4
+A5051109529,Vineet Goyal,Mathematics,I1291425158,Google (United States),US,2
+A5051109529,Vineet Goyal,Mathematics,I4210121580,Autogrid Systems (United States),US,1
+A5051109529,Vineet Goyal,Mathematics,I123457487,Hershey (United States),US,1
+A5051109529,Vineet Goyal,Mathematics,I4210100430,Google (Switzerland),CH,1
+A5051109529,Vineet Goyal,Mathematics,I4210114444,Meta (United States),US,1
+A5033931830,Shing Mirn Lee,Mathematics,I4210091812,Bristol-Myers Squibb (United States),US,2
+A5033931830,Shing Mirn Lee,Mathematics,I4210119928,Apexigen (United States),US,2
+A5033931830,Shing Mirn Lee,Mathematics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,2
+A5033931830,Shing Mirn Lee,Mathematics,I4210111095,Theradex Oncology (United States),US,1
+A5033931830,Shing Mirn Lee,Mathematics,I4210146950,DarwinHealth (United States),US,1
+A5033931830,Shing Mirn Lee,Mathematics,I4391768022,Plexxikon (United States),US,1
+A5033931830,Shing Mirn Lee,Mathematics,I44892455,Takeda (Japan),JP,1
+A5033931830,Shing Mirn Lee,Mathematics,I4210103611,Mirati Therapeutics (United States),US,1
+A5033475436,Bodhisattva Sen,Mathematics,I1291425158,Google (United States),US,1
+A5086116641,Min Qian,Mathematics,I1283582996,Novartis (Switzerland),CH,3
+A5086116641,Min Qian,Mathematics,I164928964,"Merck KGaA, Darmstadt (Germany)",DE,2
+A5086116641,Min Qian,Mathematics,I1341412227,IBM (United States),US,2
+A5086116641,Min Qian,Mathematics,I4210117619,Novartis (United States),US,2
+A5086116641,Min Qian,Mathematics,I4210151718,Eisai (United States),US,1
+A5100413271,Zhonghua Liu,Mathematics,I4210115849,Emmes (United States),US,1
+A5100413271,Zhonghua Liu,Mathematics,I118347220,NEC (Japan),JP,1
+A5100413271,Zhonghua Liu,Mathematics,I1283582996,Novartis (Switzerland),CH,1
+A5100413271,Zhonghua Liu,Mathematics,I4210117619,Novartis (United States),US,1
+A5100413271,Zhonghua Liu,Mathematics,I4405275943,"NEC Solution Innovators, Ltd. (Japan)",JP,1
+A5100413271,Zhonghua Liu,Mathematics,I13383945,Exponent (United States),US,1
+A5100413271,Zhonghua Liu,Mathematics,I4396570585,Leidos Biomedical Research Inc. (United States),US,1
+A5100413271,Zhonghua Liu,Mathematics,I1320553840,Amgen (United States),US,1
+A5100413271,Zhonghua Liu,Mathematics,I4210133601,Fimlab (Finland),FI,1
+A5100413271,Zhonghua Liu,Mathematics,I4210120414,Missouri Breaks Industries Research (United States),US,1
+A5043778204,Rachael K. Ross,Mathematics,I4210108991,IQVIA (United States),US,1
+A5028627359,Teresa K. Yamana,Mathematics,I180857899,Pfizer (United States),US,4
+A5028627359,Teresa K. Yamana,Mathematics,I4210159872,Predictive Science (United States),US,3
+A5028627359,Teresa K. Yamana,Mathematics,I189718659,Pfizer (United Kingdom),GB,2
+A5028627359,Teresa K. Yamana,Mathematics,I1290206253,Microsoft (United States),US,2
+A5028627359,Teresa K. Yamana,Mathematics,I1311688040,Amazon (United States),US,2
+A5028627359,Teresa K. Yamana,Mathematics,I4210089452,Areté Associates (United States),US,1
+A5028627359,Teresa K. Yamana,Mathematics,I4405283181,Predictia Intelligent Data Solutions SL (Spain),ES,1
+A5071064725,Henry Lam,Mathematics,I2802755631,Morgan Stanley (United States),US,4
+A5071064725,Henry Lam,Mathematics,I1341412227,IBM (United States),US,3
+A5071064725,Henry Lam,Mathematics,I1306409833,Adobe Systems (United States),US,3
+A5071064725,Henry Lam,Mathematics,I1311688040,Amazon (United States),US,2
+A5071064725,Henry Lam,Mathematics,I1305429384,JPMorgan Chase & Co (United States),US,1
+A5071064725,Henry Lam,Mathematics,I4210095624,Alibaba Group (United States),US,1
+A5071064725,Henry Lam,Mathematics,I45928872,Alibaba Group (China),CN,1
+A5071064725,Henry Lam,Mathematics,I4210093665,Toyota Motor North America (United States),US,1
+A5071064725,Henry Lam,Mathematics,I4405261461,Toyota Motor North America Research & Development (United States),US,1
+A5071064725,Henry Lam,Mathematics,I4210113369,Microsoft Research Asia (China),CN,1
+A5071064725,Henry Lam,Mathematics,I1290206253,Microsoft (United States),US,1
+A5072397998,Xiao Wu,Mathematics,I4210124242,Optum (United States),US,2
+A5072397998,Xiao Wu,Mathematics,I4210111469,Sensory Cloud (United States),US,1
+A5072397998,Xiao Wu,Mathematics,I4210127345,Xenon Pharmaceuticals (Canada),CA,1
+A5072397998,Xiao Wu,Mathematics,I61970326,Vertex Pharmaceuticals (United States),US,1
+A5078704429,Yifei Sun,Mathematics,I4210117619,Novartis (United States),US,2
+A5078704429,Yifei Sun,Mathematics,I1291425158,Google (United States),US,1
+A5008595840,Hongseok Namkoong,Mathematics,I1291425158,Google (United States),US,5
+A5008595840,Hongseok Namkoong,Mathematics,I1316064682,LinkedIn (United States),US,2
+A5008595840,Hongseok Namkoong,Mathematics,I4210111288,Meta (United Kingdom),GB,1
+A5008595840,Hongseok Namkoong,Mathematics,I4210114444,Meta (United States),US,1
+A5008595840,Hongseok Namkoong,Mathematics,I1343180700,Intel (United States),US,1
+A5008595840,Hongseok Namkoong,Mathematics,I4401726763,Lyft (United States),US,1
+A5008595840,Hongseok Namkoong,Mathematics,I4210161460,OpenAI (United States),US,1
+A5070149920,Will Ma,Mathematics,I1291425158,Google (United States),US,3
+A5070149920,Will Ma,Mathematics,I45928872,Alibaba Group (China),CN,1
+A5070149920,Will Ma,Mathematics,I4210095624,Alibaba Group (United States),US,1
+A5060129129,Marta Galanti,Mathematics,I180857899,Pfizer (United States),US,4
+A5060129129,Marta Galanti,Mathematics,I189718659,Pfizer (United Kingdom),GB,2
+A5060129129,Marta Galanti,Mathematics,I4210100293,Pfizer (Germany),DE,1
+A5011908314,Katrina Kezios,Mathematics,I1320553840,Amgen (United States),US,1
+A5011908314,Katrina Kezios,Mathematics,I4210106950,Aetion (United States),US,1
+A5082129067,Sumit Mukherjee,Mathematics,I4400600948,Microsoft Research New England (United States),US,1
+A5038657171,Anish Agarwal,Mathematics,I87828566,Edison International (United States),US,2
+A5038657171,Anish Agarwal,Mathematics,I1311688040,Amazon (United States),US,1
+A5038657171,Anish Agarwal,Mathematics,I4210163639,TauRx (United Kingdom),GB,1
+A5030299401,Mehtaab S. Sawhney,Mathematics,I1290206253,Microsoft (United States),US,2
+A5030299401,Mehtaab S. Sawhney,Mathematics,I4210161460,OpenAI (United States),US,2
+A5041445378,Naoki Egami,Mathematics,I869089601,Netflix (United States),US,1
+A5041445378,Naoki Egami,Mathematics,I1343180700,Intel (United States),US,1
+A5058487048,Wenpin Tang,Mathematics,I1311688040,Amazon (United States),US,1
+A5024944074,Nabarun Deb,Mathematics,I1291425158,Google (United States),US,1

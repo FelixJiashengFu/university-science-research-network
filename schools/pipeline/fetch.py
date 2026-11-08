@@ -133,22 +133,16 @@ def from_roster(slug, inst, S, roster):
         res = get("authors", filter="openalex_id:" + "|".join(ids[i:i + 50]), per_page=50,
                   select="id,display_name,works_count,cited_by_count,summary_stats,last_known_institutions,orcid")
         for a in (res or {}).get("results", []): info[a["id"].split("/")[-1]] = a
-    out = f"{HERE}/../{slug}/data/processed"
-    with open(f"{out}/matches.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow(["name", "dept", "campus", "title", "all_depts", "areas", "url", "source", "note", "openalex_id", "openalex_name", "match_score", "match_note", "works_count", "h_index", "orcid"])
-        for r, aid, sc in rows:
-            a = info.get(aid) if aid else None
-            ok = a is not None and sc >= 1.6
-            w.writerow([r["name"], r["dept"], r.get("campus", ""), r.get("title", ""), r.get("all_depts") or r["dept"], r.get("areas", ""), r.get("url", ""), r.get("source", ""), r.get("note", ""),
-                        aid if ok else "", a["display_name"] if ok else "", round(sc, 3) if ok else 0,
-                        f"name matched in {S[aid]['n']} school papers 2019-2025" if ok else "no confident match among the school's 2019-2025 authors",
-                        a["works_count"] if ok else 0, ((a.get("summary_stats") or {}).get("h_index") or "") if ok else "", (a.get("orcid") or "") if ok else ""])
-    good = [aid for r, aid, sc in rows if aid in info and sc >= 1.6]
-    print(slug, "roster", len(roster), "matched", len(good), flush=True)
-    os.makedirs(f"{HERE}/raw/{slug}/works", exist_ok=True)
-    with ThreadPoolExecutor(4) as ex: list(ex.map(lambda x: works(slug, x), good))
-    print(slug, "works done", flush=True)
+    res = []
+    for r, aid, sc in rows:
+        a = info.get(aid) if aid else None
+        ok = a is not None and sc >= 1.6
+        res.append((r, aid if ok else None, [r["name"], r["dept"], r.get("campus", ""), r.get("title", ""), r.get("all_depts") or r["dept"], r.get("areas", ""), r.get("url", ""), r.get("source", ""), r.get("note", ""),
+                    aid if ok else "", a["display_name"] if ok else "", round(sc, 3) if ok else 0,
+                    f"name matched in {S[aid]['n']} school papers 2019-2025" if ok else "no confident match among the school's 2019-2025 authors",
+                    a["works_count"] if ok else 0, ((a.get("summary_stats") or {}).get("h_index") or "") if ok else "", (a.get("orcid") or "") if ok else ""]))
+    print(slug, "roster", len(roster), "matched", sum(1 for x in res if x[1]), flush=True)
+    return res
 
 def main(slug):
     c = CFG[slug]; inst = c["inst"]
@@ -160,11 +154,14 @@ def main(slug):
             if w["y"] >= 2023: s["recent"] += 1
             if w["n"] <= 50: s["small"] += 1; s["last"] += last
     roster_fn = f"{HERE}/../{slug}/data/processed/roster.csv"
-    if os.path.exists(roster_fn):
-        return from_roster(slug, inst, S, list(csv.DictReader(open(roster_fn, encoding="utf-8"))))
+    roster = list(csv.DictReader(open(roster_fn, encoding="utf-8"))) if os.path.exists(roster_fn) else []
+    covered = {r["dept"] for r in roster}   # departments with a website roster; the others are inferred
+    roster_rows = from_roster(slug, inst, S, roster) if roster else []
+    taken = {aid for _, aid, _ in roster_rows if aid}
     cand = []
     for aid, s in S.items():
         fid = s["f"].most_common(1)[0][0]; math_ = fid == "26"
+        if FIELD[fid] in covered or aid in taken: continue
         if s["n"] < (6 if math_ else 10) or s["recent"] < 2: continue
         if not math_ and (s["small"] < 5 or s["last"] / s["small"] < 0.30): continue
         cand.append((aid, fid))
@@ -185,19 +182,20 @@ def main(slug):
         if not any(set(x.get("lineage") or [x.get("id")]) & I for x in lki): continue
         if h < (8 if fid == "26" else 12) or a["works_count"] < (15 if fid == "26" else 25): continue
         keep.append((h, aid, fid, a))
-    keep.sort(key=lambda x: -x[0]); keep = keep[:CAP]
-    print(slug, "faculty", len(keep), collections.Counter(FIELD[f] for _, _, f, _ in keep), flush=True)
+    keep.sort(key=lambda x: -x[0]); keep = keep[:max(0, CAP - len(taken))]
+    print(slug, "roster-matched", len(taken), "inferred", len(keep), collections.Counter(FIELD[f] for _, _, f, _ in keep), flush=True)
     out = f"{HERE}/../{slug}/data/processed"; os.makedirs(out, exist_ok=True)
-    with open(f"{out}/matches.csv", "w", newline="") as f:
+    with open(f"{out}/matches.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["name", "dept", "campus", "title", "all_depts", "areas", "url", "source", "note", "openalex_id", "openalex_name", "match_score", "match_note", "works_count", "h_index", "orcid"])
+        for row in roster_rows: w.writerow(row[2])
         for h, aid, fid, a in keep:
             s = S[aid]
             note = f"按论文推断 · 2019–2025 年本校署名论文 {s['n']} 篇" + (f"，其中末位作者 {s['last']} 篇" if fid != "26" else "")
             w.writerow([a["display_name"], FIELD[fid], "", note, FIELD[fid], "", "", "OpenAlex 推断", note,
                         aid, a["display_name"], 9, "inferred from publications", a["works_count"], h, a.get("orcid") or ""])
     os.makedirs(f"{HERE}/raw/{slug}/works", exist_ok=True)
-    with ThreadPoolExecutor(4) as ex: list(ex.map(lambda x: works(slug, x[1]), keep))
+    with ThreadPoolExecutor(4) as ex: list(ex.map(lambda x: works(slug, x), [k[1] for k in keep] + sorted(taken)))
     print(slug, "works done", flush=True)
 
 if __name__ == "__main__":

@@ -1,0 +1,91 @@
+a,b,a_name,b_name,shared_works,large_collab_works
+A5002552785,A5027770198,Justin Moore,Martin Kassabov,1,0
+A5002804366,A5006857139,Phillip Milner,Kyle M. Lancaster,3,0
+A5002804366,A5012460628,Phillip Milner,Yao Yang,1,0
+A5002804366,A5042053197,Phillip Milner,Héctor D. Abruña,4,0
+A5002804366,A5069621921,Phillip Milner,Andrew Musser,10,0
+A5002909297,A5006857139,Peter T. Wolczanski,Kyle M. Lancaster,24,0
+A5002909297,A5042053197,Peter T. Wolczanski,Héctor D. Abruña,3,0
+A5002909297,A5070735171,Peter T. Wolczanski,Brett P. Fors,7,0
+A5002909297,A5078783207,Peter T. Wolczanski,Frank C. Schroeder,4,0
+A5003110773,A5003942837,Alex Townsend,Yunan Yang,5,0
+A5003110773,A5027770198,Alex Townsend,Martin Kassabov,2,0
+A5003110773,A5103218095,Alex Townsend,Michael E. Stillman,3,0
+A5004390635,A5033083354,Liam McAllister,Michael Niemack,3,0
+A5004390635,A5103218095,Liam McAllister,Michael E. Stillman,1,0
+A5004504881,A5011236497,Katja Nowack,Daniel Ralph,3,0
+A5004504881,A5033083354,Katja Nowack,Michael Niemack,5,0
+A5004504881,A5058290915,Katja Nowack,Brad Ramshaw,1,0
+A5004504881,A5069348777,Katja Nowack,Debanjan Chowdhury,1,0
+A5004504881,A5083210310,Katja Nowack,Kyle Shen,2,0
+A5004504881,A5089520426,Katja Nowack,Eun-Ah Kim,1,0
+A5006857139,A5042053197,Kyle M. Lancaster,Héctor D. Abruña,2,0
+A5006857139,A5052144654,Kyle M. Lancaster,Nandini Ananth,1,0
+A5006857139,A5070735171,Kyle M. Lancaster,Brett P. Fors,7,0
+A5006857139,A5071526287,Kyle M. Lancaster,Brian Crane,2,0
+A5007768076,A5042053197,Melissa A. Hines,Héctor D. Abruña,2,0
+A5007768076,A5053606094,Melissa A. Hines,Jared Maxson,6,0
+A5007768076,A5065837203,Melissa A. Hines,Ivan Bazarov,4,0
+A5007768076,A5081383415,Melissa A. Hines,John A. Marohn,1,0
+A5007768076,A5083210310,Melissa A. Hines,Kyle Shen,3,0
+A5009624693,A5042053197,Veit Elser,Héctor D. Abruña,2,0
+A5009624693,A5079583428,Veit Elser,Jie Shan,1,0
+A5009624693,A5086266718,Veit Elser,Erich Mueller,1,0
+A5011236497,A5042053197,Daniel Ralph,Héctor D. Abruña,3,0
+A5011236497,A5079583428,Daniel Ralph,Jie Shan,7,0
+A5011236497,A5083210310,Daniel Ralph,Kyle Shen,5,0
+A5012460628,A5042053197,Yao Yang,Héctor D. Abruña,59,0
+A5012460628,A5068745499,Yao Yang,Geoffrey W. Coates,2,0
+A5023498125,A5065837203,Carl Franck,Ivan Bazarov,1,0
+A5023498125,A5067244777,Carl Franck,Matthias Liepe,1,0
+A5027770198,A5083445287,Martin Kassabov,Timothy Riley,3,0
+A5028210030,A5103218095,Irena Peeva,Michael E. Stillman,1,0
+A5031650189,A5055262430,Lawrence Gibbons,Anders Ryd,609,0
+A5031650189,A5077849176,Lawrence Gibbons,Peter Wittich,322,0
+A5033010189,A5091913198,Jeremy M. Baskin,Pamela Chang,3,0
+A5033083354,A5061237274,Michael Niemack,Abigail Crites,28,0
+A5035275755,A5039594674,Bruce Ganem,David B. Collum,3,0
+A5037990830,A5052050258,Karola Mészáros,Lionel Levine,2,0
+A5039594674,A5042053197,David B. Collum,Héctor D. Abruña,2,0
+A5039594674,A5081383415,David B. Collum,John A. Marohn,2,0
+A5040876377,A5089520426,Andre Leclair,Eun-Ah Kim,2,0
+A5042053197,A5068745499,Héctor D. Abruña,Geoffrey W. Coates,16,0
+A5042053197,A5069621921,Héctor D. Abruña,Andrew Musser,1,0
+A5042053197,A5070735171,Héctor D. Abruña,Brett P. Fors,10,0
+A5042053197,A5081383415,Héctor D. Abruña,John A. Marohn,3,0
+A5042992990,A5103509495,Reyer Sjamaar,Tara Holm,1,0
+A5051847500,A5067244777,Maxim Perelstein,Matthias Liepe,1,0
+A5051847500,A5077849176,Maxim Perelstein,Peter Wittich,2,0
+A5051847500,A5108088647,Maxim Perelstein,Yuval Grossman,1,0
+A5052144654,A5071526287,Nandini Ananth,Brian Crane,1,0
+A5053606094,A5065837203,Jared Maxson,Ivan Bazarov,49,0
+A5053606094,A5067244777,Jared Maxson,Matthias Liepe,5,0
+A5053606094,A5083210310,Jared Maxson,Kyle Shen,5,0
+A5055262430,A5077849176,Anders Ryd,Peter Wittich,1596,0
+A5055262430,A5108088647,Anders Ryd,Yuval Grossman,2,0
+A5058290915,A5069348777,Brad Ramshaw,Debanjan Chowdhury,1,0
+A5058290915,A5079583428,Brad Ramshaw,Jie Shan,1,0
+A5058290915,A5083210310,Brad Ramshaw,Kyle Shen,2,0
+A5058290915,A5089520426,Brad Ramshaw,Eun-Ah Kim,2,0
+A5060975667,A5086266718,Paul Ginsparg,Erich Mueller,1,0
+A5060975667,A5089520426,Paul Ginsparg,Eun-Ah Kim,1,0
+A5065837203,A5067244777,Ivan Bazarov,Matthias Liepe,22,0
+A5065837203,A5083210310,Ivan Bazarov,Kyle Shen,3,0
+A5065892764,A5103218095,Daniel Halpern-Leistner,Michael E. Stillman,1,0
+A5066126591,A5069348777,Itai Cohen,Debanjan Chowdhury,3,0
+A5067207257,A5082868590,Laurent Saloff-Coste,Camil Muscalu,1,0
+A5067244777,A5108088647,Matthias Liepe,Yuval Grossman,1,0
+A5068745499,A5070735171,Geoffrey W. Coates,Brett P. Fors,15,0
+A5068745499,A5101948739,Geoffrey W. Coates,Peng Chen,1,0
+A5069348777,A5079583428,Debanjan Chowdhury,Jie Shan,5,0
+A5069348777,A5083210310,Debanjan Chowdhury,Kyle Shen,2,0
+A5069348777,A5086266718,Debanjan Chowdhury,Erich Mueller,1,0
+A5069348777,A5089520426,Debanjan Chowdhury,Eun-Ah Kim,2,0
+A5069527350,A5079583428,Chao-Ming Jian,Jie Shan,1,0
+A5069527350,A5086266718,Chao-Ming Jian,Erich Mueller,1,0
+A5069527350,A5089520426,Chao-Ming Jian,Eun-Ah Kim,2,0
+A5070424649,A5083634119,Jason Manning,Kathryn Mann,2,0
+A5074655749,A5103509495,Allen Knutson,Tara Holm,1,0
+A5079583428,A5083210310,Jie Shan,Kyle Shen,6,0
+A5079583428,A5089520426,Jie Shan,Eun-Ah Kim,1,0
+A5083210310,A5089520426,Kyle Shen,Eun-Ah Kim,5,0
