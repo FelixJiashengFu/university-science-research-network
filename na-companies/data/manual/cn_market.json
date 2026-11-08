@@ -1,0 +1,533 @@
+{
+ "deals": [
+  {
+   "year": 2021,
+   "name": "望石智慧 B/B+ 轮",
+   "name_en": "StoneWise Series B/B+",
+   "type": "融资",
+   "usd_m": 100,
+   "note": "",
+   "src": "BioWorld",
+   "url": "https://www.bioworld.com/articles/505974-stonewise-raises-100m-in-b-and-b-rounds-to-advance-ai-enabled-drug-discovery"
+  },
+  {
+   "year": 2022,
+   "name": "镁伽科技融资",
+   "name_en": "MegaRobo round",
+   "type": "融资",
+   "usd_m": 300,
+   "note": "高盛等",
+   "note_en": "Goldman Sachs and others",
+   "src": "DoNews",
+   "url": "https://www.donews.com/news/detail/1/5508120.html"
+  },
+  {
+   "year": 2025,
+   "name": "晶泰科技 × DoveTree 授权",
+   "name_en": "XtalPi × DoveTree licensing",
+   "type": "资产交易",
+   "usd_m": 5990,
+   "note": "首付 1 亿美元，其余为里程碑；另有个位数版税",
+   "note_en": "US$100M upfront, the rest milestones, plus single-digit royalties",
+   "src": "The Bamboo Works",
+   "url": "https://thebambooworks.com/xtalpi-scores-landmark-deal-for-ai-drug-discovery/"
+  },
+  {
+   "year": 2025,
+   "name": "深势科技 C 轮",
+   "name_en": "DP Technology Series C",
+   "type": "融资",
+   "usd_m": 114,
+   "note": "逾 8 亿元，北京国资基金领投",
+   "note_en": "Over RMB 800M, led by Beijing state funds",
+   "src": "SiliconANGLE",
+   "url": "https://siliconangle.com/?p=726109"
+  },
+  {
+   "year": 2025,
+   "name": "英矽智能港股 IPO",
+   "name_en": "Insilico Medicine HKEX IPO",
+   "type": "IPO",
+   "usd_m": 294,
+   "note": "22.8 亿港元",
+   "note_en": "HK$2.28B",
+   "src": "Tiger Brokers",
+   "url": "https://www.itiger.com/hans/news/1172056437"
+  },
+  {
+   "year": 2026,
+   "name": "晶泰科技可转债",
+   "name_en": "XtalPi convertible bonds",
+   "type": "融资",
+   "usd_m": 352.8,
+   "note": "25.4 亿元",
+   "note_en": "RMB 2.54B",
+   "src": "Tiger Brokers",
+   "url": "https://www.itiger.com/hans/news/1142970847"
+  },
+  {
+   "year": 2026,
+   "name": "华深智药多轮融资",
+   "name_en": "Helixon multi-round raise",
+   "type": "融资",
+   "usd_m": 787,
+   "note": "Dimension、DST、赛诺菲等",
+   "note_en": "Dimension, DST, Sanofi and others",
+   "src": "投资界",
+   "url": "https://news.pedaily.cn/202603/561971.shtml"
+  },
+  {
+   "year": 2026,
+   "name": "玻色量子 B 轮",
+   "name_en": "QBoson Series B",
+   "type": "融资",
+   "usd_m": 138.9,
+   "note": "10 亿元",
+   "note_en": "RMB 1B",
+   "src": "中国金融信息网",
+   "url": "https://www.cnfin.com/gs-lb/detail/20260707/4436685_1.html"
+  },
+  {
+   "year": 2026,
+   "name": "剂泰科技港股 IPO",
+   "name_en": "METiS HKEX IPO",
+   "type": "IPO",
+   "usd_m": 269,
+   "note": "逾 21 亿港元",
+   "note_en": "Over HK$2.1B",
+   "src": "36氪",
+   "url": "https://www.36kr.com/p/3807162054106624"
+  },
+  {
+   "year": 2026,
+   "name": "本源量子 Pre-IPO",
+   "name_en": "Origin Quantum Pre-IPO",
+   "type": "融资",
+   "usd_m": 416.7,
+   "note": "约 30 亿元，投前估值 210 亿元",
+   "note_en": "About RMB 3B at RMB 21B pre-money",
+   "src": "东方财富",
+   "url": "https://finance.eastmoney.com/a/202606083762785183.html"
+  },
+  {
+   "year": 2026,
+   "name": "量旋科技 D 轮",
+   "name_en": "SpinQ Series D",
+   "type": "融资",
+   "usd_m": 138.9,
+   "note": "10 亿元",
+   "note_en": "RMB 1B",
+   "src": "投资界",
+   "url": "https://news.pedaily.cn/202606/565684.shtml"
+  },
+  {
+   "year": 2026,
+   "name": "分子之心 A 轮",
+   "name_en": "MoleculeMind Series A",
+   "type": "融资",
+   "usd_m": 100,
+   "note": "累计逾 1 亿美元",
+   "note_en": "Over US$100M in total",
+   "src": "投资界",
+   "url": "https://news.pedaily.cn/202606/565273.shtml"
+  },
+  {
+   "year": 2026,
+   "name": "新生探途首轮（字节分拆）",
+   "name_en": "Anew Labs first round (ByteDance spin-off)",
+   "type": "融资",
+   "usd_m": 290,
+   "note": "投后估值 15 亿美元",
+   "note_en": "US$1.5B post-money",
+   "src": "投中网",
+   "url": "https://m.chinaventure.com.cn/news/111-20260920-393360.html"
+  }
+ ],
+ "public_revenue": [
+  {
+   "name": "药明康德",
+   "name_en": "WuXi AppTec",
+   "fy": "FY2025",
+   "fy_en": "FY2025",
+   "usd_m": 6313.9,
+   "color": "var(--a-ml)"
+  },
+  {
+   "name": "恒瑞医药",
+   "name_en": "Jiangsu Hengrui",
+   "fy": "FY2025",
+   "fy_en": "FY2025",
+   "usd_m": 4393.1,
+   "color": "var(--a-ml)"
+  },
+  {
+   "name": "康龙化成",
+   "name_en": "Pharmaron",
+   "fy": "FY2025",
+   "fy_en": "FY2025",
+   "usd_m": 1958.3,
+   "color": "var(--a-ml)"
+  },
+  {
+   "name": "药石科技",
+   "name_en": "PharmaBlock",
+   "fy": "FY2025",
+   "fy_en": "FY2025",
+   "usd_m": 274.2,
+   "color": "var(--a-ml)"
+  },
+  {
+   "name": "晶泰科技",
+   "name_en": "XtalPi",
+   "fy": "FY2025",
+   "fy_en": "FY2025",
+   "usd_m": 111.5,
+   "color": "var(--a-es)"
+  },
+  {
+   "name": "国仪量子",
+   "name_en": "CIQTEK",
+   "fy": "FY2025",
+   "fy_en": "FY2025",
+   "usd_m": 92.1,
+   "color": "var(--a-rd)"
+  },
+  {
+   "name": "成都先导",
+   "name_en": "HitGen",
+   "fy": "FY2025",
+   "fy_en": "FY2025",
+   "usd_m": 73.1,
+   "color": "var(--a-ml)"
+  },
+  {
+   "name": "英矽智能",
+   "name_en": "Insilico Medicine",
+   "fy": "FY2025",
+   "fy_en": "FY2025",
+   "usd_m": 56.2,
+   "color": "var(--a-es)"
+  },
+  {
+   "name": "国盾量子",
+   "name_en": "QuantumCTek",
+   "fy": "FY2025",
+   "fy_en": "FY2025",
+   "usd_m": 43.1,
+   "color": "var(--a-rd)"
+  },
+  {
+   "name": "剂泰科技",
+   "name_en": "METiS",
+   "fy": "FY2025",
+   "fy_en": "FY2025",
+   "usd_m": 14.6,
+   "color": "var(--a-es)"
+  }
+ ],
+ "revenue_history": {
+  "晶泰科技": {
+   "name_en": "XtalPi",
+   "color": "var(--a-es)",
+   "data": {
+    "2024": 36.9,
+    "2025": 111.5
+   }
+  },
+  "国仪量子": {
+   "name_en": "CIQTEK",
+   "color": "var(--a-rd)",
+   "data": {
+    "2023": 54.2,
+    "2024": 67.2,
+    "2025": 92.1
+   }
+  },
+  "成都先导": {
+   "name_en": "HitGen",
+   "color": "var(--a-ml)",
+   "data": {
+    "2024": 59.3,
+    "2025": 73.1
+   }
+  },
+  "国盾量子": {
+   "name_en": "QuantumCTek",
+   "color": "var(--a-mat)",
+   "data": {
+    "2024": 35.1,
+    "2025": 43.1
+   }
+  }
+ },
+ "macro_charts": [
+  {
+   "title": "中国量子科技一级市场融资",
+   "title_en": "Private funding for Chinese quantum technology",
+   "sub": "亿元人民币（IT 桔子；2026 Q1 为投中 CVSource，口径不同）",
+   "sub_en": "RMB 100M units (IT Juzi; Q1 2026 from CVSource, a different basis)",
+   "cap": "2023 与 2024 两年合计才 17.3 亿元；2026 年一季度一个季度就达 32.0 亿元，超过 2025 全年。可信度 B。",
+   "cap_en": "2023 and 2024 together came to only RMB 1.73B; Q1 2026 alone reached RMB 3.20B, more than all of 2025. Confidence B.",
+   "data": {
+    "2023–24": 17.26,
+    "2025": 24.73,
+    "2026 Q1": 32.04
+   },
+   "unit": "¥",
+   "color": "var(--a-rd)"
+  },
+  {
+   "title": "中国 AI 药物发现融资",
+   "title_en": "Funding for Chinese AI drug discovery",
+   "sub": "亿元人民币（智药局 / 动脉网 / 投中 CVSource，口径不一）",
+   "sub_en": "RMB 100M units (Zhiyaoju / VCBeat / CVSource; bases differ)",
+   "cap": "2022、2024 年由美元换算；2023、2025、2026 为投中口径。2026 年前 9 个月 157.7 亿元，已超过 2023–2025 三年之和。可信度 B。",
+   "cap_en": "2022 and 2024 are converted from US dollars; 2023, 2025 and 2026 use CVSource. The first nine months of 2026 reached RMB 15.77B, more than 2023–2025 combined. Confidence B.",
+   "data": {
+    "2021": 83.5,
+    "2022": 41.8,
+    "2023": 24.8,
+    "2024": 41.8,
+    "2025": 51.0,
+    "2026 1–9月": 157.7
+   },
+   "unit": "¥",
+   "color": "var(--a-ml)"
+  },
+  {
+   "title": "中国计算生物学市场规模（第三方）",
+   "title_en": "China computational biology market size (third party)",
+   "sub": "百万美元（GMI；2034 为预测）",
+   "sub_en": "US$ millions (GMI; 2034 is a forecast)",
+   "cap": "找不到可信的「中国分子模拟/计算化学软件」市场规模，这是最接近的代理指标。可信度 B（第三方预测）。",
+   "cap_en": "No credible market size exists for Chinese molecular simulation or computational chemistry software; this is the closest proxy. Confidence B (third-party forecast).",
+   "data": {
+    "2024": 427.8,
+    "2025": 489.9,
+    "2034": 1600
+   },
+   "unit": "$",
+   "color": "var(--a-es)"
+  }
+ ],
+ "forecasts": [
+  {
+   "metric": "中国量子计算市场规模",
+   "metric_en": "China quantum computing market size",
+   "base": "—",
+   "target": "2030 年 >200 亿元",
+   "target_en": ">RMB 20B by 2030",
+   "cagr": "—",
+   "kind": "第三方预测（原文归属不清）",
+   "kind_en": "Third-party forecast (attribution unclear)",
+   "src": "新华网",
+   "src_en": "Xinhua",
+   "url": "https://www.news.cn/fortune/20260410/c9721afe0ac745098581bdbc35bb72dc/c.html"
+  },
+  {
+   "metric": "中国计算生物学市场",
+   "metric_en": "China computational biology market",
+   "base": "2024 年 4.28 亿美元",
+   "base_en": "US$428M in 2024",
+   "target": "2034 年约 16 亿美元",
+   "target_en": "About US$1.6B in 2034",
+   "cagr": "14.3%",
+   "kind": "第三方预测",
+   "kind_en": "Third-party forecast",
+   "src": "GMI",
+   "url": "https://www.gminsights.com/industry-analysis/china-computational-biology-market"
+  },
+  {
+   "metric": "国家创业投资引导基金",
+   "metric_en": "National Venture Capital Guidance Fund",
+   "base": "中央出资 1,000 亿元",
+   "base_en": "RMB 100B from the central budget",
+   "target": "带动约 1 万亿元",
+   "target_en": "About RMB 1T in total",
+   "cagr": "—",
+   "kind": "政策目标（量子列为重点）",
+   "kind_en": "Policy target (quantum a priority)",
+   "src": "国家发改委",
+   "src_en": "NDRC",
+   "url": "https://www.ndrc.gov.cn/xwdt/wszb/cytzyd/wzsl/202512/t20251226_1402642.html"
+  },
+  {
+   "metric": "全球量子产业产值",
+   "metric_en": "Global quantum industry output",
+   "base": "—",
+   "target": "2035 年 >760 亿美元",
+   "target_en": ">US$76B by 2035",
+   "cagr": "—",
+   "kind": "第三方预测",
+   "kind_en": "Third-party forecast",
+   "src": "同花顺",
+   "src_en": "10jqka",
+   "url": "https://news.10jqka.com.cn/20260706/c677958480.shtml"
+  }
+ ],
+ "summary_html": "<h3>中国部分要点</h3><ul>\n<li>中国这一行有三股力量：<b>国企及其研究院</b>（中石化、国家电网、宝武、有研等）贡献了大部分企业论文；<b>国家资本</b>（国家创投引导基金、兵器装备集团、地方国资）在量子计算融资中唱主角；<b>新一代创业公司</b>（晶泰、深势、英矽、剂泰、本源、量旋、玻色）在 2024–2026 年集中上市或冲刺 IPO。</li>\n<li>2026 年是中国量子融资的爆发年：一季度融资 32.0 亿元，超过 2025 全年；本源量子估值一年内从 69 亿元涨到 210 亿元，国仪量子 8 月科创板上市首日市值约 450 亿元。</li>\n<li>AI 药物发现同样放量：2026 年前 9 个月融资 157.7 亿元，超过前三年之和；晶泰科技 2025 年收入增长 201% 并首次盈利，但约 45% 来自一笔授权交易。</li>\n<li>中国缺的是北美那种独立的计算化学软件公司：没有中国的 Schrödinger，Gaussian、VASP 等国外软件仍是主力，深势科技和鸿之微是少数国产替代。</li>\n</ul>",
+ "summary_html_en": "<h3>Key points for China</h3><ul>\n<li>Three forces shape the field in China: <b>state-owned enterprises and their institutes</b> (Sinopec, State Grid, Baowu, GRINM and others) write most corporate papers; <b>state capital</b> (the national venture guidance fund, China South Industries Group, local government funds) leads quantum computing rounds; and <b>a new generation of start-ups</b> (XtalPi, DP Technology, Insilico, METiS, Origin Quantum, SpinQ, QBoson) listed or headed for IPOs in 2024–2026.</li>\n<li>2026 is the breakout year for Chinese quantum funding: Q1 alone raised RMB 3.20B, more than all of 2025; Origin Quantum's valuation rose from RMB 6.9B to RMB 21B in a year, and CIQTEK listed on the STAR Market in August at about RMB 45B on day one.</li>\n<li>AI drug discovery is surging too: RMB 15.77B raised in the first nine months of 2026, more than the previous three years combined; XtalPi grew revenue 201% in 2025 and made its first profit, but about 45% came from one licensing deal.</li>\n<li>What China lacks is North America's independent computational chemistry software vendors: there is no Chinese Schrödinger, foreign codes such as Gaussian and VASP still dominate, and DP Technology and Hongzhiwei are among the few domestic alternatives.</li>\n</ul>",
+ "outlook_html": "<h3>中国前瞻：三个判断</h3><ul>\n<li><b>量子计算进入「上市窗口」。</b>本源、玻色、图灵已做 IPO 辅导备案，科创板拟把量子列为重点行业。未来两年大概率有 2–3 家上市，估值高度依赖政策与国资定价，收入仍以科研和政府项目为主（本源 2024 年收入不到 1 亿元）。</li>\n<li><b>AI 药物发现从「融资故事」转向「授权收入」。</b>晶泰与 DoveTree、华深智药与赛诺菲的交易说明，中国 AI 药企的变现路径是把分子授权给海外药企。风险是收入集中、里程碑兑现率低。</li>\n<li><b>国产计算化学软件是政策缺口。</b>「人工智能+」意见把 AI for Science 列为「十五五」重点；美国实体清单曾让哈工大、哈工程无法使用 MATLAB。若类似限制扩展到化学软件，深势、鸿之微等国产平台会成为直接受益者——这是推断，不是已发生的事实。</li>\n</ul>",
+ "outlook_html_en": "<h3>Outlook for China: three judgements</h3><ul>\n<li><b>Quantum computing enters its listing window.</b> Origin Quantum, QBoson and TuringQ have filed for IPO tutoring, and the STAR Market plans to name quantum a priority industry. Two or three listings in the next two years look likely; valuations depend heavily on policy and state pricing, and revenue still comes mostly from research and government projects (Origin earned under RMB 100M in 2024).</li>\n<li><b>AI drug discovery moves from funding stories to licensing income.</b> The XtalPi–DoveTree and Helixon–Sanofi deals show that Chinese AI drug companies make money by licensing molecules to overseas pharma. The risks are concentrated revenue and a low rate of milestone payouts.</li>\n<li><b>Domestic computational chemistry software is the policy gap.</b> The AI Plus opinions name AI for Science a priority for the 15th Five-Year Plan, and the US Entity List once cut Harbin Institute of Technology and Harbin Engineering University off from MATLAB. If similar limits reach chemistry software, domestic platforms such as DP Technology and Hongzhiwei would benefit directly. That is an inference, not something that has happened.</li>\n</ul>",
+ "method_html": "<h3>中国部分的方法</h3><p>中国企业名单由人工整理（51 家），每家的融资、估值和收入都对照了公开报道或财报，并按 A（财报/官方）、B（媒体/数据库）、C（本报告估计）标注。人民币按 1 美元 = 7.2 元、港元按 0.128 美元折算。「数亿元」一类的模糊金额一律按估计（C）处理。论文语料用与北美相同的 OpenAlex 检索，限定作者单位为中国大陆、香港或澳门的企业。员工人数均为量级估计，没有可靠来源。</p>",
+ "method_html_en": "<h3>Method for the China section</h3><p>The list of 51 Chinese companies was curated by hand. Each company's funding, valuation and revenue was checked against public reports or filings and labelled A (filings/official), B (media/database) or C (this report's estimate). RMB is converted at 7.2 per US dollar and HK dollars at US$0.128. Vague amounts such as \"several hundred million RMB\" are always treated as estimates (C). The paper corpus uses the same OpenAlex queries as North America, restricted to company affiliations in mainland China, Hong Kong or Macau. Employee counts are order-of-magnitude estimates with no reliable source.</p>",
+ "compare_html": "<p>两边最大的差别在「谁在付钱」。北美的钱主要来自风险资本和上市公司的软件收入；中国的钱越来越多来自国家引导基金和国资，并在 2026 年出现上市潮。北美有成熟的独立软件商，中国则是国企研究院撑起论文量、创业公司撑起估值。</p>",
+ "compare_html_en": "<p>The biggest difference is who pays. In North America the money comes mostly from venture capital and listed software revenue; in China it increasingly comes from state guidance funds and state investors, with a wave of listings in 2026. North America has mature independent software vendors, while in China state-owned research institutes supply the paper volume and start-ups supply the valuations.</p>",
+ "sources": [
+  {
+   "name": "东方财富：本源量子 Pre-IPO 融资",
+   "name_en": "Eastmoney: Origin Quantum Pre-IPO round",
+   "url": "https://finance.eastmoney.com/a/202606083762785183.html"
+  },
+  {
+   "name": "C114：国盾量子 2025 年报",
+   "name_en": "C114: QuantumCTek 2025 results",
+   "url": "https://m.c114.com.cn/w5285-1307466.html"
+  },
+  {
+   "name": "投资界：量旋科技 D 轮",
+   "name_en": "PEdaily: SpinQ Series D",
+   "url": "https://news.pedaily.cn/202606/565684.shtml"
+  },
+  {
+   "name": "中国金融信息网：玻色量子 IPO 辅导",
+   "name_en": "CNFIN: QBoson IPO tutoring",
+   "url": "https://www.cnfin.com/gs-lb/detail/20260707/4436685_1.html"
+  },
+  {
+   "name": "新浪财经：图灵量子 IPO 辅导",
+   "name_en": "Sina Finance: TuringQ IPO tutoring",
+   "url": "https://finance.sina.cn/2026-08-10/detail-inimvnpm8175191.d.html?vt=4"
+  },
+  {
+   "name": "C114：华翊量子 A+ 轮",
+   "name_en": "C114: HYQ Series A+",
+   "url": "https://m.c114.com.cn/w5285-1311557.html"
+  },
+  {
+   "name": "投中网：国仪量子上市",
+   "name_en": "ChinaVenture: CIQTEK listing",
+   "url": "https://m.chinaventure.com.cn/news/114-20260811-392706.html"
+  },
+  {
+   "name": "新华网：天衍-287",
+   "name_en": "Xinhua: Tianyan-287",
+   "url": "https://www.news.cn/liangzi/20251120/faf7386429014edf91e62ecb17cd3e16/c.html"
+  },
+  {
+   "name": "投资界：弧光量子战略融资",
+   "name_en": "PEdaily: Arclight Quantum strategic round",
+   "url": "https://news.pedaily.cn/202609/569239.shtml"
+  },
+  {
+   "name": "IT之家：百度捐赠量子实验室",
+   "name_en": "ITHome: Baidu donates its quantum lab",
+   "url": "https://www.ithome.com/0/743/101.htm"
+  },
+  {
+   "name": "The Register：阿里关闭量子实验室",
+   "name_en": "The Register: Alibaba closes its quantum lab",
+   "url": "https://www.theregister.com/2023/11/27/alibaba_closes_quantum_lab_donates/"
+  },
+  {
+   "name": "KrASIA：字节跳动分拆药物发现团队",
+   "name_en": "KrASIA: ByteDance spins out drug discovery unit",
+   "url": "https://amp.kr-asia.com/bytedance-spins-out-drug-discovery-unit-to-test-ai4s-commercialization"
+  },
+  {
+   "name": "36氪：IT 桔子量子融资统计",
+   "name_en": "36Kr: IT Juzi quantum funding data",
+   "url": "https://eu.36kr.com/zh/p/3726874411989385"
+  },
+  {
+   "name": "新华网：2026 年一季度量子融资",
+   "name_en": "Xinhua: Q1 2026 quantum funding",
+   "url": "https://www.news.cn/fortune/20260410/c9721afe0ac745098581bdbc35bb72dc/c.html"
+  },
+  {
+   "name": "国家发改委：国家创业投资引导基金",
+   "name_en": "NDRC: National Venture Capital Guidance Fund",
+   "url": "https://www.ndrc.gov.cn/xwdt/wszb/cytzyd/wzsl/202512/t20251226_1402642.html"
+  },
+  {
+   "name": "科技日报：引导基金规模",
+   "name_en": "Science and Technology Daily: guidance fund size",
+   "url": "https://www.stdaily.com/web/gdxw/2025-12/26/content_453975.html"
+  },
+  {
+   "name": "C114：科创板拟纳入量子",
+   "name_en": "C114: STAR Market draft adds quantum",
+   "url": "https://m.c114.com.cn/w5285-1312538.html"
+  },
+  {
+   "name": "老虎证券：晶泰科技 2025 年报",
+   "name_en": "Tiger Brokers: XtalPi 2025 results",
+   "url": "https://www.itiger.com/hans/news/1142970847"
+  },
+  {
+   "name": "The Bamboo Works：晶泰 × DoveTree",
+   "name_en": "The Bamboo Works: XtalPi × DoveTree",
+   "url": "https://thebambooworks.com/xtalpi-scores-landmark-deal-for-ai-drug-discovery/"
+  },
+  {
+   "name": "SiliconANGLE：深势科技 C 轮",
+   "name_en": "SiliconANGLE: DP Technology Series C",
+   "url": "https://siliconangle.com/?p=726109"
+  },
+  {
+   "name": "老虎证券：英矽智能上市与 2025 年报",
+   "name_en": "Tiger Brokers: Insilico listing and 2025 results",
+   "url": "https://www.itiger.com/hans/news/1172056437"
+  },
+  {
+   "name": "36氪：剂泰科技上市",
+   "name_en": "36Kr: METiS listing",
+   "url": "https://www.36kr.com/p/3807162054106624"
+  },
+  {
+   "name": "投资界：华深智药 7.87 亿美元",
+   "name_en": "PEdaily: Helixon US$787M",
+   "url": "https://news.pedaily.cn/202603/561971.shtml"
+  },
+  {
+   "name": "第一财经：百图生科递表",
+   "name_en": "Yicai Global: BioMap IPO filing",
+   "url": "https://www.yicaiglobal.com/news/baidu-backed-biomap-reportedly-files-for-hong-kong-ipo"
+  },
+  {
+   "name": "DoNews：镁伽科技招股书",
+   "name_en": "DoNews: MegaRobo prospectus",
+   "url": "https://www.donews.com/news/detail/1/5508120.html"
+  },
+  {
+   "name": "第一财经：药明康德 2025 年报",
+   "name_en": "Yicai: WuXi AppTec 2025 results",
+   "url": "https://www.yicai.com/news/103100289.html"
+  },
+  {
+   "name": "第一财经：恒瑞医药 2025 年报",
+   "name_en": "Yicai: Hengrui 2025 results",
+   "url": "https://www.yicai.com/news/103104453.html"
+  },
+  {
+   "name": "投中网：2026 年 AI 制药融资",
+   "name_en": "ChinaVenture: 2026 AI drug discovery funding",
+   "url": "https://m.chinaventure.com.cn/news/111-20260920-393360.html"
+  },
+  {
+   "name": "GMI：中国计算生物学市场",
+   "name_en": "GMI: China computational biology market",
+   "url": "https://www.gminsights.com/industry-analysis/china-computational-biology-market"
+  },
+  {
+   "name": "南华早报：哈工大被禁用 MATLAB",
+   "name_en": "SCMP: MATLAB ban at Harbin universities",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3088854/us-military-ban-locks-two-chinese-universities-out-popular"
+  },
+  {
+   "name": "新华网：「人工智能+」意见",
+   "name_en": "Xinhua: AI Plus opinions",
+   "url": "https://www.news.cn/tech/20250828/5af2930138044797909cf407e7ba119b/c.html"
+  }
+ ]
+}

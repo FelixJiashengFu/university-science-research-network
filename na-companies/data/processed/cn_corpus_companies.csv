@@ -1,0 +1,379 @@
+openalex_id,name,country,sector,papers,authors,citations,first_year,last_year,papers_2020_plus
+I106994412,Sinopec,CN,能源、电网与核电,457,733,6184,2003,2026,357
+I98227222,China National Petroleum Corporation,CN,能源、电网与核电,292,457,3069,2006,2026,254
+I17442442,State Grid Corporation of China,CN,能源、电网与核电,184,285,2828,2013,2026,153
+I158108717,China National Offshore Oil Corporation,CN,能源、电网与核电,113,171,854,2011,2026,104
+I74872605,China Southern Power Grid,CN,能源、电网与核电,94,152,566,2011,2026,85
+I4210126590,General Research Institute for Nonferrous Metals,CN,钢铁、有色与建材,79,167,1123,2000,2026,51
+I4387156274,PetroChina Southwest Oil and Gas Field Company,CN,能源、电网与核电,70,117,595,2018,2026,67
+I4405274254,"Sinopec Beijing Research Institute of Chemical Industry Co., Ltd.",CN,能源、电网与核电,60,122,1141,2011,2026,50
+I4405256866,ByteDance,CN,科技巨头与 AI 实验室,59,121,1687,2021,2026,59
+I4387155657,Daqing Oilfield of CNPC,CN,能源、电网与核电,53,75,539,2011,2026,47
+I2800372957,China Electronics Technology Group Corporation,CN,军工、航空航天与装备,48,62,586,2006,2026,41
+I4405270698,State Grid Chongqing Electric Power Company,CN,能源、电网与核电,48,41,1089,2017,2026,41
+I4405281964,PetroChina Xinjiang Oilfield Company,CN,能源、电网与核电,48,77,552,2014,2026,45
+I2250653659,Tencent,CN,科技巨头与 AI 实验室,43,44,1060,2020,2026,43
+I4210112997,State Power Investment Corporation,CN,能源、电网与核电,42,51,354,2018,2026,38
+I4210156095,Aero Engine Corporation of China,CN,军工、航空航天与装备,41,49,392,2019,2026,39
+I4405274137,China Nuclear Power Technology Research Institute,CN,能源、电网与核电,40,67,373,2017,2026,37
+I4210105139,Tianjin Institute of Pharmaceutical Research,CN,医药与 CRO,38,24,407,2004,2024,8
+I3017770710,China North Industries Group Corporation,CN,军工、航空航天与装备,37,42,130,2013,2026,36
+I2250955327,Huawei Technologies,CN,科技巨头与 AI 实验室,33,51,477,2019,2026,31
+I4405282011,State Grid Jiangsu Electric Power,CN,能源、电网与核电,32,25,123,2019,2026,31
+I4405277351,CNPC Tubular Goods Research Institute,CN,能源、电网与核电,32,56,415,2021,2026,32
+I4405262974,"Contemporary Amperex Technology Co., Limited.",CN,电池与汽车,31,44,248,2016,2026,29
+I4210129545,Grinm Advanced Materials,CN,钢铁、有色与建材,30,81,353,2018,2026,25
+I4405271797,XtalPi,CN,计算化学软件与 AI 发现,27,48,548,2018,2026,24
+I4210094030,Ansteel,CN,钢铁、有色与建材,27,31,292,2009,2026,22
+I4210151703,China Coal Technology and Engineering Group Corp,CN,能源、电网与核电,26,27,253,2011,2026,25
+I4405272762,Guangdong Power Grid Company,CN,能源、电网与核电,26,46,91,2013,2026,24
+I4210162188,Shaanxi Yanchang Petroleum,CN,能源、电网与核电,26,48,268,2017,2026,23
+I4210091069,Dongfang Electric Corporation,CN,能源、电网与核电,25,31,391,2013,2026,15
+I4405277481,AVIC Manufacturing Technology Institute,CN,军工、航空航天与装备,25,38,381,2009,2026,21
+I4210150405,Hongzhiwei Technology,CN,计算化学软件与 AI 发现,24,16,173,2017,2026,21
+I4392738072,CHN Energy,CN,能源、电网与核电,24,51,177,2019,2026,23
+I4210135067,Baosteel,CN,钢铁、有色与建材,23,30,427,2002,2026,11
+I4210147525,AviChina Industry & Technology,CN,军工、航空航天与装备,23,34,228,2015,2026,22
+I4405270234,"Yunnan Power Grid Co., Ltd.",CN,能源、电网与核电,23,44,217,2020,2026,23
+I4210120238,PowerChina,CN,能源、电网与核电,23,29,122,2020,2026,23
+I4210160474,Shougang,CN,钢铁、有色与建材,22,29,271,2011,2026,18
+I11838497,Aviation Industry Corporation of China,CN,军工、航空航天与装备,22,35,184,2013,2026,15
+I4210140589,China Huadian Corporation,CN,能源、电网与核电,21,30,113,2019,2026,20
+I4210116579,Beijing Chemical Industry Research Institute,CN,化工,20,36,143,2004,2026,17
+I4405272004,"Zijin Mining Group Co., Ltd.",CN,钢铁、有色与建材,19,24,79,2013,2026,17
+I4405278235,Zhengzhou Research Institute for Abrasives & Grinding,CN,钢铁、有色与建材,19,22,159,2015,2026,14
+I4210108786,SAIC-GM-Wuling,CN,电池与汽车,19,4,276,2014,2026,12
+I4405272962,State Grid Shandong Electric Power Company,CN,能源、电网与核电,19,32,416,2012,2026,11
+I4210106541,Chengdu Organic Chemicals,CN,化工,18,48,240,2001,2026,13
+I4405272144,CNPC Chuanqing Drilling Engineering Company Limited,CN,能源、电网与核电,18,23,180,2018,2026,16
+I4210144430,Kingfa,CN,化工,17,13,58,2012,2026,16
+I4210113369,Microsoft Research Asia,CN,科技巨头与 AI 实验室,15,45,624,2021,2026,15
+I4405270619,State Grid Zhejiang Electric Power Company,CN,能源、电网与核电,15,20,180,2012,2026,14
+I146279334,Aluminum Corporation of China,CN,钢铁、有色与建材,15,21,44,2017,2026,13
+I4210165649,China Coal Research Institute,CN,能源、电网与核电,15,20,126,2010,2026,14
+I4210098976,Weichai Power,CN,电池与汽车,14,11,242,2013,2026,11
+I4405277063,Global Energy Interconnection Research Institute,CN,能源、电网与核电,14,15,524,2016,2024,8
+I4210130035,China Communications Construction Company,CN,其他 / 未分类,14,16,80,2021,2026,14
+I4210126301,Taiyuan Iron and Steel Group,CN,钢铁、有色与建材,14,18,63,2007,2026,9
+I4391767782,"China Energy Science and Technology Research Institute Co., Ltd.",CN,能源、电网与核电,14,20,26,2024,2026,14
+I4210126646,Vanke,CN,其他 / 未分类,14,7,310,2019,2024,13
+I45928872,Alibaba Group,CN,科技巨头与 AI 实验室,13,32,397,2022,2026,13
+I4210115494,Baogang Group,CN,钢铁、有色与建材,13,20,86,2005,2026,9
+I4210163341,Western Metal Materials,CN,钢铁、有色与建材,13,14,76,2021,2026,13
+I4405276746,Shanghai Nuclear Engineering Research and Design Institute,CN,能源、电网与核电,13,17,269,2012,2026,11
+I4210094623,Jiuquan Iron & Steel,CN,钢铁、有色与建材,13,14,9,2007,2026,11
+I4210152474,China National Building Materials Group,CN,钢铁、有色与建材,12,19,119,2019,2026,11
+I160674187,China Three Gorges Corporation,CN,能源、电网与核电,12,13,114,2021,2026,12
+I4210126257,CRRC,CN,军工、航空航天与装备,12,14,125,2019,2026,11
+I4210118245,Shandong Iron and Steel Group,CN,钢铁、有色与建材,12,11,152,2003,2026,5
+I275542036,Metallurgical Corporation of China,CN,钢铁、有色与建材,12,15,29,2020,2026,12
+I147230869,China Shipbuilding Industry Corporation,CN,军工、航空航天与装备,12,16,140,2009,2026,10
+I1311643757,Commercial Aircraft Corporation of China,CN,军工、航空航天与装备,11,13,142,2014,2026,8
+I4210123492,Advanced Technology & Materials,CN,钢铁、有色与建材,11,21,266,2012,2026,2
+I4210145825,China Academy Of Machinery Science & Technology,CN,军工、航空航天与装备,11,11,40,2011,2026,10
+I4210101931,HBIS,CN,钢铁、有色与建材,11,16,67,2010,2025,6
+I4210157899,China State Shipbuilding,CN,军工、航空航天与装备,11,14,59,2020,2026,11
+I4210127843,First Automotive Works,CN,电池与汽车,11,10,33,2013,2026,10
+I4210161568,Huainan Mining Industry Group,CN,钢铁、有色与建材,11,28,47,2019,2026,10
+I4405281601,Pangang Group Panzhihua Iron and Steel Research Institute,CN,钢铁、有色与建材,10,23,98,2002,2026,9
+I15089104,China Aerospace Science and Industry Corporation,CN,军工、航空航天与装备,10,11,84,2014,2026,8
+I4405282075,State Grid Sichuan Electric Power Corporation,CN,能源、电网与核电,10,8,176,2020,2026,10
+I4387154057,Exploration and Development Research Institute of PetroChina Southwest Oil & Gas Field Company,CN,能源、电网与核电,10,12,126,2021,2026,10
+I4210097777,China General Nuclear Power Corporation,CN,能源、电网与核电,10,17,68,2017,2026,7
+I4405282397,CCTEG Xi'an Research Institute,CN,能源、电网与核电,10,5,73,2014,2026,9
+I4405280892,Southwest Technology and Engineering Research Institute,CN,军工、航空航天与装备,9,18,111,2018,2026,8
+I4210124246,CITIC Group,CN,其他 / 未分类,9,9,59,2018,2026,8
+I4210144143,Inspur,CN,科技巨头与 AI 实验室,9,13,50,2018,2026,8
+I4405277076,Central Research Institute of Building and Construction,CN,其他 / 未分类,8,15,133,2020,2026,8
+I4210133343,BYD,CN,电池与汽车,8,18,51,2024,2026,8
+I4210114800,Yuntianhua Group,CN,化工,8,14,44,2023,2026,8
+I180662265,China Mobile,CN,科技巨头与 AI 实验室,8,11,47,2022,2026,8
+I4405282194,Aircraft Strength Research Institute,CN,军工、航空航天与装备,8,14,19,2023,2026,8
+I4210138335,Shimadzu,CN,其他 / 未分类,8,10,115,2024,2026,8
+I4210142993,China Shenhua Energy,CN,能源、电网与核电,8,9,71,2021,2026,8
+I4405272660,Sinopec Northwest Oil Field Company,CN,能源、电网与核电,8,18,91,2021,2026,8
+I4210126991,China Nonferrous Metal Mining,CN,钢铁、有色与建材,8,10,45,2022,2026,8
+I4210096033,Kanion Pharmaceutical,CN,医药与 CRO,8,11,197,2013,2024,4
+I4210153593,Masteel,CN,钢铁、有色与建材,8,9,128,2005,2026,1
+I98301712,Baidu,CN,科技巨头与 AI 实验室,7,12,802,2023,2026,7
+I4210100528,ENN,CN,其他 / 未分类,7,15,273,2012,2021,2
+I4210087919,Kuang-Chi,CN,其他 / 未分类,7,9,234,2015,2026,4
+I4210127541,Wanhua Chemical,CN,化工,7,9,43,2022,2026,7
+I4210111758,BASF,CN,其他 / 未分类,7,9,99,2018,2026,5
+I4210088290,Sinolight,CN,其他 / 未分类,7,4,79,2023,2026,7
+I4405271627,"State Grid Hubei Electric Power Co., Ltd.",CN,能源、电网与核电,7,14,25,2023,2026,7
+I4210159136,China National Electric Apparatus Research Institute,CN,能源、电网与核电,7,13,23,2020,2026,7
+I4405272203,Luzhou Laojiao,CN,其他 / 未分类,7,20,91,2011,2026,6
+I4401726915,Zhipu AI,CN,其他 / 未分类,7,3,24,2023,2026,7
+I4210158664,Dongfeng Motor,CN,电池与汽车,7,8,40,2022,2026,7
+I4392738174,"China Huaneng Group Co., Ltd.",CN,能源、电网与核电,7,9,15,2015,2026,6
+I4405277418,Shenyang Research Institute of Chemical Industry,CN,化工,7,17,78,2005,2026,4
+I100135526,BGI Group,CN,医药与 CRO,7,21,122,2012,2026,4
+I3174185376,China South Industries Group,CN,其他 / 未分类,7,8,61,2016,2026,5
+I4405272469,"China Tobacco Yunnan Industrial Co., Ltd.",CN,其他 / 未分类,7,38,103,2020,2026,7
+I4210099207,Nanshan Group,CN,其他 / 未分类,6,9,58,2022,2025,6
+I2802546215,Shanghai Supercomputer Center,CN,其他 / 未分类,6,4,94,2008,2026,1
+I4210109033,Sinosteel,CN,钢铁、有色与建材,6,6,25,2011,2026,2
+I4210160359,China Construction Eighth Engineering Division,CN,其他 / 未分类,6,17,21,2023,2026,6
+I4210152501,China Power Engineering Consulting Group,CN,能源、电网与核电,6,10,71,2011,2026,5
+I4210126065,Shanghai Electric,CN,能源、电网与核电,6,9,25,2020,2026,6
+I4210135812,Sinochem Group,CN,化工,6,13,39,2022,2026,6
+I4392738110,State Grid Shanxi Electric Power Company,CN,能源、电网与核电,6,8,169,2018,2025,4
+I4210126778,Tianmu Lake Institute of Advanced Energy Storage Technologies,CN,能源、电网与核电,6,11,263,2022,2026,6
+I4210142192,Powerchina Huadong Engineering Corporation,CN,能源、电网与核电,6,16,28,2022,2026,6
+I4210113402,China National Chemical Corporation,CN,化工,6,7,15,2025,2026,6
+I4391768145,"Jilin Jiangji Special Industries Co., Ltd",CN,其他 / 未分类,6,10,4,2024,2026,6
+I4210119102,Hefei General Machinery Research Institute,CN,其他 / 未分类,5,15,71,2020,2025,5
+I4405281272,Alibaba DAMO Academy,CN,科技巨头与 AI 实验室,5,12,44,2025,2026,5
+I4405279985,China Petroleum Pipeline Engineering,CN,能源、电网与核电,5,6,35,2022,2026,5
+I4210155230,Samsung,CN,其他 / 未分类,5,7,30,2022,2024,5
+I4210150002,Dow Chemical,CN,化工,5,8,118,2010,2025,2
+I4401726934,IFlyTek,CN,科技巨头与 AI 实验室,5,16,46,2024,2026,5
+I4210134393,China National Chemical Engineering,CN,化工,5,5,93,2020,2026,5
+I4210115680,Automation Research and Design Institute of Metallurgical Industry,CN,钢铁、有色与建材,5,9,23,2006,2025,3
+I4210100976,BOE Technology Group,CN,其他 / 未分类,5,8,3,2025,2026,5
+I4210166453,China National Heavy Duty Truck Group,CN,其他 / 未分类,5,7,47,2022,2026,5
+I4405272831,State Grid Henan Electric Power Company,CN,能源、电网与核电,5,10,147,2017,2024,3
+I4210102267,Changsha Mining and Metallurgy Research Institute,CN,钢铁、有色与建材,5,5,117,2016,2026,4
+I4210102873,Kunshan Govisionox Optoelectronic,CN,其他 / 未分类,5,4,6,2022,2026,5
+I4210127436,Tasly Holding Group,CN,其他 / 未分类,5,8,82,2018,2021,2
+I4405273270,"Guangxi Bossco Environmental Protection Technology Co., Ltd.",CN,钢铁、有色与建材,5,2,276,2022,2024,5
+I4405272598,State Grid Tianjin Electric Power Company,CN,能源、电网与核电,5,16,39,2020,2024,5
+I4405260923,"Shanghai Municipal Engineering Design Institute (Group) Co., Ltd",CN,其他 / 未分类,5,8,39,2014,2026,4
+I4210150832,Oriental Yuhong,CN,其他 / 未分类,5,11,16,2022,2026,5
+I4210151070,Yuyao Joywee Electrics,CN,能源、电网与核电,5,5,39,2025,2025,5
+I4210096507,China First Heavy Industries,CN,其他 / 未分类,4,5,28,2010,2025,1
+I4210140329,Jiangxi Copper,CN,钢铁、有色与建材,4,6,47,2022,2025,4
+I4210126406,Xuzhou Construction Machinery Group,CN,其他 / 未分类,4,5,68,2013,2026,3
+I4405272439,"China Yangtze Power Co., Ltd.",CN,能源、电网与核电,4,9,10,2025,2026,4
+I4210152946,Jiangnan Industry Group,CN,其他 / 未分类,4,3,3,2024,2026,4
+I4405256020,"Yunnan Yunnei Power Machinery Manufacturing Co., Ltd.",CN,能源、电网与核电,4,1,2,2025,2026,4
+I4210096346,Golden Concord Group,CN,其他 / 未分类,4,4,16,2012,2026,3
+I4210149943,Chambroad Chemical Industry Research Institute,CN,化工,4,4,30,2019,2026,3
+I4405280778,State Grid Liaoning Electric Power Company,CN,能源、电网与核电,4,7,12,2021,2026,4
+I4210087349,China Resources,CN,其他 / 未分类,4,4,19,2014,2026,3
+I4210100011,Henan Energy & Chemical Industry Group,CN,能源、电网与核电,4,10,17,2025,2025,4
+I4210105136,Yangtze River Delta Physics Research Center,CN,其他 / 未分类,4,4,119,2020,2026,4
+I4210137963,China Railway Design Corporation,CN,其他 / 未分类,4,4,96,2019,2026,3
+I4210128853,China Datang Corporation,CN,能源、电网与核电,4,4,45,2021,2025,4
+I4387155567,State Grid Hunan Electric Power Company Limited,CN,能源、电网与核电,4,6,42,2020,2026,4
+I4405281317,China North Chemical Research Academy Group,CN,化工,4,4,9,2022,2026,4
+I4210120155,Tebian Electric Apparatus,CN,能源、电网与核电,4,9,34,2020,2026,4
+I4210127820,Zhejiang Hisun Pharmaceutical,CN,医药与 CRO,4,5,4,2025,2026,4
+I4210165226,Thermo Fisher Scientific,CN,其他 / 未分类,4,6,5,2024,2026,4
+I4210163007,Shaanxi Yulin Energy Group,CN,能源、电网与核电,4,5,6,2015,2026,3
+I4210093854,TrueOne Semiconductor,CN,其他 / 未分类,4,3,25,2019,2026,3
+I4405276835,SINOPEC Petroleum Engineering Technology Research Institute,CN,能源、电网与核电,4,6,113,2019,2025,2
+I4210150487,Xinxing Pipes International Development,CN,其他 / 未分类,4,4,39,2011,2026,2
+I4405277472,CISDI Group,CN,其他 / 未分类,4,5,65,2010,2023,1
+I4210119975,Beijing Institute of Power Machinery,CN,能源、电网与核电,4,3,7,2023,2025,4
+I4210124264,Sany,CN,其他 / 未分类,3,3,258,2013,2022,1
+I4392021150,"Sinoma Science & Technology Co., Ltd.",CN,其他 / 未分类,3,3,119,2020,2026,3
+I4405280581,Shenzhen Gas Corporation,CN,能源、电网与核电,3,3,110,2021,2021,3
+I4405270529,"Wuliangye Group Co., Ltd",CN,其他 / 未分类,3,8,31,2024,2025,3
+I2799321762,WuXi AppTec,CN,医药与 CRO,3,16,169,2015,2026,2
+I4387154373,Shaanxi Provincial Land Engineering Construction Group,CN,其他 / 未分类,3,6,16,2024,2026,3
+I862669128,Xiaomi,CN,科技巨头与 AI 实验室,3,8,3,2026,2026,3
+I4405260928,PowerChina Kunming Engineering Corporation Limited,CN,能源、电网与核电,3,5,6,2025,2026,3
+I4210141776,China XD Group,CN,其他 / 未分类,3,2,95,2018,2026,1
+I4405260665,Zhejiang Provincial Innovation Center of Laser Intelligent Equipment Technology,CN,其他 / 未分类,3,3,2,2025,2026,3
+I4210131005,Chery Automobile,CN,其他 / 未分类,3,2,5,2025,2026,3
+I4392738184,Yankuang Energy Group Company Limited,CN,能源、电网与核电,3,1,7,2022,2025,3
+I4210120842,Shenyang Institute of Computing Technology,CN,其他 / 未分类,3,12,0,2025,2026,3
+I4210117026,Guangzhou Chemistry,CN,化工,3,18,25,2022,2026,3
+I4405267547,"Nanjing Sanhome Pharmaceutical Co., Ltd.",CN,医药与 CRO,3,12,38,2018,2025,2
+I4405270965,State Grid Fujian Electric Power Company,CN,能源、电网与核电,3,6,4,2025,2026,3
+I4210093217,China National Pharmaceutical Group Corporation,CN,医药与 CRO,3,3,40,2019,2026,2
+I4210158343,Origin Quantum Computing Technology Company,CN,量子计算（化学应用）,3,12,35,2021,2024,3
+I4210132615,Zhejiang Energy Group,CN,能源、电网与核电,3,3,105,2016,2026,2
+I4405277010,Fushun Research Institute of Petroleum and Petrochemicals,CN,能源、电网与核电,3,3,97,2015,2020,1
+I4210164792,Everbright International,CN,其他 / 未分类,3,3,33,2023,2025,3
+I4210110195,China Energy Engineering Corporation,CN,能源、电网与核电,3,6,45,2014,2024,2
+I4210117048,Harbin Electric Corporation,CN,能源、电网与核电,3,4,32,2010,2025,2
+I4210153068,Dongfeng Motor Group,CN,电池与汽车,3,3,15,2025,2025,3
+I4210091192,Zhejiang Zanyu Technology,CN,其他 / 未分类,3,3,18,2023,2026,3
+I4405285022,"Guizhou Power Grid Co., Ltd.",CN,能源、电网与核电,3,7,35,2018,2026,2
+I4210093653,Midea Group,CN,其他 / 未分类,3,5,7,2025,2026,3
+I4210092055,Gezhouba Group,CN,其他 / 未分类,3,5,5,2024,2026,3
+I4405273203,State Grid Shanghai Municipal Electric Power Company,CN,能源、电网与核电,3,8,4,2024,2026,3
+I4210088511,Inner Mongolia Electric Power,CN,能源、电网与核电,3,4,10,2023,2025,3
+I4210135685,Little Swan,CN,其他 / 未分类,3,5,2,2025,2026,3
+I4210135740,Haier Group,CN,其他 / 未分类,3,4,0,2026,2026,3
+I4210115002,Xiangtan Electric Manufacturing Group,CN,能源、电网与核电,3,4,25,2025,2025,3
+I4387154190,Yunnan Botanee Biotechnology Group Co.,CN,医药与 CRO,3,5,10,2023,2026,3
+I4210154406,Ningbo Putian Information Industry,CN,其他 / 未分类,3,5,8,2025,2026,3
+I4405267115,Genfleet Therapeutics (Shanghai) Inc.,CN,其他 / 未分类,3,7,1,2025,2026,3
+I4210159344,Viva Biotech,CN,医药与 CRO,3,3,11,2023,2026,3
+I4210096056,Shanghai CASB Biotechnology,CN,医药与 CRO,3,2,169,2001,2003,0
+I4210103088,Guangxi Yuchai Machinery Group,CN,其他 / 未分类,2,4,206,2019,2025,1
+I4210091341,Novartis,CN,其他 / 未分类,2,2,164,2014,2024,1
+I4210143891,Sinomach,CN,其他 / 未分类,2,2,14,2025,2026,2
+I4210159750,Beijing Automotive Group,CN,其他 / 未分类,2,2,30,2020,2026,2
+I4210144436,Shanghai Huayi Group,CN,其他 / 未分类,2,2,19,2024,2025,2
+I4387152367,State Grid Nanjing Power Supply Company,CN,能源、电网与核电,2,1,29,2020,2023,2
+I4210086647,Philips,CN,其他 / 未分类,2,4,21,2012,2012,0
+I4403928295,"Jiangsu Frontier Electric Technology Co., Ltd.",CN,能源、电网与核电,2,2,21,2020,2021,2
+I4387153335,China Telecom,CN,科技巨头与 AI 实验室,2,3,18,2023,2026,2
+I4405270328,Ant Group,CN,科技巨头与 AI 实验室,2,2,5,2024,2025,2
+I4210141382,Advanced Micro-Fabrication Equipment,CN,其他 / 未分类,2,2,2,2025,2026,2
+I6507939,China United Network Communications Group,CN,其他 / 未分类,2,2,3,2025,2026,2
+I4405279471,Qingdao Metro Group,CN,其他 / 未分类,2,1,11,2019,2024,1
+I4210109962,Hengtong Optoelectronic,CN,其他 / 未分类,2,4,1,2019,2026,1
+I4210122878,Chongqing 2D Materials Institute,CN,其他 / 未分类,2,2,8,2023,2026,2
+I4405287589,Honor Device,CN,其他 / 未分类,2,4,0,2026,2026,2
+I4210134419,Neusoft,CN,其他 / 未分类,2,1,78,2006,2007,0
+I4392738332,"Shenyang Sinochem Agrochemicals R&D Co., Ltd.",CN,化工,2,2,12,2020,2025,2
+I4210147504,Boehringer Ingelheim,CN,其他 / 未分类,2,2,25,2023,2026,2
+I4405267085,"Qilu Pharmaceutical Co., Ltd.",CN,医药与 CRO,2,2,41,2019,2024,1
+I4210162623,Datang Telecom Group,CN,能源、电网与核电,2,1,129,2014,2015,0
+I4210094968,South China Municipal Engineering Design and Research Institute,CN,其他 / 未分类,2,3,31,2023,2026,2
+I4387155233,Shandong Electric Power Engineering Consulting Institute Corp,CN,能源、电网与核电,2,3,25,2023,2025,2
+I4210132350,China Building Standard Design and Research Institute,CN,其他 / 未分类,2,4,23,2022,2024,2
+I4210110877,China Metallurgical Planning Net,CN,钢铁、有色与建材,2,2,83,2016,2019,0
+I4210113138,Guangzhou Automobile Group,CN,其他 / 未分类,2,3,29,2016,2018,0
+I4210155557,Panasonic,CN,其他 / 未分类,2,2,16,2007,2023,1
+I4210091156,SAIC-GM,CN,电池与汽车,2,5,15,2023,2026,2
+I4210095258,Jinchuan,CN,其他 / 未分类,2,2,6,2025,2026,2
+I4210141344,Xiamen Tungsten,CN,钢铁、有色与建材,2,1,15,2020,2020,2
+I4210101469,China National Salt Industry Corporation,CN,其他 / 未分类,2,2,10,2020,2026,2
+I4405276855,CRRC Qingdao Sifang Rolling Stock Research Institute,CN,军工、航空航天与装备,2,2,7,2020,2026,2
+I4210155932,Changhong,CN,其他 / 未分类,2,6,51,2022,2023,2
+I4405263191,Envision Energy,CN,能源、电网与核电,2,3,6,2021,2026,2
+I4210099747,GoerTek,CN,其他 / 未分类,2,1,11,2023,2024,2
+I4405282119,"NJTU Membrane Application Institute Co., Ltd",CN,其他 / 未分类,2,1,1,2026,2026,2
+I4210155746,Inner Mongolia Yili Industrial Group,CN,其他 / 未分类,2,5,7,2025,2026,2
+I4210147798,Tongling Nonferrous Metals Group Holding,CN,钢铁、有色与建材,2,2,3,2009,2026,1
+I4210134178,Sohu,CN,其他 / 未分类,2,3,0,2010,2012,0
+I4210142504,Semiconductor Manufacturing International,CN,其他 / 未分类,2,2,17,2015,2025,1
+I4210102494,Inner Mongolia Electric Power Survey & Design Institute,CN,能源、电网与核电,2,4,1,2026,2026,2
+I4210147014,Shanghai Huali Microelectronics,CN,其他 / 未分类,2,2,2,2015,2026,1
+I4210120532,Anhui Transport Consulting & Design Institute,CN,其他 / 未分类,2,6,6,2025,2026,2
+I4210153410,China Nerin Engineering,CN,其他 / 未分类,2,2,0,2026,2026,2
+I4210145902,Beijing Drainage Group,CN,其他 / 未分类,2,3,27,2025,2025,2
+I4210135979,Yangtze River Pharmaceutical Group,CN,医药与 CRO,2,2,63,2015,2017,0
+I4210111795,Hisense,CN,其他 / 未分类,2,4,34,2022,2026,2
+I4401726822,Ping An,CN,其他 / 未分类,2,4,25,2004,2022,1
+I4210098582,ZTE,CN,科技巨头与 AI 实验室,2,2,22,2021,2025,2
+I4210127996,Sino Biological,CN,医药与 CRO,2,3,20,2017,2025,1
+I4403386738,"Hebei Provincial Communications Planning, Design and Research Institute Co., Ltd.",CN,其他 / 未分类,2,4,2,2025,2026,2
+I4210089226,Shanxi Coal Transportation and Sales Group,CN,能源、电网与核电,2,2,3,2025,2026,2
+I4405267563,"Haisco Pharmaceutical Group Co., Ltd.",CN,医药与 CRO,2,9,2,2025,2025,2
+I4210137691,Luye Pharma,CN,医药与 CRO,2,7,2,2026,2026,2
+I4405272318,China Tobacco Guizhou Industrial,CN,其他 / 未分类,2,7,1,2025,2026,2
+I4210119597,Shanghai Research Institute of Building Sciences,CN,其他 / 未分类,2,2,1,2026,2026,2
+I4210124822,State Development & Investment Corporation,CN,其他 / 未分类,2,2,2,2018,2026,1
+I4210144889,Beijing Municipal Engineering Design and Research Institute,CN,其他 / 未分类,2,4,0,2026,2026,2
+I4210115177,Jiangsu Yonggang Group,CN,其他 / 未分类,2,3,0,2026,2026,2
+I4210140471,China International Marine Containers,CN,其他 / 未分类,2,1,0,2026,2026,2
+I4210130901,Solvay,CN,其他 / 未分类,1,1,39,2020,2020,1
+I4405278800,SceneRay,CN,其他 / 未分类,1,1,22,2023,2023,1
+I4210155232,Fiberhome Technology Group,CN,其他 / 未分类,1,1,9,2024,2024,1
+I4405267977,Adagene Inc.,CN,其他 / 未分类,1,1,6,2018,2018,0
+I4210159425,Chengdu Tool Research Institute,CN,其他 / 未分类,1,1,6,2022,2022,1
+I4210149379,NEC,CN,其他 / 未分类,1,1,10,2017,2017,0
+I4210096870,Simcere Pharmaceutical,CN,医药与 CRO,1,2,5,2021,2021,1
+I4210148359,Lifan,CN,其他 / 未分类,1,1,1,2020,2020,1
+I4405271722,Nanjing Changjiang Waterway Engineering Bureau,CN,其他 / 未分类,1,1,2,2025,2025,1
+I4210096896,Huaibei Mining,CN,钢铁、有色与建材,1,1,0,2013,2013,0
+I4210113224,DuPont,CN,其他 / 未分类,1,1,0,2022,2022,1
+I4210087087,Henan Tianguan Group,CN,其他 / 未分类,1,1,0,2022,2022,1
+I4210086341,Biomarker Technologies,CN,其他 / 未分类,1,1,0,2023,2023,1
+I4210153393,Geely,CN,电池与汽车,1,1,0,2026,2026,1
+I4401726789,Xiaopeng Motors,CN,其他 / 未分类,1,1,0,2026,2026,1
+I4210151935,Dahua Technology,CN,其他 / 未分类,1,2,0,2026,2026,1
+I4210166268,Syngenta,CN,化工,1,1,0,2026,2026,1
+I4210138067,QuantumCTek,CN,量子计算（化学应用）,1,18,14,2026,2026,1
+I4210166719,WengFu Group,CN,其他 / 未分类,1,3,2,2021,2021,1
+I4210126026,Anhui East China Institute of Optoelectronic Technology,CN,其他 / 未分类,1,7,0,2026,2026,1
+I4210161903,China Minmetals,CN,钢铁、有色与建材,1,1,61,2016,2016,0
+I340842764,Foton Motors,CN,其他 / 未分类,1,1,12,2025,2025,1
+I4210162588,Shanghai Micro Electronics Equipment,CN,其他 / 未分类,1,1,8,2025,2025,1
+I4210126926,Jiangyin Traffic Planning Survey & Design Institute,CN,其他 / 未分类,1,1,8,2026,2026,1
+I4210120706,Urban Planning & Design Institute of Shenzhen,CN,其他 / 未分类,1,1,7,2025,2025,1
+I4405277018,"Hunan Research Institute of Chemical Industry Co., Ltd.",CN,化工,1,1,37,2009,2009,0
+I4210093784,Higher Education Press,CN,其他 / 未分类,1,1,20,2022,2022,1
+I4210097801,Chaowei Group,CN,其他 / 未分类,1,5,5,2025,2025,1
+I4210088879,Zhejiang Chint Electrics,CN,能源、电网与核电,1,1,4,2026,2026,1
+I4210137137,Tianma Microelectronics,CN,其他 / 未分类,1,1,8,2021,2021,1
+I4210141517,Nuctech,CN,其他 / 未分类,1,2,8,2021,2021,1
+I4210157983,NAURA,CN,其他 / 未分类,1,1,3,2026,2026,1
+I4210166335,Xiamen Tobacco Industry,CN,其他 / 未分类,1,1,2,2025,2025,1
+I4210155967,OriginWater,CN,其他 / 未分类,1,1,2,2026,2026,1
+I4401726770,Cambricon,CN,其他 / 未分类,1,1,9,2013,2013,0
+I4210132948,Shanghai Chengtou,CN,其他 / 未分类,1,1,2,2024,2024,1
+I4210105231,Changchun Gold Research Institute,CN,其他 / 未分类,1,4,1,2025,2025,1
+I4210148225,China State Construction Engineering,CN,其他 / 未分类,1,2,1,2025,2025,1
+I4210146072,Lishen,CN,其他 / 未分类,1,1,1,2026,2026,1
+I4210123817,Beijing Urban Construction Design & Development Group,CN,其他 / 未分类,1,1,1,2026,2026,1
+I4405280563,"Tianjin Cement Industry Design and Research Institute Co., Ltd.",CN,其他 / 未分类,1,1,4,2011,2011,0
+I4210099211,Shanghai FRP Research Institute,CN,其他 / 未分类,1,1,3,2011,2011,0
+I4210138151,Jilin Electric Power Research Institute,CN,能源、电网与核电,1,1,0,2012,2012,0
+I4210086109,Focused Photonics,CN,其他 / 未分类,1,1,0,2020,2020,1
+I4405267540,Changchun BCHT Biotechnology Co.,CN,医药与 CRO,1,1,0,2025,2025,1
+I4210106054,Hengdian Group DMEGC Magnetics,CN,其他 / 未分类,1,1,0,2026,2026,1
+I4392738087,"TrinaSolar Co., Ltd.",CN,其他 / 未分类,1,1,0,2026,2026,1
+I4405272686,Shanghai Tobacco Group,CN,其他 / 未分类,1,3,0,2026,2026,1
+I4210127816,San’an Optoelectronics,CN,其他 / 未分类,1,2,0,2026,2026,1
+I4401727007,Hikvision,CN,科技巨头与 AI 实验室,1,3,0,2026,2026,1
+I4210127555,China Guodian Corporation,CN,能源、电网与核电,1,2,0,2026,2026,1
+I4392738154,Yingli Energy Technology Group,CN,能源、电网与核电,1,5,0,2026,2026,1
+I4405271892,"China Tobacco Hunan Industrial Co., Ltd.",CN,其他 / 未分类,1,3,0,2026,2026,1
+I4210105359,Shanghai Liangyou,CN,其他 / 未分类,1,7,258,2024,2024,1
+I4210098608,Sunano,CN,其他 / 未分类,1,1,119,2015,2015,0
+I4210109619,National Institutes of Pharmaceutical Research and Development,CN,医药与 CRO,1,1,111,2020,2020,1
+I4210152481,Lilly,CN,其他 / 未分类,1,2,92,2017,2017,0
+I4387152397,State Grid Hebei Electric Power Company,CN,能源、电网与核电,1,1,62,2021,2021,1
+I4210134540,China Ocean Shipping,CN,其他 / 未分类,1,3,38,2023,2023,1
+I4210155468,ZTT,CN,其他 / 未分类,1,1,45,2018,2018,0
+I4387153688,Beijing Institute of Radio Metrology and Measurement,CN,其他 / 未分类,1,1,32,2023,2023,1
+I4405257212,"China Construction Sixth Engineering Bureau Corp., Ltd",CN,其他 / 未分类,1,1,31,2024,2024,1
+I4210103140,CCCC Highway Consultants,CN,其他 / 未分类,1,1,27,2024,2024,1
+I4210100450,BeiGene,CN,医药与 CRO,1,1,20,2022,2022,1
+I4387152358,Amgen,CN,其他 / 未分类,1,2,17,2022,2022,1
+I4387155163,Shenzhen Chipscreen Biosciences Co.,CN,其他 / 未分类,1,1,9,2025,2025,1
+I4210136169,Chongqing Construction Engineering Investment Holding,CN,其他 / 未分类,1,2,7,2025,2025,1
+I4210131761,Wen's Food Group,CN,其他 / 未分类,1,1,6,2025,2025,1
+I4210120287,JEOL,CN,其他 / 未分类,1,1,18,2022,2022,1
+I4405273642,"Shanghai Superconductor Technology Co., Ltd.",CN,其他 / 未分类,1,1,8,2024,2024,1
+I4387153926,CSPC Pharmaceutical Group,CN,医药与 CRO,1,1,8,2024,2024,1
+I4210143047,Shenyang Academy of Environmental Sciences,CN,钢铁、有色与建材,1,1,7,2024,2024,1
+I4387152444,BGI Genomics,CN,医药与 CRO,1,1,13,2013,2013,0
+I4210108520,Huahai Pharmaceutical,CN,医药与 CRO,1,6,11,2022,2022,1
+I4210098825,Neuboron,CN,其他 / 未分类,1,1,10,2022,2022,1
+I4405278127,"China Energy Engineering Group Guangdong Electric Power Design Institute Co., Ltd.",CN,能源、电网与核电,1,1,8,2022,2022,1
+I4405283629,"Wuhan Digital Design and Manufacturing Innovation Center Co., Ltd.",CN,其他 / 未分类,1,1,8,2022,2022,1
+I4210145203,Henan Provincial Institute of Communications Planning Survey & Design,CN,其他 / 未分类,1,1,6,2025,2025,1
+I4387154168,China Railway Eryuan Engineering Group Co.,CN,其他 / 未分类,1,2,3,2025,2025,1
+I4210089582,Zoomlion,CN,其他 / 未分类,1,2,3,2025,2025,1
+I4210152155,Yunnan Investment Group,CN,其他 / 未分类,1,1,5,2024,2024,1
+I4210154323,China Central Television,CN,其他 / 未分类,1,1,3,2024,2024,1
+I4210089684,Wenzhou Hospital of Traditional Chinese Medicine,CN,医药与 CRO,1,3,2,2025,2025,1
+I4210095902,China Railway Shanghai Design Institute Group,CN,其他 / 未分类,1,1,2,2026,2026,1
+I4210125025,Kelun Group,CN,其他 / 未分类,1,3,2,2026,2026,1
+I4210147685,Jiangsu Hengrui Medicine,CN,医药与 CRO,1,1,14,2006,2006,0
+I4210107447,Wistron,CN,其他 / 未分类,1,1,2,2025,2025,1
+I4210124917,JAC Motors,CN,其他 / 未分类,1,1,1,2025,2025,1
+I4210099486,Lianyungang Runzhong Pharmaceutical,CN,医药与 CRO,1,1,1,2025,2025,1
+I4405277212,CCTEG Chongqing Research Institute,CN,能源、电网与核电,1,1,1,2026,2026,1
+I4210135459,United Imaging Healthcare,CN,医药与 CRO,1,1,1,2026,2026,1
+I4405280679,"Sinoma Synthetic Crystals Co., Ltd.",CN,其他 / 未分类,1,1,0,2014,2014,0
+I4210126884,Buchang Pharma,CN,医药与 CRO,1,1,0,2019,2019,0
+I4210159565,SAIC Motor,CN,电池与汽车,1,2,0,2019,2019,0
+I4405275037,Chengdu Institute of Biological Products,CN,医药与 CRO,1,5,0,2024,2024,1
+I4210107823,Bruker,CN,其他 / 未分类,1,1,0,2025,2025,1
+I4210164498,Beijing Wantai Biological Pharmacy,CN,医药与 CRO,1,1,0,2025,2025,1
+I4210107285,Jiangsu Provincial Water Survey & Design Institute,CN,其他 / 未分类,1,1,0,2025,2025,1
+I4405267551,"Walvax Biotechnology Co., Ltd.",CN,医药与 CRO,1,1,0,2026,2026,1
+I4210108432,Jiangsu Nhwa Pharmaceutical,CN,医药与 CRO,1,1,0,2026,2026,1
+I4210140549,Skyworth,CN,其他 / 未分类,1,1,0,2026,2026,1
+I4210111144,Tianneng Power,CN,能源、电网与核电,1,1,0,2026,2026,1
+I4210103250,Hubei Bio Pharmaceutical Industry Technology Institute,CN,医药与 CRO,1,1,0,2026,2026,1
+I4210119458,Roche,CN,其他 / 未分类,1,1,0,2026,2026,1
+I4405267125,"Xiamen Innovax Biotech Co., Ltd.",CN,医药与 CRO,1,2,0,2026,2026,1
+I4210166711,Anhui Provincial Urban Construction Design & Research Institute,CN,其他 / 未分类,1,1,0,2026,2026,1
+I4210131871,Shanxi Jincheng Anthracite Mining Group,CN,钢铁、有色与建材,1,1,0,2026,2026,1
+I4396570564,"Hunan Provincial Expressway Group Co., Ltd",CN,其他 / 未分类,1,1,0,2026,2026,1
+I4405267928,"Nanjing IASO Biotechnology Co., Ltd.",CN,医药与 CRO,1,1,18,2024,2024,1
+I2250865144,TCL,CN,其他 / 未分类,1,4,13,2024,2024,1
+I4210096400,Arrayed Materials,CN,其他 / 未分类,1,1,1,2024,2024,1
+I4210133355,Jiangling Motors Corporation,CN,其他 / 未分类,1,1,1,2025,2025,1

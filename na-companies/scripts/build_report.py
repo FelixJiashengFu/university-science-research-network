@@ -16,6 +16,22 @@ R = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 P = lambda *a: os.path.join(R, *a)
 esc = lambda s: html.escape(str(s if s is not None else ""), quote=True)
 
+# English dictionary entries produced by this build (merged into ../i18n/en.json by scripts/i18n_merge.py)
+I18N = {}
+def T(zh, en):
+    """Return zh and remember its English translation for the atlas dictionary."""
+    if zh and en and zh != en: I18N[zh] = en
+    return zh
+
+def T_html(zh, en):
+    """Pair the text nodes of a zh HTML block with those of its en twin (the host translates node by node)."""
+    import re as _re
+    tn = lambda h: [x.strip() for x in _re.split(r"<[^>]+>", h) if x.strip()]
+    a, b = tn(zh), tn(en)
+    if len(a) != len(b): raise SystemExit(f"T_html: {len(a)} zh vs {len(b)} en text nodes in block starting {zh[:40]!r}")
+    for x, y in zip(a, b): T(x, y)
+    return zh
+
 # ---------------------------------------------------------------- categories
 CATS = {
     "SW":     ("计算化学软件与平台", "var(--a-es)"),
@@ -214,22 +230,23 @@ def heat(rows, cols, M, label, w=640, cell=None, fmt=lambda v: f"{v:g}"):
     o.append("</svg>")
     return "".join(o)
 
-def hstack(rows, cols, names, label, w=640, lw=180, bh=22, gap=8):
+def hstack(rows, cols, names, label, w=640, lw=180, bh=22, gap=8, fmt=None):
+    fmt = fmt or fmt_usd
     h = 24 + len(rows) * (bh + gap)
     tk, top = ticks(max(sum(v) for _, v in rows))
     x0, x1 = lw, w - 70
     sx = lambda v: x0 + (x1 - x0) * v / top
     o = [svg_open(w, h, label)]
     for t in tk:
-        o.append(f'<line x1="{sx(t):.1f}" x2="{sx(t):.1f}" y1="14" y2="{h-4}" stroke="var(--grid)"/><text x="{sx(t):.1f}" y="10" text-anchor="middle" fill="var(--muted)" font-size="10.5">{fmt_usd(t) if t else 0}</text>')
+        o.append(f'<line x1="{sx(t):.1f}" x2="{sx(t):.1f}" y1="14" y2="{h-4}" stroke="var(--grid)"/><text x="{sx(t):.1f}" y="10" text-anchor="middle" fill="var(--muted)" font-size="10.5">{fmt(t) if t else 0}</text>')
     for i, (lab, vals) in enumerate(rows):
         y = 20 + i * (bh + gap); acc = 0
         o.append(f'<text x="{x0-8}" y="{y+bh/2+4:.1f}" text-anchor="end" fill="var(--ink-2)">{esc(lab)}</text>')
         for v, c, nm in zip(vals, cols, names):
             if v > 0:
-                o.append(f'<rect x="{sx(acc):.1f}" y="{y}" width="{sx(acc+v)-sx(acc):.1f}" height="{bh}" fill="{c}"{TIPJS_ATTR(f"{lab} · {nm}：{fmt_usd(v)}")}/>')
+                o.append(f'<rect x="{sx(acc):.1f}" y="{y}" width="{sx(acc+v)-sx(acc):.1f}" height="{bh}" fill="{c}"{TIPJS_ATTR(f"{lab} · {nm}：{fmt(v)}")}/>')
             acc += v
-        o.append(f'<text x="{sx(acc)+5:.1f}" y="{y+bh/2+4:.1f}" fill="var(--ink)" font-family="var(--mono)" font-size="11.5">{fmt_usd(acc)}</text>')
+        o.append(f'<text x="{sx(acc)+5:.1f}" y="{y+bh/2+4:.1f}" fill="var(--ink)" font-family="var(--mono)" font-size="11.5">{fmt(acc)}</text>')
     o.append("</svg>")
     return "".join(o)
 
@@ -241,35 +258,42 @@ def fig(no, title, sub, body, cap="", wide=False):
             f'<div class="sub">{sub}</div><div class="plot">{body}</div>' + (f"<figcaption>{cap}</figcaption>" if cap else "") + "</figure>")
 
 # ---------------------------------------------------------------- map
-def proj(lon, lat):
-    # Lambert conformal conic, standard parallels 33/45, centred on -96
-    p1, p2, p0, l0 = map(math.radians, (33, 45, 23, -96))
+def proj(lon, lat, par=(33, 45, 23, -96)):
+    # Lambert conformal conic; par = (standard parallel 1, standard parallel 2, origin lat, central lon)
+    p1, p2, p0, l0 = map(math.radians, par)
     n = math.log(math.cos(p1) / math.cos(p2)) / math.log(math.tan(math.pi / 4 + p2 / 2) / math.tan(math.pi / 4 + p1 / 2))
     F = math.cos(p1) * math.tan(math.pi / 4 + p1 / 2) ** n / n
     rho = lambda p: F / math.tan(math.pi / 4 + p / 2) ** n
     p, l = math.radians(lat), math.radians(lon)
     return rho(p0) * 0 + rho(p) * math.sin(n * (l - l0)), rho(p0) - rho(p) * math.cos(n * (l - l0))
 
-def basemap_svg(points, w=1100, h=620):
-    gj = json.load(open(P("data", "raw", "basemap.json")))
-    box = [(-128, 24), (-60, 24), (-128, 56), (-60, 56), (-96, 57), (-96, 24)]
-    bx = [proj(*b) for b in box]
+NA_MAP = dict(file="basemap.json", par=(33, 45, 23, -96), box=[(-128, 24), (-60, 24), (-128, 56), (-60, 56), (-96, 57), (-96, 24)],
+              clip=lambda lon, lat: lat < 18 or lon < -140, label="北美量子化学/计算化学企业总部地图",
+              names=[("旧金山湾区", -122.3, 37.6, -12, 40), ("波士顿/剑桥", -71.1, 42.36, 14, 30), ("纽约—新泽西", -74.3, 40.6, 16, 46),
+                     ("多伦多", -79.4, 43.65, -40, -26), ("蒙特利尔", -73.6, 45.5, -10, -30), ("温哥华", -123.0, 49.27, -10, -28),
+                     ("圣地亚哥", -117.16, 32.72, -10, 34), ("科罗拉多前山", -105.1, 40.0, 0, -26)])
+
+def basemap_svg(points, w=1100, h=620, cfg=NA_MAP):
+    gj = json.load(open(P("data", "raw", cfg["file"])))
+    par = cfg["par"]; proj_ = lambda lon, lat: proj(lon, lat, par)
+    box = cfg["box"]
+    bx = [proj_(*b) for b in box]
     X0, X1 = min(b[0] for b in bx), max(b[0] for b in bx); Y0, Y1 = min(b[1] for b in bx), max(b[1] for b in bx)
     s = min(w / (X1 - X0), h / (Y1 - Y0))
-    T = lambda lon, lat: ((proj(lon, lat)[0] - X0) * s, h - (proj(lon, lat)[1] - Y0) * s)
+    T = lambda lon, lat: ((proj_(lon, lat)[0] - X0) * s, h - (proj_(lon, lat)[1] - Y0) * s)
     def ring(rg):
         out, last = [], None
         for lon, lat in rg[::2] if len(rg) > 40 else rg:
-            if lat < 18 or lon < -140: continue
+            if cfg["clip"](lon, lat): continue
             x, y = T(lon, lat); pt = (round(x), round(y))
             if pt != last: out.append(pt); last = pt
         return "M" + "L".join(f"{a},{b}" for a, b in out) + "Z" if len(out) > 2 else ""
-    paths = {"admin1": [], "other": [], "lake": []}
+    paths = collections.defaultdict(list)
     for f in gj["features"]:
         g = f["geometry"]; polys = [g["coordinates"]] if g["type"] == "Polygon" else g["coordinates"]
         d = "".join(ring(rg) for poly in polys for rg in poly)
         if d: paths[f["properties"]["k"]].append(d)
-    o = [f'<svg viewBox="0 0 {w} {h}" width="100%" role="img" aria-label="北美量子化学/计算化学企业总部地图" style="font-family:var(--body);font-size:12px">',
+    o = [f'<svg viewBox="0 0 {w} {h}" width="100%" role="img" aria-label="{cfg['label']}" style="font-family:var(--body);font-size:12px">',
          f'<path d="{"".join(paths["other"])}" fill="var(--line-2)" stroke="none"/>',
          f'<path d="{"".join(paths["admin1"])}" fill="var(--raise)" stroke="var(--line)" stroke-width=".8"/>',
          f'<path d="{"".join(paths["lake"])}" fill="var(--surface)" stroke="var(--line)" stroke-width=".5"/>']
@@ -280,9 +304,7 @@ def basemap_svg(points, w=1100, h=620):
         x, y = T(lon, lat)
         if i: a = i * 2.4; x += math.cos(a) * (4 + 2.2 * math.sqrt(i)) * 1.6; y += math.sin(a) * (4 + 2.2 * math.sqrt(i)) * 1.6
         o.append(f'<circle class="mdot" data-cat="{cat}" cx="{x:.1f}" cy="{y:.1f}" r="{r:.1f}" fill="{c}" fill-opacity=".85" stroke="var(--raise)" stroke-width="1"{TIPJS_ATTR(tip)}/>')
-    for name, lon, lat, dx, dy in [("旧金山湾区", -122.3, 37.6, -12, 40), ("波士顿/剑桥", -71.1, 42.36, 14, 30), ("纽约—新泽西", -74.3, 40.6, 16, 46),
-                                   ("多伦多", -79.4, 43.65, -40, -26), ("蒙特利尔", -73.6, 45.5, -10, -30), ("温哥华", -123.0, 49.27, -10, -28),
-                                   ("圣地亚哥", -117.16, 32.72, -10, 34), ("科罗拉多前山", -105.1, 40.0, 0, -26)]:
+    for name, lon, lat, dx, dy in cfg["names"]:
         x, y = T(lon, lat)
         o.append(f'<text x="{x+dx:.0f}" y="{y+dy:.0f}" text-anchor="middle" fill="var(--ink-2)" font-size="13" font-weight="500" paint-order="stroke" stroke="var(--raise)" stroke-width="3">{name}</text>')
     o.append("</svg>")
@@ -458,7 +480,7 @@ def main():
     tier_series = [(t, col, [sum(1 for c in C if c["category"] == k and c["tier"] == t) for k in CORDER]) for t, col in zip(TIERS, ["var(--a-md)", "var(--a-mat)", "var(--a-es)"])]
     s1.append(F_("规模结构：初创、中型、大型", "各赛道内三个规模层级的公司数", legend([(t, c) for t, c, _ in tier_series]) +
                  stacked_cols([CATS[k][0].split("（")[0].replace("与", "/")[:6] for k in CORDER], tier_series, "规模结构", unit=" 家"),
-                 "规模分层定义：" + "；".join(f"{k}：{v}" for k, v in TIER_DEF.items()) + "。"))
+                 "规模分层定义：" + "；".join(f"{k}：{esc(v)}" for k, v in TIER_DEF.items()) + "。"))
     bins = list(range(1980, 2030, 5))
     yr_series = [(CATS[k][0], CATS[k][1], [sum(1 for c in C if c["category"] == k and c["yr"] and b <= c["yr"] < b + 5) for b in bins]) for k in CORDER]
     pre = sum(1 for c in C if c["yr"] and c["yr"] < 1980)
@@ -477,11 +499,12 @@ def main():
         r = 4 + (math.sqrt(c["f"]) / 6 if c["f"] else 0) + (3 if c["tier"] == "大型" else 0)
         tip = f"{c['name']} · {c['city']}, {c['region']}\n{CATS[c['category']][0]} · {c['tier']} · 成立 {c['founded']}" + (f"\n融资 {fmt_usd(c['f'])}" if c["f"] else "")
         pts.append((c["lon"], c["lat"], CATS[c["category"]][1], min(r, 16), tip, c["category"]))
-    mapfig = (f'<figure class="chart wide"><div class="cno">图 {no[0]+1:02d}</div><h3>企业总部真实地理分布</h3><div class="sub">点 = 公司总部；颜色 = 赛道；大小 = 融资额（大型企业另加粗）。点击下方图例可筛选。</div>'
-              f'<div class="legend" id="mapleg">' + "".join(f'<span class="pill" data-cat="{k}" style="cursor:pointer"><i style="background:{CATS[k][1]};width:10px;height:10px;border-radius:3px;display:inline-block"></i>{CATS[k][0]}</span>' for k in CORDER) +
-              f'</div><div class="plot">{basemap_svg(pts)}</div><figcaption>坐标为总部城市中心；同城多家公司按螺旋错开。底图：Natural Earth（公有领域）。</figcaption></figure>')
-    no[0] += 1
-    s2 = [mapfig]
+    def mapfig(title, svg, mid, cap):
+        no[0] += 1
+        return (f'<figure class="chart wide mapfig" id="{mid}"><div class="cno">图 {no[0]:02d}</div><h3>{title}</h3><div class="sub">点 = 公司总部；颜色 = 赛道；大小 = 融资额（大型企业另加粗）。点击下方图例可筛选。</div>'
+                f'<div class="legend mapleg">' + "".join(f'<span class="pill" data-cat="{k}" style="cursor:pointer"><i style="background:{CATS[k][1]};width:10px;height:10px;border-radius:3px;display:inline-block"></i>{CATS[k][0]}</span>' for k in CORDER) +
+                f'</div><div class="plot">{svg}</div><figcaption>{cap}</figcaption></figure>')
+    s2 = [mapfig(T("北美企业总部真实地理分布", "Where North American company headquarters are"), basemap_svg(pts), "namap", "坐标为总部城市中心；同城多家公司按螺旋错开。底图：Natural Earth（公有领域）。")]
     cl_order = [k for k, _ in by_cluster.most_common()]
     s2.append(F_("九大产业集群：公司数", "按总部所在都会区归并", hbar([(k, by_cluster[k], "var(--accent)" if k != "其他地区" else "var(--c-other)") for k in cl_order], "集群公司数", unit=" 家", lw=110)))
     s2.append(F_("九大产业集群：已知融资", "私营公司累计融资（含估计）", hbar([(k, fund_cluster[k], "var(--accent)" if k != "其他地区" else "var(--c-other)") for k in sorted(fund_cluster, key=lambda k: -fund_cluster[k])], "集群融资", lw=110, fmt=fmt_usd)))
@@ -611,14 +634,14 @@ def main():
                  hbar([(f"{prof_by_id[p]['name']}（{prof_by_id[p]['institution'][:22]}）", v, "var(--a-md)", f"{prof_by_id[p]['name']}：与 {k} 家企业合写 {v} 篇；最常合作：{', '.join(comp[c]['name'] for c, _ in prof_comp[p].most_common(3))}") for p, v, k in pc_rows], "教授企业合作", lw=330, unit=" 篇", bh=15, gap=4), wide=True))
 
     # ---------------- tables
-    def company_table():
+    def company_table(ALL):
         rows = []
-        for c in sorted(C, key=lambda c: (CORDER.index(c["category"]), -(c["f"] or 0), c["name"])):
+        for c in sorted(ALL, key=lambda c: (CORDER.index(c["category"]), -(c["f"] or 0), c["name"])):
             pm = "；".join(sorted({f"{p['name']}（{p['institution']}）" for p in c["prof_matches"]}))
             rows.append(f'<tr data-cat="{c["category"]}" data-tier="{c["tier"]}" data-country="{c["country"]}">'
                         f'<td><b>{esc(c["name"])}</b><div class="muted" style="font-size:12px;white-space:normal;max-width:300px">{esc(c["subfields"].replace(";", " · "))}</div></td>'
                         f'<td><span class="dot" style="background:{CATS[c["category"]][1]}"></span> {esc(CATS[c["category"]][0])}</td><td>{esc(c["tier"])}</td>'
-                        f'<td class="n">{esc(c["founded"])}</td><td>{esc(c["city"])}, {esc(c["region"])}</td><td>{esc(c["status"])}{(" · " + esc(c["ticker"])) if c["ticker"] else ""}</td>'
+                        f'<td class="n">{esc(c["founded"])}</td><td>{esc(c.get("city_zh") or c["city"])}{(", " + esc(c["region"])) if c["region"] else ""}</td><td>{esc(c["status"])}{(" · " + esc(c["ticker"])) if c["ticker"] else ""}</td>'
                         f'<td class="n" data-v="{c["emp"] or 0}">{("~" + format(int(c["emp"]), ",")) if c["emp"] else "—"}</td>'
                         f'<td class="n" data-v="{c["f"] or 0}">{fmt_usd(c["f"]) if c["f"] else "—"}{(" <span class=conf>" + c["funding_conf"] + "</span>") if c["f"] else ""}</td>'
                         f'<td style="white-space:normal;min-width:180px">{esc(c["last_round"])}</td>'
@@ -627,11 +650,11 @@ def main():
                         f'<td style="white-space:normal;min-width:200px">{esc("、".join(c["founders"]))}{("<div class=muted style=font-size:12px>" + esc("、".join(c["univs"])) + "</div>") if c["univs"] else ""}</td>'
                         f'<td style="white-space:normal;min-width:160px">{esc(pm) if pm else "—"}</td>'
                         f'<td style="white-space:normal;min-width:180px" class="muted">{esc(c["note"])}</td></tr>')
-        head = ["公司 / 细分方向", "赛道", "规模", "成立", "总部", "状态", "员工", "累计融资", "最近融资/交易", "估值/交易价", "最新年收入", "学术创始人 / 关联大学", "在北美量化地图中的教授", "备注"]
+        head = ["公司 / 细分方向", "赛道", "规模", "成立", "总部", "状态", "员工", "累计融资", "最近融资/交易", "估值/交易价", "最新年收入", "学术创始人 / 关联大学", T("在本站量化地图中的教授", "Professors on this site's QC maps"), "备注"]
         return ('<div class="filters"><input id="q" type="search" placeholder="搜索公司、方向、创始人…" aria-label="搜索公司">'
                 '<select id="fcat" aria-label="赛道"><option value="">全部赛道</option>' + "".join(f'<option value="{k}">{CATS[k][0]}</option>' for k in CORDER) + '</select>'
                 '<select id="ftier" aria-label="规模"><option value="">全部规模</option>' + "".join(f"<option>{t}</option>" for t in TIERS) + '</select>'
-                '<select id="fcountry" aria-label="国家"><option value="">美国 + 加拿大</option><option value="US">美国</option><option value="CA">加拿大</option></select>'
+                '<select id="fcountry" aria-label="国家"><option value="">' + T('中国 + 美国 + 加拿大', 'China + US + Canada') + '</option><option value="US">美国</option><option value="CA">加拿大</option><option value="CN">' + T('中国', 'China') + '</option></select>'
                 '<span class="muted" id="cnt"></span></div>'
                 '<div class="tbl-wrap" style="max-height:640px"><table class="data sortable" id="ctab"><thead><tr>' + "".join(f'<th class="{"n" if h in ("成立","员工","累计融资","估值/交易价","最新年收入") else ""}">{h}</th>' for h in head) +
                 "</tr></thead><tbody>" + "".join(rows) + "</tbody></table></div>"
@@ -657,6 +680,20 @@ def main():
         rows = "".join(f'<tr><td>{esc(r["name"])}</td><td>{esc(r["ticker"])}</td><td style="white-space:normal">{esc(r["what"])}</td><td><a href="{esc(r["url"])}" target="_blank" rel="noopener">{esc(r["src"])}</a></td></tr>' for r in M["capital_markets"])
         return '<div class="tbl-wrap"><table class="data"><thead><tr><th>公司</th><th>代码</th><th>资本市场要点</th><th>来源</th></tr></thead><tbody>' + rows + "</tbody></table></div>"
 
+    def sec(no_, title, lede, inner):
+        return f'<section class="block" id="s{no_}"><div class="wrap"><div class="sec-head"><div class="no">{no_}</div><div><h2>{title}</h2><p>{lede}</p></div></div>{inner}</div></section>'
+    charts = lambda L: '<div class="charts">' + "".join(L) + "</div>"
+    def part(cls, tag, title, lede):
+        return f'<div class="part {cls}"><div class="wrap"><span class="tag">{tag}</span><h2>{title}</h2><p>{lede}</p></div></div>'
+
+    # ---------------- China half + comparison
+    import build_cn
+    ctx = dict(F_=F_, charts=charts, sec=sec, mapfig=mapfig)
+    na_stats = dict(n=n, n_comp=n_comp, n_cw=n_cw, fund_total=fund_total, fund_AB=fund_AB, by_cat=by_cat, fund_cat=fund_cat, fund_cat_c=fund_cat_c,
+                    with_founders=len(with_founders), young=len(young), yr_sector=yr_sector, sec_papers=sec_papers)
+    CN = build_cn.build(ctx); cp = CN["parts"]; cs = CN["stats"]
+    vs_figs, vs_tbl = build_cn.compare(ctx, na_stats, cs)
+
     # ---------------- findings
     q25 = M["quantum_startup_investment"]["data"]
     findings = [
@@ -667,42 +704,74 @@ def main():
         (f"6.3×", f"2025 年全球量子初创投资 {q25['2025']} 十亿美元，是 2024 年的 6.3 倍（McKinsey）。"),
         (f"{len(with_founders)} 家", f"有可考的学术创始人；其中 {len(matched)} 家的创始人出现在本站的北美量化教授名单中。"),
     ]
+    cn_find = [(T(f"{cs['n']} 家", f"{cs['n']}"), T(f"精选收录的中国量子/计算化学企业，另有 {cs['n_comp']} 家中国企业出现在 OpenAlex 论文语料中。", f"Chinese quantum/computational chemistry companies selected, plus {cs['n_comp']} Chinese companies in the OpenAlex paper corpus.")),
+               (fmt_usd(cs["fund_total"]), T(f"中国公司已知累计融资（人民币按 7.2 折算），其中 {cs['fund_AB']/cs['fund_total']*100:.0f}% 有公开报道。", f"known cumulative funding of Chinese companies (RMB at 7.2); {cs['fund_AB']/cs['fund_total']*100:.0f}% is publicly reported.")),
+               (f"{cs['sec_papers']['ENERGY'] * 100 // max(1, sum(cs['sec_papers'].values()))}%", T("的中国企业论文来自能源、电网与核电企业，北美是科技巨头与专业软件商领跑。", "of Chinese corporate papers come from energy, grid and nuclear companies; in North America tech giants and specialist software vendors lead.")),
+               (T(f"{cs['by_cat']['QC']} 家", f"{cs['by_cat']['QC']}"), T("中国量子计算相关企业：合肥（本源、国盾、国仪）与北京、深圳、上海四地并进，2026 年迎来上市潮。", "Chinese quantum computing companies: Hefei (Origin, QuantumCTek, CIQTEK), Beijing, Shenzhen and Shanghai advance together, with a wave of listings in 2026."))]
 
     # ---------------- assemble
-    def sec(no_, title, lede, inner):
-        return f'<section class="block" id="s{no_}"><div class="wrap"><div class="sec-head"><div class="no">{no_}</div><div><h2>{title}</h2><p>{lede}</p></div></div>{inner}</div></section>'
-
-    charts = lambda L: '<div class="charts">' + "".join(L) + "</div>"
+    CM = CN["M"]
+    for k in ("summary_html", "outlook_html", "method_html", "compare_html"): T_html(CM[k], CM[k + "_en"]) if CM.get(k + "_en") else None
+    H3 = lambda t: f"<h3 style='margin:28px 0 10px'>{t}</h3>"
+    toc = [("00", "核心发现"), ("01", T("北美", "North America")), ("08", T("中国", "China")), ("15", T("中美对比", "China vs North America")), ("16", "企业名录"), ("17", "方法与来源")]
     body = []
-    body.append(f'''<header class="hero"><div class="wrap"><div class="eyebrow">07 · 北美企业 · Industry Report</div>
-<h1>北美量子化学与计算化学产业报告</h1>
-<p class="lede">从 1987 年的 Gaussian 到 2025 年 3 亿美元种子轮的 Periodic Labs，北美是全球计算化学商业化的中心。本报告盘点美国与加拿大的软件商、量子计算公司、AI 药物与材料发现公司、以及大型药企和化工企业的计算化学部门，量化它们的地理分布、资本投入、收入、产学关系与未来走向。</p>
-<div class="hero-figs"><div><b>{n}</b><span>精选企业</span></div><div><b>{n_comp}</b><span>论文语料中的企业</span></div><div><b>{fmt_usd(fund_total)}</b><span>已知私营融资</span></div><div><b>{n_cw:,}</b><span>企业参与论文</span></div><div><b>{len(with_founders)}</b><span>学术衍生企业</span></div><div><b>{by_cat["QC"]}</b><span>量子计算公司</span></div></div>
-<nav class="toc">{"".join(f'<a href="#s{a}">{a} {b}</a>' for a, b in [("01","产业版图"),("02","地理集群"),("03","资本投入"),("04","收入"),("05","趋势与预测"),("06","论文足迹"),("07","产学关系"),("08","企业名录"),("09","方法与来源")])}</nav>
+    body.append(f'''<header class="hero"><div class="wrap"><div class="eyebrow">{T("07 · 中美企业 · Industry Report", "07 · Companies · Industry Report")}</div>
+<h1>{T("中美量子化学与计算化学产业报告", "Quantum and Computational Chemistry Industry Report: China and North America")}</h1>
+<p class="lede">{T("从 1987 年的 Gaussian 到 2026 年合肥、北京、深圳的量子上市潮，计算化学的商业化有两个中心。本报告用同一套口径盘点北美（美国与加拿大）和中国的软件商、量子计算公司、AI 药物与材料发现公司，以及药企、化工、能源和科技巨头的计算化学部门，量化它们的地理分布、资本投入、收入、产学关系与未来走向，并做中美对比。", "From Gaussian in 1987 to the 2026 wave of quantum listings in Hefei, Beijing and Shenzhen, computational chemistry has two commercial centres. With one consistent method this report surveys North America (US and Canada) and China: software vendors, quantum computing companies, AI drug and materials discovery companies, and the computational chemistry groups of pharma, chemical, energy and tech companies. It measures their geography, capital, revenue, ties to academia and outlook, and compares the two.")}</p>
+<div class="hero-figs"><div><b>{n} + {cs["n"]}</b><span>{T("精选企业（北美 + 中国）", "Selected companies (NA + China)")}</span></div><div><b>{n_comp} + {cs["n_comp"]}</b><span>{T("论文语料中的企业", "Companies in the paper corpus")}</span></div><div><b>{fmt_usd(fund_total)}</b><span>{T("北美已知私营融资", "Known private funding, North America")}</span></div><div><b>{fmt_usd(cs["fund_total"])}</b><span>{T("中国已知融资", "Known funding, China")}</span></div><div><b>{n_cw:,} / {cs["n_cw"]:,}</b><span>{T("企业参与论文（北美 / 中国）", "Papers with company authors (NA / China)")}</span></div><div><b>{no[0]}</b><span>{T("张统计图", "charts")}</span></div></div>
+<nav class="toc">{"".join(f'<a href="#s{a}">{a} {b}</a>' for a, b in toc)}</nav>
 </div></header>''')
-    body.append(sec("00", "核心发现", "六个数字概括北美产业现状。", '<div class="findings">' + "".join(f'<div class="finding"><b>{a}</b>{b}</div>' for a, b in findings) + "</div>" +
-                    '<div class="prose">' + M["summary_html"] + "</div>"))
+    fnd = lambda L: '<div class="findings">' + "".join(f'<div class="finding"><b>{a}</b>{b}</div>' for a, b in L) + "</div>"
+    body.append(sec("00", "核心发现", T("北美六个数字、中国四个数字，概括两地产业现状。", "Six numbers for North America and four for China sum up the two industries."),
+                    H3(T("北美", "North America")) + fnd(findings) + H3(T("中国", "China")) + fnd(cn_find) +
+                    '<div class="prose">' + M["summary_html"] + CM["summary_html"] + "</div>"))
+    body.append(part("na", "PART 1", T("北美", "North America"), T("美国与加拿大：113 家精选企业，第 01–07 节。", "United States and Canada: 113 selected companies, sections 01–07.")))
     body.append(sec("01", "产业版图：八大赛道", "按主营业务把企业归入八条赛道。大型企业以药企、化工和科技巨头的内部计算化学团队为主；初创企业集中在量子计算与 AI 驱动的分子发现。", charts(s1)))
     body.append(sec("02", "地理集群", "企业总部的真实分布。北美的计算化学产业高度集中在少数几个大学密集的都会区。", charts(s2)))
-    body.append(sec("03", "资本投入：过去与现在", "股权融资、并购与上市。资本正以前所未有的规模涌入量子硬件和「AI 科学家」类公司。", charts(s3) + "<h3 style='margin:28px 0 10px'>重大交易明细</h3>" + mna_table() +
-                    "<h3 style='margin:28px 0 10px'>上市公司资本市场动态</h3>" + capmkt_table()))
+    body.append(sec("03", "资本投入：过去与现在", "股权融资、并购与上市。资本正以前所未有的规模涌入量子硬件和「AI 科学家」类公司。", charts(s3) + H3("重大交易明细") + mna_table() + H3("上市公司资本市场动态") + capmkt_table()))
     body.append(sec("04", "收入：谁在赚钱", "多数初创仍未盈利。真正形成规模收入的，是卖软件许可的老牌公司和卖算力/合同的量子硬件上市公司。", charts(s4)))
-    body.append(sec("05", "趋势与预测", "第三方预测（带来源）与本报告情景分析（带假设）严格分开标注。", charts(s5) + "<h3 style='margin:28px 0 10px'>预测数据一览</h3>" + forecast_table() +
-                    '<div class="prose">' + M["outlook_html"] + "</div>"))
+    body.append(sec("05", "趋势与预测", "第三方预测（带来源）与本报告情景分析（带假设）严格分开标注。", charts(s5) + H3("预测数据一览") + forecast_table() + '<div class="prose">' + M["outlook_html"] + "</div>"))
     body.append(sec("06", "论文足迹：企业在做什么研究", f"用与「北美量化地图」相同的 OpenAlex 语料口径，找出所有有北美企业作者的量子/计算化学论文（{n_cw:,} 篇，2000–2026），这是比精选名录更完整的「长尾」。", charts(s6) +
-                    "<h3 style='margin:28px 0 10px'>全部 " + str(n_comp) + " 家企业</h3>" + corpus_table() +
+                    H3("全部 " + str(n_comp) + " 家企业") + corpus_table() +
                     '<p class="note">行业为按机构名的规则自动分类，「其他」中仍有不少小型咨询公司与专业企业。OpenAlex 将少数国家实验室运营方也标为 company（已剔除 Canadian Light Source）。</p>'))
     body.append(sec("07", "产学关系", "企业与大学的连接有两种：教授创办公司，以及教授与企业研究员合写论文。后者直接链接到本站「北美量化地图」中的教授。", charts(s7)))
-    body.append(sec("08", "企业名录", f"全部 {n} 家精选企业的详细数据，可搜索、筛选、排序。原始数据见仓库 <code>na-companies/data/</code>。", company_table()))
-    body.append(sec("09", "方法与来源", "数据如何来、哪里可能不准。", '<div class="prose">' + M["method_html"].replace("%%NCW%%", f"{n_cw:,}") + "<h3>主要来源</h3><ol class='src'>" +
-                    "".join(f'<li><a href="{esc(s["url"])}" target="_blank" rel="noopener">{esc(s["name"])}</a></li>' for s in M["sources"]) + "</ol></div>"))
-
+    body.append(part("cn", "PART 2", T("中国", "China"), T(f"中国内地与香港：{cs['n']} 家精选企业，第 08–14 节。结构、赛道定义和可信度标记与北美部分完全一致。", f"Mainland China and Hong Kong: {cs['n']} selected companies, sections 08–14. Structure, segment definitions and reliability grades match the North American part.")))
+    body.append(sec("08", T("中国产业版图", "China's industry landscape"), T("中国的大公司以国企、CRO 与科技巨头为主；创业公司集中在 AI 药物/材料发现和量子计算，几乎都成立于 2015 年后。", "China's large companies are mostly state-owned enterprises, CROs and tech giants; start-ups cluster in AI drug/materials discovery and quantum computing, almost all founded after 2015."), charts(cp["s1"])))
+    body.append(sec("09", T("中国地理集群", "China's geographic clusters"), T("北京、上海—杭州、合肥、深圳—香港四极。合肥凭中国科大成为量子产业中心。", "Four poles: Beijing, Shanghai–Hangzhou, Hefei and Shenzhen–Hong Kong. Hefei, home to USTC, is the centre of the quantum industry."), charts(cp["s2"])))
+    body.append(sec("10", T("中国资本投入", "Capital in China"), T("国家资本与市场化资本并行：国家创业投资引导基金、国资产业基金与高瓴、红杉等共同出手，2026 年量子赛道融资创历史新高。", "State and market capital run side by side: the national venture guidance fund, state industrial funds and firms such as Hillhouse and HongShan all invest, and quantum funding hit a record in 2026."), charts(cp["s3"]) + H3(T("中国重大交易明细", "Major deals in China")) + cp["deal_tbl"]))
+    body.append(sec("11", T("中国收入", "Revenue in China"), T("规模收入集中在 CRO 与上市量子/仪器公司；纯 AI 发现公司的收入仍依赖少数大额合作。", "Large revenues sit with CROs and listed quantum/instrument companies; pure AI discovery companies still depend on a few large partnerships."), charts(cp["s4"])))
+    body.append(sec("12", T("中国趋势与预测", "Trends and forecasts for China"), "第三方预测（带来源）与本报告情景分析（带假设）严格分开标注。", charts(cp["s5"]) + H3("预测数据一览") + cp["fc_tbl"] + '<div class="prose">' + CM["outlook_html"] + "</div>"))
+    body.append(sec("13", T("中国论文足迹", "China's paper footprint"), T(f"同一 OpenAlex 语料口径，限定中国内地、香港、澳门企业作者（{cs['n_cw']:,} 篇，2000–2026）。", f"Same OpenAlex corpus definition, limited to company authors in mainland China, Hong Kong and Macao ({cs['n_cw']:,} papers, 2000–2026)."), charts(cp["s6"]) + H3(T(f"全部 {cs['n_comp']} 家中国企业", f"All {cs['n_comp']} Chinese companies")) + cp["corp_tbl"]))
+    body.append(sec("14", T("中国产学关系", "Academia and industry in China"), T("创始人来自哪些大学，以及哪些「中国量化地图」上的教授与企业合写最多。", "Which universities founders come from, and which professors on the China QC map write most with companies."), charts(cp["s7"])))
+    body.append(part("vs", "PART 3", T("中美对比", "China vs North America"), T("同一口径下的结构差异。", "Structural differences under the same definitions.")))
+    body.append(sec("15", T("中美对比", "China vs North America"), T("北美是「专业软件 + 风险资本」驱动，中国是「国企研发 + 国家资本 + 新一代创业公司」驱动。", "North America is driven by specialist software plus venture capital; China by state-owned R&D, state capital and a new generation of start-ups."), charts(vs_figs) + H3(T("关键指标对照", "Key indicators side by side")) + vs_tbl + '<div class="prose">' + CM["compare_html"] + "</div>"))
+    body.append(sec("16", "企业名录", T(f"全部 {n + cs['n']} 家精选企业（北美 {n}、中国 {cs['n']}），可搜索、按国家/赛道/规模筛选、排序。原始数据见仓库", f"All {n + cs['n']} selected companies ({n} North American, {cs['n']} Chinese); search, filter by country, segment or size, and sort. Raw data in the repository") + " <code>na-companies/data/</code>。", company_table(C + CN["C"])))
+    body.append(sec("17", "方法与来源", "数据如何来、哪里可能不准。", '<div class="prose">' + M["method_html"].replace("%%NCW%%", f"{n_cw:,}") + CM["method_html"] + "<h3>主要来源</h3><ol class='src'>" +
+                    "".join(f'<li><a href="{esc(s["url"])}" target="_blank" rel="noopener">{esc(s["name"])}</a></li>' for s in M["sources"] + CM["sources"]) + "</ol></div>"))
+    for s_ in CM["sources"]: T(s_["name"], s_.get("name_en", s_["name"]))
     page = TEMPLATE.replace("%%BODY%%", "\n".join(body))
     os.makedirs(P("site"), exist_ok=True)
     open(P("site", "index.html"), "w", encoding="utf-8").write(page)
-    stats = {"companies": n, "corpus_companies": n_comp, "company_works": n_cw, "funding_total_musd": round(fund_total), "funding_sourced_share": round(fund_AB / fund_total, 3),
+    stats = {"cn_companies": cs["n"], "cn_corpus_companies": cs["n_comp"], "cn_company_works": cs["n_cw"], "cn_funding_total_musd": round(cs["fund_total"]), "companies": n, "corpus_companies": n_comp, "company_works": n_cw, "funding_total_musd": round(fund_total), "funding_sourced_share": round(fund_AB / fund_total, 3),
              "by_category": by_cat, "by_tier": by_tier, "by_country": by_country, "academic_spinouts": len(with_founders), "founder_prof_matches": len(matched), "charts": no[0]}
     json.dump(stats, open(P("data", "processed", "summary.json"), "w"), ensure_ascii=False, indent=1)
+    # strings assembled from several pieces or written as plain zh in shared helpers
+    for _zh, _en in {
+        "中美量化企业报告": "China–North America quantitative chemistry industry report",
+        "00 核心发现": "00 Key findings", "01 北美": "01 North America", "08 中国": "08 China", "15 中美对比": "15 China vs North America",
+        "16 企业名录": "16 Company directory", "17 方法与来源": "17 Methods and sources",
+        "长三角其他": "Other Yangtze Delta",
+        "并购、IPO、超大额融资与授权交易（金额，百万美元）": "M&A, IPOs, mega-rounds and licensing deals (amount, US$ millions)",
+        "投资界": "PEdaily", "东方财富": "Eastmoney", "投中网": "ChinaVenture", "36氪": "36Kr", "中国金融信息网": "CNFIN", "新华网": "Xinhua", "国家发改委": "NDRC", "同花顺": "10jqka",
+        "最新完整财年（百万美元）": "Latest full fiscal year (US$ millions)", "历年收入（百万美元）": "Revenue by year (US$ millions)",
+        "2026 1–9月": "2026 Jan–Sep", "合写的量子/计算化学论文数": "Co-authored quantum/computational chemistry papers",
+        "中国企业论文在 2024 年首次超过北美。2026 年为不完整年份，未画出。": "Chinese corporate papers first overtook North America's in 2024. 2026 is a partial year and is not plotted.",
+        "数据截至 2026 年 11 月。公司资料为人工整理并标注可信度，论文数据来自 OpenAlex（CC0）。人民币按 1 美元 = 7.2 元折算。预测部分区分第三方预测与本报告情景假设，不构成投资建议。":
+            "Data as of November 2026. Company profiles are curated by hand and labelled for confidence; paper data come from OpenAlex (CC0). RMB is converted at 7.2 per US dollar. Forecasts separate third-party projections from this report's own scenario assumptions and are not investment advice.",
+    }.items(): T(_zh, _en)
+    import sys as _sys
+    if "build_report" in _sys.modules: I18N.update(_sys.modules["build_report"].I18N)  # build_cn imports this file as a second module
+    json.dump(dict(sorted(I18N.items())), open(P("data", "processed", "i18n_en_additions.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(json.dumps(stats, ensure_ascii=False), os.path.getsize(P("site", "index.html")))
 
 
@@ -711,7 +780,7 @@ TEMPLATE = r'''<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>北美量化企业报告</title>
+<title>中美量化企业报告</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;900&display=swap">
 <link rel="stylesheet" href="../assets/site.css">
 <script src="../assets/nav.js" data-root=".." defer></script>
@@ -730,7 +799,13 @@ body{background:var(--paper)}
 .conf{font:500 10.5px var(--mono);border:1px solid var(--line);border-radius:4px;padding:0 4px;color:var(--muted);margin-left:3px}
 table.sortable th{cursor:pointer} table.sortable th:hover{color:var(--accent)}
 table.data td{vertical-align:top}
-#mapleg .pill.off{opacity:.35}
+.mapleg .pill.off{opacity:.35}
+.part{margin:0;padding:64px 0 8px;border-top:1px solid var(--line)}
+.part .wrap{display:flex;align-items:baseline;gap:18px;flex-wrap:wrap}
+.part .tag{font:500 12px var(--mono);letter-spacing:.14em;color:var(--muted)}
+.part h2{font-size:clamp(28px,4vw,40px);font-weight:900}
+.part p{flex-basis:100%;color:var(--ink-2);margin:6px 0 0;max-width:760px}
+.part.cn h2{color:var(--cn)} .part.na h2{color:var(--us)} .part.vs h2{color:var(--accent)}
 .plot svg text{user-select:none}
 code{font-family:var(--mono);font-size:.9em}
 @media (max-width:640px){.hero-figs b{font-size:24px}.plot{overflow-x:auto;-webkit-overflow-scrolling:touch}.plot svg{min-width:560px}figure.chart.wide .plot svg{min-width:640px}}
@@ -738,18 +813,22 @@ code{font-family:var(--mono);font-size:.9em}
 </head>
 <body data-nav="bar">
 %%BODY%%
-<footer class="site"><div class="wrap">数据截至 2026 年 11 月。公司资料为人工整理并标注可信度，论文数据来自 OpenAlex（CC0）。预测部分区分第三方预测与本报告情景假设，不构成投资建议。</div></footer>
+<footer class="site"><div class="wrap">数据截至 2026 年 11 月。公司资料为人工整理并标注可信度，论文数据来自 OpenAlex（CC0）。人民币按 1 美元 = 7.2 元折算。预测部分区分第三方预测与本报告情景假设，不构成投资建议。</div></footer>
 <div class="viz-tip" id="tip" hidden></div>
 <script>
 (function(){
-  const tip=document.getElementById('tip');
-  document.addEventListener('pointerover',e=>{const t=e.target.closest('[data-tip]');if(!t)return;tip.innerHTML=t.getAttribute('data-tip').split('\n').map((l,i)=>i?'<div class="m">'+l.replace(/</g,'&lt;')+'</div>':'<b>'+l.replace(/</g,'&lt;')+'</b>').join('');tip.hidden=false;});
+  const tip=document.getElementById('tip'),EN=()=>document.documentElement.lang==='en';
+  // English tooltips: same dictionary the host uses for the page (window.CHEMHUB_I18N_EN), exact line, then number template, then segments
+  function tr(s){const D=window.CHEMHUB_I18N_EN;if(!D||!EN()||!/[\u3400-\u9fff]/.test(s))return s;if(D[s])return D[s];
+    const nums=[];const k=s.replace(/\d[\d,.]*/g,m=>{nums.push(m);return '{'+(nums.length-1)+'}';});if(D[k])return D[k].replace(/\{(\d+)\}/g,(_,i)=>nums[i]);
+    return s.split(/( · |：|，|（|）)/).map(g=>g==='：'?': ':g==='，'?', ':g==='（'?' (':g==='）'?')':(D[g]||g)).join('').replace(/ 家$/,'').replace(/ 篇$/,' papers');}
+  document.addEventListener('pointerover',e=>{const t=e.target.closest('[data-tip]');if(!t)return;tip.innerHTML=t.getAttribute('data-tip').split('\n').map(tr).map((l,i)=>i?'<div class="m">'+l.replace(/</g,'&lt;')+'</div>':'<b>'+l.replace(/</g,'&lt;')+'</b>').join('');tip.hidden=false;});
   document.addEventListener('pointermove',e=>{if(tip.hidden)return;const x=Math.min(e.clientX+14,innerWidth-tip.offsetWidth-8),y=Math.min(e.clientY+14,innerHeight-tip.offsetHeight-8);tip.style.left=x+'px';tip.style.top=y+'px';});
   document.addEventListener('pointerout',e=>{if(e.target.closest('[data-tip]'))tip.hidden=true;});
   // map legend filter
-  const on=new Set();document.querySelectorAll('#mapleg .pill').forEach(p=>p.addEventListener('click',()=>{const c=p.dataset.cat;on.has(c)?on.delete(c):on.add(c);
-    document.querySelectorAll('#mapleg .pill').forEach(q=>q.classList.toggle('off',on.size&&!on.has(q.dataset.cat)));
-    document.querySelectorAll('.mdot').forEach(d=>d.style.display=(!on.size||on.has(d.dataset.cat))?'':'none');}));
+  document.querySelectorAll('.mapfig').forEach(fg=>{const on=new Set();fg.querySelectorAll('.mapleg .pill').forEach(p=>p.addEventListener('click',()=>{const c=p.dataset.cat;on.has(c)?on.delete(c):on.add(c);
+    fg.querySelectorAll('.mapleg .pill').forEach(q=>q.classList.toggle('off',on.size&&!on.has(q.dataset.cat)));
+    fg.querySelectorAll('.mdot').forEach(d=>d.style.display=(!on.size||on.has(d.dataset.cat))?'':'none');}));});
   // sortable tables
   document.querySelectorAll('table.sortable').forEach(tb=>{tb.querySelectorAll('th').forEach((th,i)=>th.addEventListener('click',()=>{
     const body=tb.tBodies[0],rows=[...body.rows],dir=th.dataset.dir==='d'?1:-1;th.dataset.dir=dir===1?'a':'d';
@@ -758,10 +837,12 @@ code{font-family:var(--mono);font-size:.9em}
   // filters
   function filt(){const q=(document.getElementById('q').value||'').toLowerCase(),c=document.getElementById('fcat').value,t=document.getElementById('ftier').value,k=document.getElementById('fcountry').value;let n=0;
     document.querySelectorAll('#ctab tbody tr').forEach(r=>{const ok=(!q||r.textContent.toLowerCase().includes(q))&&(!c||r.dataset.cat===c)&&(!t||r.dataset.tier===t)&&(!k||r.dataset.country===k);r.style.display=ok?'':'none';n+=ok;});
-    document.getElementById('cnt').textContent=n+' 家';}
+    document.getElementById('cnt').textContent=EN()?n+' companies':n+' 家';}
   ['q','fcat','ftier','fcountry'].forEach(id=>document.getElementById(id).addEventListener('input',filt));filt();
-  function filt2(){const q=(document.getElementById('q2').value||'').toLowerCase();let n=0;document.querySelectorAll('#ptab tbody tr').forEach(r=>{const ok=!q||r.textContent.toLowerCase().includes(q);r.style.display=ok?'':'none';n+=ok;});document.getElementById('cnt2').textContent=n+' 家';}
+  function filt2(){const q=(document.getElementById('q2').value||'').toLowerCase();let n=0;document.querySelectorAll('#ptab tbody tr').forEach(r=>{const ok=!q||r.textContent.toLowerCase().includes(q);r.style.display=ok?'':'none';n+=ok;});document.getElementById('cnt2').textContent=EN()?n+' companies':n+' 家';}
   document.getElementById('q2').addEventListener('input',filt2);filt2();
+  function filt3(){const q=(document.getElementById('q3').value||'').toLowerCase();let n=0;document.querySelectorAll('#ptab3 tbody tr').forEach(r=>{const ok=!q||r.textContent.toLowerCase().includes(q);r.style.display=ok?'':'none';n+=ok;});document.getElementById('cnt3').textContent=EN()?n+' companies':n+' 家';}
+  document.getElementById('q3').addEventListener('input',filt3);filt3();
 })();
 </script>
 </body>

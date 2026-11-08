@@ -10,7 +10,7 @@
 | 04 | 北美 Top 20 学者深度档案 | [`top20/`](top20/) | 20 份档案 + 个人合作网络 |
 | 05 | 中国量子化学 / 计算化学合作地图 | [`cn-quantum-chem-map/`](cn-quantum-chem-map/) | 513 位教授 · 201 个单位 · 927 条合作线 |
 | 06 | 中美细分领域对比 | [`compare/`](compare/) | 17 张统计图 · 6 张对比表 |
-| 07 | 北美量化 / 计算化学产业报告 | [`na-companies/`](na-companies/) | 113 家企业 · 29 张统计图 |
+| 07 | 中美量化 / 计算化学产业报告 | [`na-companies/`](na-companies/) | 164 家企业（北美 113 + 中国 51）· 57 张统计图 |
 
 顶层 `index.html` 是统一入口，`assets/`（`site.css` 设计变量、`nav.js` 全站导航、`charts.js` 图表组件）被所有页面共用；数据生成脚本在 [`analysis/`](analysis/) 与各子目录的 `scripts/`。
 
