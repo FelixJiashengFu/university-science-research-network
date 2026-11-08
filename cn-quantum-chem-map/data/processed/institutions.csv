@@ -1,0 +1,202 @@
+openalex_id,name,lat,lng,city,region,country,professors
+I126520041,University of Science and Technology of China,31.86389,117.28083,Hefei,Anhui,CN,21
+I20231570,Peking University,39.9075,116.39723,Beijing,Beijing,CN,16
+I154099455,Shandong University,36.66833,116.99722,Jinan,Shandong,CN,15
+I191208505,Xiamen University,24.47979,118.08187,Xiamen,Fujian,CN,13
+I194450716,Jilin University,43.88,125.32278,Changchun,Jilin,CN,12
+I142108993,Southwest University,29.560260772705078,106.55770874023438,Chongqing,,CN,11
+I24943067,Fudan University,31.22222,121.45806,Shanghai,Shanghai,CN,10
+I113940042,Shanghai University,31.222219467163086,121.45806121826172,Shanghai,,CN,10
+I24185976,Sichuan University,30.66667,104.06667,Chengdu,Sichuan,CN,10
+I25254941,Beijing Normal University,39.9075,116.39723,Beijing,Beijing,CN,8
+I27357992,Dalian University of Technology,38.9122200012207,121.60221862792969,Dalian,,CN,7
+I75390827,Beijing University of Chemical Technology,39.9075,116.39723,Beijing,Beijing,CN,7
+I183067930,Shanghai Jiao Tong University,31.22222,121.45806,Shanghai,Shanghai,CN,7
+I36399199,Nanjing University of Science and Technology,32.06167,118.77778,Nanjing,Jiangsu,CN,7
+I173899330,Henan University,34.79859924316406,114.30741882324219,Kaifeng,,CN,6
+I111599522,Jiangnan University,31.56887,120.28857,Wuxi,Jiangsu,CN,6
+I17145004,Northwestern Polytechnical University,34.258331298828125,108.9286117553711,Xi'an,,CN,6
+I16609230,Hunan University,28.19874,112.97087,Changsha,Hunan,CN,6
+I181877577,Shanxi University,37.86944,112.56028,Taiyuan,Shanxi,CN,6
+I258800397,New York University Shanghai,31.222219467163086,121.45806121826172,Shanghai,,CN,5
+I177725633,Chinese University of Hong Kong,22.27832,114.17469,Hong Kong,,HK,5
+I116953780,Tongji University,31.222219467163086,121.45806121826172,Shanghai,,CN,5
+I92403157,University of Science and Technology Beijing,39.9075,116.39723,Beijing,Beijing,CN,5
+I180585399,Dalian Institute of Chemical Physics,38.91222,121.60222,Dalian,Liaoning,CN,5
+I143593769,East China University of Science and Technology,31.222219467163086,121.45806121826172,Shanghai,,CN,5
+I4210116048,Beijing National Laboratory for Molecular Sciences,39.907501220703125,116.39723205566406,Beijing,,CN,5
+I205237279,Nankai University,39.14222,117.17667,Tianjin,Tianjin,CN,5
+I76130692,Zhejiang University,30.29365,120.16142,Hangzhou,Zhejiang,CN,5
+I162868743,Tianjin University,39.14222,117.17667,Tianjin,Tianjin,CN,5
+I125839683,Beijing Institute of Technology,39.9075,116.39723,Beijing,Beijing,CN,5
+I139660479,Central South University,28.19874,112.97087,Changsha,Hunan,CN,4
+I28006308,Shandong Normal University,36.668331146240234,116.99722290039062,Jinan,,CN,4
+I150807315,Guangxi University,22.816669464111328,108.3166732788086,Nanning,,CN,4
+I881766915,Nanjing University,32.06167,118.77778,Nanjing,Jiangsu,CN,4
+I10660446,Kunming University of Science and Technology,25.03889,102.71833,Kunming,Yunnan,CN,4
+I204983213,Harbin Institute of Technology,45.75,126.6500015258789,Harbin,,CN,4
+I109935558,Ningbo University,29.87819,121.54945,Ningbo,Zhejiang,CN,4
+I178232147,Guizhou University,26.58333,106.71667,Guiyang,Guizhou,CN,4
+I158842170,Chongqing University,29.56026,106.55771,Chongqing,Chongqing,CN,4
+I153374732,Liaoning Normal University,38.91222,121.60222,Dalian,Liaoning,CN,4
+I146620803,Wenzhou University,27.999420166015625,120.66681671142578,Wenzhou,,CN,4
+I168719708,City University of Hong Kong,22.27832,114.17469,Hong Kong,,HK,3
+I134687103,Nanjing Tech University,32.06167,118.77778,Nanjing,Jiangsu,CN,3
+I163340411,Hohai University,32.06167,118.77778,Nanjing,Jiangsu,CN,3
+I187400657,South China Normal University,23.116670608520508,113.25,Guangzhou,,CN,3
+I141649914,Nanchang University,28.68396,115.85306,Nanchang,Jiangxi,CN,3
+I135714990,North University of China,37.86944,112.56028,Taiyuan,Shanxi,CN,3
+I202126657,Qufu Normal University,35.5966682434082,116.9911117553711,Qufu,,CN,3
+I99065089,Tsinghua University,39.9075,116.39723,Beijing,Beijing,CN,3
+I120825670,Yunnan Normal University,25.03889,102.71833,Kunming,Yunnan,CN,3
+I153473198,North China Electric Power University,39.907501220703125,116.39723205566406,Beijing,,CN,3
+I4210162190,"China University of Petroleum, East China",36.06488,120.38042,Qingdao,Shandong,CN,3
+I37802460,Northwest University,34.25833,108.92861,Xi'an,Shaanxi,CN,3
+I182707071,Ludong University,37.47649,121.44081,Yantai,Shandong,CN,3
+I87445476,Xi'an Jiaotong University,34.25833,108.92861,Xi'an,Shaanxi,CN,3
+I204553293,"China University of Petroleum, Beijing",39.9075,116.39723,Beijing,Beijing,CN,3
+I167027274,Nanjing Forestry University,32.06167,118.77778,Nanjing,Jiangsu,CN,3
+I4210155088,Institute of Chemistry,39.9075,116.39723,Beijing,Beijing,CN,2
+I134052481,Harbin Normal University,45.75,126.65,Harbin,Heilongjiang,CN,2
+I4210090176,Institute of Computing Technology,39.9075,116.39723,Beijing,Beijing,CN,2
+I47720641,Huazhong University of Science and Technology,30.58333,114.26667,Wuhan,Hubei,CN,2
+I106645853,Changchun University of Science and Technology,43.880001068115234,125.3227767944336,Changchun,,CN,2
+I150229711,University of Electronic Science and Technology of China,30.66667,104.06667,Chengdu,Sichuan,CN,2
+I2722730,Inner Mongolia University,40.81056,111.65222,Hohhot,Inner Mongolia,CN,2
+I75955062,Henan Normal University,30.49999,108.27278,Xinxiang,Chongqing,CN,2
+I4210092058,Zhengzhou Normal University,34.75778,113.64861,Zhengzhou,Henan,CN,2
+I88830068,Shaanxi Normal University,34.258331298828125,108.9286117553711,Xi'an,,CN,2
+I167383011,Henan University of Science and Technology,34.68360900878906,112.45361328125,Luoyang,,CN,2
+I94310126,Shanxi Normal University,37.86943817138672,112.5602798461914,Taiyuan,,CN,2
+I4210111959,Shanghai Advanced Research Institute,31.23995,121.50094,Pudong,Shanghai,CN,2
+I889458895,University of Hong Kong,22.26861,114.12924,Pok Fu Lam,Southern District,HK,2
+I37796252,Beijing University of Technology,39.9075,116.39723,Beijing,Beijing,CN,2
+I34949971,University of Jinan,36.668331146240234,116.99722290039062,Jinan,,CN,2
+I37461747,Wuhan University,30.58333,114.26667,Wuhan,Hubei,CN,2
+I151727225,Harbin Engineering University,45.75,126.6500015258789,Harbin,,CN,2
+I4210110718,Nanyang Normal University,32.994720458984375,112.53278350830078,Nanyang,,CN,2
+I4387152340,Institute of Fluid Physics,31.46784019470215,104.68167877197266,Mianyang,,CN,2
+I30809798,ShanghaiTech University,31.22222,121.45806,Shanghai,Shanghai,CN,2
+I38877650,Zhengzhou University,34.75778,113.64861,Zhengzhou,Henan,CN,2
+I184983240,Northeast Normal University,43.880001068115234,125.3227767944336,Changchun,,CN,2
+I4405255904,Shenzhen University of Advanced Technology,22.54554,114.0683,Shenzhen,Guangdong,CN,2
+I126924076,Chongqing Normal University,29.560260772705078,106.55770874023438,Chongqing,,CN,2
+I80947539,Fuzhou University,26.06139,119.30611,Fuzhou,Fujian,CN,2
+I4210091706,Henan Academy of Sciences,34.75777816772461,113.64861297607422,Zhengzhou,,CN,2
+I1328775524,Zhejiang Sci-Tech University,30.29365,120.16142,Hangzhou,Zhejiang,CN,2
+I157773358,Sun Yat-sen University,23.11667,113.25,Guangzhou,Guangdong,CN,2
+I32399674,Shenyang Normal University,41.79222,123.43278,Shenyang,Liaoning,CN,2
+I921716337,Northeast Petroleum University,46.58333,125.0,Daqing,Heilongjiang,CN,2
+I102208913,Shihezi University,44.3023,86.03694,Shihezi,Xinjiang,CN,2
+I189210763,Yunnan University,25.038890838623047,102.71833038330078,Kunming,,CN,2
+I25757504,China University of Mining and Technology,34.20442,117.28386,Xuzhou,Jiangsu,CN,2
+I4210099135,Wuhan Institute of Physics and Mathematics,30.58333,114.26667,Wuhan,Hubei,CN,2
+I1334729051,Xinjiang Normal University,43.800960540771484,87.60045623779297,Ürümqi,,CN,2
+I111971639,Qiqihar University,47.33922,123.96154,Qiqihar,Heilongjiang,CN,2
+I39333907,Yanshan University,39.9410400390625,119.58936309814453,Qinhuangdao,,CN,2
+I110440473,Xi'an University of Science and Technology,34.258331298828125,108.9286117553711,Xi'an,,CN,1
+I4610292,Xiangtan University,27.85,112.9,Xiangtan,Hunan,CN,1
+I4210149211,Institute of Semiconductors,39.9075,116.39723,Beijing,Beijing,CN,1
+I4210135980,Huainan Normal University,32.62638854980469,116.99694061279297,Huainan,,CN,1
+I24201400,Chengdu University of Information Technology,30.666669845581055,104.0666732788086,Chengdu,,CN,1
+I3045169105,Southern University of Science and Technology,22.54554,114.0683,Shenzhen,Guangdong,CN,1
+I4210096899,Jiangsu University of Science and Technology,32.21086,119.45508,Zhenjiang,Jiangsu,CN,1
+I47689461,Northeast Forestry University,45.75,126.6500015258789,Harbin,,CN,1
+I190242452,Guangdong Pharmaceutical University,23.116670608520508,113.25,Guangzhou,,CN,1
+I4210165038,University of Chinese Academy of Sciences,39.9075,116.39723,Beijing,Beijing,CN,1
+I4210159876,Institute of Physics,39.9075,116.39723,Beijing,Beijing,CN,1
+I159389169,Ningbo University of Technology,29.87819,121.54945,Ningbo,Zhejiang,CN,1
+I55712492,Zhejiang University of Technology,30.293649673461914,120.16142272949219,Hangzhou,,CN,1
+I76214153,Lanzhou University,36.057010650634766,103.8398666381836,Lanzhou,,CN,1
+I66867065,East China Normal University,31.222219467163086,121.45806121826172,Shanghai,,CN,1
+I135836153,Shenyang Agricultural University,41.79222106933594,123.43277740478516,Shenyang,,CN,1
+I196699116,Wuhan University of Technology,30.583330154418945,114.26667022705078,Wuhan,,CN,1
+I116265982,Qinghai University,36.62554,101.75739,Xining,Qinghai,CN,1
+I118803816,Liaoning University,41.79222106933594,123.43277740478516,Shenyang,,CN,1
+I114117164,University of Science and Technology Liaoning,41.12361145019531,122.98999786376953,Anshan,,CN,1
+I111753288,Fujian Normal University,26.06139,119.30611,Fuzhou,Fujian,CN,1
+I135237710,Zhejiang Normal University,29.106779098510742,119.64421081542969,Jinhua,,CN,1
+I121691239,Beihua University,43.84652,126.5608,Jilin,Jilin,CN,1
+I4210131919,Xi'an University of Technology,34.25833,108.92861,Xi'an,Shaanxi,CN,1
+I4510145,Jiangxi University of Science and Technology,28.81842041015625,115.43273162841797,Ganzhou,,CN,1
+I52158045,China Agricultural University,39.9075,116.39723,Beijing,Beijing,CN,1
+I55022517,Heilongjiang University,45.75,126.6500015258789,Harbin,,CN,1
+I49835588,Macao Polytechnic University,22.20056,113.54611,Macao,Macau,MO,1
+I4396570619,Great Bay University,23.017969131469727,113.7486572265625,Dongguan,,CN,1
+I1285929390,Hubei University of Medicine,32.6475,110.77806,Shiyan,Hubei,CN,1
+I139759216,Beijing University of Posts and Telecommunications,39.9075,116.39723,Beijing,Beijing,CN,1
+I192327786,Heilongjiang University of Chinese Medicine,45.75,126.6500015258789,Harbin,,CN,1
+I117532281,Guangzhou University of Chinese Medicine,23.11667,113.25,Guangzhou,Guangdong,CN,1
+I198645480,North China University of Water Resources and Electric Power,34.75778,113.64861,Zhengzhou,Henan,CN,1
+I96908189,Xinjiang University,43.800960540771484,87.60045623779297,Ürümqi,,CN,1
+I68986083,Northwest Normal University,36.057010650634766,103.8398666381836,Lanzhou,,CN,1
+I94611258,Hebei Normal University,38.04139,114.47861,Shijiazhuang,Hebei,CN,1
+I204823248,Huazhong Agricultural University,30.583330154418945,114.26667022705078,Wuhan,,CN,1
+I4210134251,Anhui Institute of Optics and Fine Mechanics,31.86389,117.28083,Hefei,Anhui,CN,1
+I161350542,China Three Gorges University,30.71444,111.28472,Yichang,Hubei,CN,1
+I129708740,Fujian Medical University,26.061389923095703,119.30610656738281,Fuzhou,,CN,1
+I55654194,Inner Mongolia University of Technology,40.8105583190918,111.6522216796875,Hohhot,,CN,1
+I131434179,Nanjing University of Chinese Medicine,32.06167,118.77778,Nanjing,Jiangsu,CN,1
+I184843921,Hebei University of Technology,39.14221954345703,117.17666625976562,Tianjin,,CN,1
+I4391768004,National Laboratory of Solid State Microstructures,32.061668395996094,118.77777862548828,Nanjing,,CN,1
+I151075929,Army Medical University,29.56026,106.55771,Chongqing,Chongqing,CN,1
+I4210108244,Yantai Institute of Coastal Zone Research,37.47649,121.44081,Yantai,Shandong,CN,1
+I18452120,Yantai University,37.47649002075195,121.44081115722656,Yantai,,CN,1
+I184681353,Anhui University of Science and Technology,32.62638854980469,116.99694061279297,Huainan,,CN,1
+I143868143,Anhui University,31.86389,117.28083,Hefei,Anhui,CN,1
+I31590910,Jianghan University,30.58333,114.26667,Wuhan,Hubei,CN,1
+I63354593,Sichuan Normal University,30.666669845581055,104.0666732788086,Chengdu,,CN,1
+I119045251,Huaqiao University,24.47978973388672,118.08187103271484,Xiamen,,CN,1
+I145897649,Minzu University of China,39.907501220703125,116.39723205566406,Beijing,,CN,1
+I1793135,Yanbian University,42.888248443603516,129.50241088867188,Yanji,,CN,1
+I152269853,Qilu University of Technology,36.668331146240234,116.99722290039062,Jinan,,CN,1
+I2799293361,Baoji University of Arts and Sciences,34.25833,108.92861,Xi'an,Shaanxi,CN,1
+I4472751,Anhui Normal University,31.352590560913086,118.4294662475586,Wuhu,,CN,1
+I31595395,Chengdu University of Technology,30.666669845581055,104.0666732788086,Chengdu,,CN,1
+I21642278,Ningxia University,38.46806,106.27306,Yinchuan,Ningxia,CN,1
+I15823474,Linyi University,35.06306076049805,118.34278106689453,Linyi,,CN,1
+I1297991670,Southwest University of Science and Technology,31.46784019470215,104.68167877197266,Mianyang,,CN,1
+I193114190,Chifeng University,42.242061614990234,118.91887664794922,Chifeng,,CN,1
+I64449678,Putian University,25.43943977355957,119.0102767944336,Putian,,CN,1
+I22716506,Lanzhou University of Technology,36.05701,103.83987,Lanzhou,Gansu,CN,1
+I1284762954,Zhejiang A & F University,30.23333,119.71667,Lin’an Shi,Zhejiang,CN,1
+I4210165547,Dezhou University,37.44661,116.36706,Dezhou,Shandong,CN,1
+I101479585,South China Agricultural University,23.11667,113.25,Guangzhou,Guangdong,CN,1
+I18925743,Shanghai University of Sport,31.222219467163086,121.45806121826172,Shanghai,,CN,1
+I196934937,Liaocheng University,36.45064,116.00247,Liaocheng,Shandong,CN,1
+I108688024,Qingdao University,36.06488037109375,120.38041687011719,Qingdao,,CN,1
+I38706770,Guilin University of Technology,25.28022,110.29639,Guilin,Guangxi,CN,1
+I4210133436,Beijing Institute of Nanoenergy and Nanosystems,39.99115753173828,116.33942413330078,Beijing,,CN,1
+I31637741,Inner Mongolia University of Science and Technology,40.6516,109.84389,Baotou,Inner Mongolia,CN,1
+I41317344,Jiangxi Science and Technology Normal University,28.68396,115.85306,Nanchang,Jiangxi,CN,1
+I4210087731,Guizhou Education University,26.583330154418945,106.71666717529297,Guiyang,,CN,1
+I169572211,Northeast Agricultural University,45.75,126.65,Harbin,Heilongjiang,CN,1
+I32574673,Shantou University,23.354890823364258,116.67875671386719,Shantou,,CN,1
+I166846921,Liaoning Shihua University,41.88669,123.94363,Fushun,Liaoning,CN,1
+I4210119098,Fujian Institute of Research on the Structure of Matter,26.06139,119.30611,Fuzhou,Fujian,CN,1
+I179060312,Northeast Electric Power University,43.84652,126.5608,Jilin,Jilin,CN,1
+I4210125143,Chengdu University,30.666669845581055,104.0666732788086,Chengdu,,CN,1
+I143413998,Qingdao University of Science and Technology,36.06488037109375,120.38041687011719,Qingdao,,CN,1
+I4210127530,Jining University,35.5966682434082,116.9911117553711,Qufu,,CN,1
+I100286613,Hunan Institute of Science and Technology,29.37455,113.09481,Yueyang,Hunan,CN,1
+I119203015,Shandong University of Technology,36.79056,118.06333,Zibo,Shandong,CN,1
+I27781120,Wenzhou Medical University,27.99942,120.66682,Wenzhou,Zhejiang,CN,1
+I154893126,Guizhou Normal University,26.583330154418945,106.71666717529297,Guiyang,,CN,1
+I10535382,Chongqing University of Posts and Telecommunications,29.56026,106.55771,Chongqing,Chongqing,CN,1
+I148128674,University of Shanghai for Science and Technology,31.22222,121.45806,Shanghai,Shanghai,CN,1
+I76569877,Southeast University,32.06167,118.77778,Nanjing,Jiangsu,CN,1
+I4210136047,Weifang University of Science and Technology,36.709999084472656,119.10193634033203,Weifang,,CN,1
+I3133055985,Westlake University,30.293649673461914,120.16142272949219,Hangzhou,,CN,1
+I4405263052,Tsinghua Shenzhen International Graduate School,22.54554,114.0683,Shenzhen,Guangdong,CN,1
+I59028903,Ocean University of China,36.06488037109375,120.38041687011719,Qingdao,,CN,1
+I4210154862,Institute of Deep-Sea Science and Engineering,18.2639217376709,109.51715850830078,Sanya,,CN,1
+I21193070,Beijing Jiaotong University,39.9075,116.39723,Beijing,Beijing,CN,1
+I141568987,Hong Kong Baptist University,22.27832,114.17469,Hong Kong,,HK,1
+I74837319,Jiangxi Agricultural University,28.68396,115.85306,Nanchang,Jiangxi,CN,1
+I4210133325,Institute of Process Engineering,39.9075,116.39723,Beijing,Beijing,CN,1
+I4210096139,China Institute of Atomic Energy,39.907501220703125,116.39723205566406,Beijing,,CN,1
+I9842412,Nanjing University of Aeronautics and Astronautics,32.061668395996094,118.77777862548828,Nanjing,,CN,1
+I75900474,Hubei University,30.58333,114.26667,Wuhan,Hubei,CN,1
+I4210085980,Beijing Institute of Aeronautical Materials,39.9075,116.39723,Beijing,Beijing,CN,1
+I157507598,Shenyang University of Technology,41.79222106933594,123.43277740478516,Shenyang,,CN,1
+I59649739,Jiangxi University of Finance and Economics,28.68396,115.85306,Nanchang,Jiangxi,CN,1

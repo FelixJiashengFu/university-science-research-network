@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .env
+na-quantum-chem-map/data/raw/
+cn-quantum-chem-map/data/raw/
+_site
