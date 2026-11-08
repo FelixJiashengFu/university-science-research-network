@@ -1,0 +1,56 @@
+name: Monthly data refresh
+# Re-downloads the OpenAlex data and rebuilds the pages, one part a day so each run stays well inside OpenAlex's
+# free $1/day budget (which resets at 00:00 UTC):
+#   1st of the month  maps       (both maps, both Top 20, China-US comparison, UofT, Stanford)
+#   2nd               schools-1  3rd  schools-2  4th  schools-3
+# 05:00 UTC = 0:00 Toronto in winter (1:00 in summer). MolAstria copies the result on the 5th (its atlas-sync.yml).
+# Needs the repository secret OPENALEX_API_KEY. See refresh/README.md.
+on:
+  schedule:
+    - cron: "0 5 1-4 * *"
+  workflow_dispatch:
+    inputs:
+      part:
+        description: "maps, schools-1, schools-2 or schools-3"
+        required: true
+        default: maps
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install networkx numpy scipy
+      - name: Pick the part
+        id: part
+        run: |
+          if [ -n "${{ inputs.part }}" ]; then p="${{ inputs.part }}"
+          else case "$(date -u +%d)" in 01) p=maps;; 02) p=schools-1;; 03) p=schools-2;; *) p=schools-3;; esac; fi
+          echo "part=$p" >> "$GITHUB_OUTPUT"; echo "refreshing $p"
+      - name: Refresh
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          PYTHONHASHSEED: "0"   # same row order as last month where nothing changed, so the commit shows real changes
+        run: python3 refresh/refresh.py "${{ steps.part.outputs.part }}"
+      - name: Check the site still builds
+        run: ./build_site.sh
+      - name: Commit and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add -A -- ':!_site'
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -q -m "Monthly data refresh: ${{ steps.part.outputs.part }} ($(date -u +%Y-%m-%d))"
+          git pull -q --rebase origin main && git push -q origin HEAD:main
+          # a push made with this token does not start other workflows, so start the Pages deploy explicitly
+          gh workflow run pages.yml --ref main
