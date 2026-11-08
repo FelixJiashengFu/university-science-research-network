@@ -1,11 +1,11 @@
 openalex_id,name,lat,lng,city,region,country,professors
-I126520041,University of Science and Technology of China,31.86389,117.28083,Hefei,Anhui,CN,21
+I126520041,University of Science and Technology of China,31.86389,117.28083,Hefei,Anhui,CN,23
 I20231570,Peking University,39.9075,116.39723,Beijing,Beijing,CN,16
 I154099455,Shandong University,36.66833,116.99722,Jinan,Shandong,CN,15
-I191208505,Xiamen University,24.47979,118.08187,Xiamen,Fujian,CN,13
+I191208505,Xiamen University,24.47979,118.08187,Xiamen,Fujian,CN,12
 I194450716,Jilin University,43.88,125.32278,Changchun,Jilin,CN,12
+I24943067,Fudan University,31.22222,121.45806,Shanghai,Shanghai,CN,11
 I142108993,Southwest University,29.560260772705078,106.55770874023438,Chongqing,,CN,11
-I24943067,Fudan University,31.22222,121.45806,Shanghai,Shanghai,CN,10
 I113940042,Shanghai University,31.222219467163086,121.45806121826172,Shanghai,,CN,10
 I24185976,Sichuan University,30.66667,104.06667,Chengdu,Sichuan,CN,10
 I25254941,Beijing Normal University,39.9075,116.39723,Beijing,Beijing,CN,8
@@ -14,13 +14,11 @@ I75390827,Beijing University of Chemical Technology,39.9075,116.39723,Beijing,Be
 I183067930,Shanghai Jiao Tong University,31.22222,121.45806,Shanghai,Shanghai,CN,7
 I36399199,Nanjing University of Science and Technology,32.06167,118.77778,Nanjing,Jiangsu,CN,7
 I173899330,Henan University,34.79859924316406,114.30741882324219,Kaifeng,,CN,6
-I111599522,Jiangnan University,31.56887,120.28857,Wuxi,Jiangsu,CN,6
 I17145004,Northwestern Polytechnical University,34.258331298828125,108.9286117553711,Xi'an,,CN,6
 I16609230,Hunan University,28.19874,112.97087,Changsha,Hunan,CN,6
 I181877577,Shanxi University,37.86944,112.56028,Taiyuan,Shanxi,CN,6
 I258800397,New York University Shanghai,31.222219467163086,121.45806121826172,Shanghai,,CN,5
 I177725633,Chinese University of Hong Kong,22.27832,114.17469,Hong Kong,,HK,5
-I116953780,Tongji University,31.222219467163086,121.45806121826172,Shanghai,,CN,5
 I92403157,University of Science and Technology Beijing,39.9075,116.39723,Beijing,Beijing,CN,5
 I180585399,Dalian Institute of Chemical Physics,38.91222,121.60222,Dalian,Liaoning,CN,5
 I143593769,East China University of Science and Technology,31.222219467163086,121.45806121826172,Shanghai,,CN,5
@@ -29,7 +27,9 @@ I205237279,Nankai University,39.14222,117.17667,Tianjin,Tianjin,CN,5
 I76130692,Zhejiang University,30.29365,120.16142,Hangzhou,Zhejiang,CN,5
 I162868743,Tianjin University,39.14222,117.17667,Tianjin,Tianjin,CN,5
 I125839683,Beijing Institute of Technology,39.9075,116.39723,Beijing,Beijing,CN,5
+I111599522,Jiangnan University,31.56887,120.28857,Wuxi,Jiangsu,CN,5
 I139660479,Central South University,28.19874,112.97087,Changsha,Hunan,CN,4
+I116953780,Tongji University,31.222219467163086,121.45806121826172,Shanghai,,CN,4
 I28006308,Shandong Normal University,36.668331146240234,116.99722290039062,Jinan,,CN,4
 I150807315,Guangxi University,22.816669464111328,108.3166732788086,Nanning,,CN,4
 I881766915,Nanjing University,32.06167,118.77778,Nanjing,Jiangsu,CN,4

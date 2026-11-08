@@ -1,0 +1,1276 @@
+professor_id,professor,institution,company_id,company,co_papers
+A5041593378,Rustam Z. Khaliullin,McGill University,I1343180700,Intel,1
+A5041593378,Rustam Z. Khaliullin,McGill University,I4210088495,Q Chem,1
+A5041593378,Rustam Z. Khaliullin,McGill University,I4405258653,Wavefunction,1
+A5046917773,Christopher J. Mundy,University of Washington,I1343180700,Intel,1
+A5002723657,Shyue Ping Ong,University of California San Diego,I1340755506,3M,1
+A5002723657,Shyue Ping Ong,University of California San Diego,I1291425158,Google,1
+A5002723657,Shyue Ping Ong,University of California San Diego,I4210114444,Meta,1
+A5002723657,Shyue Ping Ong,University of California San Diego,I1343180700,Intel,1
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I1290206253,Microsoft,4
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I1291425158,Google,2
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I4210143896,Citrine Informatics,2
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I1340755506,3M,1
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I4401726916,Verizon Media,1
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I4387154989,Hugging Face,1
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I193427800,Applied Materials,1
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I4210137486,Intermolecular,1
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I4210140478,SpaceX,1
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I1343180700,Intel,1
+A5037535334,Kristin Aslaug Persson,"University of California, Berkeley",I4210120115,Robert Bosch,1
+A5014983956,Gerbrand Ceder,"University of California, Berkeley",I1291425158,Google,5
+A5014983956,Gerbrand Ceder,"University of California, Berkeley",I1340755506,3M,1
+A5014983956,Gerbrand Ceder,"University of California, Berkeley",I4210159094,Xerox,1
+A5014983956,Gerbrand Ceder,"University of California, Berkeley",I4210114444,Meta,1
+A5014983956,Gerbrand Ceder,"University of California, Berkeley",I1343180700,Intel,1
+A5014983956,Gerbrand Ceder,"University of California, Berkeley",I4210127875,Nvidia,1
+A5014983956,Gerbrand Ceder,"University of California, Berkeley",I4210120115,Robert Bosch,1
+A5055988079,Ryan P. Steele,University of Utah,I4210088495,Q Chem,3
+A5055988079,Ryan P. Steele,University of Utah,I4405258653,Wavefunction,1
+A5042777510,Paul Martin Zimmerman,University of Michigan,I4387153498,SandboxAQ,2
+A5042777510,Paul Martin Zimmerman,University of Michigan,I1311688040,Amazon,2
+A5042777510,Paul Martin Zimmerman,University of Michigan,I4210088495,Q Chem,1
+A5042777510,Paul Martin Zimmerman,University of Michigan,I4405258653,Wavefunction,1
+A5042777510,Paul Martin Zimmerman,University of Michigan,I74680897,Procter & Gamble,1
+A5040293891,Gregory J. O. Beran,"University of California, Riverside",I4210088495,Q Chem,2
+A5040293891,Gregory J. O. Beran,"University of California, Riverside",I4405258653,Wavefunction,1
+A5040293891,Gregory J. O. Beran,"University of California, Riverside",I2948539688,AbbVie,1
+A5040293891,Gregory J. O. Beran,"University of California, Riverside",I4210150408,Catalent,1
+A5040293891,Gregory J. O. Beran,"University of California, Riverside",I183934855,Genentech,1
+A5040293891,Gregory J. O. Beran,"University of California, Riverside",I4210114444,Meta,1
+A5025117389,Ksenia B. Bravaya,Boston University,I4210088495,Q Chem,4
+A5025117389,Ksenia B. Bravaya,Boston University,I4405258653,Wavefunction,1
+A5074521314,Dmytro Kosenkov,Princeton University,I4210088495,Q Chem,4
+A5074521314,Dmytro Kosenkov,Princeton University,I4405258653,Wavefunction,2
+A5078991971,Nicholas J. Mayhall,Indiana University Bloomington,I4210088495,Q Chem,1
+A5078991971,Nicholas J. Mayhall,Indiana University Bloomington,I4405258653,Wavefunction,1
+A5078991971,Nicholas J. Mayhall,Indiana University Bloomington,I4405269909,"Gaussian, Inc.",1
+A5006578267,Eric Neuscamman,"University of California, Berkeley",I4210088495,Q Chem,1
+A5006578267,Eric Neuscamman,"University of California, Berkeley",I4405258653,Wavefunction,1
+A5006578267,Eric Neuscamman,"University of California, Berkeley",I1343180700,Intel,1
+A5006578267,Eric Neuscamman,"University of California, Berkeley",I4210134299,Stone Ridge Technology,1
+A5011836705,Roberto Peverati,Florida Institute of Technology,I1324840837,Hewlett-Packard,2
+A5011836705,Roberto Peverati,Florida Institute of Technology,I4210088495,Q Chem,1
+A5011836705,Roberto Peverati,Florida Institute of Technology,I4405258653,Wavefunction,1
+A5011836705,Roberto Peverati,Florida Institute of Technology,I4210157178,Combustion Research and Flow Technology,1
+A5014791144,Shaama Mallikarjun Sharada,University of Southern California,I4210088495,Q Chem,1
+A5014791144,Shaama Mallikarjun Sharada,University of Southern California,I4405258653,Wavefunction,1
+A5014791144,Shaama Mallikarjun Sharada,University of Southern California,I4210125492,Alexion Pharmaceuticals,1
+A5053213854,Sandeep Sharma,California Institute of Technology,I4210088495,Q Chem,1
+A5053213854,Sandeep Sharma,California Institute of Technology,I4405258653,Wavefunction,1
+A5053213854,Sandeep Sharma,California Institute of Technology,I1291425158,Google,1
+A5053213854,Sandeep Sharma,California Institute of Technology,I1320553840,Amgen,1
+A5053213854,Sandeep Sharma,California Institute of Technology,I4210157251,Diagnostics for the Real World,1
+A5053213854,Sandeep Sharma,California Institute of Technology,I923382979,ExxonMobil,1
+A5075010416,Boris Kozinsky,Harvard University,I4210120115,Robert Bosch,48
+A5075010416,Boris Kozinsky,Harvard University,I1291425158,Google,2
+A5075010416,Boris Kozinsky,Harvard University,I4210114444,Meta,1
+A5075010416,Boris Kozinsky,Harvard University,I44896327,Mitre,1
+A5075010416,Boris Kozinsky,Harvard University,I1343180700,Intel,1
+A5014694160,David Andrew Case,"Rutgers, The State University of New Jersey",I4387155551,FogPharma,1
+A5014694160,David Andrew Case,"Rutgers, The State University of New Jersey",I183934855,Genentech,1
+A5014694160,David Andrew Case,"Rutgers, The State University of New Jersey",I4210158736,Nurix,1
+A5014694160,David Andrew Case,"Rutgers, The State University of New Jersey",I4210114143,GlaxoSmithKline,1
+A5014694160,David Andrew Case,"Rutgers, The State University of New Jersey",I4210088495,Q Chem,1
+A5014694160,David Andrew Case,"Rutgers, The State University of New Jersey",I4210137977,Advanced Micro Devices,1
+A5014694160,David Andrew Case,"Rutgers, The State University of New Jersey",I72509657,Epic Systems,1
+A5014694160,David Andrew Case,"Rutgers, The State University of New Jersey",I193170854,Bruker,1
+A5014694160,David Andrew Case,"Rutgers, The State University of New Jersey",I4210150756,AstraZeneca,1
+A5072718512,Hasan Metin Aktulga,Michigan State University,I4387155551,FogPharma,1
+A5072718512,Hasan Metin Aktulga,Michigan State University,I183934855,Genentech,1
+A5072718512,Hasan Metin Aktulga,Michigan State University,I4210158736,Nurix,1
+A5072718512,Hasan Metin Aktulga,Michigan State University,I1343180700,Intel,1
+A5072718512,Hasan Metin Aktulga,Michigan State University,I4210161460,OpenAI,1
+A5072718512,Hasan Metin Aktulga,Michigan State University,I1291425158,Google,1
+A5072718512,Hasan Metin Aktulga,Michigan State University,I4210114444,Meta,1
+A5072718512,Hasan Metin Aktulga,Michigan State University,I4210127875,Nvidia,1
+A5048229424,Gerardo Andrés Cisneros,The University of Texas at Dallas,I4387155551,FogPharma,1
+A5048229424,Gerardo Andrés Cisneros,The University of Texas at Dallas,I183934855,Genentech,1
+A5048229424,Gerardo Andrés Cisneros,The University of Texas at Dallas,I4210158736,Nurix,1
+A5048229424,Gerardo Andrés Cisneros,The University of Texas at Dallas,I4405269909,"Gaussian, Inc.",1
+A5051959591,Tom Kurtzman,"The Graduate Center, CUNY",I4387155551,FogPharma,1
+A5051959591,Tom Kurtzman,"The Graduate Center, CUNY",I183934855,Genentech,1
+A5051959591,Tom Kurtzman,"The Graduate Center, CUNY",I4210158736,Nurix,1
+A5051959591,Tom Kurtzman,"The Graduate Center, CUNY",I4210114143,GlaxoSmithKline,1
+A5083684380,Tyler Luchko,California Institute of Technology,I4387155551,FogPharma,1
+A5083684380,Tyler Luchko,California Institute of Technology,I183934855,Genentech,1
+A5083684380,Tyler Luchko,California Institute of Technology,I4210158736,Nurix,1
+A5032088629,Ray Luo,"University of California, Irvine",I4210158736,Nurix,4
+A5032088629,Ray Luo,"University of California, Irvine",I4387155551,FogPharma,1
+A5032088629,Ray Luo,"University of California, Irvine",I183934855,Genentech,1
+A5032088629,Ray Luo,"University of California, Irvine",I4387156175,BIOVIA,1
+A5022075325,Alexey V. Onufriev,Virginia Tech,I183934855,Genentech,7
+A5022075325,Alexey V. Onufriev,Virginia Tech,I4387155551,FogPharma,1
+A5022075325,Alexey V. Onufriev,Virginia Tech,I4210158736,Nurix,1
+A5022075325,Alexey V. Onufriev,Virginia Tech,I203455613,Schrodinger,1
+A5100643054,Junmei Wang,University of Pittsburgh,I4387155551,FogPharma,1
+A5100643054,Junmei Wang,University of Pittsburgh,I183934855,Genentech,1
+A5100643054,Junmei Wang,University of Pittsburgh,I4210158736,Nurix,1
+A5100643054,Junmei Wang,University of Pittsburgh,I168537998,Eli Lilly,1
+A5100643054,Junmei Wang,University of Pittsburgh,I4387156175,BIOVIA,1
+A5100643054,Junmei Wang,University of Pittsburgh,I180857899,Pfizer,1
+A5020579549,Thomas E. Cheatham,University of Utah,I2800035258,Ionis Pharmaceuticals,4
+A5020579549,Thomas E. Cheatham,University of Utah,I4387155551,FogPharma,1
+A5020579549,Thomas E. Cheatham,University of Utah,I183934855,Genentech,1
+A5020579549,Thomas E. Cheatham,University of Utah,I4210158736,Nurix,1
+A5020579549,Thomas E. Cheatham,University of Utah,I4210088495,Q Chem,1
+A5020579549,Thomas E. Cheatham,University of Utah,I4210137977,Advanced Micro Devices,1
+A5048973716,Adrián E. Roitberg,University of Florida,I4210127875,Nvidia,2
+A5048973716,Adrián E. Roitberg,University of Florida,I4387155551,FogPharma,1
+A5048973716,Adrián E. Roitberg,University of Florida,I183934855,Genentech,1
+A5048973716,Adrián E. Roitberg,University of Florida,I4210158736,Nurix,1
+A5048973716,Adrián E. Roitberg,University of Florida,I4210114143,GlaxoSmithKline,1
+A5048973716,Adrián E. Roitberg,University of Florida,I1311688040,Amazon,1
+A5048973716,Adrián E. Roitberg,University of Florida,I4210137977,Advanced Micro Devices,1
+A5048973716,Adrián E. Roitberg,University of Florida,I4210131946,Onai,1
+A5054766202,Carlos L. Simmerling,Stony Brook University,I4387155551,FogPharma,1
+A5054766202,Carlos L. Simmerling,Stony Brook University,I183934855,Genentech,1
+A5054766202,Carlos L. Simmerling,Stony Brook University,I4210158736,Nurix,1
+A5054766202,Carlos L. Simmerling,Stony Brook University,I4210137977,Advanced Micro Devices,1
+A5076436548,Darrin M. York,"Rutgers, The State University of New Jersey",I4387155551,FogPharma,1
+A5076436548,Darrin M. York,"Rutgers, The State University of New Jersey",I183934855,Genentech,1
+A5076436548,Darrin M. York,"Rutgers, The State University of New Jersey",I4210158736,Nurix,1
+A5076436548,Darrin M. York,"Rutgers, The State University of New Jersey",I4210127875,Nvidia,1
+A5076436548,Darrin M. York,"Rutgers, The State University of New Jersey",I4210114143,GlaxoSmithKline,1
+A5076436548,Darrin M. York,"Rutgers, The State University of New Jersey",I4210137977,Advanced Micro Devices,1
+A5076436548,Darrin M. York,"Rutgers, The State University of New Jersey",I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",1
+A5076436548,Darrin M. York,"Rutgers, The State University of New Jersey",I4405267507,Congruence Therapeutics Inc.,1
+A5076436548,Darrin M. York,"Rutgers, The State University of New Jersey",I4210094840,Silicon Therapeutics,1
+A5085994852,Kenneth M. Merz,Michigan State University,I1341412227,IBM,5
+A5085994852,Kenneth M. Merz,Michigan State University,I4210114444,Meta,2
+A5085994852,Kenneth M. Merz,Michigan State University,I4387155551,FogPharma,1
+A5085994852,Kenneth M. Merz,Michigan State University,I183934855,Genentech,1
+A5085994852,Kenneth M. Merz,Michigan State University,I4210158736,Nurix,1
+A5085994852,Kenneth M. Merz,Michigan State University,I4210137977,Advanced Micro Devices,1
+A5085994852,Kenneth M. Merz,Michigan State University,I4405282460,Janssen Research & Development,1
+A5085994852,Kenneth M. Merz,Michigan State University,I4210161460,OpenAI,1
+A5085994852,Kenneth M. Merz,Michigan State University,I1291425158,Google,1
+A5085994852,Kenneth M. Merz,Michigan State University,I4405267507,Congruence Therapeutics Inc.,1
+A5085994852,Kenneth M. Merz,Michigan State University,I4210127875,Nvidia,1
+A5085994852,Kenneth M. Merz,Michigan State University,I203455613,Schrodinger,1
+A5012437524,Richard A. Friesner,Columbia University,I203455613,Schrodinger,73
+A5012437524,Richard A. Friesner,Columbia University,I2799548008,D. E. Shaw Research,2
+A5012941965,George A. Petersson,Wesleyan University,I4405269909,"Gaussian, Inc.",11
+A5012941965,George A. Petersson,Wesleyan University,I178975111,Spectral Sciences,2
+A5061717048,Donald G. Truhlar,University of Minnesota,I1324840837,Hewlett-Packard,13
+A5061717048,Donald G. Truhlar,University of Minnesota,I4405269909,"Gaussian, Inc.",10
+A5061717048,Donald G. Truhlar,University of Minnesota,I1343180700,Intel,2
+A5061717048,Donald G. Truhlar,University of Minnesota,I4210114444,Meta,1
+A5061717048,Donald G. Truhlar,University of Minnesota,I4210115286,Dirac Solutions,1
+A5061717048,Donald G. Truhlar,University of Minnesota,I2799325408,Universal Display Corporation,1
+A5061717048,Donald G. Truhlar,University of Minnesota,I4210145557,CD-adapco,1
+A5061717048,Donald G. Truhlar,University of Minnesota,I4387154962,1QBit,1
+A5061717048,Donald G. Truhlar,University of Minnesota,I4210127875,Nvidia,1
+A5061717048,Donald G. Truhlar,University of Minnesota,I4210107917,Exact Sciences,1
+A5100423946,Hui Li,University of Nebraska–Lincoln,I4210108719,EP Analytics,1
+A5100423946,Hui Li,University of Nebraska–Lincoln,I1290206253,Microsoft,1
+A5100423946,Hui Li,University of Nebraska–Lincoln,I4210122178,Hewlett Packard Enterprise,1
+A5036199301,Piotr Piecuch B,Michigan State University,I4210108719,EP Analytics,2
+A5036199301,Piotr Piecuch B,Michigan State University,I4210122178,Hewlett Packard Enterprise,2
+A5036199301,Piotr Piecuch B,Michigan State University,I1290206253,Microsoft,1
+A5036199301,Piotr Piecuch B,Michigan State University,I4210148837,VeraChem,1
+A5036199301,Piotr Piecuch B,Michigan State University,I4210111149,Aerodyne Research,1
+A5087969901,Klaus Ruedenberg,Iowa State University,I4396570585,Leidos Biomedical Research Inc.,3
+A5087969901,Klaus Ruedenberg,Iowa State University,I4210108719,EP Analytics,2
+A5087969901,Klaus Ruedenberg,Iowa State University,I4210122178,Hewlett Packard Enterprise,2
+A5087969901,Klaus Ruedenberg,Iowa State University,I1290206253,Microsoft,1
+A5087969901,Klaus Ruedenberg,Iowa State University,I4210148837,VeraChem,1
+A5087969901,Klaus Ruedenberg,Iowa State University,I110995367,Sprint,1
+A5057581232,Lyudmila V. Slipchenko,Purdue University West Lafayette,I4210088495,Q Chem,2
+A5057581232,Lyudmila V. Slipchenko,Purdue University West Lafayette,I4210108719,EP Analytics,1
+A5057581232,Lyudmila V. Slipchenko,Purdue University West Lafayette,I1290206253,Microsoft,1
+A5057581232,Lyudmila V. Slipchenko,Purdue University West Lafayette,I4210122178,Hewlett Packard Enterprise,1
+A5036545977,Mark S. Gordon,Iowa State University,I4210108719,EP Analytics,2
+A5036545977,Mark S. Gordon,Iowa State University,I1290206253,Microsoft,1
+A5036545977,Mark S. Gordon,Iowa State University,I4210122178,Hewlett Packard Enterprise,1
+A5036545977,Mark S. Gordon,Iowa State University,I4210148837,VeraChem,1
+A5036545977,Mark S. Gordon,Iowa State University,I4210127875,Nvidia,1
+A5083579335,Lucas K. Wagner,University of Illinois Urbana-Champaign,I1291425158,Google,1
+A5083579335,Lucas K. Wagner,University of Illinois Urbana-Champaign,I1320553840,Amgen,1
+A5083579335,Lucas K. Wagner,University of Illinois Urbana-Champaign,I4210157251,Diagnostics for the Real World,1
+A5023469360,Jason M. Yu,"University of California, Irvine",I1291425158,Google,1
+A5023469360,Jason M. Yu,"University of California, Irvine",I1320553840,Amgen,1
+A5023469360,Jason M. Yu,"University of California, Irvine",I4210157251,Diagnostics for the Real World,1
+A5038038703,Tianyu Zhu,California Institute of Technology,I1291425158,Google,1
+A5038038703,Tianyu Zhu,California Institute of Technology,I1320553840,Amgen,1
+A5038038703,Tianyu Zhu,California Institute of Technology,I4210157251,Diagnostics for the Real World,1
+A5038038703,Tianyu Zhu,California Institute of Technology,I1290206253,Microsoft,1
+A5038038703,Tianyu Zhu,California Institute of Technology,I1341412227,IBM,1
+A5017031564,Timothy C. Berkelbach,Columbia University,I203455613,Schrodinger,5
+A5017031564,Timothy C. Berkelbach,Columbia University,I1291425158,Google,1
+A5017031564,Timothy C. Berkelbach,Columbia University,I1320553840,Amgen,1
+A5017031564,Timothy C. Berkelbach,Columbia University,I4210157251,Diagnostics for the Real World,1
+A5017031564,Timothy C. Berkelbach,Columbia University,I1290206253,Microsoft,1
+A5017031564,Timothy C. Berkelbach,Columbia University,I1341412227,IBM,1
+A5065587671,Alexander Yu. Sokolov,The Ohio State University,I1291425158,Google,1
+A5065587671,Alexander Yu. Sokolov,The Ohio State University,I1320553840,Amgen,1
+A5065587671,Alexander Yu. Sokolov,The Ohio State University,I4210157251,Diagnostics for the Real World,1
+A5082397890,Garnet Kin-Lic Chan,California Institute of Technology,I1291425158,Google,4
+A5082397890,Garnet Kin-Lic Chan,California Institute of Technology,I1320553840,Amgen,1
+A5082397890,Garnet Kin-Lic Chan,California Institute of Technology,I4210157251,Diagnostics for the Real World,1
+A5082397890,Garnet Kin-Lic Chan,California Institute of Technology,I4210127875,Nvidia,1
+A5082397890,Garnet Kin-Lic Chan,California Institute of Technology,I1311688040,Amazon,1
+A5036265708,Mark Asta,"University of California, Berkeley",I1290206253,Microsoft,2
+A5036265708,Mark Asta,"University of California, Berkeley",I923382979,ExxonMobil,2
+A5036265708,Mark Asta,"University of California, Berkeley",I4210143896,Citrine Informatics,1
+A5036265708,Mark Asta,"University of California, Berkeley",I4401726916,Verizon Media,1
+A5036265708,Mark Asta,"University of California, Berkeley",I4387154989,Hugging Face,1
+A5036265708,Mark Asta,"University of California, Berkeley",I4210140478,SpaceX,1
+A5036265708,Mark Asta,"University of California, Berkeley",I1338503839,Corning,1
+A5007577939,John A. Keith,University of Pittsburgh,I4405255852,Lubrizol,3
+A5007577939,John A. Keith,University of Pittsburgh,I1291425158,Google,1
+A5007577939,John A. Keith,University of Pittsburgh,I4405269909,"Gaussian, Inc.",1
+A5042914409,Bingqing Cheng,"University of California, Berkeley",I1291425158,Google,1
+A5024574386,Zachary W. Ulissi,New York University,I4210114444,Meta,19
+A5024574386,Zachary W. Ulissi,New York University,I923382979,ExxonMobil,1
+A5024574386,Zachary W. Ulissi,New York University,I4405261461,Toyota Motor North America Research & Development,1
+A5007821807,Jochen Autschbach,"University at Buffalo, State University of New York",I1343180700,Intel,1
+A5007821807,Jochen Autschbach,"University at Buffalo, State University of New York",I4210114444,Meta,1
+A5007821807,Jochen Autschbach,"University at Buffalo, State University of New York",I4210115286,Dirac Solutions,1
+A5007821807,Jochen Autschbach,"University at Buffalo, State University of New York",I2799325408,Universal Display Corporation,1
+A5007821807,Jochen Autschbach,"University at Buffalo, State University of New York",I4210145557,CD-adapco,1
+A5007821807,Jochen Autschbach,"University at Buffalo, State University of New York",I4387154962,1QBit,1
+A5007821807,Jochen Autschbach,"University at Buffalo, State University of New York",I4210127875,Nvidia,1
+A5007821807,Jochen Autschbach,"University at Buffalo, State University of New York",I4210111877,Zapata,1
+A5053090797,Lasse Jensen,Pennsylvania State University,I4210130288,American Industrial Partners,2
+A5053090797,Lasse Jensen,Pennsylvania State University,I1343180700,Intel,1
+A5053090797,Lasse Jensen,Pennsylvania State University,I4210114444,Meta,1
+A5053090797,Lasse Jensen,Pennsylvania State University,I4210115286,Dirac Solutions,1
+A5053090797,Lasse Jensen,Pennsylvania State University,I2799325408,Universal Display Corporation,1
+A5053090797,Lasse Jensen,Pennsylvania State University,I4210145557,CD-adapco,1
+A5053090797,Lasse Jensen,Pennsylvania State University,I4387154962,1QBit,1
+A5053090797,Lasse Jensen,Pennsylvania State University,I4210127875,Nvidia,1
+A5064735594,George Chappell Schatz,Northwestern University,I1343180700,Intel,1
+A5064735594,George Chappell Schatz,Northwestern University,I4210114444,Meta,1
+A5064735594,George Chappell Schatz,Northwestern University,I4210115286,Dirac Solutions,1
+A5064735594,George Chappell Schatz,Northwestern University,I2799325408,Universal Display Corporation,1
+A5064735594,George Chappell Schatz,Northwestern University,I4210145557,CD-adapco,1
+A5064735594,George Chappell Schatz,Northwestern University,I4387154962,1QBit,1
+A5064735594,George Chappell Schatz,Northwestern University,I4210127875,Nvidia,1
+A5064735594,George Chappell Schatz,Northwestern University,I178975111,Spectral Sciences,1
+A5012778333,Troy Van Voorhis,Massachusetts Institute of Technology,I1343180700,Intel,1
+A5012778333,Troy Van Voorhis,Massachusetts Institute of Technology,I4210114444,Meta,1
+A5012778333,Troy Van Voorhis,Massachusetts Institute of Technology,I4210115286,Dirac Solutions,1
+A5012778333,Troy Van Voorhis,Massachusetts Institute of Technology,I2799325408,Universal Display Corporation,1
+A5012778333,Troy Van Voorhis,Massachusetts Institute of Technology,I4210145557,CD-adapco,1
+A5012778333,Troy Van Voorhis,Massachusetts Institute of Technology,I4387154962,1QBit,1
+A5012778333,Troy Van Voorhis,Massachusetts Institute of Technology,I4210127875,Nvidia,1
+A5012778333,Troy Van Voorhis,Massachusetts Institute of Technology,I4210088495,Q Chem,1
+A5012778333,Troy Van Voorhis,Massachusetts Institute of Technology,I4210092597,NTT,1
+A5088793872,O. Anatole von Lilienfeld,University of Toronto,I1291425158,Google,1
+A5020910604,Renata M. M. Wentzcovitch,Columbia University,I4210127875,Nvidia,1
+A5071854504,E Weinan,Princeton University,I4210127875,Nvidia,1
+A5007841515,Roberto Car,Princeton University,I4210150951,Shell,4
+A5007841515,Roberto Car,Princeton University,I4210127875,Nvidia,1
+A5007841515,Roberto Car,Princeton University,I4210113028,Air Products,1
+A5002786455,Jing Kong,Middle Tennessee State University,I4210088495,Q Chem,26
+A5002786455,Jing Kong,Middle Tennessee State University,I4405269909,"Gaussian, Inc.",1
+A5017686746,Anna I. Krylov,University of Southern California,I4210088495,Q Chem,17
+A5012621100,C. David Sherrill,Georgia Institute of Technology,I4210091812,Bristol-Myers Squibb,14
+A5012621100,C. David Sherrill,Georgia Institute of Technology,I4210088495,Q Chem,1
+A5012621100,C. David Sherrill,Georgia Institute of Technology,I4210130288,American Industrial Partners,1
+A5062261841,Steven R. Gwaltney,Mississippi State University,I4210088495,Q Chem,1
+A5062261841,Steven R. Gwaltney,Mississippi State University,I4210104289,Engility,1
+A5033284516,Vitaly A. Rassolov,University of South Carolina,I4210088495,Q Chem,1
+A5041373282,So Hirata,University of Illinois Urbana-Champaign,I4210088495,Q Chem,1
+A5041373282,So Hirata,University of Illinois Urbana-Champaign,I1290206253,Microsoft,1
+A5088665303,Arieh Warshel,University of Southern California,I4210088495,Q Chem,1
+A5088665303,Arieh Warshel,University of Southern California,I4210133987,Xencor,1
+A5015311244,Martin Head-Gordon,"University of California, Berkeley",I4210088495,Q Chem,21
+A5015311244,Martin Head-Gordon,"University of California, Berkeley",I1283103587,AT&T,1
+A5015311244,Martin Head-Gordon,"University of California, Berkeley",I159548981,State Street,1
+A5015311244,Martin Head-Gordon,"University of California, Berkeley",I1290206253,Microsoft,1
+A5015311244,Martin Head-Gordon,"University of California, Berkeley",I1341412227,IBM,1
+A5015311244,Martin Head-Gordon,"University of California, Berkeley",I4210127875,Nvidia,1
+A5073668898,Marco Caricato,University of Kansas,I4405269909,"Gaussian, Inc.",31
+A5073668898,Marco Caricato,University of Kansas,I4210124158,TetraScience,1
+A5072645125,H. Bernhard Schlegel,Wayne State University,I4405269909,"Gaussian, Inc.",14
+A5019081599,Srinivasan S. Iyengar,Indiana University Bloomington,I4405269909,"Gaussian, Inc.",7
+A5088327041,Gregory A. Voth,University of Chicago,I4405269909,"Gaussian, Inc.",5
+A5088327041,Gregory A. Voth,University of Chicago,I4210127875,Nvidia,2
+A5088327041,Gregory A. Voth,University of Chicago,I168537998,Eli Lilly,2
+A5088327041,Gregory A. Voth,University of Chicago,I1333370159,Motorola,1
+A5088327041,Gregory A. Voth,University of Chicago,I1341412227,IBM,1
+A5088327041,Gregory A. Voth,University of Chicago,I203455613,Schrodinger,1
+A5016283866,Gustavo E. Scuseria,Rice University,I4405269909,"Gaussian, Inc.",13
+A5016283866,Gustavo E. Scuseria,Rice University,I4210133143,Dow Chemical,1
+A5016283866,Gustavo E. Scuseria,Rice University,I1290206253,Microsoft,1
+A5016283866,Gustavo E. Scuseria,Rice University,I4210150951,Shell,1
+A5016283866,Gustavo E. Scuseria,Rice University,I1311688040,Amazon,1
+A5080074500,Artur F. Izmaylov,University of Toronto,I4210099808,OTI Lumionics,8
+A5080074500,Artur F. Izmaylov,University of Toronto,I4405269909,"Gaussian, Inc.",3
+A5080074500,Artur F. Izmaylov,University of Toronto,I4210150097,Xanadu Quantum Technologies,2
+A5080074500,Artur F. Izmaylov,University of Toronto,I4210111877,Zapata,2
+A5100689329,Xiaosong Li,University of Washington,I4405269909,"Gaussian, Inc.",24
+A5100689329,Xiaosong Li,University of Washington,I4210115286,Dirac Solutions,3
+A5100689329,Xiaosong Li,University of Washington,I1343180700,Intel,1
+A5103205107,Krishna Rajan,"University at Buffalo, State University of New York",I4210134512,GE Global Research,1
+A5103205107,Krishna Rajan,"University at Buffalo, State University of New York",I4210107917,Exact Sciences,1
+A5112785999,Ross C. Walker,University of California San Diego,I4210114143,GlaxoSmithKline,6
+A5112785999,Ross C. Walker,University of California San Diego,I4210127875,Nvidia,2
+A5112785999,Ross C. Walker,University of California San Diego,I1311688040,Amazon,2
+A5112785999,Ross C. Walker,University of California San Diego,I203455613,Schrodinger,1
+A5112785999,Ross C. Walker,University of California San Diego,I4210137977,Advanced Micro Devices,1
+A5112785999,Ross C. Walker,University of California San Diego,I1343180700,Intel,1
+A5073635313,Jason R. Hattrick-Simpers,University of Toronto,I4210143896,Citrine Informatics,4
+A5073635313,Jason R. Hattrick-Simpers,University of Toronto,I4401726847,Cohere,3
+A5073635313,Jason R. Hattrick-Simpers,University of Toronto,I4210123304,Kebotix,1
+A5073635313,Jason R. Hattrick-Simpers,University of Toronto,I4387155329,Form Energy,1
+A5073635313,Jason R. Hattrick-Simpers,University of Toronto,I1291425158,Google,1
+A5073635313,Jason R. Hattrick-Simpers,University of Toronto,I193427800,Applied Materials,1
+A5073635313,Jason R. Hattrick-Simpers,University of Toronto,I4210137486,Intermolecular,1
+A5073635313,Jason R. Hattrick-Simpers,University of Toronto,I4405261461,Toyota Motor North America Research & Development,1
+A5046613137,Anne B. McCoy,University of Washington,I4405269909,"Gaussian, Inc.",1
+A5046613137,Anne B. McCoy,University of Washington,I1290206253,Microsoft,1
+A5046613137,Anne B. McCoy,University of Washington,I70745867,KLA,1
+A5075873771,David A. Strubbe,"University of California, Merced",I4210150097,Xanadu Quantum Technologies,1
+A5074305095,David Elliot Shaw,Columbia University,I2799548008,D. E. Shaw Research,74
+A5074305095,David Elliot Shaw,Columbia University,I4210116569,Relay Therapeutics,1
+A5003442464,John R. Kitchin,Carnegie Mellon University,I4210114444,Meta,7
+A5003442464,John R. Kitchin,Carnegie Mellon University,I4210133143,Dow Chemical,1
+A5003442464,John R. Kitchin,Carnegie Mellon University,I923382979,ExxonMobil,1
+A5003442464,John R. Kitchin,Carnegie Mellon University,I4405261461,Toyota Motor North America Research & Development,1
+A5012956193,John C. Tully,Yale University,I4405269909,"Gaussian, Inc.",2
+A5012956193,John C. Tully,Yale University,I86725329,Hitachi Global Storage Technologies,1
+A5012956193,John C. Tully,Yale University,I1283103587,AT&T,1
+A5017376122,Anton O. Oliynyk,"The Graduate Center, CUNY",I4210143896,Citrine Informatics,4
+A5003301534,Taylor D. Sparks,University of Toronto,I2948394018,Northrop Grumman,4
+A5003301534,Taylor D. Sparks,University of Toronto,I4210143896,Citrine Informatics,3
+A5003301534,Taylor D. Sparks,University of Toronto,I4210100397,Ultradent Products,2
+A5064664549,Aldo Humberto Romero,West Virginia University,I1338503839,Corning,1
+A5064664549,Aldo Humberto Romero,West Virginia University,I4210107917,Exact Sciences,1
+A5076632634,Michel Côté,Université de Montréal,I1338503839,Corning,1
+A5076632634,Michel Côté,Université de Montréal,I4387153498,SandboxAQ,1
+A5049135299,Evan J. Reed,Stanford University,I1291425158,Google,12
+A5049135299,Evan J. Reed,Stanford University,I4210131970,Advanced Cooling Technologies,2
+A5011485947,David M. Ceperley,University of Illinois Urbana-Champaign,I1343180700,Intel,1
+A5011485947,David M. Ceperley,University of Illinois Urbana-Champaign,I4210134299,Stone Ridge Technology,1
+A5011485947,David M. Ceperley,University of Illinois Urbana-Champaign,I1290206253,Microsoft,1
+A5039238061,Richard M. Martin,Stanford University,I1343180700,Intel,1
+A5039238061,Richard M. Martin,Stanford University,I4210134299,Stone Ridge Technology,1
+A5031459958,Luboš Mitáš,North Carolina State University,I1343180700,Intel,1
+A5031459958,Luboš Mitáš,North Carolina State University,I4210134299,Stone Ridge Technology,1
+A5031459958,Luboš Mitáš,North Carolina State University,I4210143896,Citrine Informatics,1
+A5031459958,Luboš Mitáš,North Carolina State University,I4210134512,GE Global Research,1
+A5031459958,Luboš Mitáš,North Carolina State University,I1290206253,Microsoft,1
+A5076118690,James R. Chelikowsky,The University of Texas at Austin,I1340755506,3M,2
+A5012206702,Marco Buongiorno Nardelli,University of North Texas,I4210143896,Citrine Informatics,1
+A5012206702,Marco Buongiorno Nardelli,University of North Texas,I4210134512,GE Global Research,1
+A5012206702,Marco Buongiorno Nardelli,University of North Texas,I4210140478,SpaceX,1
+A5006314784,Stefano Curtarolo A,Duke University,I4210143896,Citrine Informatics,1
+A5006314784,Stefano Curtarolo A,Duke University,I4210134512,GE Global Research,1
+A5006314784,Stefano Curtarolo A,Duke University,I4210140478,SpaceX,1
+A5006314784,Stefano Curtarolo A,Duke University,I4210120115,Robert Bosch,1
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I1291425158,Google,9
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I4210127875,Nvidia,5
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I1343180700,Intel,5
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",2
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I4210123304,Kebotix,2
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I4210111877,Zapata,2
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I4210143896,Citrine Informatics,1
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I4210134512,GE Global Research,1
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I4210133143,Dow Chemical,1
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I4387153498,SandboxAQ,1
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I114662689,Leidos,1
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I203455613,Schrodinger,1
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I1290206253,Microsoft,1
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I4210150097,Xanadu Quantum Technologies,1
+A5071495561,Alán Aspuru-Guzik,University of Toronto,I1311688040,Amazon,1
+A5059503004,Andrew M. Rappe,University of Pennsylvania,I4210111444,Arkema,3
+A5059503004,Andrew M. Rappe,University of Pennsylvania,I1316910977,DuPont,3
+A5059503004,Andrew M. Rappe,University of Pennsylvania,I4210143896,Citrine Informatics,1
+A5059503004,Andrew M. Rappe,University of Pennsylvania,I4210134512,GE Global Research,1
+A5059503004,Andrew M. Rappe,University of Pennsylvania,I1292974536,Ford Motor Company,1
+A5009969515,Christine M. Isborn,"University of California, Merced",I1341412227,IBM,1
+A5009969515,Christine M. Isborn,"University of California, Merced",I4210127875,Nvidia,1
+A5009969515,Christine M. Isborn,"University of California, Merced",I1306409833,Adobe Systems,1
+A5009969515,Christine M. Isborn,"University of California, Merced",I1343180700,Intel,1
+A5064662152,Fang Liu,Emory University,I1341412227,IBM,1
+A5064662152,Fang Liu,Emory University,I4210127875,Nvidia,1
+A5064662152,Fang Liu,Emory University,I1306409833,Adobe Systems,1
+A5064662152,Fang Liu,Emory University,I1343180700,Intel,1
+A5040462364,Todd J. Martínez,Stanford University,I1341412227,IBM,2
+A5040462364,Todd J. Martínez,Stanford University,I4210127875,Nvidia,2
+A5040462364,Todd J. Martínez,Stanford University,I1306409833,Adobe Systems,2
+A5040462364,Todd J. Martínez,Stanford University,I1343180700,Intel,2
+A5040462364,Todd J. Martínez,Stanford University,I4210130288,American Industrial Partners,2
+A5040462364,Todd J. Martínez,Stanford University,I203455613,Schrodinger,1
+A5028372112,Dane D. Morgan,University of Wisconsin–Madison,I55279860,L-3 Communications,3
+A5028372112,Dane D. Morgan,University of Wisconsin–Madison,I1291425158,Google,1
+A5028372112,Dane D. Morgan,University of Wisconsin–Madison,I4210114444,Meta,1
+A5028372112,Dane D. Morgan,University of Wisconsin–Madison,I4210143896,Citrine Informatics,1
+A5028372112,Dane D. Morgan,University of Wisconsin–Madison,I1324840837,Hewlett-Packard,1
+A5051475129,William H. Green,Brown University,I180857899,Pfizer,4
+A5051475129,William H. Green,Brown University,I923382979,ExxonMobil,1
+A5051475129,William H. Green,Brown University,I3019562804,BASF,1
+A5051475129,William H. Green,Brown University,I4210133143,Dow Chemical,1
+A5051475129,William H. Green,Brown University,I4210111149,Aerodyne Research,1
+A5031952600,Rampi Ramprasad,Georgia Institute of Technology,I4210134512,GE Global Research,2
+A5031952600,Rampi Ramprasad,Georgia Institute of Technology,I1333370159,Motorola,2
+A5031952600,Rampi Ramprasad,Georgia Institute of Technology,I1338503839,Corning,1
+A5031952600,Rampi Ramprasad,Georgia Institute of Technology,I4210120115,Robert Bosch,1
+A5031952600,Rampi Ramprasad,Georgia Institute of Technology,I1290206253,Microsoft,1
+A5031952600,Rampi Ramprasad,Georgia Institute of Technology,I4405260962,Samsung Semiconductor,1
+A5031952600,Rampi Ramprasad,Georgia Institute of Technology,I4210165464,TPL,1
+A5037264129,William F. Schneider,University of Notre Dame,I1292974536,Ford Motor Company,10
+A5037264129,William F. Schneider,University of Notre Dame,I118136607,General Motors,3
+A5037264129,William F. Schneider,University of Notre Dame,I3019562804,BASF,3
+A5037264129,William F. Schneider,University of Notre Dame,I4210141466,Cummins,1
+A5037264129,William F. Schneider,University of Notre Dame,I4210158803,Rigetti Computing,1
+A5037264129,William F. Schneider,University of Notre Dame,I82514191,Honeywell,1
+A5037264129,William F. Schneider,University of Notre Dame,I4210153148,CFD Research Corporation,1
+A5061633372,Oleg V. Prezhdo,University of Southern California,I203455613,Schrodinger,1
+A5077627599,Annabella Selloni,Princeton University,I4210158204,Altria,1
+A5077627599,Annabella Selloni,Princeton University,I4405262680,Commonwealth Fusion Systems,1
+A5077627599,Annabella Selloni,Princeton University,I1324840837,Hewlett-Packard,1
+A5075317126,Berend Smit,"University of California, Berkeley",I3019562804,BASF,2
+A5075317126,Berend Smit,"University of California, Berkeley",I4210088951,Synopsys,2
+A5075317126,Berend Smit,"University of California, Berkeley",I1341412227,IBM,1
+A5075317126,Berend Smit,"University of California, Berkeley",I4210118014,Chevron,1
+A5062786033,Lai-Sheng Wang,Brown University,I183934855,Genentech,3
+A5062786033,Lai-Sheng Wang,Brown University,I4210130288,American Industrial Partners,2
+A5013792729,Tim Mueller,Johns Hopkins University,I4210143896,Citrine Informatics,1
+A5004059379,Jindal K. Shah,Oklahoma State University,I3019562804,BASF,1
+A5004059379,Jindal K. Shah,Oklahoma State University,I2891174042,Stillwater,1
+A5017774950,Andrew S. Paluch,Miami University,I3019562804,BASF,1
+A5031949934,Neeraj Rai,Mississippi State University,I3019562804,BASF,1
+A5031949934,Neeraj Rai,Mississippi State University,I1340755506,3M,1
+A5031577108,Edward Joseph Maginn,University of Notre Dame,I3019562804,BASF,2
+A5031577108,Edward Joseph Maginn,University of Notre Dame,I1318774259,Busek,1
+A5031577108,Edward Joseph Maginn,University of Notre Dame,I11912373,Micron,1
+A5031577108,Edward Joseph Maginn,University of Notre Dame,I923382979,ExxonMobil,1
+A5037708910,Kieron Burke,"University of California, Irvine",I1291425158,Google,4
+A5037708910,Kieron Burke,"University of California, Irvine",I1290206253,Microsoft,1
+A5089129603,Víctor S. Batista,Yale University,I4210160255,Boehringer Ingelheim,3
+A5089129603,Víctor S. Batista,Yale University,I4210086189,Mirion Technologies,3
+A5089129603,Víctor S. Batista,Yale University,I1332737386,General Electric,2
+A5089129603,Víctor S. Batista,Yale University,I4210134512,GE Global Research,2
+A5089129603,Víctor S. Batista,Yale University,I4210127875,Nvidia,2
+A5089129603,Víctor S. Batista,Yale University,I2818286,LG,1
+A5089129603,Víctor S. Batista,Yale University,I4405267412,Connect Biopharm LLC,1
+A5089129603,Víctor S. Batista,Yale University,I1306686416,RTX,1
+A5068215051,Mark E. Tuckerman,Courant Institute of Mathematical Sciences,I1341412227,IBM,6
+A5068215051,Mark E. Tuckerman,Courant Institute of Mathematical Sciences,I2948539688,AbbVie,3
+A5068215051,Mark E. Tuckerman,Courant Institute of Mathematical Sciences,I4210088495,Q Chem,1
+A5068215051,Mark E. Tuckerman,Courant Institute of Mathematical Sciences,I183934855,Genentech,1
+A5055016850,Frank Noé,Rice University,I1290206253,Microsoft,11
+A5055016850,Frank Noé,Rice University,I1341412227,IBM,2
+A5101849688,Christopher David Taylor,The Ohio State University,I4210092778,QuesTek,2
+A5101849688,Christopher David Taylor,The Ohio State University,I1292974536,Ford Motor Company,1
+A5101849688,Christopher David Taylor,The Ohio State University,I1295339012,Boeing,1
+A5049447118,Elfi Kraka,Southern Methodist University,I4210127875,Nvidia,4
+A5049447118,Elfi Kraka,Southern Methodist University,I4405269909,"Gaussian, Inc.",1
+A5031523641,David S. Sholl,Rice University,I923382979,ExxonMobil,12
+A5031523641,David S. Sholl,Rice University,I4210133143,Dow Chemical,1
+A5031523641,David S. Sholl,Rice University,I4210113028,Air Products,1
+A5032462770,Mathieu Bauchy,"University of California, Los Angeles",I1338503839,Corning,5
+A5032462770,Mathieu Bauchy,"University of California, Los Angeles",I1291425158,Google,3
+A5032462770,Mathieu Bauchy,"University of California, Los Angeles",I4210161460,OpenAI,1
+A5032462770,Mathieu Bauchy,"University of California, Los Angeles",I4210145447,Giatec Scientific,1
+A5028949819,Thomas F. Miller,California Institute of Technology,I4210127875,Nvidia,2
+A5028949819,Thomas F. Miller,California Institute of Technology,I4210133143,Dow Chemical,2
+A5028949819,Thomas F. Miller,California Institute of Technology,I927589877,Kelly Services,1
+A5057094529,Noa Marom,Carnegie Mellon University,I1291425158,Google,3
+A5057094529,Noa Marom,Carnegie Mellon University,I4210114444,Meta,2
+A5057094529,Noa Marom,Carnegie Mellon University,I2948539688,AbbVie,1
+A5057094529,Noa Marom,Carnegie Mellon University,I4210150408,Catalent,1
+A5057094529,Noa Marom,Carnegie Mellon University,I183934855,Genentech,1
+A5057094529,Noa Marom,Carnegie Mellon University,I4387156175,BIOVIA,1
+A5057094529,Noa Marom,Carnegie Mellon University,I1290206253,Microsoft,1
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I4210134512,GE Global Research,2
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I4210093665,Toyota Motor North America,2
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I4405261461,Toyota Motor North America Research & Development,2
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I4210107917,Exact Sciences,2
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I4210153148,CFD Research Corporation,1
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I1341412227,IBM,1
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I4210143896,Citrine Informatics,1
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I1338503839,Corning,1
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I4210160270,Materials Development,1
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I4405260962,Samsung Semiconductor,1
+A5079203984,Krishna Rajan,"University at Buffalo, State University of New York",I1332737386,General Electric,1
+A5070148419,Wenjie Xia,Iowa State University,I4210133143,Dow Chemical,3
+A5014744105,Sinan Keten,Northwestern University,I4210133143,Dow Chemical,3
+A5014744105,Sinan Keten,Northwestern University,I1290206253,Microsoft,1
+A5014744105,Sinan Keten,Northwestern University,I923382979,ExxonMobil,1
+A5091149690,Konstantinos D. Vogiatzis,University of Tennessee at Knoxville,I4210140030,Eastman Chemical Company,1
+A5091149690,Konstantinos D. Vogiatzis,University of Tennessee at Knoxville,I4210133143,Dow Chemical,1
+A5014987686,John P. Perdew,Tulane University,I200576644,HRL Laboratories,1
+A5014987686,John P. Perdew,Tulane University,I4210150951,Shell,1
+A5014987686,John P. Perdew,Tulane University,I1290206253,Microsoft,1
+A5069057216,Jianwei Sun,Tulane University,I200576644,HRL Laboratories,1
+A5069057216,Jianwei Sun,Tulane University,I4210150951,Shell,1
+A5100449694,Shiwei Zhang,William & Mary,I203455613,Schrodinger,5
+A5014624803,David R. Reichman,Columbia University,I203455613,Schrodinger,8
+A5014624803,David R. Reichman,Columbia University,I4210130288,American Industrial Partners,2
+A5014624803,David R. Reichman,Columbia University,I4405270056,Numerion Labs,1
+A5014624803,David R. Reichman,Columbia University,I4387155329,Form Energy,1
+A5014624803,David R. Reichman,Columbia University,I1311688040,Amazon,1
+A5014624803,David R. Reichman,Columbia University,I1291425158,Google,1
+A5072988684,Michael A. Webb,Princeton University,I4210098579,Solvay,1
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I4210153148,CFD Research Corporation,8
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I923382979,ExxonMobil,5
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I4210133143,Dow Chemical,4
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I1338503839,Corning,2
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I4210121352,Western Digital,2
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I178975111,Spectral Sciences,1
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I4210161154,Roivant Sciences,1
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I4210162290,Wasatch Molecular,1
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I1287521167,Lockheed Martin,1
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I118136607,General Motors,1
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I257179599,Baker Hughes,1
+A5077401838,Adri C. T. van Duin,Pennsylvania State University,I4210125162,Bennett Aerospace,1
+A5082950413,Manolis Doxastakis,University of Tennessee at Knoxville,I4210143271,Goodyear,12
+A5082950413,Manolis Doxastakis,University of Tennessee at Knoxville,I4210140030,Eastman Chemical Company,1
+A5010977651,Mark S. Gordon,Iowa State University,I4210148837,VeraChem,3
+A5010977651,Mark S. Gordon,Iowa State University,I4210108719,EP Analytics,3
+A5010977651,Mark S. Gordon,Iowa State University,I4210122178,Hewlett Packard Enterprise,1
+A5010977651,Mark S. Gordon,Iowa State University,I4210129483,Eloret,1
+A5057923625,Erin R. Johnson,Dalhousie University,I1290206253,Microsoft,2
+A5057923625,Erin R. Johnson,Dalhousie University,I2948539688,AbbVie,1
+A5057923625,Erin R. Johnson,Dalhousie University,I4210150408,Catalent,1
+A5057923625,Erin R. Johnson,Dalhousie University,I183934855,Genentech,1
+A5057923625,Erin R. Johnson,Dalhousie University,I1341412227,IBM,1
+A5032418986,Vijay S. Pande,Stanford University,I4210137977,Advanced Micro Devices,2
+A5032418986,Vijay S. Pande,Stanford University,I1291425158,Google,2
+A5032418986,Vijay S. Pande,Stanford University,I4210088495,Q Chem,1
+A5032418986,Vijay S. Pande,Stanford University,I1341412227,IBM,1
+A5032418986,Vijay S. Pande,Stanford University,I4210127875,Nvidia,1
+A5032418986,Vijay S. Pande,Stanford University,I2800278093,Sony Corporation,1
+A5032418986,Vijay S. Pande,Stanford University,I4210160595,Acumen Pharmaceuticals,1
+A5032418986,Vijay S. Pande,Stanford University,I180857899,Pfizer,1
+A5032418986,Vijay S. Pande,Stanford University,I4210161061,Adimab,1
+A5046980575,Jay W. Ponder,Washington University in St. Louis,I4210088495,Q Chem,2
+A5056814590,Teresa L. Head-Gordon,"University of California, Berkeley",I4210088495,Q Chem,4
+A5056814590,Teresa L. Head-Gordon,"University of California, Berkeley",I4210091983,Amgen,1
+A5086726463,Daniel H. Ess,Brigham Young University,I4210159209,Chevron Phillips Chemical,9
+A5086726463,Daniel H. Ess,Brigham Young University,I4210121457,Moxtek,1
+A5086726463,Daniel H. Ess,Brigham Young University,I4210088781,Phillips 66,1
+A5030884127,Wonpil Im,Lehigh University,I1343180700,Intel,1
+A5064535564,Hendrik Heinz,University of Colorado Boulder,I1343180700,Intel,1
+A5064535564,Hendrik Heinz,University of Colorado Boulder,I1338503839,Corning,1
+A5063950942,Subramanian K. R. S. Sankaranarayanan,University of Illinois Urbana-Champaign,I4387152382,Interx,3
+A5063950942,Subramanian K. R. S. Sankaranarayanan,University of Illinois Urbana-Champaign,I4210120592,Sentient Science,2
+A5063950942,Subramanian K. R. S. Sankaranarayanan,University of Illinois Urbana-Champaign,I1338503839,Corning,1
+A5000868233,Jeffrey B. Neaton,"University of California, Berkeley",I1290206253,Microsoft,2
+A5000868233,Jeffrey B. Neaton,"University of California, Berkeley",I4210088951,Synopsys,2
+A5000868233,Jeffrey B. Neaton,"University of California, Berkeley",I4405261461,Toyota Motor North America Research & Development,1
+A5049515996,Yaxin An,Louisiana State University,I4210148625,CNH Industrial,5
+A5085371954,Sanket A. Deshmukh,Virginia Tech,I4210148625,CNH Industrial,7
+A5036789652,Qiang Cui,Boston University,I1290206253,Microsoft,1
+A5045389074,John Z. H. Zhang,Thomas Jefferson University,I183934855,Genentech,1
+A5045389074,John Z. H. Zhang,Thomas Jefferson University,I4210088495,Q Chem,1
+A5040429065,Hongliang Xin,Virginia Tech,I4405261461,Toyota Motor North America Research & Development,2
+A5040429065,Hongliang Xin,Virginia Tech,I4210133143,Dow Chemical,1
+A5040429065,Hongliang Xin,Virginia Tech,I923382979,ExxonMobil,1
+A5040429065,Hongliang Xin,Virginia Tech,I4210114444,Meta,1
+A5040429065,Hongliang Xin,Virginia Tech,I4210092529,Giner,1
+A5057535114,Peter Schindler,Northeastern University,I1291425158,Google,2
+A5072657571,Fanglin Che,Worcester Polytechnic Institute,I923382979,ExxonMobil,1
+A5072657571,Fanglin Che,Worcester Polytechnic Institute,I4210114444,Meta,1
+A5072657571,Fanglin Che,Worcester Polytechnic Institute,I4405261461,Toyota Motor North America Research & Development,1
+A5029991019,Lars Christian Grabow,University of Minnesota,I923382979,ExxonMobil,2
+A5029991019,Lars Christian Grabow,University of Minnesota,I4405261461,Toyota Motor North America Research & Development,2
+A5029991019,Lars Christian Grabow,University of Minnesota,I4210114444,Meta,1
+A5050671822,Heather J. Kulik,Duke University,I4405261461,Toyota Motor North America Research & Development,2
+A5050671822,Heather J. Kulik,Duke University,I4210133143,Dow Chemical,2
+A5050671822,Heather J. Kulik,Duke University,I923382979,ExxonMobil,1
+A5050671822,Heather J. Kulik,Duke University,I4210114444,Meta,1
+A5050671822,Heather J. Kulik,Duke University,I4387153498,SandboxAQ,1
+A5036197373,Andrew James Medford,Georgia Institute of Technology,I4405261461,Toyota Motor North America Research & Development,2
+A5036197373,Andrew James Medford,Georgia Institute of Technology,I923382979,ExxonMobil,1
+A5036197373,Andrew James Medford,Georgia Institute of Technology,I4210114444,Meta,1
+A5036197373,Andrew James Medford,Georgia Institute of Technology,I257179599,Baker Hughes,1
+A5036197373,Andrew James Medford,Georgia Institute of Technology,I4210150951,Shell,1
+A5050792689,Volker Blüm,Duke University,I4210143896,Citrine Informatics,3
+A5050792689,Volker Blüm,Duke University,I4210128969,Alphabet,1
+A5050792689,Volker Blüm,Duke University,I4387153498,SandboxAQ,1
+A5050792689,Volker Blüm,Duke University,I1291425158,Google,1
+A5050792689,Volker Blüm,Duke University,I1290206253,Microsoft,1
+A5021416803,José L. Mendoza-Cortés,Michigan State University,I4210127875,Nvidia,2
+A5090917114,Francesco A. Evangelista,Emory University,I1290206253,Microsoft,1
+A5090917114,Francesco A. Evangelista,Emory University,I1341412227,IBM,1
+A5090917114,Francesco A. Evangelista,Emory University,I1311688040,Amazon,1
+A5062631568,Laura Gagliardi,University of Chicago,I200576644,HRL Laboratories,3
+A5062631568,Laura Gagliardi,University of Chicago,I1341412227,IBM,2
+A5062631568,Laura Gagliardi,University of Chicago,I1290206253,Microsoft,1
+A5062631568,Laura Gagliardi,University of Chicago,I4405269909,"Gaussian, Inc.",1
+A5062631568,Laura Gagliardi,University of Chicago,I4210127875,Nvidia,1
+A5062631568,Laura Gagliardi,University of Chicago,I4210133143,Dow Chemical,1
+A5016558608,Juan E. Peralta,Central Michigan University,I4405269909,"Gaussian, Inc.",2
+A5021231690,Jean-Luc Brédas,University of Arizona,I4210124284,Parallel Quantum Solutions,1
+A5021231690,Jean-Luc Brédas,University of Arizona,I175669267,Carestream,1
+A5021231690,Jean-Luc Brédas,University of Arizona,I4210159451,Kodak,1
+A5021231690,Jean-Luc Brédas,University of Arizona,I1283103587,AT&T,1
+A5021231690,Jean-Luc Brédas,University of Arizona,I4401726965,Boston Consulting Group,1
+A5021231690,Jean-Luc Brédas,University of Arizona,I4388891901,Allied Corporation,1
+A5090200106,Emily A. Carter,Princeton University,I4387156175,BIOVIA,2
+A5090200106,Emily A. Carter,Princeton University,I1283103587,AT&T,1
+A5082427922,Hrant P. Hratchian,University of Louisville,I4405269909,"Gaussian, Inc.",17
+A5011183754,Krishnan Raghavachari,Indiana University Bloomington,I4405269909,"Gaussian, Inc.",5
+A5011183754,Krishnan Raghavachari,Indiana University Bloomington,I168537998,Eli Lilly,3
+A5011183754,Krishnan Raghavachari,Indiana University Bloomington,I1283103587,AT&T,1
+A5060032085,Péter Pulay,University of Arkansas at Fayetteville,I4210124284,Parallel Quantum Solutions,14
+A5055420458,Joseph Eli Subotnik,Princeton University,I4210088495,Q Chem,6
+A5055420458,Joseph Eli Subotnik,Princeton University,I203455613,Schrodinger,2
+A5061947031,Terry A. Miller,The Ohio State University,I923382979,ExxonMobil,1
+A5064654490,Joel M. Bowman,Emory University,I178975111,Spectral Sciences,2
+A5064654490,Joel M. Bowman,Emory University,I1343180700,Intel,2
+A5080739361,Bala Ramu Ramachandran,Louisiana Tech University,I178975111,Spectral Sciences,1
+A5032670273,Paul W. Ayers,University of Florida,I4210096359,TDA Research,2
+A5032670273,Paul W. Ayers,University of Florida,I4210160255,Boehringer Ingelheim,2
+A5032670273,Paul W. Ayers,University of Florida,I4210107917,Exact Sciences,1
+A5032670273,Paul W. Ayers,University of Florida,I4403928396,Wyeth,1
+A5103483505,William A. Lester,"University of California, Berkeley",I4387156175,BIOVIA,2
+A5103483505,William A. Lester,"University of California, Berkeley",I1290206253,Microsoft,1
+A5079657136,David J. Keffer,University of Tennessee at Knoxville,I4210140030,Eastman Chemical Company,4
+A5079657136,David J. Keffer,University of Tennessee at Knoxville,I4210103101,Advanced Research Systems,1
+A5019365403,HERSCHEL A. RABITZ,Princeton University,I1291425158,Google,1
+A5019365403,HERSCHEL A. RABITZ,Princeton University,I4387155476,Kadmon Corporation,1
+A5024093329,Michele Pavanello,"Rutgers, The State University of New Jersey",I74786994,Kitware,3
+A5102844639,Bohdan Schatschneider,California State Polytechnic University,I4387156175,BIOVIA,3
+A5005845215,Rui Sun,University of Hawaiʻi at Mānoa,I168537998,Eli Lilly,4
+A5005845215,Rui Sun,University of Hawaiʻi at Mānoa,I178975111,Spectral Sciences,1
+A5049050864,Wenjun Zheng,"University at Buffalo, State University of New York",I4210088495,Q Chem,1
+A5004949574,Yigui Wang,University of New Haven,I4405269909,"Gaussian, Inc.",2
+A5069830262,Patrick H. Vaccaro,Yale University,I4405269909,"Gaussian, Inc.",7
+A5069830262,Patrick H. Vaccaro,Yale University,I1343180700,Intel,1
+A5023929087,Benjamin G. Janesko,Texas Christian University,I4405269909,"Gaussian, Inc.",17
+A5004298380,Stephen Lam,University of Massachusetts Lowell,I4210120115,Robert Bosch,1
+A5004298380,Stephen Lam,University of Massachusetts Lowell,I4405262680,Commonwealth Fusion Systems,1
+A5052766760,John M. Herbert,The Ohio State University,I4210088495,Q Chem,5
+A5029833367,Isaac Tamblyn,University of Ottawa,I4387154962,1QBit,1
+A5029833367,Isaac Tamblyn,University of Ottawa,I4387153498,SandboxAQ,1
+A5039807477,John C. Mauro,Pennsylvania State University,I1338503839,Corning,49
+A5039807477,John C. Mauro,Pennsylvania State University,I1341412227,IBM,1
+A5039807477,John C. Mauro,Pennsylvania State University,I4210134512,GE Global Research,1
+A5039807477,John C. Mauro,Pennsylvania State University,I4210143896,Citrine Informatics,1
+A5039807477,John C. Mauro,Pennsylvania State University,I4210160270,Materials Development,1
+A5022450476,Maria G. Kurnikova,Carnegie Mellon University,I4387152382,Interx,3
+A5003802798,Jeffrey J. Potoff,Wayne State University,I4387152382,Interx,2
+A5003802798,Jeffrey J. Potoff,Wayne State University,I11912373,Micron,1
+A5018615228,M. Scott Shell,"University of California, Santa Barbara",I3019562804,BASF,4
+A5018615228,M. Scott Shell,"University of California, Santa Barbara",I4210133143,Dow Chemical,1
+A5067839341,Glenn H. Fredrickson,"University of California, Santa Barbara",I3019562804,BASF,4
+A5067839341,Glenn H. Fredrickson,"University of California, Santa Barbara",I153156064,KBR,1
+A5067839341,Glenn H. Fredrickson,"University of California, Santa Barbara",I4210133143,Dow Chemical,1
+A5067839341,Glenn H. Fredrickson,"University of California, Santa Barbara",I203455613,Schrodinger,1
+A5030863265,Paulette Clancy,Johns Hopkins University,I4387155523,Fort Wayne Metals,2
+A5030863265,Paulette Clancy,Johns Hopkins University,I1338503839,Corning,2
+A5030863265,Paulette Clancy,Johns Hopkins University,I2946016260,Uber AI,1
+A5030863265,Paulette Clancy,Johns Hopkins University,I1343180700,Intel,1
+A5077096576,Vojtěch Vlček,"University of California, Santa Barbara",I153156064,KBR,1
+A5089949727,Timothy M. Korter,Syracuse University,I175669267,Carestream,2
+A5089949727,Timothy M. Korter,Syracuse University,I4210159451,Kodak,2
+A5089949727,Timothy M. Korter,Syracuse University,I4210091812,Bristol-Myers Squibb,2
+A5088187289,Rodney J. Bartlett,University of Florida,I1328091291,Ensco,1
+A5088187289,Rodney J. Bartlett,University of Florida,I1341412227,IBM,1
+A5082303358,Xiao Dong He,New York University,I4405269909,"Gaussian, Inc.",1
+A5059776754,A. Eugene DePrince,Florida State University,I1291425158,Google,4
+A5059776754,A. Eugene DePrince,Florida State University,I4210088495,Q Chem,2
+A5000262710,Eva Zurek,"University at Buffalo, State University of New York",I74786994,Kitware,1
+A5058793147,Angela K. Wilson,Michigan State University,I4405269909,"Gaussian, Inc.",1
+A5100462392,Zi-Kui Liu,Pennsylvania State University,I118136607,General Motors,4
+A5100462392,Zi-Kui Liu,Pennsylvania State University,I1292974536,Ford Motor Company,2
+A5100462392,Zi-Kui Liu,Pennsylvania State University,I4210092778,QuesTek,1
+A5100462392,Zi-Kui Liu,Pennsylvania State University,I4210113028,Air Products,1
+A5053607565,Athanassios Z. Panagiotopoulos,Princeton University,I923382979,ExxonMobil,3
+A5053607565,Athanassios Z. Panagiotopoulos,Princeton University,I62856769,Saudi Aramco,3
+A5053607565,Athanassios Z. Panagiotopoulos,Princeton University,I4210113028,Air Products,1
+A5053607565,Athanassios Z. Panagiotopoulos,Princeton University,I1320553840,Amgen,1
+A5007296680,Cherif  Farid Matta,Dalhousie University,I4210096359,TDA Research,2
+A5058360244,Susan B. Sinnott,Pennsylvania State University,I131787340,Seagate,2
+A5058360244,Susan B. Sinnott,Pennsylvania State University,I1341412227,IBM,1
+A5058360244,Susan B. Sinnott,Pennsylvania State University,I4210134512,GE Global Research,1
+A5058360244,Susan B. Sinnott,Pennsylvania State University,I4210143896,Citrine Informatics,1
+A5058360244,Susan B. Sinnott,Pennsylvania State University,I1338503839,Corning,1
+A5058360244,Susan B. Sinnott,Pennsylvania State University,I4210160270,Materials Development,1
+A5058360244,Susan B. Sinnott,Pennsylvania State University,I4210121352,Western Digital,1
+A5058360244,Susan B. Sinnott,Pennsylvania State University,I86725329,Hitachi Global Storage Technologies,1
+A5058360244,Susan B. Sinnott,Pennsylvania State University,I4210139090,Lam Research,1
+A5100351945,Zhou Lin,University of Massachusetts Amherst,I4210137977,Advanced Micro Devices,2
+A5100351945,Zhou Lin,University of Massachusetts Amherst,I4210098346,Activision Blizzard,1
+A5007496868,David L. Mobley,"University of California, Irvine",I180857899,Pfizer,3
+A5007496868,David L. Mobley,"University of California, Irvine",I183934855,Genentech,2
+A5007496868,David L. Mobley,"University of California, Irvine",I4210091812,Bristol-Myers Squibb,2
+A5007496868,David L. Mobley,"University of California, Irvine",I61970326,Vertex Pharmaceuticals,2
+A5007496868,David L. Mobley,"University of California, Irvine",I4405282460,Janssen Research & Development,1
+A5007496868,David L. Mobley,"University of California, Irvine",I203455613,Schrodinger,1
+A5007496868,David L. Mobley,"University of California, Irvine",I4210116259,Alkermes,1
+A5067876893,Yue Fan,University of Michigan,I1292974536,Ford Motor Company,1
+A5083309623,Jeffrey C. Grossman,Massachusetts Institute of Technology,I4210150951,Shell,2
+A5083309623,Jeffrey C. Grossman,Massachusetts Institute of Technology,I4210120115,Robert Bosch,1
+A5083309623,Jeffrey C. Grossman,Massachusetts Institute of Technology,I923382979,ExxonMobil,1
+A5081731526,Theresa L. Windus,Iowa State University,I4210127875,Nvidia,2
+A5081731526,Theresa L. Windus,Iowa State University,I4396570585,Leidos Biomedical Research Inc.,1
+A5055658408,Edward F. Valeev,Virginia Tech,I4210127875,Nvidia,2
+A5055658408,Edward F. Valeev,Virginia Tech,I1311688040,Amazon,1
+A5055658408,Edward F. Valeev,Virginia Tech,I1291425158,Google,1
+A5055658408,Edward F. Valeev,Virginia Tech,I1341412227,IBM,1
+A5055658408,Edward F. Valeev,Virginia Tech,I4210091388,Mercedes-Benz Research and Development North America,1
+A5041302371,Sharon Hammes-Schiffer,Princeton University,I4210088495,Q Chem,3
+A5041302371,Sharon Hammes-Schiffer,Princeton University,I4405269909,"Gaussian, Inc.",1
+A5041302371,Sharon Hammes-Schiffer,Princeton University,I2818286,LG,1
+A5104977762,Yang Yang,University of Wisconsin–Madison,I4405269909,"Gaussian, Inc.",1
+A5104977762,Yang Yang,University of Wisconsin–Madison,I180857899,Pfizer,1
+A5104977762,Yang Yang,University of Wisconsin–Madison,I4387156175,BIOVIA,1
+A5104977762,Yang Yang,University of Wisconsin–Madison,I174947986,Flex,1
+A5104977762,Yang Yang,University of Wisconsin–Madison,I4210113986,Deltagen,1
+A5004364689,Jincheng Du,University of North Texas,I1338503839,Corning,5
+A5004364689,Jincheng Du,University of North Texas,I4210160270,Materials Development,3
+A5004364689,Jincheng Du,University of North Texas,I4210143896,Citrine Informatics,2
+A5004364689,Jincheng Du,University of North Texas,I4210125702,Innovative Technology Laboratories,2
+A5004364689,Jincheng Du,University of North Texas,I4387155416,Shepherd Chemicals,1
+A5005174623,Efthimios Kaxiras,Harvard University,I4210127875,Nvidia,1
+A5005174623,Efthimios Kaxiras,Harvard University,I2799548008,D. E. Shaw Research,1
+A5072134023,Ganesh Balasubramanian,University of New Haven,I1324840837,Hewlett-Packard,2
+A5072134023,Ganesh Balasubramanian,University of New Haven,I4210103101,Advanced Research Systems,1
+A5048639368,Aurora E. Clark,University of Utah,I4387155416,Shepherd Chemicals,1
+A5048639368,Aurora E. Clark,University of Utah,I1311688040,Amazon,1
+A5016265600,Yong Duan,"University of California, Davis",I4210158736,Nurix,3
+A5016265600,Yong Duan,"University of California, Davis",I4387156175,BIOVIA,1
+A5016265600,Yong Duan,"University of California, Davis",I1316910977,DuPont,1
+A5100681146,Mingjie Liu,University of Florida,I4210127875,Nvidia,1
+A5100681146,Mingjie Liu,University of Florida,I4405261461,Toyota Motor North America Research & Development,1
+A5043599635,Richard G. Hennig,University of Florida,I118136607,General Motors,3
+A5043599635,Richard G. Hennig,University of Florida,I4210127875,Nvidia,1
+A5043599635,Richard G. Hennig,University of Florida,I4210121352,Western Digital,1
+A5043599635,Richard G. Hennig,University of Florida,I86725329,Hitachi Global Storage Technologies,1
+A5043599635,Richard G. Hennig,University of Florida,I4210153557,Nohms Technologies,1
+A5054861635,Linda J. Broadbelt,Northwestern University,I4210133143,Dow Chemical,6
+A5054861635,Linda J. Broadbelt,Northwestern University,I923382979,ExxonMobil,2
+A5054861635,Linda J. Broadbelt,Northwestern University,I4210088781,Phillips 66,2
+A5054861635,Linda J. Broadbelt,Northwestern University,I4210138531,Hexion,1
+A5054861635,Linda J. Broadbelt,Northwestern University,I257179599,Baker Hughes,1
+A5029596133,Kirk A. Peterson,Washington State University,I4210115286,Dirac Solutions,2
+A5029596133,Kirk A. Peterson,Washington State University,I4210133143,Dow Chemical,1
+A5029596133,Kirk A. Peterson,Washington State University,I1343180700,Intel,1
+A5033808182,Lan Cheng,Johns Hopkins University,I4210115286,Dirac Solutions,1
+A5069354331,Geoffrey Hutchison,University of Pittsburgh,I1311688040,Amazon,1
+A5069354331,Geoffrey Hutchison,University of Pittsburgh,I1291425158,Google,1
+A5068503645,Sotiris S. Xantheas,University of Washington,I4387153498,SandboxAQ,4
+A5068503645,Sotiris S. Xantheas,University of Washington,I4210127875,Nvidia,2
+A5068503645,Sotiris S. Xantheas,University of Washington,I1290206253,Microsoft,1
+A5068503645,Sotiris S. Xantheas,University of Washington,I4210133143,Dow Chemical,1
+A5072172171,Yosuke Kanai,University of North Carolina at Chapel Hill,I1290206253,Microsoft,1
+A5075368706,Scott M. Auerbach,University of Massachusetts Amherst,I4405269909,"Gaussian, Inc.",1
+A5075368706,Scott M. Auerbach,University of Massachusetts Amherst,I203455613,Schrodinger,1
+A5075368706,Scott M. Auerbach,University of Massachusetts Amherst,I4210094840,Silicon Therapeutics,1
+A5024631055,James A. Phillips,University of Wisconsin–Eau Claire,I175669267,Carestream,2
+A5024631055,James A. Phillips,University of Wisconsin–Eau Claire,I4210159451,Kodak,2
+A5049003918,Mark Maroncelli,Pennsylvania State University,I912752132,Armstrong World Industries,1
+A5066527689,John G. Curro,New Mexico Institute of Mining and Technology,I1316910977,DuPont,1
+A5078014032,Ruhong Zhou,Columbia University,I1341412227,IBM,13
+A5078014032,Ruhong Zhou,Columbia University,I203455613,Schrodinger,2
+A5076689818,Jorge O. Sofo,Pennsylvania State University,I1292974536,Ford Motor Company,1
+A5042178740,Kendall N. Houk,"University of California, Los Angeles",I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",2
+A5042178740,Kendall N. Houk,"University of California, Los Angeles",I175381709,Codexis,2
+A5042178740,Kendall N. Houk,"University of California, Los Angeles",I1320553840,Amgen,1
+A5042178740,Kendall N. Houk,"University of California, Los Angeles",I183934855,Genentech,1
+A5022669696,N. Balakrishnan,"University of Nevada, Las Vegas",I4210113028,Air Products,4
+A5019016673,Randall Q. Snurr,Northwestern University,I923382979,ExxonMobil,1
+A5019016673,Randall Q. Snurr,Northwestern University,I1341412227,IBM,1
+A5019016673,Randall Q. Snurr,Northwestern University,I4210133143,Dow Chemical,1
+A5001454717,Mesfin Tsige,University of Akron,I4210162290,Wasatch Molecular,1
+A5003543257,Sohrab Ismail-Beigi,Yale University,I1341412227,IBM,3
+A5003543257,Sohrab Ismail-Beigi,Yale University,I4210142480,Thermo Fisher Scientific,1
+A5035697433,Chris A. Marianetti,Columbia University,I4210120115,Robert Bosch,1
+A5063314829,Hans Lischka,Texas Tech University,I178975111,Spectral Sciences,1
+A5069124714,William L. Hase,Texas Tech University,I178975111,Spectral Sciences,2
+A5069124714,William L. Hase,Texas Tech University,I4210114261,Zyvex,1
+A5064071670,Daniel Neuhauser,"University of California, Los Angeles",I4210091388,Mercedes-Benz Research and Development North America,2
+A5064071670,Daniel Neuhauser,"University of California, Los Angeles",I1311688040,Amazon,1
+A5041503459,Eran Rabani,"University of California, Berkeley",I4210091388,Mercedes-Benz Research and Development North America,2
+A5041503459,Eran Rabani,"University of California, Berkeley",I1311688040,Amazon,1
+A5041503459,Eran Rabani,"University of California, Berkeley",I4405270056,Numerion Labs,1
+A5041503459,Eran Rabani,"University of California, Berkeley",I4387155329,Form Energy,1
+A5006135562,Lee M. Thompson,University of Louisville,I4405269909,"Gaussian, Inc.",2
+A5070648355,Mark E. Eberhart,Colorado School of Mines,I4210126173,Tecplot,2
+A5070648355,Mark E. Eberhart,Colorado School of Mines,I4210107917,Exact Sciences,1
+A5049982297,Michael K. Gilson,University of California San Diego,I4210148837,VeraChem,5
+A5049982297,Michael K. Gilson,University of California San Diego,I4405270056,Numerion Labs,1
+A5049982297,Michael K. Gilson,University of California San Diego,I4210114143,GlaxoSmithKline,1
+A5049982297,Michael K. Gilson,University of California San Diego,I4210094840,Silicon Therapeutics,1
+A5049982297,Michael K. Gilson,University of California San Diego,I4210140230,Dart NeuroScience,1
+A5049982297,Michael K. Gilson,University of California San Diego,I61970326,Vertex Pharmaceuticals,1
+A5010373442,Peng Tao,Southern Methodist University,I4210088495,Q Chem,4
+A5010373442,Peng Tao,Southern Methodist University,I4405269909,"Gaussian, Inc.",1
+A5056944006,Alexander D. MacKerell,"University of Maryland, Baltimore",I4210116217,SilcsBio,4
+A5056944006,Alexander D. MacKerell,"University of Maryland, Baltimore",I203455613,Schrodinger,2
+A5056944006,Alexander D. MacKerell,"University of Maryland, Baltimore",I4210088495,Q Chem,1
+A5056944006,Alexander D. MacKerell,"University of Maryland, Baltimore",I180857899,Pfizer,1
+A5110200187,Eugene Stanley,Boston University,I4210133143,Dow Chemical,1
+A5088416663,Pablo G. Debenedetti,Princeton University,I4210133143,Dow Chemical,1
+A5088416663,Pablo G. Debenedetti,Princeton University,I4210113028,Air Products,1
+A5088416663,Pablo G. Debenedetti,Princeton University,I4210160255,Boehringer Ingelheim,1
+A5012026163,Jonathan K. Whitmer,University of Notre Dame,I74680897,Procter & Gamble,1
+A5034083940,Alberto Striolo,University of Oklahoma,I4210137549,Halliburton,5
+A5034083940,Alberto Striolo,University of Oklahoma,I4210118014,Chevron,2
+A5034083940,Alberto Striolo,University of Oklahoma,I193427800,Applied Materials,1
+A5032527934,Walter G. Chapman,Rice University,I923382979,ExxonMobil,2
+A5032527934,Walter G. Chapman,Rice University,I4210150951,Shell,2
+A5032527934,Walter G. Chapman,Rice University,I4210133143,Dow Chemical,2
+A5032527934,Walter G. Chapman,Rice University,I257179599,Baker Hughes,1
+A5004762529,Ganesh Sivaraman,"University at Buffalo, State University of New York",I4210127875,Nvidia,2
+A5004762529,Ganesh Sivaraman,"University at Buffalo, State University of New York",I4210160270,Materials Development,1
+A5020941997,Koblar Alan Jackson,Central Michigan University,I1290206253,Microsoft,1
+A5067593473,Mark R. Pederson,The University of Texas at El Paso,I1290206253,Microsoft,1
+A5072031636,Toru Shiozaki,Northwestern University,I1291425158,Google,2
+A5072031636,Toru Shiozaki,Northwestern University,I4210115850,Quantum Simulations,1
+A5080360440,Michael R. Shirts,University of Colorado Boulder,I2948539688,AbbVie,3
+A5080360440,Michael R. Shirts,University of Colorado Boulder,I4210137977,Advanced Micro Devices,1
+A5007224077,Adrienn Ruzsinszky,Tulane University,I4210150951,Shell,1
+A5053374300,Katharine L. C. Hunt,Michigan State University,I1341412227,IBM,1
+A5019158207,Kenneth D. Jordan,University of Pittsburgh,I1341412227,IBM,1
+A5029685120,Gino A. DiLabio,University of British Columbia,I4405269909,"Gaussian, Inc.",1
+A5074338360,Líney Árnadóttir,Oregon State University,I4405261461,Toyota Motor North America Research & Development,1
+A5091386458,Olgun Guvench,University of New England,I203455613,Schrodinger,1
+A5001701189,Vojislava Pophristic,Rowan University,I4210135004,Colgate-Palmolive,2
+A5068247471,Michael Lawrence Klein,Temple University,I74680897,Procter & Gamble,12
+A5068247471,Michael Lawrence Klein,Temple University,I203455613,Schrodinger,3
+A5068247471,Michael Lawrence Klein,Temple University,I4210135004,Colgate-Palmolive,1
+A5068247471,Michael Lawrence Klein,Temple University,I1341412227,IBM,1
+A5102778212,Benoît Roux,University of Chicago,I2799548008,D. E. Shaw Research,2
+A5102778212,Benoît Roux,University of Chicago,I203455613,Schrodinger,2
+A5102778212,Benoît Roux,University of Chicago,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",1
+A5102778212,Benoît Roux,University of Chicago,I4210095507,Merck Canada Inc.,1
+A5102778212,Benoît Roux,University of Chicago,I168537998,Eli Lilly,1
+A5102778212,Benoît Roux,University of Chicago,I4210116217,SilcsBio,1
+A5035627473,William A. Goddard,California Institute of Technology,I1340755506,3M,2
+A5035627473,William A. Goddard,California Institute of Technology,I118136607,General Motors,2
+A5035627473,William A. Goddard,California Institute of Technology,I4210088495,Q Chem,1
+A5035627473,William A. Goddard,California Institute of Technology,I1343180700,Intel,1
+A5035627473,William A. Goddard,California Institute of Technology,I203455613,Schrodinger,1
+A5035627473,William A. Goddard,California Institute of Technology,I1316910977,DuPont,1
+A5035627473,William A. Goddard,California Institute of Technology,I1292974536,Ford Motor Company,1
+A5035627473,William A. Goddard,California Institute of Technology,I4210133143,Dow Chemical,1
+A5035627473,William A. Goddard,California Institute of Technology,I4210109925,Cargill,1
+A5035627473,William A. Goddard,California Institute of Technology,I4210155505,BioNTech,1
+A5036982709,Armand Soldera,Université de Sherbrooke,I118136607,General Motors,2
+A5025652747,Wei Yuan Yang,Florida State University,I1297540436,Biogen,1
+A5044149120,J. V. Ortiz,Auburn University,I114662689,Leidos,1
+A5000143645,Bernhardt L. Trout,Massachusetts Institute of Technology,I1292974536,Ford Motor Company,3
+A5000143645,Bernhardt L. Trout,Massachusetts Institute of Technology,I183934855,Genentech,2
+A5000143645,Bernhardt L. Trout,Massachusetts Institute of Technology,I1316910977,DuPont,2
+A5000143645,Bernhardt L. Trout,Massachusetts Institute of Technology,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",1
+A5000143645,Bernhardt L. Trout,Massachusetts Institute of Technology,I4210150756,AstraZeneca,1
+A5000143645,Bernhardt L. Trout,Massachusetts Institute of Technology,I4210109925,Cargill,1
+A5046797476,Rigoberto Hernandez,Johns Hopkins University,I4210129342,Kimberly-Clark,13
+A5046797476,Rigoberto Hernandez,Johns Hopkins University,I4210161154,Roivant Sciences,1
+A5075546861,Alexander A. Rusakov,Oakland University,I4405269909,"Gaussian, Inc.",1
+A5053850265,William L. Jorgensen,Yale University,I180857899,Pfizer,2
+A5053850265,William L. Jorgensen,Yale University,I4405269909,"Gaussian, Inc.",1
+A5053850265,William L. Jorgensen,Yale University,I203455613,Schrodinger,1
+A5033882381,Timothy K. Minton,University of Colorado Boulder,I178975111,Spectral Sciences,2
+A5036477452,James D. Kubicki,The University of Texas at El Paso,I923382979,ExxonMobil,1
+A5036477452,James D. Kubicki,The University of Texas at El Paso,I1316910977,DuPont,1
+A5000410825,Peter J. Rossky,Rice University,I4405258653,Wavefunction,1
+A5000410825,Peter J. Rossky,Rice University,I923382979,ExxonMobil,1
+A5026490818,Mark A. Ratner,Northwestern University,I4210128144,EIC Laboratories,1
+A5026490818,Mark A. Ratner,Northwestern University,I1324840837,Hewlett-Packard,1
+A5047676104,Graeme Henkelman,University of South Carolina,I1333370159,Motorola,2
+A5047676104,Graeme Henkelman,University of South Carolina,I923382979,ExxonMobil,1
+A5026596166,Thanh N. Truong,University of Utah,I4210133143,Dow Chemical,2
+A5025731480,David S. Corti,Purdue University West Lafayette,I1324840837,Hewlett-Packard,1
+A5025731480,David S. Corti,Purdue University West Lafayette,I2948539688,AbbVie,1
+A5063013684,Qimin Yan,Northeastern University,I1290206253,Microsoft,1
+A5063013684,Qimin Yan,Northeastern University,I4405261461,Toyota Motor North America Research & Development,1
+A5065656919,K. Cho,The University of Texas at Dallas,I4210114261,Zyvex,5
+A5065656919,K. Cho,The University of Texas at Dallas,I74760111,Texas Instruments,5
+A5065656919,K. Cho,The University of Texas at Dallas,I11912373,Micron,1
+A5065656919,K. Cho,The University of Texas at Dallas,I4210088951,Synopsys,1
+A5024333457,J. Karl Johnson,University of Pittsburgh,I4405255852,Lubrizol,3
+A5024333457,J. Karl Johnson,University of Pittsburgh,I4210105540,Advanced Materials Corporation,1
+A5024333457,J. Karl Johnson,University of Pittsburgh,I1334877674,Taiwan Semiconductor Manufacturing Company,1
+A5077462395,Axel van de Walle,Brown University,I887054487,MathWorks,1
+A5077462395,Axel van de Walle,Brown University,I1338503839,Corning,1
+A5111499572,John H. Weare,University of California San Diego,I4210114143,GlaxoSmithKline,1
+A5111499572,John H. Weare,University of California San Diego,I1290206253,Microsoft,1
+A5029519677,Robert J. Hinde,University of Tennessee at Knoxville,I4210159872,Predictive Science,1
+A5029519677,Robert J. Hinde,University of Tennessee at Knoxville,I2948394018,Northrop Grumman,1
+A5029519677,Robert J. Hinde,University of Tennessee at Knoxville,I4387156175,BIOVIA,1
+A5061472917,Jianfeng Lu,Duke University,I1290206253,Microsoft,1
+A5023765609,David Joseph Singh,University of Missouri,I130579109,IHI Corporation,1
+A5089160653,Stephen J. Paddison,University of Tennessee at Knoxville,I1333370159,Motorola,6
+A5033582284,Johannes Hachmann,"University at Buffalo, State University of New York",I203455613,Schrodinger,1
+A5033582284,Johannes Hachmann,"University at Buffalo, State University of New York",I74786994,Kitware,1
+A5003451698,Baron Peters,University of Illinois Urbana-Champaign,I168537998,Eli Lilly,1
+A5038778212,Guo-Wei Wei,Michigan State University,I4401726889,Regions Financial,1
+A5038778212,Guo-Wei Wei,Michigan State University,I4210091812,Bristol-Myers Squibb,1
+A5038778212,Guo-Wei Wei,Michigan State University,I1291425158,Google,1
+A5049476042,Jianshu Cao,Massachusetts Institute of Technology,I1291425158,Google,1
+A5000346379,Dudley R. Herschbach,Harvard University,I1283103587,AT&T,2
+A5000346379,Dudley R. Herschbach,Harvard University,I4210111149,Aerodyne Research,1
+A5046036704,T. Daniel Crawford,Virginia Tech,I4405269909,"Gaussian, Inc.",3
+A5046036704,T. Daniel Crawford,Virginia Tech,I1290206253,Microsoft,1
+A5029297375,Gregory R. Bowman,Washington University in St. Louis,I1291425158,Google,2
+A5029297375,Gregory R. Bowman,Washington University in St. Louis,I4405270056,Numerion Labs,1
+A5029297375,Gregory R. Bowman,Washington University in St. Louis,I4387155329,Form Energy,1
+A5113529328,P. Ortoleva,Indiana University Bloomington,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",2
+A5113529328,P. Ortoleva,Indiana University Bloomington,I71443028,Donaldson,1
+A5074474528,Michel Dupuis,"University at Buffalo, State University of New York",I1341412227,IBM,1
+A5074474528,Michel Dupuis,"University at Buffalo, State University of New York",I4210133143,Dow Chemical,1
+A5057793752,Thomas D. Sewell,University of Missouri,I4210162290,Wasatch Molecular,2
+A5057793752,Thomas D. Sewell,University of Missouri,I4210131040,Los Alamos National Security,1
+A5033633287,Henry F. Schaefer,University of Georgia,I4210088495,Q Chem,1
+A5033633287,Henry F. Schaefer,University of Georgia,I1290206253,Microsoft,1
+A5004441687,Hai-Ping Cheng,Northeastern University,I1343180700,Intel,1
+A5085637107,Shaul Mukamel,"University of California, Irvine",I1338503839,Corning,4
+A5085637107,Shaul Mukamel,"University of California, Irvine",I4210127875,Nvidia,1
+A5055124393,Keith E. Gubbins,North Carolina State University,I4387156175,BIOVIA,1
+A5084410882,Mark R. Hoffmann,University of North Dakota,I4210129483,Eloret,2
+A5029553936,Joseph S. Francisco,University of Pennsylvania,I1292974536,Ford Motor Company,1
+A5059420993,Coray M. Colina,University of Florida,I62856769,Saudi Aramco,2
+A5059420993,Coray M. Colina,University of Florida,I4210133143,Dow Chemical,1
+A5061216131,Paul W. Brumer,University of Toronto,I80578424,Imperial Oil,1
+A5018079613,Rafael Gómez-Bombarelli,Massachusetts Institute of Technology,I4210114444,Meta,2
+A5018079613,Rafael Gómez-Bombarelli,Massachusetts Institute of Technology,I1290206253,Microsoft,1
+A5018079613,Rafael Gómez-Bombarelli,Massachusetts Institute of Technology,I4210150951,Shell,1
+A5018079613,Rafael Gómez-Bombarelli,Massachusetts Institute of Technology,I203455613,Schrodinger,1
+A5018079613,Rafael Gómez-Bombarelli,Massachusetts Institute of Technology,I4210101778,Samsung,1
+A5018079613,Rafael Gómez-Bombarelli,Massachusetts Institute of Technology,I4387153498,SandboxAQ,1
+A5100609041,Ju Li,Massachusetts Institute of Technology,I1338503839,Corning,3
+A5100609041,Ju Li,Massachusetts Institute of Technology,I1341412227,IBM,1
+A5100609041,Ju Li,Massachusetts Institute of Technology,I4210150951,Shell,1
+A5100609041,Ju Li,Massachusetts Institute of Technology,I4210145184,Honda,1
+A5100609041,Ju Li,Massachusetts Institute of Technology,I923382979,ExxonMobil,1
+A5037024512,Santanu Chaudhuri,University of Illinois Chicago,I200576644,HRL Laboratories,2
+A5037024512,Santanu Chaudhuri,University of Illinois Chicago,I118136607,General Motors,2
+A5037024512,Santanu Chaudhuri,University of Illinois Chicago,I4210127875,Nvidia,1
+A5037024512,Santanu Chaudhuri,University of Illinois Chicago,I1295339012,Boeing,1
+A5087810793,Emad Tajkhorshid,University of Illinois Urbana-Champaign,I4210127875,Nvidia,1
+A5087810793,Emad Tajkhorshid,University of Illinois Urbana-Champaign,I4210132618,Loxo Oncology at Lilly,1
+A5087810793,Emad Tajkhorshid,University of Illinois Urbana-Champaign,I2799548008,D. E. Shaw Research,1
+A5087810793,Emad Tajkhorshid,University of Illinois Urbana-Champaign,I4210105831,Jnana Therapeutics,1
+A5087057269,Charles B. Musgrave,Northwestern University,I4210150951,Shell,1
+A5087057269,Charles B. Musgrave,Northwestern University,I1292974536,Ford Motor Company,1
+A5061903235,Cecilia Clementi,Rice University,I1290206253,Microsoft,3
+A5061903235,Cecilia Clementi,Rice University,I4210114444,Meta,1
+A5049020441,Aditi S. Krishnapriyan,"University of California, Berkeley",I4210114444,Meta,1
+A5049020441,Aditi S. Krishnapriyan,"University of California, Berkeley",I4210127875,Nvidia,1
+A5080199946,Dennis Russell Salahub,University of Calgary,I1332737386,General Electric,1
+A5080199946,Dennis Russell Salahub,University of Calgary,I1290206253,Microsoft,1
+A5080199946,Dennis Russell Salahub,University of Calgary,I4210095507,Merck Canada Inc.,1
+A5037380376,Lou Massa,"The Graduate Center, CUNY",I1341412227,IBM,1
+A5014370221,Harel Weinstein,Weill Cornell Medicine,I1341412227,IBM,2
+A5014370221,Harel Weinstein,Weill Cornell Medicine,I88773910,Intuit,1
+A5089126712,David A. Dixon,University of Alabama,I4210133143,Dow Chemical,1
+A5075316492,Thom H. Dunning,University of Washington,I4210133143,Dow Chemical,1
+A5045900230,Sharon C. Glotzer,University of Michigan,I4210133143,Dow Chemical,1
+A5045900230,Sharon C. Glotzer,University of Michigan,I4210088690,Mellanox Technologies,1
+A5045900230,Sharon C. Glotzer,University of Michigan,I11912373,Micron,1
+A5049584797,Peter T. Cummings,Vanderbilt University,I4210133143,Dow Chemical,1
+A5049584797,Peter T. Cummings,Vanderbilt University,I4210103651,Oxford Instruments,1
+A5049584797,Peter T. Cummings,Vanderbilt University,I923382979,ExxonMobil,1
+A5049584797,Peter T. Cummings,Vanderbilt University,I11912373,Micron,1
+A5057719786,Rajesh Khare,Texas Tech University,I4387156175,BIOVIA,2
+A5003377020,Traian Dumitrică,University of Minnesota,I1340755506,3M,2
+A5003377020,Traian Dumitrică,University of Minnesota,I4210161448,Itasca Consultants,2
+A5003377020,Traian Dumitrică,University of Minnesota,I4210139090,Lam Research,1
+A5019365851,Weitao Yang,Duke University,I1290206253,Microsoft,1
+A5061295554,Russell Jaye Boyd,Dalhousie University,I1290206253,Microsoft,1
+A5061295554,Russell Jaye Boyd,Dalhousie University,I168537998,Eli Lilly,1
+A5060557743,Christopher N. Rowley,Carleton University,I4387930290,Anthropic,1
+A5055147706,Raymundo Arróyave,Texas A&M University,I4210143896,Citrine Informatics,7
+A5045377460,Steven G. Louie,"University of California, Berkeley",I4210127875,Nvidia,1
+A5045377460,Steven G. Louie,"University of California, Berkeley",I4210118014,Chevron,1
+A5068578690,Marvin L. Cohen,"University of California, Berkeley",I4210127875,Nvidia,1
+A5028759819,Grant D. Smith,University of Utah,I4210162290,Wasatch Molecular,21
+A5028759819,Grant D. Smith,University of Utah,I1316910977,DuPont,1
+A5028759819,Grant D. Smith,University of Utah,I118136607,General Motors,1
+A5107195431,Lin Lin,"University of California, Berkeley",I1291425158,Google,2
+A5107195431,Lin Lin,"University of California, Berkeley",I1311688040,Amazon,1
+A5010174060,Robert J. Harrison,Stony Brook University,I1290206253,Microsoft,1
+A5027217102,Marcel Nooijen,University of Waterloo,I1290206253,Microsoft,1
+A5058863384,Russell M. Pitzer,The Ohio State University,I1290206253,Microsoft,1
+A5011717029,Yirong Mo,University of North Carolina at Greensboro,I4210133987,Xencor,1
+A5051728653,Jiali Gao,University of Minnesota,I4210133987,Xencor,1
+A5019265176,K. Birgitta Whaley,"University of California, Berkeley",I1341412227,IBM,1
+A5090363901,Seung Soon Jang,Georgia Institute of Technology,I4387153490,Global Thermostat,2
+A5090363901,Seung Soon Jang,Georgia Institute of Technology,I4210120115,Robert Bosch,2
+A5090363901,Seung Soon Jang,Georgia Institute of Technology,I1340755506,3M,1
+A5090363901,Seung Soon Jang,Georgia Institute of Technology,I4210087826,Ballard Power Systems,1
+A5090363901,Seung Soon Jang,Georgia Institute of Technology,I118136607,General Motors,1
+A5090363901,Seung Soon Jang,Georgia Institute of Technology,I4210155505,BioNTech,1
+A5014039622,Davide Donadio,"University of California, Davis",I4210150951,Shell,1
+A5014039622,Davide Donadio,"University of California, Davis",I193427800,Applied Materials,1
+A5058293814,Giulia Galli,University of Chicago,I1343180700,Intel,2
+A5058293814,Giulia Galli,University of Chicago,I4210150951,Shell,1
+A5058293814,Giulia Galli,University of Chicago,I70745867,KLA,1
+A5056810686,Nicholas Kioussis,"California State University, Northridge",I4210126327,Sivananthan Laboratories,3
+A5056810686,Nicholas Kioussis,"California State University, Northridge",I4210105647,Inston,1
+A5056810686,Nicholas Kioussis,"California State University, Northridge",I4210121352,Western Digital,1
+A5056810686,Nicholas Kioussis,"California State University, Northridge",I86725329,Hitachi Global Storage Technologies,1
+A5005385426,W. Y. Ching,University of Missouri–Kansas City,I1338503839,Corning,2
+A5005385426,W. Y. Ching,University of Missouri–Kansas City,I1316910977,DuPont,1
+A5004558831,Gamil A. Guirgis,College of Charleston,I150569930,Bayer,1
+A5044868665,J. R. Durig,University of Missouri–Kansas City,I150569930,Bayer,1
+A5052995521,David A. Mazziotti,University of Chicago,I4210086189,Mirion Technologies,2
+A5007190695,Julio Cesar Facelli,University of Utah,I4388891798,Thiokol,1
+A5007190695,Julio Cesar Facelli,University of Utah,I4387156175,BIOVIA,1
+A5047572413,Xihong Peng,Arizona State University,I4210134512,GE Global Research,3
+A5047572413,Xihong Peng,Arizona State University,I1332737386,General Electric,2
+A5033735762,Sanat K. Kumar,Columbia University,I4210134512,GE Global Research,3
+A5033735762,Sanat K. Kumar,Columbia University,I1332737386,General Electric,3
+A5033735762,Sanat K. Kumar,Columbia University,I1316910977,DuPont,1
+A5033300881,DIMITRIOS A. PAPACONSTANTOPOULOS,George Mason University,I4210126327,Sivananthan Laboratories,1
+A5091168232,Ryan C. Fortenberry,University of Mississippi,I4210158237,UES,1
+A5063874950,Rodrigo A. Vargas–Hernández,McMaster University,I4210150097,Xanadu Quantum Technologies,1
+A5063874950,Rodrigo A. Vargas–Hernández,McMaster University,I1311688040,Amazon,1
+A5016930081,Thomas L. Beck,University of Cincinnati,I1341412227,IBM,1
+A5013313042,Alexander V. Neimark,"Rutgers, The State University of New Jersey",I923382979,ExxonMobil,1
+A5013313042,Alexander V. Neimark,"Rutgers, The State University of New Jersey",I4210137549,Halliburton,1
+A5013313042,Alexander V. Neimark,"Rutgers, The State University of New Jersey",I4210135004,Colgate-Palmolive,1
+A5013313042,Alexander V. Neimark,"Rutgers, The State University of New Jersey",I1316910977,DuPont,1
+A5010884148,Matthew Neurock,University of Minnesota,I4210133143,Dow Chemical,6
+A5010884148,Matthew Neurock,University of Minnesota,I4210150951,Shell,2
+A5010884148,Matthew Neurock,University of Minnesota,I1316910977,DuPont,1
+A5010884148,Matthew Neurock,University of Minnesota,I24101674,ConocoPhillips,1
+A5010884148,Matthew Neurock,University of Minnesota,I4210113028,Air Products,1
+A5031683423,Manos Mavrikakis,University of Wisconsin–Madison,I4210133143,Dow Chemical,3
+A5047133596,William J. Weber,Queen's University,I4210139455,J.A. Woollam Company,1
+A5100389618,Guofeng Wang,University of Pittsburgh,I4210092529,Giner,1
+A5060938733,Douglas L. Irving,North Carolina State University,I4210111601,HexaTech,3
+A5060938733,Douglas L. Irving,North Carolina State University,I4210164561,Adroit Materials,3
+A5034521455,Andrew C. Kummel,University of California San Diego,I193427800,Applied Materials,3
+A5034521455,Andrew C. Kummel,University of California San Diego,I35662394,GlobalFoundries,3
+A5034521455,Andrew C. Kummel,University of California San Diego,I1333370159,Motorola,3
+A5034521455,Andrew C. Kummel,University of California San Diego,I1341412227,IBM,2
+A5034521455,Andrew C. Kummel,University of California San Diego,I1334877674,Taiwan Semiconductor Manufacturing Company,1
+A5034521455,Andrew C. Kummel,University of California San Diego,I11912373,Micron,1
+A5020848176,Talat Shahnaz Rahman,University of Central Florida,I82514191,Honeywell,1
+A5020848176,Talat Shahnaz Rahman,University of Central Florida,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",1
+A5020848176,Talat Shahnaz Rahman,University of Central Florida,I1343180700,Intel,1
+A5089329833,Adib J. Samin,U.S. Air Force Institute of Technology,I1295339012,Boeing,1
+A5031735060,Michael  John Janik,Pennsylvania State University,I923382979,ExxonMobil,2
+A5031735060,Michael  John Janik,Pennsylvania State University,I4210133143,Dow Chemical,2
+A5011150326,Qingfeng Ge,Southern Illinois University Carbondale,I4210150951,Shell,1
+A5011150326,Qingfeng Ge,Southern Illinois University Carbondale,I24101674,ConocoPhillips,1
+A5077670633,Artëm E. Masunov,University of Central Florida,I4405269909,"Gaussian, Inc.",1
+A5015108167,Zhen-Gang Wang,California Institute of Technology,I4210133143,Dow Chemical,6
+A5006888181,Vikram Gavini,University of Michigan,I4210127875,Nvidia,1
+A5002779860,David D. Hibbitts,Davidson College,I923382979,ExxonMobil,1
+A5002779860,David D. Hibbitts,Davidson College,I1292974536,Ford Motor Company,1
+A5047700735,Duane D. Johnson,Iowa State University,I193170854,Bruker,1
+A5023818754,Simon R. Phillpot,University of Florida,I131787340,Seagate,2
+A5023818754,Simon R. Phillpot,University of Florida,I4210139090,Lam Research,1
+A5046358965,Steven R. White,"University of California, Irvine",I1291425158,Google,1
+A5007707302,David Alan Drabold,Ohio University,I36721757,Consol Energy,1
+A5007707302,David Alan Drabold,Ohio University,I1333370159,Motorola,1
+A5002203805,Chris G. Van de Walle,"University of California, Santa Barbara",I1343180700,Intel,1
+A5088942752,Jianzhong Wu,"University of California, Riverside",I4210154232,Honeywell,1
+A5088942752,Jianzhong Wu,"University of California, Riverside",I4210127875,Nvidia,1
+A5083228553,Myung-Hwan Whangbo,North Carolina State University,I1316910977,DuPont,2
+A5022250670,Cristian V. Ciobanu,Colorado School of Mines,I144472018,Wyle,1
+A5042504954,Yunjie Xu,University of Alberta,I4405269909,"Gaussian, Inc.",1
+A5076499540,Martin Karplus,Harvard University,I1297540436,Biogen,2
+A5076499540,Martin Karplus,Harvard University,I4403928396,Wyeth,1
+A5008349631,Aurora Pribram−Jones,"University of California, Merced",I1295339012,Boeing,2
+A5068753261,Alastair N. Cormack,New York State College of Ceramics,I1338503839,Corning,2
+A5062626839,Jeffrey Greeley,University of Wisconsin–Madison,I4210165333,Envia Systems,1
+A5088993170,Gang Lü,"California State University, Northridge",I1343180700,Intel,1
+A5067754249,Thomas Patrick Senftle,Rice University,I189065380,Celanese,1
+A5066110304,Dionisios G. Vlachos,University of Delaware,I62856769,Saudi Aramco,2
+A5022665888,Harold A. Scheraga,Cornell University,I4210111989,Molsoft,1
+A5022665888,Harold A. Scheraga,Cornell University,I203455613,Schrodinger,1
+A5061932900,Houlong L. Zhuang,Arizona State University,I4210153557,Nohms Technologies,1
+A5026733952,Jerzy Leszczyński,Jackson State University,I4210158237,UES,1
+A5085121177,Rachel B. Getman,University of Minnesota,I1343180700,Intel,1
+A5004675177,Andriy Kovalenko,University of Alberta,I4210159094,Xerox,3
+A5022312011,Brian Space,North Carolina State University,I4210089069,Rigaku,2
+A5031292318,Chun Fu Wu,Rowan University,I4387156175,BIOVIA,1
+A5060440052,Charles L. Brooks,University of Michigan,I168537998,Eli Lilly,1
+A5060440052,Charles L. Brooks,University of Michigan,I4210114143,GlaxoSmithKline,1
+A5060440052,Charles L. Brooks,University of Michigan,I4210131673,Dassault Systèmes,1
+A5060440052,Charles L. Brooks,University of Michigan,I4387156175,BIOVIA,1
+A5060440052,Charles L. Brooks,University of Michigan,I74680897,Procter & Gamble,1
+A5033874771,Ronald M. Levy,Temple University,I203455613,Schrodinger,2
+A5033874771,Ronald M. Levy,Temple University,I4210091812,Bristol-Myers Squibb,1
+A5005690158,Jonathan N. Sachs,University of Minnesota,I69816183,Atomic Energy,1
+A5111564274,Scott E. Feller,Wabash College,I1341412227,IBM,10
+A5111564274,Scott E. Feller,Wabash College,I69816183,Atomic Energy,1
+A5055831887,Yinglong Miao,University of North Carolina at Chapel Hill,I203455613,Schrodinger,1
+A5055831887,Yinglong Miao,University of North Carolina at Chapel Hill,I4210137977,Advanced Micro Devices,1
+A5055831887,Yinglong Miao,University of North Carolina at Chapel Hill,I183934855,Genentech,1
+A5015837947,James Andrew McCammon,University of California San Diego,I203455613,Schrodinger,3
+A5015837947,James Andrew McCammon,University of California San Diego,I4210114143,GlaxoSmithKline,2
+A5015837947,James Andrew McCammon,University of California San Diego,I4210144687,Nitto,1
+A5015837947,James Andrew McCammon,University of California San Diego,I4210116569,Relay Therapeutics,1
+A5053940473,Diwakar Shukla,University of Illinois Urbana-Champaign,I1291425158,Google,2
+A5053940473,Diwakar Shukla,University of Illinois Urbana-Champaign,I4210137977,Advanced Micro Devices,1
+A5039964251,Goran Krilov,Columbia University,I203455613,Schrodinger,6
+A5039964251,Goran Krilov,Columbia University,I4210098625,Aileron,2
+A5039964251,Goran Krilov,Columbia University,I4210150756,AstraZeneca,1
+A5041647675,Alan M. Grossfield,University of Rochester,I1341412227,IBM,15
+A5041647675,Alan M. Grossfield,University of Rochester,I4405263351,Pledge Therapeutics,1
+A5084434392,Jana Shen,"University of Maryland, Baltimore",I4210137977,Advanced Micro Devices,1
+A5084434392,Jana Shen,"University of Maryland, Baltimore",I180857899,Pfizer,1
+A5084434392,Jana Shen,"University of Maryland, Baltimore",I4210137260,Scorpion Therapeutics,1
+A5074139872,Valeria Molinero,University of Utah,I4210158237,UES,1
+A5013305919,Ken A. Dill,Stony Brook University,I183934855,Genentech,3
+A5013305919,Ken A. Dill,Stony Brook University,I1341412227,IBM,1
+A5013305919,Ken A. Dill,Stony Brook University,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",1
+A5063259943,Gregory C. Rutledge,Massachusetts Institute of Technology,I923382979,ExxonMobil,2
+A5063259943,Gregory C. Rutledge,Massachusetts Institute of Technology,I1316910977,DuPont,1
+A5070740163,Pratyush Tiwary,"University of Maryland, Baltimore",I203455613,Schrodinger,2
+A5070740163,Pratyush Tiwary,"University of Maryland, Baltimore",I4387153498,SandboxAQ,1
+A5003671262,Shekhar Garde,Rensselaer Polytechnic Institute,I74680897,Procter & Gamble,3
+A5038375764,Hua Guo,University of New Mexico,I4210140138,Hysitron,1
+A5015943958,Jerome Y. Baudry,University of Alabama in Huntsville,I1311688040,Amazon,1
+A5015943958,Jerome Y. Baudry,University of Alabama in Huntsville,I4210127875,Nvidia,1
+A5080510232,James C. Gumbart,Dartmouth College,I1311688040,Amazon,1
+A5080510232,James C. Gumbart,Dartmouth College,I4210127875,Nvidia,1
+A5080510232,James C. Gumbart,Dartmouth College,I183934855,Genentech,1
+A5018366869,Jeremy C. Smith,University of Tennessee at Knoxville,I1311688040,Amazon,1
+A5018366869,Jeremy C. Smith,University of Tennessee at Knoxville,I4210127875,Nvidia,1
+A5011336390,Josh V. Vermaas,University of Illinois Urbana-Champaign,I1311688040,Amazon,1
+A5011336390,Josh V. Vermaas,University of Illinois Urbana-Champaign,I4210127875,Nvidia,1
+A5029067826,Ronald G. Larson,University of Michigan,I74680897,Procter & Gamble,3
+A5029067826,Ronald G. Larson,University of Michigan,I4210133143,Dow Chemical,3
+A5029067826,Ronald G. Larson,University of Michigan,I168537998,Eli Lilly,2
+A5001695739,Pawel Keblinski,Rensselaer Polytechnic Institute,I4210131970,Advanced Cooling Technologies,5
+A5001695739,Pawel Keblinski,Rensselaer Polytechnic Institute,I1287521167,Lockheed Martin,1
+A5001695739,Pawel Keblinski,Rensselaer Polytechnic Institute,I1343180700,Intel,1
+A5006516741,Ashlie Martini,"University of California, Merced",I923382979,ExxonMobil,4
+A5006516741,Ashlie Martini,"University of California, Merced",I1341412227,IBM,1
+A5080372722,Sidney Yip A,Massachusetts Institute of Technology,I1338503839,Corning,3
+A5025240564,Tian Tang,University of Alberta,I206093572,Nexen,1
+A5102995031,Judith A. Harrison,United States Naval Academy,I4210120071,Systemech,2
+A5102995031,Judith A. Harrison,United States Naval Academy,I175669267,Carestream,1
+A5102995031,Judith A. Harrison,United States Naval Academy,I4210159451,Kodak,1
+A5060135475,Douglas E. Spearot,University of Florida Health,I2948663404,Boston Scientific,2
+A5060135475,Douglas E. Spearot,University of Florida Health,I4210159399,Universal Technology Corporation,1
+A5009810193,Martin Gruebele,University of Illinois Urbana-Champaign,I2799548008,D. E. Shaw Research,1
+A5054841813,Alex Dickson,Michigan State University,I4210161154,Roivant Sciences,2
+A5039906501,Jesús A. Izaguirre,University of Notre Dame,I4210161154,Roivant Sciences,2
+A5039906501,Jesús A. Izaguirre,University of Notre Dame,I2799548008,D. E. Shaw Research,1
+A5013890468,Pengyu Y. Ren,The University of Texas at Austin,I1297540436,Biogen,2
+A5013890468,Pengyu Y. Ren,The University of Texas at Austin,I1338503839,Corning,1
+A5076175038,Aleksei Aksimentiev,University of Illinois Urbana-Champaign,I1341412227,IBM,2
+A5076175038,Aleksei Aksimentiev,University of Illinois Urbana-Champaign,I115020962,New England Biolabs,1
+A5023756211,Robert R. Lucchese,University of Central Florida,I70745867,KLA,1
+A5067474505,Thomas M. Truskett,University of Michigan,I168537998,Eli Lilly,2
+A5067474505,Thomas M. Truskett,University of Michigan,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",2
+A5052002699,Preston B. Moore,Saint Joseph's University,I203455613,Schrodinger,3
+A5052002699,Preston B. Moore,Saint Joseph's University,I74680897,Procter & Gamble,2
+A5079002066,Fangqiang Zhu,Indiana University – Purdue University Indianapolis,I4405282460,Janssen Research & Development,4
+A5026395503,Lawrence R. Pratt,Tulane University,I1333370159,Motorola,1
+A5046600331,Md Mahbubul Islam,Wayne State University,I923382979,ExxonMobil,1
+A5046600331,Md Mahbubul Islam,Wayne State University,I4210158237,UES,1
+A5000978218,Marta Filizola,Icahn School of Medicine at Mount Sinai,I4210091812,Bristol-Myers Squibb,2
+A5042456721,Benjamin G. Levine,Stony Brook School,I74680897,Procter & Gamble,1
+A5072586806,Clare McCabe,Vanderbilt University,I4210114143,GlaxoSmithKline,3
+A5072586806,Clare McCabe,Vanderbilt University,I923382979,ExxonMobil,1
+A5072586806,Clare McCabe,Vanderbilt University,I11912373,Micron,1
+A5083071253,Xuhui Huang,University of Wisconsin–Madison,I203455613,Schrodinger,1
+A5083071253,Xuhui Huang,University of Wisconsin–Madison,I4210150756,AstraZeneca,1
+A5049807318,Jeffery B. Klauda,"University of Maryland, College Park",I74680897,Procter & Gamble,1
+A5036542834,Jessica M. J. Swanson,University of Utah,I168537998,Eli Lilly,1
+A5036542834,Jessica M. J. Swanson,University of Utah,I1341412227,IBM,1
+A5103575399,Jana K. Shen,"University of Maryland, Baltimore",I74680897,Procter & Gamble,6
+A5063704705,Alberto Pérez,University of Florida,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",1
+A5063704705,Alberto Pérez,University of Florida,I2800035258,Ionis Pharmaceuticals,1
+A5036566464,Ioannis G. Kevrekidis,Johns Hopkins University,I1320553840,Amgen,1
+A5067849119,Sohail Murad,Illinois Institute of Technology,I4210133143,Dow Chemical,4
+A5067849119,Sohail Murad,Illinois Institute of Technology,I4210115772,Orochem Technologies,2
+A5049076496,Paul C. Whitford,Northeastern University,I4210131040,Los Alamos National Security,1
+A5034611520,Steven O. Nielsen,The University of Texas at Dallas,I74680897,Procter & Gamble,2
+A5034611520,Steven O. Nielsen,The University of Texas at Dallas,I203455613,Schrodinger,2
+A5036131147,Céline Hin,Virginia Tech,I51409038,Saudi Arabia Basic Industries,1
+A5015199573,Yunxiang Sun,Clemson University,I4396570585,Leidos Biomedical Research Inc.,1
+A5110010198,J.J. Hoyt,McMaster University,I923382979,ExxonMobil,2
+A5079525568,Dmitri K. Klimov,George Mason University,I44896327,Mitre,1
+A5071669681,Srirupa Chakraborty,Northeastern University,I1320553840,Amgen,2
+A5071669681,Srirupa Chakraborty,Northeastern University,I1341412227,IBM,1
+A5071147242,Kolattukudy Poulose Santo,"Rutgers, The State University of New Jersey",I4210135004,Colgate-Palmolive,1
+A5036947439,Brenda M. Rubenstein,Brown University,I4400600948,Microsoft Research New England,1
+A5101686778,Tao Wei,University of South Carolina,I4210133143,Dow Chemical,1
+A5002652750,Joern Ilja Siepmann,University of Minnesota,I74680897,Procter & Gamble,2
+A5002652750,Joern Ilja Siepmann,University of Minnesota,I11912373,Micron,1
+A5002652750,Joern Ilja Siepmann,University of Minnesota,I1340755506,3M,1
+A5012492171,Tahir Çağın,Texas A&M University,I118136607,General Motors,2
+A5085371660,Ioan Andricioaei,"University of California, Irvine",I1330063522,Johnson & Johnson,1
+A5085371660,Ioan Andricioaei,"University of California, Irvine",I2799548008,D. E. Shaw Research,1
+A5025017424,Jaafar A. El-Awady,Johns Hopkins University,I4210158237,UES,4
+A5012315225,Diana Farkas,Virginia Tech,I923382979,ExxonMobil,1
+A5012315225,Diana Farkas,Virginia Tech,I118136607,General Motors,1
+A5032380209,Chia-en A. Chang,"University of California, Riverside",I4210148837,VeraChem,1
+A5032380209,Chia-en A. Chang,"University of California, Riverside",I4210147791,Illinois Rocstar,1
+A5029475330,Lillian T. Chong,University of Pittsburgh,I4387156175,BIOVIA,1
+A5029475330,Lillian T. Chong,University of Pittsburgh,I72509657,Epic Systems,1
+A5005661488,Ulrich H. E. Hansmann,University of Oklahoma,I1343180700,Intel,1
+A5074806960,Vincent A. Voelz,Temple University,I183934855,Genentech,1
+A5031922505,Gennady M. Verkhivker,Chapman University,I180857899,Pfizer,5
+A5047733294,Siddharth S. Gautam,The Ohio State University,I4210093254,Ocellus,1
+A5068546520,Kristen A. Fichthorn,Pennsylvania State University,I4210133143,Dow Chemical,1
+A5100676088,Chang-Guo Zhan,University of Kentucky,I44896327,Mitre,1
+A5102937657,George Stan,University of Cincinnati,I4405282460,Janssen Research & Development,1
+A5102937657,George Stan,University of Cincinnati,I74680897,Procter & Gamble,1
+A5036381334,Alejandro H. Strachan,Purdue University West Lafayette,I4210158237,UES,2
+A5036381334,Alejandro H. Strachan,Purdue University West Lafayette,I4210114143,GlaxoSmithKline,1
+A5008345084,Arthi Jayaraman,University of Delaware,I1316910977,DuPont,1
+A5064519981,Erik E. Santiso,North Carolina State University,I180857899,Pfizer,2
+A5064519981,Erik E. Santiso,North Carolina State University,I4210140030,Eastman Chemical Company,1
+A5064519981,Erik E. Santiso,North Carolina State University,I4210109925,Cargill,1
+A5032839759,Jianhan Chen,University of Massachusetts Amherst,I4210161154,Roivant Sciences,1
+A5065260816,Robert A. Riggleman,University of Pennsylvania,I923382979,ExxonMobil,1
+A5065260816,Robert A. Riggleman,University of Pennsylvania,I4210111444,Arkema,1
+A5080268173,Kevin D. Dorfman,University of Minnesota,I4210099505,BioNano Genomics,6
+A5023302612,Andrew L. Ferguson,University of Michigan,I4210161154,Roivant Sciences,1
+A5038508476,Cameron F. Abrams,University of Illinois Chicago,I923382979,ExxonMobil,3
+A5038508476,Cameron F. Abrams,University of Illinois Chicago,I203455613,Schrodinger,1
+A5047165687,Yuefan Deng,Stony Brook University,I1341412227,IBM,3
+A5047165687,Yuefan Deng,Stony Brook University,I4210121428,Codagenix,1
+A5022709501,Alexei A. Stuchebrukhov,"University of California, Davis",I4387152382,Interx,1
+A5081468273,Rommie E. Amaro,University of California San Diego,I203455613,Schrodinger,1
+A5081468273,Rommie E. Amaro,University of California San Diego,I4210116569,Relay Therapeutics,1
+A5081468273,Rommie E. Amaro,University of California San Diego,I183934855,Genentech,1
+A5039811712,Arjun Saha,University of Wisconsin–Milwaukee,I4405282460,Janssen Research & Development,1
+A5030696048,Camille Bilodeau,University of Virginia,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",3
+A5030696048,Camille Bilodeau,University of Virginia,I1327359573,Bio-Rad,3
+A5029235749,Sergei Yu. Noskov,University of Calgary,I4210097574,Electronic BioSciences,2
+A5016209604,Michael L. Greenfield,University of Rhode Island,I1292974536,Ford Motor Company,2
+A5071498517,Roland Faller,Texas Tech University,I4210139090,Lam Research,2
+A5071498517,Roland Faller,Texas Tech University,I1343180700,Intel,2
+A5000192327,Freddie R. Salsbury,Wake Forest University,I4210130631,Freenome,2
+A5058757443,Phillip Choi,University of Alberta,I46763700,Nova Chemicals,1
+A5086627523,André Schleife,University of Illinois Urbana-Champaign,I1341412227,IBM,1
+A5069747836,Thomas E. Markland,Stanford University,I1311688040,Amazon,1
+A5054728983,Nicolás Giovambattista,"The Graduate Center, CUNY",I923382979,ExxonMobil,1
+A5028130589,Yunfeng Shi,Rensselaer Polytechnic Institute,I1338503839,Corning,2
+A5036725653,Dave Thirumalai,The University of Texas at Austin,I4210128600,Partek,1
+A5053900475,Krzysztof Szalewicz,University of Delaware,I2948539688,AbbVie,1
+A5052894521,Priya D. Vashishta,University of Southern California,I1343180700,Intel,1
+A5052894521,Priya D. Vashishta,University of Southern California,I4210147556,n&k Technology,1
+A5050700234,Peter Michael Kekenes-Huskey,Loyola University Chicago,I4210160255,Boehringer Ingelheim,1
+A5075457888,Meenakshi Dutt,"Rutgers, The State University of New Jersey",I180857899,Pfizer,1
+A5013515595,Igor M. Svishchev,Trent University,I69816183,Atomic Energy,1
+A5022569738,Bryan M. Wong,"University of California, Riverside",I4210147791,Illinois Rocstar,1
+A5001298955,Francis W. Starr,Wesleyan University,I1341412227,IBM,1
+A5070568143,Fernando A. Escobedo,Cornell University,I1338503839,Corning,1
+A5070568143,Fernando A. Escobedo,Cornell University,I1343180700,Intel,1
+A5070279915,Abhishek Singharoy,Arizona State University,I4210150756,AstraZeneca,1
+A5003390039,Fatemeh Khalili-Araghi,University of Illinois Chicago,I2799548008,D. E. Shaw Research,1
+A5034269087,Peter D. Tieleman,University of Calgary,I867333293,Simulations Plus,1
+A5066015556,Ruibin Liang,Texas Tech University,I4210142480,Thermo Fisher Scientific,4
+A5063010726,Gustavo A. Carri,University of Akron,I4210159399,Universal Technology Corporation,1
+A5063010726,Gustavo A. Carri,University of Akron,I923382979,ExxonMobil,1
+A5024498115,Blake Mertz,West Virginia University,I1341412227,IBM,2
+A5068394830,Jennifer R. Lukes,University of Pennsylvania,I1324840837,Hewlett-Packard,1
+A5017696854,D. Peter Tieleman,University of Calgary,I867333293,Simulations Plus,1
+A5020933684,K. Aurelia Ball,Skidmore College,I4210133695,Aldevron,1
+A5087273177,Gyeong Soon Hwang,Texas Materials Institute,I4210119074,Inpria,1
+A5003047880,C. Mark Maupin,Colorado School of Mines,I74680897,Procter & Gamble,1
+A5015984763,Robert C. Rizzo,Stony Brook University,I4210150756,AstraZeneca,1
+A5067260052,Thomas A. Knotts,Brigham Young University,I1320553840,Amgen,1
+A5027751221,Philip J. Grandinetti,The Ohio State University,I4405272746,"Hyperfine, Inc.",3
+A5027751221,Philip J. Grandinetti,The Ohio State University,I157773645,Wacker,1
+A5003618068,David N. Beratan,Duke University,I1287521167,Lockheed Martin,1
+A5035545283,Wesley F. Reinhart,Pennsylvania State University,I4210099505,BioNano Genomics,2
+A5009904434,S. J. Sibener,University of Chicago,I1343180700,Intel,1
+A5002003910,Melissa A. Pasquinelli,North Carolina State University,I74680897,Procter & Gamble,2
+A5051354232,Kenneth C. Janda,"University of California, Irvine",I4210125604,Ametek,1
+A5023699202,Mona S. Minkara,Northeastern University,I74680897,Procter & Gamble,1
+A5061368894,Massimo Olivucci,Bowling Green State University,I4405258313,ATTMOS Inc.,1
+A5021640058,Linda Ruth Petzold,"University of California, Santa Barbara",I4210158714,Teradata,1
+A5076283101,Christophe J. Chipot,University of Hawaiʻi at Mānoa,I4210116217,SilcsBio,1
+A5058069370,John E. Straub,Boston University,I4210130288,American Industrial Partners,2

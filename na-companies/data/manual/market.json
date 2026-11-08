@@ -1,0 +1,663 @@
+{
+ "deals": [
+  {
+   "year": 2014,
+   "name": "Dassault 收购 Accelrys（BIOVIA）",
+   "type": "并购",
+   "usd_m": 750,
+   "note": "科学软件早期最大并购之一",
+   "src": "Dassault 公告（约 7.5 亿美元，未在本次重新核对）",
+   "url": "https://www.3ds.com/newsroom/press-releases/dassault-systemes-acquire-accelrys"
+  },
+  {
+   "year": 2020,
+   "name": "Roivant 收购 Silicon Therapeutics",
+   "type": "并购",
+   "usd_m": 450,
+   "note": "物理模拟+量子化学药物设计平台",
+   "src": "Roivant 公告（约 4.5 亿美元股票，未重新核对）",
+   "url": "https://investor.roivant.com/"
+  },
+  {
+   "year": 2022,
+   "name": "Cadence 收购 OpenEye Scientific",
+   "type": "并购",
+   "usd_m": 500,
+   "note": "EDA 巨头进入分子模拟",
+   "src": "Mergr",
+   "url": "https://mergr.com/cadence-acquires-openeye-scientific"
+  },
+  {
+   "year": 2023,
+   "name": "Genesis Therapeutics B 轮",
+   "type": "融资",
+   "usd_m": 200,
+   "note": "a16z 领投",
+   "src": "Contrary Research",
+   "url": "https://research.contrary.com/company/genesis-molecular-ai"
+  },
+  {
+   "year": 2024,
+   "name": "Xaira Therapeutics 首轮",
+   "type": "融资",
+   "usd_m": 1000,
+   "note": "AI 药物发现史上最大首轮之一",
+   "src": "Fierce Biotech",
+   "url": "https://www.fiercebiotech.com/biotech/new-ai-drug-discovery-powerhouse-xaira-rises-1b-funding"
+  },
+  {
+   "year": 2024,
+   "name": "SandboxAQ 收购 Good Chemistry",
+   "type": "并购",
+   "usd_m": 75,
+   "note": "现金+股票（WSJ 消息）",
+   "src": "BetaKit",
+   "url": "https://betakit.com/1qbit-spinout-good-chemistry-acquired-by-sandboxaq/"
+  },
+  {
+   "year": 2024,
+   "name": "Terray Therapeutics B 轮",
+   "type": "融资",
+   "usd_m": 120,
+   "note": "",
+   "src": "SiliconANGLE",
+   "url": "https://siliconangle.com/?p=674487"
+  },
+  {
+   "year": 2025,
+   "name": "QuEra 融资",
+   "type": "融资",
+   "usd_m": 230,
+   "note": "Google、软银愿景二期参与",
+   "src": "National Law Review",
+   "url": "https://natlawreview.com/press-releases/quera-computing-completes-230m-financing-accelerate-development-large-scale"
+  },
+  {
+   "year": 2025,
+   "name": "SandboxAQ E 轮（含扩展）",
+   "type": "融资",
+   "usd_m": 450,
+   "note": "估值 57.5 亿美元",
+   "src": "Reuters / The Star",
+   "url": "https://www.thestar.com.my/tech/tech-news/2025/04/04/ai-startup-sandboxaq-adds-nvidia-google-as-backers-raises-additional-150-million"
+  },
+  {
+   "year": 2025,
+   "name": "Siemens 收购 Dotmatics",
+   "type": "并购",
+   "usd_m": 5100,
+   "note": "企业价值 51 亿美元",
+   "src": "Manufacturing Chemist",
+   "url": "https://manufacturingchemist.com/siemens-completes-acquisition-of-dotmatics"
+  },
+  {
+   "year": 2025,
+   "name": "Periodic Labs 种子轮",
+   "type": "融资",
+   "usd_m": 300,
+   "note": "史上最大种子轮之一，投后 13 亿美元",
+   "src": "Contrary Research",
+   "url": "https://research.contrary.com/company/periodic-labs/quick-facts"
+  },
+  {
+   "year": 2025,
+   "name": "PsiQuantum E 轮",
+   "type": "融资",
+   "usd_m": 1000,
+   "note": "估值 70 亿美元",
+   "src": "Pulse 2.0",
+   "url": "https://pulse2.com/psiquantum-1-billion-at-7-billion-valuation-raised-for-building-fault-tolerant-quantum-computers"
+  },
+  {
+   "year": 2025,
+   "name": "IonQ 股权增发",
+   "type": "融资",
+   "usd_m": 2000,
+   "note": "2025 年 10 月完成；备考现金约 35 亿美元",
+   "src": "IonQ Q3 2025 财报",
+   "url": "https://investors.ionq.com/news/news-details/2025/IonQ-Announces-Third-Quarter-2025-Financial-Results/"
+  },
+  {
+   "year": 2026,
+   "name": "Infleqtion SPAC 上市（INFQ）",
+   "type": "SPAC",
+   "usd_m": 550,
+   "note": "毛募资逾 5.5 亿美元",
+   "src": "PrivSource",
+   "url": "https://www.privsource.com/acquisitions/deal/infleqtion-completes-business-combination-with-churchill-capital-corp-x-to-begin-trading-as-infq-2VSZO2"
+  },
+  {
+   "year": 2026,
+   "name": "Xanadu SPAC 上市（XNDU）",
+   "type": "SPAC",
+   "usd_m": 302,
+   "note": "毛募资约 3.02 亿美元",
+   "src": "BetaKit",
+   "url": "https://betakit.com/xanadu-to-go-public-on-nasdaq-and-tsx-in-3-6-billion-usd-spac-deal/"
+  },
+  {
+   "year": 2026,
+   "name": "Quantinuum IPO（QNT）",
+   "type": "IPO",
+   "usd_m": 1460,
+   "note": "估值约 143 亿美元",
+   "src": "The Quantum Insider",
+   "url": "https://thequantuminsider.com/2026/06/02/quantinuum-expands-ipo-as-valuation-climbs-above-14-billion/embed/"
+  },
+  {
+   "year": 2026,
+   "name": "Chai Discovery C 轮",
+   "type": "融资",
+   "usd_m": 400,
+   "note": "估值 38 亿美元",
+   "src": "The Pharma Letter",
+   "url": "https://www.thepharmaletter.com/pharma-news/chai-discovery-raises-400-million-to-advance-ai-designed-drug-discovery"
+  },
+  {
+   "year": 2026,
+   "name": "Atom Computing C 轮",
+   "type": "融资",
+   "usd_m": 100,
+   "note": "累计逾 3 亿美元",
+   "src": "The Quantum Insider",
+   "url": "https://thequantuminsider.com/2026/06/17/atom-computing-raises-more-than-300-million-to-accelerate-deployment-of-fault-tolerant-neutral-atom-quantum-computers/"
+  }
+ ],
+ "public_revenue": [
+  {
+   "name": "Certara",
+   "fy": "2024",
+   "usd_m": 385.1,
+   "src": "Certara 2024 财报",
+   "color": "var(--a-es)"
+  },
+  {
+   "name": "Schrödinger",
+   "fy": "2025",
+   "usd_m": 255.9,
+   "src": "Schrödinger 2025 财报",
+   "color": "var(--a-es)"
+  },
+  {
+   "name": "IonQ",
+   "fy": "2025 指引中值",
+   "usd_m": 108,
+   "src": "IonQ Q3 2025 财报",
+   "color": "var(--a-rd)"
+  },
+  {
+   "name": "Simulations Plus",
+   "fy": "FY2025",
+   "usd_m": 79.2,
+   "src": "SEC 8-K",
+   "color": "var(--a-es)"
+  },
+  {
+   "name": "Recursion",
+   "fy": "2024",
+   "usd_m": 58.8,
+   "src": "SEC 10-K",
+   "color": "var(--a-ml)"
+  },
+  {
+   "name": "Quantinuum",
+   "fy": "2025",
+   "usd_m": 30.9,
+   "src": "IPO 招股资料（The Quantum Insider）",
+   "color": "var(--a-rd)"
+  },
+  {
+   "name": "Infleqtion",
+   "fy": "TTM 2025-06",
+   "usd_m": 29,
+   "src": "SPAC 资料",
+   "color": "var(--a-rd)"
+  },
+  {
+   "name": "D-Wave",
+   "fy": "2025",
+   "usd_m": 24.6,
+   "src": "D-Wave 2025 财报",
+   "color": "var(--a-rd)"
+  },
+  {
+   "name": "Relay Therapeutics",
+   "fy": "2025",
+   "usd_m": 15.4,
+   "src": "Relay 2025 财报",
+   "color": "var(--a-ml)"
+  },
+  {
+   "name": "Rigetti",
+   "fy": "2025",
+   "usd_m": 7.1,
+   "src": "Rigetti 2025 财报",
+   "color": "var(--a-rd)"
+  }
+ ],
+ "revenue_history": {
+  "Certara": {
+   "color": "var(--a-md)",
+   "data": {
+    "2020": 243.5,
+    "2021": 286.1,
+    "2022": 335.6,
+    "2023": 354.3,
+    "2024": 385.1
+   }
+  },
+  "Schrödinger": {
+   "color": "var(--a-es)",
+   "data": {
+    "2019": 85.5,
+    "2020": 108.1,
+    "2021": 138.4,
+    "2022": 181.0,
+    "2023": 216.7,
+    "2024": 207.5,
+    "2025": 255.9
+   }
+  },
+  "IonQ": {
+   "color": "var(--a-rd)",
+   "data": {
+    "2021": 2.1,
+    "2022": 11.1,
+    "2023": 22.0,
+    "2024": 43.1,
+    "2025": 108
+   }
+  },
+  "D-Wave": {
+   "color": "var(--a-mat)",
+   "data": {
+    "2024": 8.8,
+    "2025": 24.6
+   }
+  }
+ },
+ "schrodinger_mix": {
+  "years": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "software": [
+   66.6,
+   85.0,
+   102.6,
+   135.6,
+   159.1,
+   180.4,
+   199.5
+  ],
+  "drug": [
+   18.9,
+   23.1,
+   35.8,
+   45.4,
+   57.6,
+   27.2,
+   56.4
+  ]
+ },
+ "quantum_startup_investment": {
+  "data": {
+   "2023": 1.3,
+   "2024": 2.0,
+   "2025": 12.6
+  },
+  "src_short": "McKinsey Quantum Technology Monitor 2025 / 2026"
+ },
+ "ai_biotech_vc": {
+  "data": {
+   "2021": 12.5,
+   "2023": 4.8,
+   "2024": 6.7
+  }
+ },
+ "compchem_market": {
+  "v2026": 1.74,
+  "v2034": 4.44,
+  "cagr": 0.1244,
+  "src_short": "Fortune Business Insights"
+ },
+ "assumptions": {
+  "na_share_lo": 0.38,
+  "na_share_hi": 0.46
+ },
+ "scenarios": {
+  "bull": [
+   0.15,
+   0.2,
+   0.2,
+   0.15,
+   0.1
+  ],
+  "base": [
+   -0.25,
+   0.05,
+   0.1,
+   0.1,
+   0.08
+  ],
+  "bear": [
+   -0.55,
+   -0.1,
+   0.0,
+   0.05,
+   0.05
+  ]
+ },
+ "forecasts": [
+  {
+   "metric": "全球计算化学市场",
+   "base": "2026：17.4 亿美元",
+   "target": "2034：44.4 亿美元",
+   "cagr": "12.44%",
+   "kind": "第三方预测",
+   "src": "Fortune Business Insights",
+   "url": "https://www.fortunebusinessinsights.com/segmentation/computational-chemistry-market-115849"
+  },
+  {
+   "metric": "化学领域量子计算市场",
+   "base": "2023：5400 万美元",
+   "target": "2030：1.085 亿美元",
+   "cagr": "10.5%",
+   "kind": "第三方预测",
+   "src": "Valuates Reports",
+   "url": "https://prnewswire.co.uk/news-releases/quantum-computing-in-chemistry-market-size-to-grow-usd-108-5-million-by-2030-at-a-cagr-of-10-5--valuates-reports-302169757.html"
+  },
+  {
+   "metric": "全球量子计算企业收入",
+   "base": "2025：>10 亿美元",
+   "target": "2028：至多 44 亿美元",
+   "cagr": "≈64%（上限）",
+   "kind": "第三方预测",
+   "src": "McKinsey QTM 2026",
+   "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/mckinsey-quantum-technology-monitor-2026-a-commercial-tipping-point"
+  },
+  {
+   "metric": "量子计算市场（硬件+软件+服务）",
+   "base": "—",
+   "target": "2035：430–710 亿美元",
+   "cagr": "—",
+   "kind": "第三方预测",
+   "src": "McKinsey QTM 2026",
+   "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/mckinsey-quantum-technology-monitor-2026-a-commercial-tipping-point"
+  },
+  {
+   "metric": "量子技术总市场（计算+通信+传感）",
+   "base": "—",
+   "target": "2035：至多 970 亿；2040：1980 亿美元",
+   "cagr": "—",
+   "kind": "第三方预测",
+   "src": "McKinsey QTM 2025",
+   "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-year-of-quantum-from-concept-to-reality-in-2025"
+  },
+  {
+   "metric": "量子计算为企业创造的经济价值",
+   "base": "—",
+   "target": "2035：1.3–2.7 万亿美元",
+   "cagr": "—",
+   "kind": "第三方预测",
+   "src": "McKinsey QTM 2026",
+   "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/mckinsey-quantum-technology-monitor-2026-a-commercial-tipping-point"
+  },
+  {
+   "metric": "Schrödinger 软件 ACV",
+   "base": "2025：1.985 亿美元",
+   "target": "2026：2.18–2.28 亿美元",
+   "cagr": "10–15%",
+   "kind": "公司指引",
+   "src": "Schrödinger 2025 财报",
+   "url": "https://www.biospace.com/press-releases/schrodinger-reports-fourth-quarter-and-full-year-2025-financial-results"
+  },
+  {
+   "metric": "IonQ 收入",
+   "base": "2024：4310 万美元",
+   "target": "2025：1.06–1.10 亿美元",
+   "cagr": "≈150%",
+   "kind": "公司指引",
+   "src": "IonQ Q3 2025 财报",
+   "url": "https://investors.ionq.com/news/news-details/2025/IonQ-Announces-Third-Quarter-2025-Financial-Results/"
+  },
+  {
+   "metric": "北美计算化学市场",
+   "base": "2026：约 6.6–8.0 亿美元",
+   "target": "2030：约 10.6–12.8 亿美元",
+   "cagr": "12.44%（沿用全球）",
+   "kind": "本报告估计",
+   "src": "全球预测 × 北美份额假设 38–46%",
+   "url": "https://www.fortunebusinessinsights.com/segmentation/computational-chemistry-market-115849"
+  },
+  {
+   "metric": "全球量子初创年度投资",
+   "base": "2025：126 亿美元",
+   "target": "2030：基准约 130 亿（悲观约 56 亿 / 乐观约 264 亿）",
+   "cagr": "情景",
+   "kind": "本报告情景",
+   "src": "McKinsey 实际值 + 本报告假设",
+   "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/mckinsey-quantum-technology-monitor-2026-a-commercial-tipping-point"
+  }
+ ],
+ "capital_markets": [
+  {
+   "name": "IonQ",
+   "ticker": "NYSE: IONQ",
+   "what": "2021 年 SPAC 上市；2025 年完成 20 亿美元增发，9 月末备考现金约 35 亿美元；2025 年收入指引 1.06–1.10 亿美元，调整后 EBITDA 亏损 2.06–2.16 亿美元。",
+   "src": "IonQ Q3 2025",
+   "url": "https://investors.ionq.com/news/news-details/2025/IonQ-Announces-Third-Quarter-2025-Financial-Results/"
+  },
+  {
+   "name": "Quantinuum",
+   "ticker": "Nasdaq: QNT",
+   "what": "2026 年 6 月 IPO，估值约 143 亿美元；2025 年收入 3090 万美元（2024：2300 万）。",
+   "src": "The Quantum Insider",
+   "url": "https://thequantuminsider.com/2026/06/02/quantinuum-expands-ipo-as-valuation-climbs-above-14-billion/embed/"
+  },
+  {
+   "name": "Xanadu",
+   "ticker": "Nasdaq/TSX: XNDU",
+   "what": "2026 年 3 月经 SPAC 上市；宣布时备考市值 36 亿美元，实际毛募资约 3.02 亿美元（目标 5 亿）。",
+   "src": "BetaKit",
+   "url": "https://betakit.com/xanadu-to-go-public-on-nasdaq-and-tsx-in-3-6-billion-usd-spac-deal/"
+  },
+  {
+   "name": "Infleqtion",
+   "ticker": "NYSE: INFQ",
+   "what": "2026 年 2 月经 SPAC 上市，毛募资逾 5.5 亿美元（含 PIPE 逾 1.25 亿）；交易前估值 18 亿美元。",
+   "src": "PrivSource",
+   "url": "https://www.privsource.com/acquisitions/deal/infleqtion-completes-business-combination-with-churchill-capital-corp-x-to-begin-trading-as-infq-2VSZO2"
+  },
+  {
+   "name": "D-Wave",
+   "ticker": "NYSE: QBTS",
+   "what": "2025 年收入 2460 万美元，同比 +179%；年末员工 388 人。",
+   "src": "The Quantum Insider",
+   "url": "https://thequantuminsider.com/2026/02/26/d-wave-reports-179-revenue-jump-in-2025-as-bookings-accelerate/"
+  },
+  {
+   "name": "Rigetti",
+   "ticker": "Nasdaq: RGTI",
+   "what": "2025 年收入 710 万美元，同比 -34%；年末现金 5.9 亿美元。",
+   "src": "Quantum Computing Report",
+   "url": "https://quantumcomputingreport.com/rigetti-computing-reports-fourth-quarter-and-full-year-2025-financial-results/"
+  },
+  {
+   "name": "Schrödinger",
+   "ticker": "Nasdaq: SDGR",
+   "what": "2025 年收入 2.559 亿（+23%），软件 1.995 亿；年末现金约 4.02 亿美元；2026 年软件 ACV 指引 +10–15%。",
+   "src": "Schrödinger 2025 财报",
+   "url": "https://www.biospace.com/press-releases/schrodinger-reports-fourth-quarter-and-full-year-2025-financial-results"
+  },
+  {
+   "name": "Recursion",
+   "ticker": "Nasdaq: RXRX",
+   "what": "2024 年收入 5880 万美元；2024 年与 Exscientia 合并；员工由约 800 降至约 600。",
+   "src": "SEC 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183025000034/exhibit991-10xk24.htm"
+  },
+  {
+   "name": "Relay Therapeutics",
+   "ticker": "Nasdaq: RLAY",
+   "what": "2025 年收入 1540 万美元；年末现金 5.5 亿美元。",
+   "src": "Relay 2025 财报",
+   "url": "https://qnow.quantisnow.com/insight/relay-therapeutics-reports-fourth-quarter-and-full-year-2025-financial-6415880"
+  },
+  {
+   "name": "Certara",
+   "ticker": "Nasdaq: CERT",
+   "what": "2024 年收入 3.851 亿美元（+9%）。",
+   "src": "Tiger 新闻转载",
+   "url": "https://itiger.com/news/2514804898"
+  },
+  {
+   "name": "Simulations Plus",
+   "ticker": "Nasdaq: SLP",
+   "what": "FY2025 收入 7920 万美元（FY2024：7000 万）。",
+   "src": "SEC 8-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1023459/000102345925000059/slp-2025831xexx991x254.htm"
+  },
+  {
+   "name": "Zapata AI",
+   "ticker": "原 Nasdaq: ZPTA",
+   "what": "2024 年 SPAC 上市后同年 10 月停止运营并退市——量子化学软件商业化的警示案例。",
+   "src": "The Quantum Insider",
+   "url": "https://thequantuminsider.com/2024/10/12/zapata-computing-holdings-inc-ceases-operations/"
+  }
+ ],
+ "summary_html": "<h3>一句话结论</h3><p>北美的量子化学 / 计算化学产业正在从<b>「卖软件许可」</b>的小而稳模式，转向<b>「卖算力与 AI 科学家」</b>的重资本模式。老牌软件商（Gaussian、Q-Chem、Schrödinger、BIOVIA）仍是学术与工业界的工具底座；2020 年后的资本主要流向两类公司：量子硬件（PsiQuantum、Quantinuum、IonQ）和以大模型 + 自主实验室为核心的新一代分子发现公司（Xaira、Lila、Periodic Labs、Chai）。</p>\n<h3>四个结构性特征</h3><ol><li><b>高度集聚。</b>旧金山湾区、波士顿/剑桥、纽约—新泽西三大集群聚集了过半公司；加拿大的多伦多—蒙特利尔—温哥华走廊以量子计算见长。</li>\n<li><b>学术衍生明显。</b>Gaussian（Pople）、Schrödinger（Friesner、Goddard）、Q-Chem（Head-Gordon 等）、Zapata/Kebotix（Aspuru-Guzik）、Iambic（Miller）、PetaChem（Martínez）都来自本站北美量化地图上的教授。</li>\n<li><b>收入与估值背离。</b>量子上市公司估值数十亿至上百亿美元，但年收入多在 1 亿美元以下；Schrödinger 一家的年收入（2025 年 2.56 亿美元）就超过 IonQ、Quantinuum、Infleqtion、D-Wave、Rigetti 五家量子上市公司之和（约 2.0 亿美元）。</li>\n<li><b>大公司是隐形主力。</b>按论文足迹，科技巨头（IBM、Google、Microsoft、NVIDIA、Meta）、化工能源（Dow、ExxonMobil、Corning）与药企（Pfizer、Merck、BMS）的计算化学研究量与专业软件商相当。</li></ol>",
+ "outlook_html": "<h3>前瞻：未来五年的五个判断</h3>\n<ol><li><b>AI 原子模型成为新底座（高确定性）。</b>Meta 的 OMol25/UMA、Microsoft 的 MatterGen 与 Skala、NVIDIA 的 ALCHEMI 正把 DFT 级精度的模拟变成「基础模型推理」。传统量子化学软件商的增长点将在于把这些模型嵌入工作流（Schrödinger、Rowan、QSimulate 已在做），而不是卖求解器本身。</li>\n<li><b>量子计算的化学价值兑现晚于融资（中等确定性）。</b>McKinsey 将化学与生命科学列为最早受益行业，但化学模拟所需的容错量子计算机大多被路线图放在 2028–2032 年。在此之前，量子公司收入仍主要来自政府、研究机构和云接入。2025 年 126 亿美元的投资高峰之后，本报告基准情景假设 2026 年回落约 25%。</li>\n<li><b>「AI 科学家 + 自主实验室」是资本最新焦点（中等确定性）。</b>Periodic Labs、Lila、Radical AI 的估值已在消化多年的增长预期，2026 年传出的更高估值轮次尚未证实。若实验闭环成果（新超导体、电池材料、候选药物）在 2027 年前不能出现，估值回调风险较大。</li>\n<li><b>并购继续，买家来自 EDA 与工业软件（中等确定性）。</b>Cadence（OpenEye）、Synopsys（QuantumATK、Ansys）、Siemens（Dotmatics）、Dassault（BIOVIA）显示工业软件巨头正在把分子模拟纳入「数字孪生」产品线。中型独立软件商（如 Chemical Computing Group、Simulations Plus）是潜在标的。</li>\n<li><b>加拿大的优势在量子硬件，风险在资本深度（判断）。</b>Xanadu、Photonic、D-Wave、Nord Quantique 构成全球少有的量子硬件梯队，但 Xanadu SPAC 募资低于目标显示公开市场对其折价；UofT、滑铁卢、舍布鲁克的人才供给是其长期优势。</li></ol>\n<p class=\"note\">以上为本报告的分析判断，不是第三方预测，也不构成投资建议。</p>",
+ "method_html": "<h3>收录范围</h3><p>「北美量子化学与计算化学企业」指总部在美国或加拿大、以量子化学 / 分子模拟 / 计算材料 / 计算药物设计为主营业务或核心研发能力的企业，包括：专业软件商、量子计算公司（有明确化学应用）、AI/物理驱动的药物与材料发现公司、以及设有大型计算化学团队的药企、化工、能源与科技公司。</p>\n<p><b>精选名录（113 家）</b>为人工整理，力求覆盖每条赛道的代表性公司，但<b>不可能穷尽</b>所有公司；作为补充，第 06 节用 OpenAlex 找出了所有在论文中出现过的北美企业（约 780 家），这是更完整但更嘈杂的「长尾」名单。</p>\n<h3>数据可信度</h3><ul><li><b>A</b>：公司财报、SEC 文件或官方公告；<b>B</b>：主流媒体或数据库（Reuters、BetaKit、The Quantum Insider、Contrary、Caplight 等）；<b>C</b>：本报告依据公开信息估计，或口径不一（如加元/美元、是否含政府资金）。</li>\n<li>员工数均为约数。上市公司的增发募资不计入「累计融资」。</li>\n<li>Schrödinger 2019–2023、Certara 2020–2023、IonQ 2021–2023 的历年收入按各公司年报整理，本次只重新核对了最新年度。</li></ul>\n<h3>论文足迹方法</h3><p>与本站「北美量化地图」相同的五个 OpenAlex 查询（主题、量子化学概念、DFT、分子动力学、六种理论化学期刊），限定 2000–2026 年且至少一位作者属于美国/加拿大 <code>type=company</code> 机构，再逐篇确认该企业作者确实属于美国/加拿大企业，共 %%NCW%% 篇论文。行业分类为按机构名的规则匹配，可能有误分。OpenAlex 偶尔把国家实验室运营方或设施标为公司。</p>\n<h3>预测方法</h3><p>第三方预测原样引用并给出来源；「本报告估计 / 情景」均列出假设：北美份额 38–46% 依据北美在全球计算化学软件收入与论文中的占比粗估；量子投资情景以 2025 年实际值为起点、按表中年增速推演；论文趋势为 2015–2025 年最小二乘线性外推。</p>",
+ "sources": [
+  {
+   "name": "McKinsey Quantum Technology Monitor 2026",
+   "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/mckinsey-quantum-technology-monitor-2026-a-commercial-tipping-point"
+  },
+  {
+   "name": "McKinsey: The Year of Quantum (2025)",
+   "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-year-of-quantum-from-concept-to-reality-in-2025"
+  },
+  {
+   "name": "IntuitionLabs: AI Biotech Funding Trends",
+   "url": "https://intuitionlabs.ai/articles/ai-biotech-funding-trends"
+  },
+  {
+   "name": "Fortune Business Insights: Computational Chemistry Market",
+   "url": "https://www.fortunebusinessinsights.com/segmentation/computational-chemistry-market-115849"
+  },
+  {
+   "name": "Valuates: Quantum Computing in Chemistry Market",
+   "url": "https://prnewswire.co.uk/news-releases/quantum-computing-in-chemistry-market-size-to-grow-usd-108-5-million-by-2030-at-a-cagr-of-10-5--valuates-reports-302169757.html"
+  },
+  {
+   "name": "Schrödinger 2025 年报新闻稿",
+   "url": "https://www.biospace.com/press-releases/schrodinger-reports-fourth-quarter-and-full-year-2025-financial-results"
+  },
+  {
+   "name": "IonQ Q3 2025 财报",
+   "url": "https://investors.ionq.com/news/news-details/2025/IonQ-Announces-Third-Quarter-2025-Financial-Results/"
+  },
+  {
+   "name": "Rigetti 2025 财报（QCR）",
+   "url": "https://quantumcomputingreport.com/rigetti-computing-reports-fourth-quarter-and-full-year-2025-financial-results/"
+  },
+  {
+   "name": "D-Wave 2025 财报（TQI）",
+   "url": "https://thequantuminsider.com/2026/02/26/d-wave-reports-179-revenue-jump-in-2025-as-bookings-accelerate/"
+  },
+  {
+   "name": "Quantinuum IPO（TQI）",
+   "url": "https://thequantuminsider.com/2026/06/02/quantinuum-expands-ipo-as-valuation-climbs-above-14-billion/embed/"
+  },
+  {
+   "name": "Xanadu SPAC（BetaKit）",
+   "url": "https://betakit.com/xanadu-to-go-public-on-nasdaq-and-tsx-in-3-6-billion-usd-spac-deal/"
+  },
+  {
+   "name": "Infleqtion SPAC（PrivSource）",
+   "url": "https://www.privsource.com/acquisitions/deal/infleqtion-completes-business-combination-with-churchill-capital-corp-x-to-begin-trading-as-infq-2VSZO2"
+  },
+  {
+   "name": "Recursion 2024 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183025000034/exhibit991-10xk24.htm"
+  },
+  {
+   "name": "Relay 2025 财报",
+   "url": "https://qnow.quantisnow.com/insight/relay-therapeutics-reports-fourth-quarter-and-full-year-2025-financial-6415880"
+  },
+  {
+   "name": "Certara 2024 财报",
+   "url": "https://itiger.com/news/2514804898"
+  },
+  {
+   "name": "Simulations Plus FY2025 8-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1023459/000102345925000059/slp-2025831xexx991x254.htm"
+  },
+  {
+   "name": "SandboxAQ 融资（Reuters/The Star）",
+   "url": "https://www.thestar.com.my/tech/tech-news/2025/04/04/ai-startup-sandboxaq-adds-nvidia-google-as-backers-raises-additional-150-million"
+  },
+  {
+   "name": "PsiQuantum E 轮",
+   "url": "https://pulse2.com/psiquantum-1-billion-at-7-billion-valuation-raised-for-building-fault-tolerant-quantum-computers"
+  },
+  {
+   "name": "Siemens 收购 Dotmatics",
+   "url": "https://manufacturingchemist.com/siemens-completes-acquisition-of-dotmatics"
+  },
+  {
+   "name": "Cadence 收购 OpenEye",
+   "url": "https://mergr.com/cadence-acquires-openeye-scientific"
+  },
+  {
+   "name": "SandboxAQ 收购 Good Chemistry",
+   "url": "https://betakit.com/1qbit-spinout-good-chemistry-acquired-by-sandboxaq/"
+  },
+  {
+   "name": "Xaira 10 亿美元首轮",
+   "url": "https://www.fiercebiotech.com/biotech/new-ai-drug-discovery-powerhouse-xaira-rises-1b-funding"
+  },
+  {
+   "name": "Chai Discovery C 轮",
+   "url": "https://www.thepharmaletter.com/pharma-news/chai-discovery-raises-400-million-to-advance-ai-designed-drug-discovery"
+  },
+  {
+   "name": "Atom Computing 融资",
+   "url": "https://thequantuminsider.com/2026/06/17/atom-computing-raises-more-than-300-million-to-accelerate-deployment-of-fault-tolerant-neutral-atom-quantum-computers/"
+  },
+  {
+   "name": "Periodic Labs（Contrary）",
+   "url": "https://research.contrary.com/company/periodic-labs/quick-facts"
+  },
+  {
+   "name": "Terray B 轮",
+   "url": "https://siliconangle.com/?p=674487"
+  },
+  {
+   "name": "QuEra 融资",
+   "url": "https://natlawreview.com/press-releases/quera-computing-completes-230m-financing-accelerate-development-large-scale"
+  },
+  {
+   "name": "Zapata 停止运营",
+   "url": "https://thequantuminsider.com/2024/10/12/zapata-computing-holdings-inc-ceases-operations/"
+  },
+  {
+   "name": "Photonic 融资（BNN Bloomberg）",
+   "url": "https://www.bnnbloomberg.ca/business/company-news/2026/01/06/quantum-computing-firm-photonic-raises-180m-in-latest-financing-round/"
+  },
+  {
+   "name": "OpenAlex（CC0）",
+   "url": "https://openalex.org"
+  },
+  {
+   "name": "Natural Earth 底图",
+   "url": "https://www.naturalearthdata.com"
+  }
+ ]
+}

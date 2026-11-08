@@ -26,7 +26,7 @@
   .ra-links a i{font:500 10.5px var(--mono,monospace);font-style:normal;color:var(--muted,#6b767d);margin-right:5px}
   .ra-links a:hover{background:var(--line-2,#ebe8df);text-decoration:none}
   .ra-links a[aria-current]{color:var(--accent,#1f5f8b);background:var(--accent-soft,#e4edf3)}
-  .ra-theme{border:1px solid var(--line,#dedbd2);background:transparent;color:var(--ink,#1d262c);border-radius:6px;width:32px;height:30px;cursor:pointer;flex:none}
+  .ra-theme{font:500 12px var(--body,system-ui);border:1px solid var(--line,#dedbd2);background:transparent;color:var(--ink,#1d262c);border-radius:6px;width:32px;height:30px;cursor:pointer;flex:none}
   .ra-fab{position:fixed;z-index:60;left:50%;transform:translateX(-50%);top:calc(10px + env(safe-area-inset-top,0px));font-family:var(--body,system-ui)}
   .ra-fab>button{font:500 12.5px var(--body,system-ui);border:1px solid var(--line,#d5dadd);background:var(--panel,rgba(250,250,247,.94));color:var(--ink,#1d262c);border-radius:99px;padding:5px 13px;cursor:pointer;backdrop-filter:blur(6px);box-shadow:0 2px 10px rgba(0,0,0,.08)}
   .ra-fab .menu{position:absolute;top:36px;left:50%;transform:translateX(-50%);background:var(--panel,#fbfaf6);border:1px solid var(--line,#d5dadd);border-radius:10px;padding:6px;min-width:200px;box-shadow:0 10px 30px rgba(0,0,0,.15);backdrop-filter:blur(8px)}
@@ -41,7 +41,7 @@
   function themeBtn() {
     const b = document.createElement("button"); b.className = "ra-theme"; b.setAttribute("aria-label", "切换深浅色");
     const cur = () => document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-    const paint = () => b.textContent = cur() === "dark" ? "☀" : "☾";
+    const paint = () => b.textContent = cur() === "dark" ? "浅" : "深";
     b.onclick = () => { const t = cur() === "dark" ? "light" : "dark"; document.documentElement.dataset.theme = t; try { localStorage.setItem("ra-theme", t); } catch (e) {} paint(); };
     paint(); return b;
   }

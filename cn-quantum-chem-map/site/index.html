@@ -324,6 +324,7 @@ matchMedia("(prefers-color-scheme: dark)").addEventListener("change", draw);
 new MutationObserver(draw).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
 if (innerWidth <= 760) { document.getElementById("panel").classList.add("min"); const t = document.getElementById("toggle"); t.textContent = "展开"; t.setAttribute("aria-expanded", "false"); }
 insts(); stats(); resize();
+const hp = location.hash.match(/^#p=(A\d+)/); if (hp && byId[hp[1]]) { const n = byId[hp[1]]; T = d3.zoomIdentity; select(n, true); }
 })();
 </script>
 

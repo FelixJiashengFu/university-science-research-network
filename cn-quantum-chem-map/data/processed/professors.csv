@@ -99,6 +99,7 @@ A5007003236,Shang-Peng Gao,I24943067,Fudan University,Shanghai,Shanghai,CN,计�
 A5039234406,Wenning Wang,I24943067,Fudan University,Shanghai,Shanghai,CN,分子动力学与统计力学,74,21,0.712,0.497,33,3,0000-0002-8712-0536
 A5110228808,X. G. Gong,I24943067,Fudan University,Shanghai,Shanghai,CN,电子结构与量子化学方法,23,16,0.304,0.397,25,7,
 A5062582969,Xi-Jing Ning,I24943067,Fudan University,Shanghai,Shanghai,CN,分子动力学与统计力学,41,16,0.512,0.402,19,0,0000-0003-3646-3165
+A5036163052,Xin Xu,I24943067,Fudan University,Shanghai,Shanghai,CN,电子结构与量子化学方法,197,147,0.811,0.499,66,15,0000-0002-5247-2937
 A5101826210,Xin-Gao Gong,I24943067,Fudan University,Shanghai,Shanghai,CN,机器学习与数据驱动化学,75,19,0.667,0.338,56,10,0000-0001-7539-5471
 A5091863052,Y.X. Wang,I24943067,Fudan University,Shanghai,Shanghai,CN,分子动力学与统计力学,23,0,0.435,0.489,14,1,0000-0003-2904-9839
 A5023502514,Zhi-Pan Liu,I24943067,Fudan University,Shanghai,Shanghai,CN,机器学习与数据驱动化学,89,36,0.742,0.265,81,4,0000-0002-2906-5217
@@ -179,7 +180,6 @@ A5101506103,Li Jiang Guo,I4210133325,Institute of Process Engineering,Beijing,Be
 A5091144208,Lin-Wang Wang,I4210149211,Institute of Semiconductors,Beijing,Beijing,CN,电子结构与量子化学方法,73,39,0.795,0.145,86,3,0000-0001-7061-2692
 A5063505795,Rongshun Wang,I31590910,Jianghan University,Wuhan,Hubei,CN,电子结构与量子化学方法,100,92,0.77,0.365,31,5,0009-0000-3231-1717
 A5102928749,Jian Jin,I111599522,Jiangnan University,Wuxi,Jiangsu,CN,分子动力学与统计力学,14,0,0.786,0.255,17,0,0000-0003-4054-1031
-A5100619997,Jun Jiang,I111599522,Jiangnan University,Wuxi,Jiangsu,CN,机器学习与数据驱动化学,151,27,0.387,0.234,91,14,0000-0002-6116-5605
 A5007552110,Junhua Zhao,I111599522,Jiangnan University,Wuxi,Jiangsu,CN,分子动力学与统计力学,59,1,0.492,0.294,34,4,0000-0003-4566-4778
 A5059703242,Ning Wei,I111599522,Jiangnan University,Wuxi,Jiangsu,CN,分子动力学与统计力学,35,0,0.514,0.398,28,5,0000-0001-6448-4137
 A5110073683,Qingyi Shao,I111599522,Jiangnan University,Wuxi,Jiangsu,CN,计算材料与密度泛函,17,0,0.647,0.333,12,0,0000-0001-5455-6213
@@ -411,7 +411,6 @@ A5101476500,Minhua Zhang,I162868743,Tianjin University,Tianjin,Tianjin,CN,计算
 A5100459431,Xiaoyan Li,I162868743,Tianjin University,Tianjin,Tianjin,CN,计算材料与密度泛函,27,13,0.333,0.281,20,2,0000-0003-2819-5420
 A5035684276,Yingzhe Yu,I162868743,Tianjin University,Tianjin,Tianjin,CN,计算材料与密度泛函,74,1,0.878,0.51,26,2,0000-0001-6909-8972
 A5101739090,Hui Zhao,I116953780,Tongji University,Shanghai,,CN,计算材料与密度泛函,34,10,0.765,0.343,18,0,0000-0002-0762-468X
-A5100458442,Jinlong Yang,I116953780,Tongji University,Shanghai,,CN,计算材料与密度泛函,342,185,0.548,0.315,123,20,0000-0002-5651-5340
 A5076410530,Mohan Chen,I116953780,Tongji University,Shanghai,,CN,电子结构与量子化学方法,56,32,0.893,0.361,34,14,0000-0002-8071-5633
 A5100650302,Sheng Meng,I116953780,Tongji University,Shanghai,,CN,计算材料与密度泛函,116,32,0.302,0.206,79,5,0000-0002-1553-1432
 A5054622380,Xueye Wang,I116953780,Tongji University,Shanghai,,CN,计算材料与密度泛函,84,23,0.952,0.528,31,0,0000-0001-5578-6504
@@ -437,7 +436,9 @@ A5019157263,Bin Jiang,I126520041,University of Science and Technology of China,H
 A5015565192,Chuanfu Luo,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,26,3,0.731,0.419,24,2,0000-0002-4911-7870
 A5100776330,Fengchao Wang,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,52,7,0.385,0.342,48,1,0000-0002-5954-3881
 A5036086539,Haiyan Liu,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,39,24,0.821,0.113,49,2,0000-0002-5926-820X
+A5100458442,Jinlong Yang,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,计算材料与密度泛函,342,185,0.548,0.315,123,20,0000-0002-5651-5340
 A5109926338,Ju-Guang Han,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,58,29,0.914,0.652,25,2,0000-0001-9263-4972
+A5100619997,Jun Jiang,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,机器学习与数据驱动化学,151,27,0.387,0.234,91,14,0000-0002-6116-5605
 A5078865427,Lijia An,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,分子动力学与统计力学,68,37,0.338,0.209,44,5,0009-0006-9519-2544
 A5036793185,Lixin He,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,电子结构与量子化学方法,41,28,0.85,0.28,37,8,0000-0003-2050-134X
 A5035816005,Qiangqiang Gu,I126520041,University of Science and Technology of China,Hefei,Anhui,CN,机器学习与数据驱动化学,11,3,0.545,0.324,12,7,0000-0002-9438-9883
@@ -477,7 +478,6 @@ A5101820473,Liang Fang,I191208505,Xiamen University,Xiamen,Fujian,CN,分子动�
 A5063240098,Pavlo O. Dral,I191208505,Xiamen University,Xiamen,Fujian,CN,机器学习与数据驱动化学,95,42,0.758,0.363,33,3,0000-0002-2975-9876
 A5001497356,WanZhen Liang,I191208505,Xiamen University,Xiamen,Fujian,CN,电子结构与量子化学方法,81,61,0.662,0.449,35,9,0000-0002-5931-2901
 A5005841986,Wei Wu,I191208505,Xiamen University,Xiamen,Fujian,CN,电子结构与量子化学方法,168,161,0.613,0.703,50,4,0000-0002-6139-5443
-A5036163052,Xin Xu,I191208505,Xiamen University,Xiamen,Fujian,CN,电子结构与量子化学方法,197,147,0.811,0.499,66,15,0000-0002-5247-2937
 A5034128349,Yi Zhao,I191208505,Xiamen University,Xiamen,Fujian,CN,激发态、光谱与非绝热动力学,92,62,0.451,0.286,40,7,0000-0003-1711-4250
 A5100461045,Yu-Hua Wen,I191208505,Xiamen University,Xiamen,Fujian,CN,分子动力学与统计力学,59,4,0.593,0.454,32,2,0000-0002-0578-7506
 A5018002453,Zexing Cao,I191208505,Xiamen University,Xiamen,Fujian,CN,电子结构与量子化学方法,137,68,0.757,0.471,43,11,0000-0003-0803-7732

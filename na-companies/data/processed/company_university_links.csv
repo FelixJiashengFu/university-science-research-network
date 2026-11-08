@@ -1,0 +1,933 @@
+company_id,company,university_id,university,co_papers
+I203455613,Schrodinger,I78577930,Columbia University,75
+I2799548008,D. E. Shaw Research,I78577930,Columbia University,71
+I4210120115,Robert Bosch,I136199984,Harvard University,44
+I4210088495,Q Chem,I95457486,"University of California, Berkeley",27
+I4405269909,"Gaussian, Inc.",I32971472,Yale University,26
+I1338503839,Corning,I84218800,"University of California, Davis",25
+I4210162290,Wasatch Molecular,I223532165,University of Utah,24
+I4405269909,"Gaussian, Inc.",I201448701,University of Washington,23
+I4210088495,Q Chem,I1174212,University of Southern California,20
+I4210114444,Meta,I74973139,Carnegie Mellon University,20
+I4210124284,Parallel Quantum Solutions,I78715868,University of Arkansas at Fayetteville,17
+I4405269909,"Gaussian, Inc.",I128956969,Texas Christian University,17
+I4210113028,Air Products,I130769515,Pennsylvania State University,16
+I1291425158,Google,I97018004,Stanford University,15
+I4210091812,Bristol-Myers Squibb,I130701444,Georgia Institute of Technology,15
+I4405269909,"Gaussian, Inc.",I185443292,Wayne State University,14
+I4405269909,"Gaussian, Inc.",I1174212,University of Southern California,14
+I1324840837,Hewlett-Packard,I130238516,University of Minnesota,13
+I4210143896,Citrine Informatics,I111979921,Northwestern University,13
+I4405269909,"Gaussian, Inc.",I74775410,Rice University,13
+I1291425158,Google,I136199984,Harvard University,13
+I923382979,ExxonMobil,I130701444,Georgia Institute of Technology,13
+I1341412227,IBM,I78577930,Columbia University,13
+I4210150170,Nanoacademic Technologies,I5023651,McGill University,13
+I1338503839,Corning,I49502546,Alfred University,13
+I1341412227,IBM,I5388228,University of Rochester,13
+I1291425158,Google,I95457486,"University of California, Berkeley",12
+I4210088495,Q Chem,I63190737,"University at Buffalo, State University of New York",12
+I4210092778,QuesTek,I111979921,Northwestern University,12
+I4210133143,Dow Chemical,I111979921,Northwestern University,12
+I4405269909,"Gaussian, Inc.",I100538780,Wesleyan University,11
+I923382979,ExxonMobil,I63966007,Massachusetts Institute of Technology,11
+I1333370159,Motorola,I55732556,Arizona State University,11
+I4210143271,Goodyear,I75027704,University of Tennessee at Knoxville,11
+I4210133143,Dow Chemical,I27837315,University of Michigan,11
+I1341412227,IBM,I157725225,University of Illinois Urbana-Champaign,11
+I923382979,ExxonMobil,I130769515,Pennsylvania State University,10
+I4405269909,"Gaussian, Inc.",I130238516,University of Minnesota,10
+I4210127875,Nvidia,I74973139,Carnegie Mellon University,10
+I118136607,General Motors,I27804330,Brown University,10
+I200576644,HRL Laboratories,I161318765,"University of California, Los Angeles",10
+I118136607,General Motors,I130769515,Pennsylvania State University,10
+I1341412227,IBM,I24511612,Wabash College,10
+I74680897,Procter & Gamble,I84392919,Temple University,10
+I4210088495,Q Chem,I79576946,University of Pennsylvania,9
+I4210120115,Robert Bosch,I63966007,Massachusetts Institute of Technology,9
+I1291425158,Google,I122411786,California Institute of Technology,9
+I4210143896,Citrine Informatics,I91045830,Texas A&M University,9
+I1290206253,Microsoft,I74775410,Rice University,9
+I1343180700,Intel,I70931966,Université de Montréal,9
+I4210159209,Chevron Phillips Chemical,I100005738,Brigham Young University,9
+I4210133143,Dow Chemical,I130769515,Pennsylvania State University,9
+I4210133143,Dow Chemical,I122411786,California Institute of Technology,9
+I118136607,General Motors,I87216513,Michigan State University,9
+I131787340,Seagate,I74973139,Carnegie Mellon University,9
+I1291425158,Google,I78577930,Columbia University,8
+I1338503839,Corning,I165799507,Rensselaer Polytechnic Institute,8
+I1341412227,IBM,I95457486,"University of California, Berkeley",8
+I4210127875,Nvidia,I95457486,"University of California, Berkeley",8
+I1290206253,Microsoft,I95457486,"University of California, Berkeley",8
+I4210153148,CFD Research Corporation,I130769515,Pennsylvania State University,8
+I4210132811,Continuum Dynamics,I103163165,Florida State University,8
+I1338503839,Corning,I4210118108,New York State College of Ceramics,8
+I4405258653,Wavefunction,I204250578,"University of California, Irvine",8
+I168537998,Eli Lilly,I219193219,Purdue University West Lafayette,8
+I4210099808,OTI Lumionics,I185261750,University of Toronto,8
+I118136607,General Motors,I27837315,University of Michigan,8
+I203455613,Schrodinger,I180670191,"University of California, San Francisco",8
+I4210088495,Q Chem,I52357470,The Ohio State University,7
+I183934855,Genentech,I859038795,Virginia Tech,7
+I1291425158,Google,I204250578,"University of California, Irvine",7
+I4210143896,Citrine Informatics,I40347166,University of Chicago,7
+I4405269909,"Gaussian, Inc.",I150468666,Emory University,7
+I4210127875,Nvidia,I157725225,University of Illinois Urbana-Champaign,7
+I4210114143,GlaxoSmithKline,I36258959,University of California San Diego,7
+I1291425158,Google,I63966007,Massachusetts Institute of Technology,7
+I180857899,Pfizer,I63966007,Massachusetts Institute of Technology,7
+I1343180700,Intel,I95457486,"University of California, Berkeley",7
+I4210127875,Nvidia,I185261750,University of Toronto,7
+I4210148625,CNH Industrial,I859038795,Virginia Tech,7
+I4210127875,Nvidia,I40347166,University of Chicago,7
+I1341412227,IBM,I40347166,University of Chicago,7
+I4405269909,"Gaussian, Inc.",I4210119109,Indiana University Bloomington,7
+I4405269909,"Gaussian, Inc.",I592451,Indiana University,7
+I4387152382,Interx,I97018004,Stanford University,7
+I4210133143,Dow Chemical,I63966007,Massachusetts Institute of Technology,7
+I4210129342,Kimberly-Clark,I145311948,Johns Hopkins University,7
+I203455613,Schrodinger,I79576946,University of Pennsylvania,7
+I74680897,Procter & Gamble,I63135867,University of Cincinnati,7
+I4210099808,OTI Lumionics,I4405278283,University of Toronto Scarborough,7
+I4210133143,Dow Chemical,I51556381,University of Virginia,7
+I4210129342,Kimberly-Clark,I130701444,Georgia Institute of Technology,7
+I1343180700,Intel,I5023651,McGill University,6
+I4210114444,Meta,I130701444,Georgia Institute of Technology,6
+I1343180700,Intel,I130701444,Georgia Institute of Technology,6
+I4210114444,Meta,I63966007,Massachusetts Institute of Technology,6
+I4210127875,Nvidia,I36258959,University of California San Diego,6
+I203455613,Schrodinger,I122411786,California Institute of Technology,6
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I63966007,Massachusetts Institute of Technology,6
+I1340755506,3M,I130238516,University of Minnesota,6
+I4210127875,Nvidia,I97018004,Stanford University,6
+I1343180700,Intel,I84218800,"University of California, Davis",6
+I1291425158,Google,I185261750,University of Toronto,6
+I1341412227,IBM,I57206974,New York University,6
+I1343180700,Intel,I185261750,University of Toronto,6
+I4210140030,Eastman Chemical Company,I75027704,University of Tennessee at Knoxville,6
+I4210143896,Citrine Informatics,I74973139,Carnegie Mellon University,6
+I1290206253,Microsoft,I20089843,Princeton University,6
+I4387156175,BIOVIA,I130769515,Pennsylvania State University,6
+I4210134512,GE Global Research,I165799507,Rensselaer Polytechnic Institute,6
+I1338503839,Corning,I130769515,Pennsylvania State University,6
+I1292974536,Ford Motor Company,I27837315,University of Michigan,6
+I4210139090,Lam Research,I95457486,"University of California, Berkeley",6
+I4210160270,Materials Development,I59553526,Stony Brook University,6
+I1338503839,Corning,I63966007,Massachusetts Institute of Technology,6
+I1341412227,IBM,I87216513,Michigan State University,6
+I1316910977,DuPont,I72816309,Drexel University,6
+I118136607,General Motors,I55732556,Arizona State University,6
+I4405255852,Lubrizol,I170201317,University of Pittsburgh,6
+I4210113028,Air Products,I186143895,Lehigh University,6
+I118136607,General Motors,I157725225,University of Illinois Urbana-Champaign,6
+I4210150097,Xanadu Quantum Technologies,I185261750,University of Toronto,6
+I1338503839,Corning,I79576946,University of Pennsylvania,6
+I4210109355,OFM Research,I154570441,"University of California, Santa Barbara",6
+I4210099505,BioNano Genomics,I130238516,University of Minnesota,6
+I4210142480,Thermo Fisher Scientific,I12315562,Texas Tech University,6
+I4210142480,Thermo Fisher Scientific,I926076166,Texas Tech University Health Sciences Center,6
+I4210088495,Q Chem,I223532165,University of Utah,5
+I4210088495,Q Chem,I170201317,University of Pittsburgh,5
+I4210108719,EP Analytics,I173911158,Iowa State University,5
+I4210091812,Bristol-Myers Squibb,I20089843,Princeton University,5
+I1343180700,Intel,I111979921,Northwestern University,5
+I4210127875,Nvidia,I63966007,Massachusetts Institute of Technology,5
+I4405269909,"Gaussian, Inc.",I223532165,University of Utah,5
+I1338503839,Corning,I102322142,"Rutgers, The State University of New Jersey",5
+I1341412227,IBM,I97018004,Stanford University,5
+I1341412227,IBM,I63966007,Massachusetts Institute of Technology,5
+I1291425158,Google,I111088046,Boston University,5
+I1291425158,Google,I74973139,Carnegie Mellon University,5
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I136199984,Harvard University,5
+I4210127875,Nvidia,I122411786,California Institute of Technology,5
+I1341412227,IBM,I36672615,Courant Institute of Mathematical Sciences,5
+I4210120115,Robert Bosch,I111979921,Northwestern University,5
+I1338503839,Corning,I161318765,"University of California, Los Angeles",5
+I4210088495,Q Chem,I8692664,University of Oklahoma,5
+I203455613,Schrodinger,I16285277,William & Mary,5
+I2948539688,AbbVie,I57206974,New York University,5
+I1320553840,Amgen,I63966007,Massachusetts Institute of Technology,5
+I923382979,ExxonMobil,I111979921,Northwestern University,5
+I4405261461,Toyota Motor North America Research & Development,I63190737,"University at Buffalo, State University of New York",5
+I1290206253,Microsoft,I201448701,University of Washington,5
+I4210133143,Dow Chemical,I135310074,University of Wisconsin–Madison,5
+I4405269909,"Gaussian, Inc.",I146416000,University of Kansas,5
+I4210099511,Covestro,I74973139,Carnegie Mellon University,5
+I3019562804,BASF,I154570441,"University of California, Santa Barbara",5
+I1338503839,Corning,I137902535,North Carolina State University,5
+I1316910977,DuPont,I63966007,Massachusetts Institute of Technology,5
+I4210158204,Altria,I184840846,Virginia Commonwealth University,5
+I74680897,Procter & Gamble,I27837315,University of Michigan,5
+I4210114261,Zyvex,I162577319,The University of Texas at Dallas,5
+I4210129483,Eloret,I130238516,University of Minnesota,5
+I1333370159,Motorola,I168635309,University of Calgary,5
+I1341412227,IBM,I36258959,University of California San Diego,5
+I4210128144,EIC Laboratories,I87216513,Michigan State University,5
+I4210118014,Chevron,I95457486,"University of California, Berkeley",5
+I923094244,Syncrude,I154425047,University of Alberta,5
+I4210133143,Dow Chemical,I39422238,University of Illinois Chicago,5
+I1341358820,Nanosys,I156087764,"University of California, Merced",5
+I1338503839,Corning,I123534392,University of North Texas,5
+I4210131970,Advanced Cooling Technologies,I165799507,Rensselaer Polytechnic Institute,5
+I4210111989,Molsoft,I36258959,University of California San Diego,5
+I203455613,Schrodinger,I111236770,University of Vermont,5
+I2948539688,AbbVie,I219193219,Purdue University West Lafayette,5
+I1338503839,Corning,I52357470,The Ohio State University,5
+I4210088495,Q Chem,I219193219,Purdue University West Lafayette,4
+I183934855,Genentech,I97018004,Stanford University,4
+I183934855,Genentech,I103163165,Florida State University,4
+I4210158736,Nurix,I204250578,"University of California, Irvine",4
+I4210088495,Q Chem,I111088046,Boston University,4
+I4210114444,Meta,I97018004,Stanford University,4
+I1343180700,Intel,I130238516,University of Minnesota,4
+I1343180700,Intel,I36258959,University of California San Diego,4
+I1343180700,Intel,I33213144,University of Florida,4
+I1343180700,Intel,I63966007,Massachusetts Institute of Technology,4
+I4210115286,Dirac Solutions,I201448701,University of Washington,4
+I4210127875,Nvidia,I173911158,Iowa State University,4
+I4210127875,Nvidia,I201448701,University of Washington,4
+I4210127875,Nvidia,I130701444,Georgia Institute of Technology,4
+I4210127875,Nvidia,I33213144,University of Florida,4
+I1290206253,Microsoft,I63966007,Massachusetts Institute of Technology,4
+I4210143896,Citrine Informatics,I223532165,University of Utah,4
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I161318765,"University of California, Los Angeles",4
+I1291425158,Google,I161318765,"University of California, Los Angeles",4
+I4210143896,Citrine Informatics,I170897317,Duke University,4
+I4210143896,Citrine Informatics,I185261750,University of Toronto,4
+I4210114444,Meta,I136199984,Harvard University,4
+I4210137693,Siemens,I111979921,Northwestern University,4
+I4210127875,Nvidia,I136199984,Harvard University,4
+I183934855,Genentech,I72951846,Washington State University,4
+I3019562804,BASF,I107639228,University of Notre Dame,4
+I1341412227,IBM,I74775410,Rice University,4
+I4210133143,Dow Chemical,I130701444,Georgia Institute of Technology,4
+I4210127875,Nvidia,I178169726,Southern Methodist University,4
+I1343180700,Intel,I55732556,Arizona State University,4
+I4210148837,VeraChem,I173911158,Iowa State University,4
+I4210148837,VeraChem,I921990950,University of Colorado Denver,4
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I12524447,Seton Hall University,4
+I1341412227,IBM,I32971472,Yale University,4
+I4210124284,Parallel Quantum Solutions,I99041443,Mississippi State University,4
+I4405269909,"Gaussian, Inc.",I156087764,"University of California, Merced",4
+I28304128,Alcoa,I157725225,University of Illinois Urbana-Champaign,4
+I28304128,Alcoa,I55732556,Arizona State University,4
+I11912373,Micron,I120156002,Boise State University,4
+I1341412227,IBM,I111979921,Northwestern University,4
+I1343180700,Intel,I219193219,Purdue University West Lafayette,4
+I1311688040,Amazon,I95457486,"University of California, Berkeley",4
+I4387153498,SandboxAQ,I201448701,University of Washington,4
+I4210113028,Air Products,I133999245,"University of Nevada, Las Vegas",4
+I2948394018,Northrop Grumman,I223532165,University of Utah,4
+I4210116217,SilcsBio,I126744593,"University of Maryland, Baltimore",4
+I4210150951,Shell,I20089843,Princeton University,4
+I51409038,Saudi Arabia Basic Industries,I859038795,Virginia Tech,4
+I74680897,Procter & Gamble,I79576946,University of Pennsylvania,4
+I203455613,Schrodinger,I136199984,Harvard University,4
+I1338503839,Corning,I5388228,University of Rochester,4
+I4210120115,Robert Bosch,I1629065,Central Michigan University,4
+I175669267,Carestream,I5388228,University of Rochester,4
+I4210159451,Kodak,I5388228,University of Rochester,4
+I1316910977,DuPont,I36258959,University of California San Diego,4
+I1316910977,DuPont,I185261750,University of Toronto,4
+I4210111877,Zapata,I185261750,University of Toronto,4
+I1343180700,Intel,I136199984,Harvard University,4
+I200576644,HRL Laboratories,I40347166,University of Chicago,4
+I4210158237,UES,I127591826,University of Dayton,4
+I1343180700,Intel,I205783295,Cornell University,4
+I74760111,Texas Instruments,I162577319,The University of Texas at Dallas,4
+I4210113028,Air Products,I136199984,Harvard University,4
+I118136607,General Motors,I33213144,University of Florida,4
+I1311688040,Amazon,I136199984,Harvard University,4
+I4210111601,HexaTech,I137902535,North Carolina State University,4
+I4210164561,Adroit Materials,I137902535,North Carolina State University,4
+I118136607,General Motors,I74413500,University of Windsor,4
+I923382979,ExxonMobil,I95457486,"University of California, Berkeley",4
+I168537998,Eli Lilly,I4210119109,Indiana University Bloomington,4
+I168537998,Eli Lilly,I592451,Indiana University,4
+I193170854,Bruker,I86501945,University of Delaware,4
+I1338503839,Corning,I205783295,Cornell University,4
+I1316910977,DuPont,I79576946,University of Pennsylvania,4
+I4210159399,Universal Technology Corporation,I127591826,University of Dayton,4
+I4210158237,UES,I145311948,Johns Hopkins University,4
+I203455613,Schrodinger,I7863295,Villanova University,4
+I203455613,Schrodinger,I36258959,University of California San Diego,4
+I4210133143,Dow Chemical,I157725225,University of Illinois Urbana-Champaign,4
+I203455613,Schrodinger,I205783295,Cornell University,4
+I2800035258,Ionis Pharmaceuticals,I223532165,University of Utah,4
+I923382979,ExxonMobil,I156087764,"University of California, Merced",4
+I2948539688,AbbVie,I135310074,University of Wisconsin–Madison,4
+I4210113028,Air Products,I8078737,Clemson University,4
+I1297540436,Biogen,I136199984,Harvard University,4
+I74680897,Procter & Gamble,I126744593,"University of Maryland, Baltimore",4
+I1341412227,IBM,I138006243,University of Arizona,4
+I4210121352,Western Digital,I36258959,University of California San Diego,4
+I4210148120,Sarepta Therapeutics,I140172145,University of Connecticut,4
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I165799507,Rensselaer Polytechnic Institute,4
+I4387153853,Altos Labs,I32971472,Yale University,4
+I4210088495,Q Chem,I136199984,Harvard University,3
+I4210088495,Q Chem,I20089843,Princeton University,3
+I183934855,Genentech,I59553526,Stony Brook University,3
+I183934855,Genentech,I204250578,"University of California, Irvine",3
+I4210122178,Hewlett Packard Enterprise,I87216513,Michigan State University,3
+I1291425158,Google,I170201317,University of Pittsburgh,3
+I1291425158,Google,I157725225,University of Illinois Urbana-Champaign,3
+I4210088495,Q Chem,I119888943,Gonzaga University,3
+I4210088495,Q Chem,I103163165,Florida State University,3
+I4210143896,Citrine Informatics,I95457486,"University of California, Berkeley",3
+I1343180700,Intel,I201448701,University of Washington,3
+I1343180700,Intel,I157725225,University of Illinois Urbana-Champaign,3
+I4210114444,Meta,I36258959,University of California San Diego,3
+I4210114444,Meta,I157725225,University of Illinois Urbana-Champaign,3
+I4210127875,Nvidia,I63190737,"University at Buffalo, State University of New York",3
+I4210143896,Citrine Informatics,I154425047,University of Alberta,3
+I1343180700,Intel,I51556381,University of Virginia,3
+I1343180700,Intel,I154570441,"University of California, Santa Barbara",3
+I4210143896,Citrine Informatics,I123534392,University of North Texas,3
+I1341412227,IBM,I156087764,"University of California, Merced",3
+I4405261461,Toyota Motor North America Research & Development,I859038795,Virginia Tech,3
+I1291425158,Google,I63190737,"University at Buffalo, State University of New York",3
+I923382979,ExxonMobil,I110152177,University of Akron,3
+I4210143896,Citrine Informatics,I97018004,Stanford University,3
+I1291425158,Google,I40347166,University of Chicago,3
+I4210114444,Meta,I95457486,"University of California, Berkeley",3
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I185261750,University of Toronto,3
+I4210091812,Bristol-Myers Squibb,I161318765,"University of California, Los Angeles",3
+I86725329,Hitachi Global Storage Technologies,I154570441,"University of California, Santa Barbara",3
+I4210140478,SpaceX,I95457486,"University of California, Berkeley",3
+I4210133143,Dow Chemical,I130238516,University of Minnesota,3
+I1324840837,Hewlett-Packard,I2800403580,University of Minnesota System,3
+I4210088495,Q Chem,I189196454,The University of Texas at Arlington,3
+I1343180700,Intel,I151746483,University of Waterloo,3
+I4405261461,Toyota Motor North America Research & Development,I122411786,California Institute of Technology,3
+I1290206253,Microsoft,I188538660,University of Colorado Boulder,3
+I1290206253,Microsoft,I130701444,Georgia Institute of Technology,3
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I153901656,University of North Carolina Wilmington,3
+I1291425158,Google,I12912129,Northeastern University,3
+I923382979,ExxonMobil,I44461941,University of Houston,3
+I4405261461,Toyota Motor North America Research & Development,I111979921,Northwestern University,3
+I4405261461,Toyota Motor North America Research & Development,I27837315,University of Michigan,3
+I1341412227,IBM,I137902535,North Carolina State University,3
+I4210143896,Citrine Informatics,I57206974,New York University,3
+I4210160255,Boehringer Ingelheim,I32971472,Yale University,3
+I4210127875,Nvidia,I87216513,Michigan State University,3
+I1290206253,Microsoft,I91045830,Texas A&M University,3
+I1290206253,Microsoft,I114027177,University of North Carolina at Chapel Hill,3
+I203455613,Schrodinger,I1629065,Central Michigan University,3
+I4396570585,Leidos Biomedical Research Inc.,I173911158,Iowa State University,3
+I4405269909,"Gaussian, Inc.",I27804330,Brown University,3
+I74786994,Kitware,I102322142,"Rutgers, The State University of New Jersey",3
+I168537998,Eli Lilly,I40347166,University of Chicago,3
+I4210159399,Universal Technology Corporation,I110152177,University of Akron,3
+I4387152382,Interx,I74973139,Carnegie Mellon University,3
+I4387152382,Interx,I39422238,University of Illinois Chicago,3
+I4210091812,Bristol-Myers Squibb,I27837315,University of Michigan,3
+I1291425158,Google,I170897317,Duke University,3
+I923382979,ExxonMobil,I20089843,Princeton University,3
+I1341412227,IBM,I63190737,"University at Buffalo, State University of New York",3
+I1338503839,Corning,I186143895,Lehigh University,3
+I4210150951,Shell,I63966007,Massachusetts Institute of Technology,3
+I4210143896,Citrine Informatics,I63966007,Massachusetts Institute of Technology,3
+I4405270056,Numerion Labs,I40347166,University of Chicago,3
+I4210088495,Q Chem,I32971472,Yale University,3
+I4405269909,"Gaussian, Inc.",I84392919,Temple University,3
+I4210123304,Kebotix,I72816309,Drexel University,3
+I4210158736,Nurix,I84218800,"University of California, Davis",3
+I1291425158,Google,I103163165,Florida State University,3
+I1290206253,Microsoft,I170897317,Duke University,3
+I1290206253,Microsoft,I205783295,Cornell University,3
+I4401726847,Cohere,I185261750,University of Toronto,3
+I1343180700,Intel,I123534392,University of North Texas,3
+I1343180700,Intel,I52357470,The Ohio State University,3
+I1338503839,Corning,I167576493,Colorado School of Mines,3
+I118136607,General Motors,I125749732,Western University,3
+I193427800,Applied Materials,I130701444,Georgia Institute of Technology,3
+I1312732213,Coca Cola,I859038795,Virginia Tech,3
+I2948539688,AbbVie,I188538660,University of Colorado Boulder,3
+I4387153498,SandboxAQ,I27837315,University of Michigan,3
+I4387153498,SandboxAQ,I185261750,University of Toronto,3
+I4210088765,Aluminerie Alouette,I104914703,Université du Québec à Chicoutimi,3
+I1297540436,Biogen,I103163165,Florida State University,3
+I183934855,Genentech,I63966007,Massachusetts Institute of Technology,3
+I1316910977,DuPont,I86501945,University of Delaware,3
+I1311688040,Amazon,I107672454,Dartmouth College,3
+I4210140030,Eastman Chemical Company,I137902535,North Carolina State University,3
+I1292974536,Ford Motor Company,I111979921,Northwestern University,3
+I4387156175,BIOVIA,I95457486,"University of California, Berkeley",3
+I4210133143,Dow Chemical,I74775410,Rice University,3
+I203455613,Schrodinger,I66946132,"University of Maryland, College Park",3
+I175669267,Carestream,I205783295,Cornell University,3
+I4210159451,Kodak,I205783295,Cornell University,3
+I82514191,Honeywell,I119888943,Gonzaga University,3
+I4210111877,Zapata,I136199984,Harvard University,3
+I1311688040,Amazon,I78577930,Columbia University,3
+I4210086189,Mirion Technologies,I32971472,Yale University,3
+I4210086189,Mirion Technologies,I140172145,University of Connecticut,3
+I55279860,L-3 Communications,I135310074,University of Wisconsin–Madison,3
+I4405269909,"Gaussian, Inc.",I859038795,Virginia Tech,3
+I118136607,General Motors,I107639228,University of Notre Dame,3
+I4210140972,"ColdQuanta, Inc., DBA Infleqtion",I188538660,University of Colorado Boulder,3
+I4210126327,Sivananthan Laboratories,I157638225,"California State University, Northridge",3
+I2891174042,Stillwater,I115475287,Oklahoma State University,3
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I4210119109,Indiana University Bloomington,3
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I592451,Indiana University,3
+I1341412227,IBM,I165799507,Rensselaer Polytechnic Institute,3
+I4387156175,BIOVIA,I154570441,"University of California, Santa Barbara",3
+I1333370159,Motorola,I4210106879,Ohio University,3
+I4210095831,Flexterra,I111979921,Northwestern University,3
+I118136607,General Motors,I155781252,University of South Carolina,3
+I4210150951,Shell,I74775410,Rice University,3
+I4210121352,Western Digital,I130769515,Pennsylvania State University,3
+I4210158237,UES,I219193219,Purdue University West Lafayette,3
+I4210149381,N5 Sensors,I162714631,George Mason University,3
+I1292974536,Ford Motor Company,I63966007,Massachusetts Institute of Technology,3
+I193170854,Bruker,I170201317,University of Pittsburgh,3
+I4387154111,Rockwell Collins,I111979921,Northwestern University,3
+I3019562804,BASF,I219193219,Purdue University West Lafayette,3
+I131787340,Seagate,I17301866,University of Alabama,3
+I131787340,Seagate,I12315562,Texas Tech University,3
+I2799548008,D. E. Shaw Research,I136199984,Harvard University,3
+I1338503839,Corning,I55732556,Arizona State University,3
+I4210111444,Arkema,I79576946,University of Pennsylvania,3
+I4210111444,Arkema,I72816309,Drexel University,3
+I1332737386,General Electric,I165799507,Rensselaer Polytechnic Institute,3
+I203455613,Schrodinger,I24603500,University of Massachusetts Amherst,3
+I4210121430,CoolCad Electronics,I66946132,"University of Maryland, College Park",3
+I10654025,SK Group,I97018004,Stanford University,3
+I193427800,Applied Materials,I97018004,Stanford University,3
+I4210116472,Radiation Monitoring Devices,I75027704,University of Tennessee at Knoxville,3
+I4210139455,J.A. Woollam Company,I110378019,Southern Illinois University Carbondale,3
+I4210139455,J.A. Woollam Company,I157725225,University of Illinois Urbana-Champaign,3
+I4210129050,Nonlinear Control Strategies,I55732556,Arizona State University,3
+I193427800,Applied Materials,I36258959,University of California San Diego,3
+I35662394,GlobalFoundries,I36258959,University of California San Diego,3
+I4210160255,Boehringer Ingelheim,I91045830,Texas A&M University,3
+I1338503839,Corning,I188538660,University of Colorado Boulder,3
+I1287521167,Lockheed Martin,I200719446,Vanderbilt University,3
+I4210137977,Advanced Micro Devices,I97018004,Stanford University,3
+I1333370159,Motorola,I36258959,University of California San Diego,3
+I1341412227,IBM,I136199984,Harvard University,3
+I74680897,Procter & Gamble,I165799507,Rensselaer Polytechnic Institute,3
+I1338503839,Corning,I111088046,Boston University,3
+I4210159399,Universal Technology Corporation,I130701444,Georgia Institute of Technology,3
+I193170854,Bruker,I136199984,Harvard University,3
+I4405270056,Numerion Labs,I180670191,"University of California, San Francisco",3
+I1292974536,Ford Motor Company,I155781252,University of South Carolina,3
+I1292974536,Ford Motor Company,I121934306,Tufts University,3
+I2948539688,AbbVie,I36672615,Courant Institute of Mathematical Sciences,3
+I4210107422,Stantec,I138006243,University of Arizona,3
+I203455613,Schrodinger,I126744593,"University of Maryland, Baltimore",3
+I4210160270,Materials Development,I123534392,University of North Texas,3
+I74680897,Procter & Gamble,I137902535,North Carolina State University,3
+I175669267,Carestream,I79576946,University of Pennsylvania,3
+I4210159451,Kodak,I79576946,University of Pennsylvania,3
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I180670191,"University of California, San Francisco",3
+I62856769,Saudi Aramco,I20089843,Princeton University,3
+I193170854,Bruker,I19700959,Florida International University,3
+I168537998,Eli Lilly,I117965899,University of Hawaiʻi at Mānoa,3
+I4210094840,Silicon Therapeutics,I111088046,Boston University,3
+I74614422,Quest Diagnostics,I165951966,The University of Texas at San Antonio Health Science Center,3
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I86519309,The University of Texas at Austin,3
+I183934855,Genentech,I180670191,"University of California, San Francisco",3
+I4387153853,Altos Labs,I180670191,"University of California, San Francisco",3
+I4210111145,QuEra Computing,I136199984,Harvard University,3
+I4210114143,GlaxoSmithKline,I200719446,Vanderbilt University,3
+I4210121352,Western Digital,I223532165,University of Utah,3
+I118136607,General Motors,I4210130704,University of Michigan–Dearborn,3
+I923382979,ExxonMobil,I72816309,Drexel University,3
+I1341412227,IBM,I59553526,Stony Brook University,3
+I4210144687,Nitto,I36258959,University of California San Diego,3
+I1327359573,Bio-Rad,I165799507,Rensselaer Polytechnic Institute,3
+I4396570585,Leidos Biomedical Research Inc.,I110152177,University of Akron,3
+I4210144946,Applied Research Associates,I137902535,North Carolina State University,3
+I203455613,Schrodinger,I40347166,University of Chicago,3
+I4405272746,"Hyperfine, Inc.",I52357470,The Ohio State University,3
+I4210123694,Spectral Energies,I173911158,Iowa State University,3
+I4210111149,Aerodyne Research,I52357470,The Ohio State University,3
+I4210095507,Merck Canada Inc.,I60158472,Concordia University,2
+I4210088495,Q Chem,I2613432,University of South Florida,2
+I4210088495,Q Chem,I27837315,University of Michigan,2
+I4210088495,Q Chem,I103635307,"University of California, Riverside",2
+I4210088495,Q Chem,I63966007,Massachusetts Institute of Technology,2
+I4405258653,Wavefunction,I1174212,University of Southern California,2
+I4405258653,Wavefunction,I95457486,"University of California, Berkeley",2
+I4405258653,Wavefunction,I52357470,The Ohio State University,2
+I4405258653,Wavefunction,I219193219,Purdue University West Lafayette,2
+I4405258653,Wavefunction,I223532165,University of Utah,2
+I4405258653,Wavefunction,I27837315,University of Michigan,2
+I4405258653,Wavefunction,I170201317,University of Pittsburgh,2
+I4405258653,Wavefunction,I79576946,University of Pennsylvania,2
+I4405258653,Wavefunction,I63966007,Massachusetts Institute of Technology,2
+I183934855,Genentech,I36258959,University of California San Diego,2
+I183934855,Genentech,I223532165,University of Utah,2
+I4210158736,Nurix,I36258959,University of California San Diego,2
+I4210108719,EP Analytics,I87216513,Michigan State University,2
+I4210108719,EP Analytics,I921990950,University of Colorado Denver,2
+I4210108719,EP Analytics,I81365321,Old Dominion University,2
+I1290206253,Microsoft,I173911158,Iowa State University,2
+I4210122178,Hewlett Packard Enterprise,I173911158,Iowa State University,2
+I4210122178,Hewlett Packard Enterprise,I921990950,University of Colorado Denver,2
+I4210122178,Hewlett Packard Enterprise,I81365321,Old Dominion University,2
+I1291425158,Google,I52357470,The Ohio State University,2
+I1291425158,Google,I130238516,University of Minnesota,2
+I1291425158,Google,I188538660,University of Colorado Boulder,2
+I1320553840,Amgen,I78577930,Columbia University,2
+I4210088495,Q Chem,I122411786,California Institute of Technology,2
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I20089843,Princeton University,2
+I1343180700,Intel,I130769515,Pennsylvania State University,2
+I1343180700,Intel,I121820613,Louisiana State University,2
+I1343180700,Intel,I223532165,University of Utah,2
+I4210114444,Meta,I63190737,"University at Buffalo, State University of New York",2
+I4210114444,Meta,I130769515,Pennsylvania State University,2
+I4210114444,Meta,I173911158,Iowa State University,2
+I4210114444,Meta,I111979921,Northwestern University,2
+I4210127875,Nvidia,I130238516,University of Minnesota,2
+I4210127875,Nvidia,I111979921,Northwestern University,2
+I4210127875,Nvidia,I20089843,Princeton University,2
+I4210088495,Q Chem,I111979921,Northwestern University,2
+I4405269909,"Gaussian, Inc.",I92446798,Colorado State University,2
+I4210134512,GE Global Research,I66946132,"University of Maryland, College Park",2
+I4210114143,GlaxoSmithKline,I33213144,University of Florida,2
+I4387155329,Form Energy,I79576946,University of Pennsylvania,2
+I4387155329,Form Energy,I78577930,Columbia University,2
+I4387155329,Form Energy,I40347166,University of Chicago,2
+I4210150097,Xanadu Quantum Technologies,I136199984,Harvard University,2
+I4210114444,Meta,I185261750,University of Toronto,2
+I1340755506,3M,I86519309,The University of Texas at Austin,2
+I4210143896,Citrine Informatics,I137902535,North Carolina State University,2
+I4210143896,Citrine Informatics,I66946132,"University of Maryland, College Park",2
+I4210134512,GE Global Research,I137902535,North Carolina State University,2
+I4210134512,GE Global Research,I111979921,Northwestern University,2
+I4210134512,GE Global Research,I91045830,Texas A&M University,2
+I1306409833,Adobe Systems,I97018004,Stanford University,2
+I1306409833,Adobe Systems,I95457486,"University of California, Berkeley",2
+I1343180700,Intel,I97018004,Stanford University,2
+I4405261461,Toyota Motor North America Research & Development,I66946132,"University of Maryland, College Park",2
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I141945490,University of British Columbia,2
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I223532165,University of Utah,2
+I4210143896,Citrine Informatics,I154570441,"University of California, Santa Barbara",2
+I203455613,Schrodinger,I75027704,University of Tennessee at Knoxville,2
+I4210127875,Nvidia,I91045830,Texas A&M University,2
+I1291425158,Google,I141945490,University of British Columbia,2
+I1291425158,Google,I137902535,North Carolina State University,2
+I4210162800,Materials Resources,I72816309,Drexel University,2
+I4210127875,Nvidia,I121980950,Utah State University,2
+I1332737386,General Electric,I32971472,Yale University,2
+I4210134512,GE Global Research,I32971472,Yale University,2
+I4210092778,QuesTek,I52357470,The Ohio State University,2
+I4210133143,Dow Chemical,I95457486,"University of California, Berkeley",2
+I4405269909,"Gaussian, Inc.",I136199984,Harvard University,2
+I4210131970,Advanced Cooling Technologies,I97018004,Stanford University,2
+I4210088495,Q Chem,I55769427,Indiana University – Purdue University Indianapolis,2
+I4401726927,Cerebras Systems,I178169726,Southern Methodist University,2
+I4401726927,Cerebras Systems,I111979921,Northwestern University,2
+I4401726927,Cerebras Systems,I186143895,Lehigh University,2
+I4401726927,Cerebras Systems,I78577930,Columbia University,2
+I4401726927,Cerebras Systems,I36258959,University of California San Diego,2
+I4401726927,Cerebras Systems,I63966007,Massachusetts Institute of Technology,2
+I4401726927,Cerebras Systems,I201448701,University of Washington,2
+I4401726927,Cerebras Systems,I219193219,Purdue University West Lafayette,2
+I4401726927,Cerebras Systems,I157725225,University of Illinois Urbana-Champaign,2
+I4401726927,Cerebras Systems,I95457486,"University of California, Berkeley",2
+I4401726927,Cerebras Systems,I33213144,University of Florida,2
+I4401726927,Cerebras Systems,I32971472,Yale University,2
+I4401726927,Cerebras Systems,I170897317,Duke University,2
+I4401726927,Cerebras Systems,I154570441,"University of California, Santa Barbara",2
+I4401726927,Cerebras Systems,I20089843,Princeton University,2
+I4401726927,Cerebras Systems,I44461941,University of Houston,2
+I4401726927,Cerebras Systems,I173911158,Iowa State University,2
+I1291425158,Google,I79576946,University of Pennsylvania,2
+I4210123304,Kebotix,I136199984,Harvard University,2
+I4210123304,Kebotix,I185261750,University of Toronto,2
+I2948539688,AbbVie,I86501945,University of Delaware,2
+I183934855,Genentech,I57206974,New York University,2
+I4210088495,Q Chem,I204465549,Washington University in St. Louis,2
+I4210088495,Q Chem,I141450709,Monmouth University,2
+I4210091812,Bristol-Myers Squibb,I78577930,Columbia University,2
+I4210091812,Bristol-Myers Squibb,I57206974,New York University,2
+I1343180700,Intel,I84392919,Temple University,2
+I1338503839,Corning,I40347166,University of Chicago,2
+I1290206253,Microsoft,I138006243,University of Arizona,2
+I1290206253,Microsoft,I107672454,Dartmouth College,2
+I1290206253,Microsoft,I165799507,Rensselaer Polytechnic Institute,2
+I4405269909,"Gaussian, Inc.",I123534392,University of North Texas,2
+I4405269909,"Gaussian, Inc.",I86519309,The University of Texas at Austin,2
+I4405260962,Samsung Semiconductor,I140172145,University of Connecticut,2
+I1290206253,Microsoft,I111088046,Boston University,2
+I4210143896,Citrine Informatics,I137428128,Franklin W. Olin College of Engineering,2
+I4210133143,Dow Chemical,I137902535,North Carolina State University,2
+I4210133143,Dow Chemical,I74973139,Carnegie Mellon University,2
+I4210111877,Zapata,I201448701,University of Washington,2
+I923382979,ExxonMobil,I859038795,Virginia Tech,2
+I923382979,ExxonMobil,I74973139,Carnegie Mellon University,2
+I923382979,ExxonMobil,I173911158,Iowa State University,2
+I4210114444,Meta,I44461941,University of Houston,2
+I4405261461,Toyota Motor North America Research & Development,I74973139,Carnegie Mellon University,2
+I4405261461,Toyota Motor North America Research & Development,I44461941,University of Houston,2
+I4405261461,Toyota Motor North America Research & Development,I8692664,University of Oklahoma,2
+I4405261461,Toyota Motor North America Research & Development,I63966007,Massachusetts Institute of Technology,2
+I4405261461,Toyota Motor North America Research & Development,I130701444,Georgia Institute of Technology,2
+I4405261461,Toyota Motor North America Research & Development,I173911158,Iowa State University,2
+I4210143896,Citrine Informatics,I135310074,University of Wisconsin–Madison,2
+I1290206253,Microsoft,I122411786,California Institute of Technology,2
+I1290206253,Microsoft,I52357470,The Ohio State University,2
+I1290206253,Microsoft,I78577930,Columbia University,2
+I1290206253,Microsoft,I859038795,Virginia Tech,2
+I1341412227,IBM,I122411786,California Institute of Technology,2
+I1341412227,IBM,I201448701,University of Washington,2
+I1341412227,IBM,I170201317,University of Pittsburgh,2
+I1341412227,IBM,I859038795,Virginia Tech,2
+I1341412227,IBM,I66946132,"University of Maryland, College Park",2
+I1311688040,Amazon,I185261750,University of Toronto,2
+I923382979,ExxonMobil,I52357470,The Ohio State University,2
+I1332737386,General Electric,I66946132,"University of Maryland, College Park",2
+I178975111,Spectral Sciences,I150468666,Emory University,2
+I4210133143,Dow Chemical,I219193219,Purdue University West Lafayette,2
+I4210143896,Citrine Informatics,I52357470,The Ohio State University,2
+I4210114444,Meta,I87216513,Michigan State University,2
+I4387152382,Interx,I185443292,Wayne State University,2
+I153156064,KBR,I95457486,"University of California, Berkeley",2
+I175669267,Carestream,I70983195,Syracuse University,2
+I4210159451,Kodak,I70983195,Syracuse University,2
+I1306686416,RTX,I63966007,Massachusetts Institute of Technology,2
+I1328091291,Ensco,I33213144,University of Florida,2
+I74786994,Kitware,I63190737,"University at Buffalo, State University of New York",2
+I4210096359,TDA Research,I179301192,Mount Saint Vincent University,2
+I4210096359,TDA Research,I66890659,Saint Mary's University,2
+I4210096359,TDA Research,I98251732,McMaster University,2
+I4210096359,TDA Research,I129902397,Dalhousie University,2
+I11912373,Micron,I4210124248,Center for Advanced Energy Studies,2
+I4210143896,Citrine Informatics,I140172145,University of Connecticut,2
+I4210134512,GE Global Research,I130769515,Pennsylvania State University,2
+I1338503839,Corning,I111979921,Northwestern University,2
+I4210088495,Q Chem,I78577930,Columbia University,2
+I4210124850,Analiza,I2613432,University of South Florida,2
+I4210137977,Advanced Micro Devices,I24603500,University of Massachusetts Amherst,2
+I4210091812,Bristol-Myers Squibb,I204250578,"University of California, Irvine",2
+I61970326,Vertex Pharmaceuticals,I204250578,"University of California, Irvine",2
+I4210127875,Nvidia,I859038795,Virginia Tech,2
+I4210120592,Sentient Science,I39422238,University of Illinois Chicago,2
+I4210120115,Robert Bosch,I40347166,University of Chicago,2
+I4210120115,Robert Bosch,I74973139,Carnegie Mellon University,2
+I4405269909,"Gaussian, Inc.",I24603500,University of Massachusetts Amherst,2
+I1324840837,Hewlett-Packard,I186143895,Lehigh University,2
+I4210127875,Nvidia,I100005738,Brigham Young University,2
+I4210115286,Dirac Solutions,I72951846,Washington State University,2
+I4387155523,Fort Wayne Metals,I145311948,Johns Hopkins University,2
+I4387155523,Fort Wayne Metals,I4391012584,Hopkins Extreme Materials Institute,2
+I1291425158,Google,I201448701,University of Washington,2
+I1290206253,Microsoft,I129902397,Dalhousie University,2
+I175669267,Carestream,I124727415,University of Wisconsin–Eau Claire,2
+I4210159451,Kodak,I124727415,University of Wisconsin–Eau Claire,2
+I1292974536,Ford Motor Company,I130769515,Pennsylvania State University,2
+I4210134091,Yahoo,I95457486,"University of California, Berkeley",2
+I4210133146,Shifa Biomedical,I24603500,University of Massachusetts Amherst,2
+I178975111,Spectral Sciences,I12315562,Texas Tech University,2
+I4210091388,Mercedes-Benz Research and Development North America,I95457486,"University of California, Berkeley",2
+I4210091388,Mercedes-Benz Research and Development North America,I161318765,"University of California, Los Angeles",2
+I4210126173,Tecplot,I167576493,Colorado School of Mines,2
+I4210088495,Q Chem,I178169726,Southern Methodist University,2
+I4210152773,CompuTherm,I135310074,University of Wisconsin–Madison,2
+I4210088495,Q Chem,I169615421,Middle Tennessee State University,2
+I4210088495,Q Chem,I84218800,"University of California, Davis",2
+I168537998,Eli Lilly,I91045830,Texas A&M University,2
+I1295339012,Boeing,I120156002,Boise State University,2
+I4210123304,Kebotix,I12912129,Northeastern University,2
+I4210099808,OTI Lumionics,I141945490,University of British Columbia,2
+I1292974536,Ford Motor Company,I74973139,Carnegie Mellon University,2
+I4210127875,Nvidia,I219193219,Purdue University West Lafayette,2
+I4405286557,IBM Research - Cambridge,I136199984,Harvard University,2
+I4405286557,IBM Research - Cambridge,I63966007,Massachusetts Institute of Technology,2
+I923382979,ExxonMobil,I74775410,Rice University,2
+I4210107917,Exact Sciences,I173911158,Iowa State University,2
+I1311688040,Amazon,I57206974,New York University,2
+I4210088495,Q Chem,I2803209242,University of California System,2
+I4210133143,Dow Chemical,I12315562,Texas Tech University,2
+I1311688040,Amazon,I27837315,University of Michigan,2
+I4387153498,SandboxAQ,I63966007,Massachusetts Institute of Technology,2
+I4210119158,IonQ,I66946132,"University of Maryland, College Park",2
+I4210119158,IonQ,I4405254040,Maryland Quantum Materials Center,2
+I180857899,Pfizer,I135310074,University of Wisconsin–Madison,2
+I180857899,Pfizer,I130238516,University of Minnesota,2
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I40347166,University of Chicago,2
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I97018004,Stanford University,2
+I178975111,Spectral Sciences,I100538780,Wesleyan University,2
+I4210107917,Exact Sciences,I158012942,University of Richmond,2
+I1287521167,Lockheed Martin,I165799507,Rensselaer Polytechnic Institute,2
+I118136607,General Motors,I135117807,Université de Sherbrooke,2
+I1295339012,Boeing,I52357470,The Ohio State University,2
+I4405269909,"Gaussian, Inc.",I166722992,University of Massachusetts Chan Medical School,2
+I62856769,Saudi Aramco,I204250578,"University of California, Irvine",2
+I62856769,Saudi Aramco,I8692664,University of Oklahoma,2
+I4210142558,Essar Steel Algoma,I5023651,McGill University,2
+I4210088100,Stellar Science,I24603500,University of Massachusetts Amherst,2
+I4210088765,Aluminerie Alouette,I49663120,Université du Québec,2
+I1295339012,Boeing,I17301866,University of Alabama,2
+I4405258653,Wavefunction,I166088655,Montclair State University,2
+I178975111,Spectral Sciences,I23732399,Montana State University,2
+I4387156175,BIOVIA,I204722609,Queen's University,2
+I880747138,Science Applications International Corporation,I173911158,Iowa State University,2
+I1316910977,DuPont,I78577930,Columbia University,2
+I4210095507,Merck Canada Inc.,I70931966,Université de Montréal,2
+I923382979,ExxonMobil,I86519309,The University of Texas at Austin,2
+I4210159689,MP Biomedicals,I145608581,University of Miami,2
+I4210133143,Dow Chemical,I223532165,University of Utah,2
+I4210150756,AstraZeneca,I107639228,University of Notre Dame,2
+I4210150756,AstraZeneca,I9502037,Westmont College,2
+I4210091812,Bristol-Myers Squibb,I219193219,Purdue University West Lafayette,2
+I4387156175,BIOVIA,I36258959,University of California San Diego,2
+I1332737386,General Electric,I79576946,University of Pennsylvania,2
+I1324840837,Hewlett-Packard,I130701444,Georgia Institute of Technology,2
+I4210114143,GlaxoSmithKline,I12912129,Northeastern University,2
+I203455613,Schrodinger,I63190737,"University at Buffalo, State University of New York",2
+I168537998,Eli Lilly,I154570441,"University of California, Santa Barbara",2
+I4210131486,BrightSpec,I192455969,York University,2
+I1291425158,Google,I2803209242,University of California System,2
+I1283103587,AT&T,I136199984,Harvard University,2
+I131787340,Seagate,I111979921,Northwestern University,2
+I1332737386,General Electric,I55732556,Arizona State University,2
+I2948539688,AbbVie,I39422238,University of Illinois Chicago,2
+I4210113003,Physical Sciences,I63966007,Massachusetts Institute of Technology,2
+I1341412227,IBM,I103163165,Florida State University,2
+I1343180700,Intel,I150468666,Emory University,2
+I4210129483,Eloret,I24571045,University of North Dakota,2
+I1292974536,Ford Motor Company,I219193219,Purdue University West Lafayette,2
+I62856769,Saudi Aramco,I33213144,University of Florida,2
+I1292974536,Ford Motor Company,I79817857,University of Guelph,2
+I1341412227,IBM,I174216632,City University of New York,2
+I1341412227,IBM,I39694355,Hunter College,2
+I1341412227,IBM,I170897317,Duke University,2
+I4387153150,Axalta Coating Systems,I72816309,Drexel University,2
+I4210120115,Robert Bosch,I95457486,"University of California, Berkeley",2
+I4210127875,Nvidia,I27837315,University of Michigan,2
+I1341412227,IBM,I70931966,Université de Montréal,2
+I1341412227,IBM,I151746483,University of Waterloo,2
+I1332737386,General Electric,I63966007,Massachusetts Institute of Technology,2
+I203455613,Schrodinger,I63966007,Massachusetts Institute of Technology,2
+I4210143896,Citrine Informatics,I138006243,University of Arizona,2
+I4210100397,Ultradent Products,I223532165,University of Utah,2
+I1333370159,Motorola,I201448701,University of Washington,2
+I4210093665,Toyota Motor North America,I63190737,"University at Buffalo, State University of New York",2
+I4210137977,Advanced Micro Devices,I75027704,University of Tennessee at Knoxville,2
+I118136607,General Motors,I52357470,The Ohio State University,2
+I118136607,General Motors,I151746483,University of Waterloo,2
+I131787340,Seagate,I135310074,University of Wisconsin–Madison,2
+I1291425158,Google,I121934306,Tufts University,2
+I1311688040,Amazon,I122411786,California Institute of Technology,2
+I1290206253,Microsoft,I33213144,University of Florida,2
+I4210088951,Synopsys,I95457486,"University of California, Berkeley",2
+I4210130355,Nalas Engineering Services,I126307644,University of Iowa,2
+I4210130355,Nalas Engineering Services,I63966007,Massachusetts Institute of Technology,2
+I4210130355,Nalas Engineering Services,I39660569,Colgate University,2
+I4210127875,Nvidia,I32971472,Yale University,2
+I4210127875,Nvidia,I2803209242,University of California System,2
+I1340755506,3M,I122411786,California Institute of Technology,2
+I86725329,Hitachi Global Storage Technologies,I205783295,Cornell University,2
+I4210118014,Chevron,I97018004,Stanford University,2
+I4210150097,Xanadu Quantum Technologies,I4405278283,University of Toronto Scarborough,2
+I4210086189,Mirion Technologies,I40347166,University of Chicago,2
+I74760111,Texas Instruments,I97018004,Stanford University,2
+I70745867,KLA,I140172145,University of Connecticut,2
+I63533367,General Atomics,I36258959,University of California San Diego,2
+I1341412227,IBM,I33213144,University of Florida,2
+I4210134512,GE Global Research,I140172145,University of Connecticut,2
+I4210158237,UES,I368840534,University of Mississippi,2
+I144472018,Wyle,I55061410,U.S. Air Force Institute of Technology,2
+I144472018,Wyle,I114395901,University of Nebraska–Lincoln,2
+I114662689,Leidos,I27837315,University of Michigan,2
+I880747138,Science Applications International Corporation,I27837315,University of Michigan,2
+I4210127875,Nvidia,I75027704,University of Tennessee at Knoxville,2
+I4210158803,Rigetti Computing,I107639228,University of Notre Dame,2
+I4210158803,Rigetti Computing,I70983195,Syracuse University,2
+I4210148837,VeraChem,I117965899,University of Hawaiʻi at Mānoa,2
+I4210092529,Giner,I63190737,"University at Buffalo, State University of New York",2
+I118136607,General Motors,I219193219,Purdue University West Lafayette,2
+I4210087826,Ballard Power Systems,I98251732,McMaster University,2
+I1324840837,Hewlett-Packard,I97018004,Stanford University,2
+I4387156175,BIOVIA,I45438204,The University of Texas at San Antonio,2
+I4387156175,BIOVIA,I44461941,University of Houston,2
+I4210153514,BP,I45438204,The University of Texas at San Antonio,2
+I4210153514,BP,I44461941,University of Houston,2
+I193170854,Bruker,I173911158,Iowa State University,2
+I1292974536,Ford Motor Company,I79576946,University of Pennsylvania,2
+I4210119835,Canon,I138006243,University of Arizona,2
+I4210091812,Bristol-Myers Squibb,I70983195,Syracuse University,2
+I4210104083,Nova Research Company,I107639228,University of Notre Dame,2
+I165638839,Huntsman,I108468826,Stevens Institute of Technology,2
+I165638839,Huntsman,I20089843,Princeton University,2
+I4210097651,Orbits Lightwave,I84218800,"University of California, Davis",2
+I4210097651,Orbits Lightwave,I102322142,"Rutgers, The State University of New Jersey",2
+I1343180700,Intel,I165799507,Rensselaer Polytechnic Institute,2
+I131787340,Seagate,I33213144,University of Florida,2
+I4210125702,Innovative Technology Laboratories,I123534392,University of North Texas,2
+I4387153490,Global Thermostat,I130701444,Georgia Institute of Technology,2
+I180857899,Pfizer,I170201317,University of Pittsburgh,2
+I4210091812,Bristol-Myers Squibb,I170201317,University of Pittsburgh,2
+I1332737386,General Electric,I78577930,Columbia University,2
+I4210134512,GE Global Research,I78577930,Columbia University,2
+I1316910977,DuPont,I137902535,North Carolina State University,2
+I1292974536,Ford Motor Company,I55732556,Arizona State University,2
+I923382979,ExxonMobil,I33213144,University of Florida,2
+I4387156175,BIOVIA,I102322142,"Rutgers, The State University of New Jersey",2
+I1324840837,Hewlett-Packard,I95457486,"University of California, Berkeley",2
+I193170854,Bruker,I27837315,University of Michigan,2
+I70745867,KLA,I219193219,Purdue University West Lafayette,2
+I1341412227,IBM,I140172145,University of Connecticut,2
+I1292974536,Ford Motor Company,I102322142,"Rutgers, The State University of New Jersey",2
+I4210088781,Phillips 66,I111979921,Northwestern University,2
+I4387156175,BIOVIA,I162577319,The University of Texas at Dallas,2
+I114662689,Leidos,I189158971,United States Naval Academy,2
+I131787340,Seagate,I99041443,Mississippi State University,2
+I4405261461,Toyota Motor North America Research & Development,I180949307,Illinois Institute of Technology,2
+I4210120115,Robert Bosch,I161318765,"University of California, Los Angeles",2
+I1295339012,Boeing,I133543626,Harvey Mudd College,2
+I1295339012,Boeing,I95457486,"University of California, Berkeley",2
+I4210120115,Robert Bosch,I130701444,Georgia Institute of Technology,2
+I4210164749,Emitech,I17626003,University of Rhode Island,2
+I11912373,Micron,I185443292,Wayne State University,2
+I4210160255,Boehringer Ingelheim,I98251732,McMaster University,2
+I200576644,HRL Laboratories,I111088046,Boston University,2
+I1343180700,Intel,I32971472,Yale University,2
+I62856769,Saudi Aramco,I86501945,University of Delaware,2
+I1333370159,Motorola,I52357470,The Ohio State University,2
+I4387156210,Chemours,I86501945,University of Delaware,2
+I1341412227,IBM,I16944753,Clarkson University,2
+I4387154111,Rockwell Collins,I130701444,Georgia Institute of Technology,2
+I118136607,General Motors,I201448701,University of Washington,2
+I4210092759,Magnolia Optical Technologies,I51556381,University of Virginia,2
+I4210089069,Rigaku,I167576493,Colorado School of Mines,2
+I4210089069,Rigaku,I181233156,University of Oregon,2
+I4210089069,Rigaku,I137902535,North Carolina State University,2
+I4210089069,Rigaku,I86501945,University of Delaware,2
+I4210138791,Solid Power,I66946132,"University of Maryland, College Park",2
+I4387156175,BIOVIA,I180670191,"University of California, San Francisco",2
+I203455613,Schrodinger,I102322142,"Rutgers, The State University of New Jersey",2
+I1311688040,Amazon,I36258959,University of California San Diego,2
+I131787340,Seagate,I51556381,University of Virginia,2
+I2799548008,D. E. Shaw Research,I59553526,Stony Brook University,2
+I74680897,Procter & Gamble,I83328450,Miami University,2
+I180857899,Pfizer,I32971472,Yale University,2
+I4210114444,Meta,I78577930,Columbia University,2
+I4210098625,Aileron,I103531236,Boston College,2
+I203455613,Schrodinger,I103531236,Boston College,2
+I4210091812,Bristol-Myers Squibb,I110357561,University of the Sciences,2
+I4210158237,UES,I83328450,Miami University,2
+I1341412227,IBM,I180670191,"University of California, San Francisco",2
+I175381709,Codexis,I161318765,"University of California, Los Angeles",2
+I2799548008,D. E. Shaw Research,I40347166,University of Chicago,2
+I4210120071,Systemech,I79576946,University of Pennsylvania,2
+I4210120071,Systemech,I189158971,United States Naval Academy,2
+I4210162290,Wasatch Molecular,I188538660,University of Colorado Boulder,2
+I203455613,Schrodinger,I4387153466,Weill Cornell Medicine,2
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I130238516,University of Minnesota,2
+I2799548008,D. E. Shaw Research,I157725225,University of Illinois Urbana-Champaign,2
+I4210161154,Roivant Sciences,I87216513,Michigan State University,2
+I4210116569,Relay Therapeutics,I59553526,Stony Brook University,2
+I4210125162,Bennett Aerospace,I86501945,University of Delaware,2
+I4210123694,Spectral Energies,I127591826,University of Dayton,2
+I70745867,KLA,I52357470,The Ohio State University,2
+I168537998,Eli Lilly,I86519309,The University of Texas at Austin,2
+I168537998,Eli Lilly,I205783295,Cornell University,2
+I168537998,Eli Lilly,I4387153242,Cornell High Energy Synchrotron Source,2
+I168537998,Eli Lilly,I27837315,University of Michigan,2
+I4210091812,Bristol-Myers Squibb,I98704320,Icahn School of Medicine at Mount Sinai,2
+I4210148910,ArcelorMittal,I157725225,University of Illinois Urbana-Champaign,2
+I4210161448,Itasca Consultants,I130238516,University of Minnesota,2
+I1343180700,Intel,I70983195,Syracuse University,2
+I2948539688,AbbVie,I1925986,Loyola University Chicago,2
+I74614422,Quest Diagnostics,I130238516,University of Minnesota,2
+I180857899,Pfizer,I126744593,"University of Maryland, Baltimore",2
+I4210115772,Orochem Technologies,I180949307,Illinois Institute of Technology,2
+I4210115772,Orochem Technologies,I39422238,University of Illinois Chicago,2
+I4396570585,Leidos Biomedical Research Inc.,I102149020,University of North Carolina at Charlotte,2
+I4210159399,Universal Technology Corporation,I83328450,Miami University,2
+I4210111733,Henkel,I63966007,Massachusetts Institute of Technology,2
+I74680897,Procter & Gamble,I162577319,The University of Texas at Dallas,2
+I118136607,General Motors,I98251732,McMaster University,2
+I923382979,ExxonMobil,I98251732,McMaster University,2
+I118136607,General Motors,I126307644,University of Iowa,2
+I4210091812,Bristol-Myers Squibb,I143302722,University of Kentucky,2
+I4210159399,Universal Technology Corporation,I919208787,Louisiana Tech University,2
+I1297540436,Biogen,I55732556,Arizona State University,2
+I1297540436,Biogen,I83399316,Rockefeller University,2
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I140172145,University of Connecticut,2
+I4210087826,Ballard Power Systems,I18014758,Simon Fraser University,2
+I1287521167,Lockheed Martin,I103163165,Florida State University,2
+I118136607,General Motors,I122411786,California Institute of Technology,2
+I4210131040,Los Alamos National Security,I2613432,University of South Florida,2
+I2948663404,Boston Scientific,I78715868,University of Arkansas at Fayetteville,2
+I180857899,Pfizer,I204250578,"University of California, Irvine",2
+I4210157318,Hyland Software,I157725225,University of Illinois Urbana-Champaign,2
+I1338503839,Corning,I75421653,University of Missouri–Kansas City,2
+I4210157178,Combustion Research and Flow Technology,I102322142,"Rutgers, The State University of New Jersey",2
+I4210098574,Zymeworks,I18014758,Simon Fraser University,2
+I2799548008,D. E. Shaw Research,I204465549,Washington University in St. Louis,2
+I180857899,Pfizer,I137902535,North Carolina State University,2
+I4210096496,Rio Tinto,I5023651,McGill University,2
+I923382979,ExxonMobil,I79576946,University of Pennsylvania,2
+I1291425158,Google,I87216513,Michigan State University,2
+I4210148120,Sarepta Therapeutics,I165817395,Massachusetts College of Pharmacy and Health Sciences,2
+I1297540436,Biogen,I63966007,Massachusetts Institute of Technology,2
+I4210154232,Honeywell,I153718931,University of Ottawa,2
+I1332737386,General Electric,I130769515,Pennsylvania State University,2
+I74680897,Procter & Gamble,I130238516,University of Minnesota,2
+I175669267,Carestream,I137902535,North Carolina State University,2
+I4210159451,Kodak,I137902535,North Carolina State University,2
+I74680897,Procter & Gamble,I8692664,University of Oklahoma,2
+I4210114143,GlaxoSmithKline,I170201317,University of Pittsburgh,2
+I4210097574,Electronic BioSciences,I168635309,University of Calgary,2
+I1316910977,DuPont,I95457486,"University of California, Berkeley",2
+I1316910977,DuPont,I201448701,University of Washington,2
+I1292974536,Ford Motor Company,I17626003,University of Rhode Island,2
+I4210139090,Lam Research,I84218800,"University of California, Davis",2
+I4210130631,Freenome,I47251452,Wake Forest University,2
+I4405272042,Computer Modelling Group,I154425047,University of Alberta,2
+I2799548008,D. E. Shaw Research,I57206974,New York University,2
+I74680897,Procter & Gamble,I44854399,University of Southern Mississippi,2
+I1341412227,IBM,I169335092,University of North Carolina at Greensboro,2
+I1316910977,DuPont,I12912129,Northeastern University,2
+I4405267412,Connect Biopharm LLC,I32971472,Yale University,2
+I4210118014,Chevron,I8692664,University of Oklahoma,2
+I4210113003,Physical Sciences,I140172145,University of Connecticut,2
+I4210098199,NVE Corporation,I51556381,University of Virginia,2
+I867333293,Simulations Plus,I168635309,University of Calgary,2
+I4210116569,Relay Therapeutics,I205783295,Cornell University,2
+I880747138,Science Applications International Corporation,I40347166,University of Chicago,2
+I880747138,Science Applications International Corporation,I36258959,University of California San Diego,2
+I880747138,Science Applications International Corporation,I161318765,"University of California, Los Angeles",2
+I4210153148,CFD Research Corporation,I82495205,University of Alabama in Huntsville,2
+I193427800,Applied Materials,I133738476,University of Massachusetts Lowell,2
+I193427800,Applied Materials,I12912129,Northeastern University,2
+I4210121800,Chan Zuckerberg Initiative,I40347166,University of Chicago,2
+I4210121800,Chan Zuckerberg Initiative,I4402554120,Rutgers New Jersey Medical School,2
+I1320553840,Amgen,I12912129,Northeastern University,2
+I4210155505,BioNTech,I185261750,University of Toronto,2
+I4210155505,BioNTech,I86519309,The University of Texas at Austin,2
+I4210155505,BioNTech,I185103710,"University of California, Santa Cruz",2
+I4210155505,BioNTech,I180670191,"University of California, San Francisco",2
+I4210155505,BioNTech,I111088046,Boston University,2
+I4210155505,BioNTech,I63966007,Massachusetts Institute of Technology,2
+I4210155505,BioNTech,I114027177,University of North Carolina at Chapel Hill,2
+I4210155505,BioNTech,I136199984,Harvard University,2
+I1340755506,3M,I188538660,University of Colorado Boulder,2
+I1340755506,3M,I205783295,Cornell University,2
+I4405276268,Pasteur Labs,I188538660,University of Colorado Boulder,2
+I4405276268,Pasteur Labs,I205783295,Cornell University,2
+I1291425158,Google,I180670191,"University of California, San Francisco",2
+I193170854,Bruker,I63966007,Massachusetts Institute of Technology,2
+I4210111877,Zapata,I4405278283,University of Toronto Scarborough,2
+I4210157295,Innovative Scientific Solutions,I219193219,Purdue University West Lafayette,2
+I4210123694,Spectral Energies,I219193219,Purdue University West Lafayette,2
+I1285764155,"Merck & Co., Inc., Rahway, NJ, USA",I86501945,University of Delaware,2
+I4210148837,VeraChem,I36258959,University of California San Diego,2
+I1338503839,Corning,I138006243,University of Arizona,2
+I4210111149,Aerodyne Research,I107077323,Worcester Polytechnic Institute,2
+I4210133143,Dow Chemical,I170201317,University of Pittsburgh,2
+I4210127777,Triton Systems,I66946132,"University of Maryland, College Park",2
+I4210122059,Kraton,I8078737,Clemson University,2
+I131787340,Seagate,I95457486,"University of California, Berkeley",2
+I4210130288,American Industrial Partners,I130769515,Pennsylvania State University,2
+I4210130288,American Industrial Partners,I97018004,Stanford University,2
+I4210130288,American Industrial Partners,I78577930,Columbia University,2
+I4210130288,American Industrial Partners,I111088046,Boston University,2
+I4210130288,American Industrial Partners,I27804330,Brown University,2
+I4210130288,American Industrial Partners,I150468666,Emory University,2

@@ -133,6 +133,9 @@ def work_area(w):
     if "dft" in w["q"]: return "mat"
     return "es" if "journal" in w["q"] else "mat"
 
+FIX = dict(l.split("\t")[:2] for l in open(f"{R}/data/manual/inst_fix.tsv") if l.strip() and not l.startswith("#"))
+for v in FIX.values():
+    if v not in IN: IN[v] = cached("institutions", v, "id,display_name,geo,type,country_code,homepage_url,ror,display_name_acronyms,lineage,international")
 sel, dropped = {}, []
 for aid, iid in cand:
     d = AU.get(aid); inst = IN.get(iid)
@@ -145,6 +148,7 @@ for aid, iid in cand:
             inst, iid = li, li["id"].rsplit("/", 1)[-1]; break
     else:
         if lk_info and all(li.get("country_code") not in CC for li in lk_info): continue  # moved abroad
+    if aid in FIX and IN.get(FIX[aid]): iid, inst = FIX[aid], IN[FIX[aid]]
     share = A[aid]["n"] / max(1, works_since_2000(d))
     # theorists: a quarter of all output is in the corpus, or a clear core of method/theory papers
     # (JCP/JCTC/quantum-chemistry concepts) inside a broader output (e.g. computational organic chemistry)

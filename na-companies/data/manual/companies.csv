@@ -1,0 +1,114 @@
+name,tier,category,subfields,founded,city,region,country,status,ticker,employees,funding_musd,funding_conf,last_round,valuation_musd,revenue_musd,revenue_year,academic_founders,univ_links,openalex_name,website,note
+Schrödinger,大型,SW,物理计算药物设计;自由能微扰FEP;材料模拟;自有药物管线,1990,New York,NY,US,上市,SDGR,900,,,2020 IPO,,255.9,2025,Richard Friesner;William Goddard,Columbia University;California Institute of Technology,Schrodinger (United States),schrodinger.com,2025 年总收入 2.559 亿美元，其中软件 1.995 亿（公司财报）
+Gaussian Inc.,中型,SW,从头算量子化学;DFT;电子结构软件,1987,Wallingford,CT,US,私营,,50,,,自有资金,,,,John Pople;Michael Frisch,Carnegie Mellon University;Northwestern University,"Gaussian, Inc. (United States)",gaussian.com,Gaussian 系列程序；Pople 1998 年诺贝尔化学奖
+Q-Chem,初创,SW,电子结构软件;激发态;DFT,1993,Pleasanton,CA,US,私营,,30,,,自有资金,,,,Peter Gill;Benny Johnson;Martin Head-Gordon;Henry F. Schaefer III,"University of California, Berkeley;University of Georgia;University of Southern California",Q Chem (United States),q-chem.com,学术股东网络覆盖伯克利、USC 等
+OpenEye Scientific（Cadence Molecular Sciences）,中型,SW,分子对接;构象生成;云端药物设计,1997,Santa Fe,NM,US,被收购,,200,,,2022 被 Cadence 以约 5 亿美元收购,500,,,Anthony Nicholls,,OpenEye Scientific Software (United States),eyesopen.com,收购价约 5 亿美元（Cadence 公告）
+BIOVIA（Dassault Systèmes，原 Accelrys）,大型,SW,材料与分子模拟;Materials Studio;Discovery Studio;实验室信息,2001,San Diego,CA,US,被收购,,1000,,,2014 被 Dassault 以约 7.5 亿美元收购,750,,,,,BIOVIA,3ds.com/biovia,母公司在法国，BIOVIA 品牌总部在美国圣地亚哥
+Chemical Computing Group,中型,SW,MOE 分子建模;药物设计,1994,Montreal,QC,CA,私营,,100,,,自有资金,,,,,,Chemical Computing Group (Canada),chemcomp.com,MOE 平台
+Simulations Plus,中型,SW,ADMET 预测;PBPK;QSAR,1996,Lancaster,CA,US,上市,SLP,250,,,上市公司,,79.2,2025,Walter Woltosz,,Simulations Plus (United States),simulations-plus.com,FY2025（截至 2025-08-31）收入 7920 万美元（SEC 8-K）
+Certara,大型,SW,生物模拟;PBPK;分子建模（原 Tripos 部分）,2008,Radnor,PA,US,上市,CERT,1400,,,2020 IPO,,385.1,2024,,,Certara (United States),certara.com,2024 收入 3.851 亿美元
+Molsoft,初创,SW,ICM 分子对接;虚拟筛选,1994,San Diego,CA,US,私营,,20,,,自有资金,,,,Ruben Abagyan,"University of California, San Diego",Molsoft (United States),molsoft.com,
+Wavefunction Inc.,初创,SW,Spartan 量子化学软件;化学教育,1991,Irvine,CA,US,私营,,15,,,自有资金,,,,Warren Hehre,"University of California, Irvine",Wavefunction (United States),wavefun.com,
+PetaChem / TeraChem,初创,SW,GPU 量子化学;从头算分子动力学,2010,Los Altos,CA,US,私营,,10,,,自有资金,,,,Todd Martínez,Stanford University,,petachem.com,GPU 电子结构先驱
+Parallel Quantum Solutions,初创,SW,量子化学软件;并行计算,1998,Fayetteville,AR,US,私营,,5,,,自有资金,,,,Peter Pulay,University of Arkansas,Parallel Quantum Solutions (United States),pqs-chem.com,
+Semichem,初创,SW,半经验量子化学 AMPAC;GaussView,1992,Shawnee,KS,US,私营,,10,,,自有资金,,,,Andrew Holder,University of Missouri–Kansas City,,semichem.com,
+QSimulate,初创,SW,量子化学云平台;QM/MM;自由能计算,2018,Cambridge,MA,US,私营,,30,14,B,2025 年 11 月种子轮逾 1100 万美元,,,,Toru Shiozaki;Garnet Chan,Northwestern University;California Institute of Technology,QSimulate (United States),qsimulate.com,另有 2023 年 250 万美元小轮
+Rowan Scientific,初创,SW,云端计算化学;神经网络势;pKa/构象预测,2023,Boston,MA,US,私营,,10,2.1,B,2024 年 12 月 pre-seed 210 万美元,,,,Corin Wagen;Ari Wagen,Harvard University,,rowansci.com,
+Materials Design Inc.,初创,SW,MedeA 材料模拟平台,1998,San Diego,CA,US,私营,,40,,,自有资金,,,,Erich Wimmer,,Materials Development (United States),materialsdesign.com,
+Exabyte.io（Mat3ra）,初创,SW,云端材料建模平台,2014,Walnut Creek,CA,US,私营,,20,6,C,种子轮,,,,Timur Bazhirov,,,mat3ra.com,融资额为估计值
+Nanoacademic Technologies,初创,SW,第一性原理电子输运 RESCU/NanoDCAL,2007,Montreal,QC,CA,私营,,20,,,自有资金,,,,Hong Guo,McGill University,Nanoacademic Technologies,nanoacademic.com,
+VeraChem,初创,SW,结合自由能 VM2;构象搜索,2001,Germantown,MD,US,私营,,10,,,自有资金,,,,Michael Gilson,"University of California, San Diego",VeraChem (United States),verachem.com,
+Wasatch Molecular,初创,SW,力场开发;分子模拟咨询,2003,Salt Lake City,UT,US,私营,,10,,,自有资金,,,,Grant Smith,University of Utah,Wasatch Molecular (United States),wasatchmolecular.com,
+Synopsys（QuantumATK）,大型,SW,原子尺度器件模拟 QuantumATK;半导体材料,1986,Sunnyvale,CA,US,上市,SNPS,20000,,,上市公司,,,,,,Synopsys (United States),synopsys.com,QuantumATK 源自丹麦 QuantumWise（2017 被收购）
+Cadence Design Systems,大型,SW,分子模拟（收购 OpenEye）;EDA,1988,San Jose,CA,US,上市,CDNS,12000,,,上市公司,,,,,,,cadence.com,2022 收购 OpenEye 进入分子科学
+SandboxAQ,大型,QC,大型定量模型 LQM;量子化学;药物与材料模拟;后量子加密,2022,Palo Alto,CA,US,私营,,1000,950,B,2025 E 轮扩展,5750,,,Jack Hidary,,SandboxAQ,sandboxaq.com,2022 自 Alphabet 分拆；2024 收购 Good Chemistry
+IonQ,大型,QC,离子阱量子计算机;量子化学算法,2015,College Park,MD,US,上市,IONQ,900,,,2021 SPAC 上市；2025 多次增发,,108,2025E,Chris Monroe;Jungsang Kim,University of Maryland;Duke University,IonQ (United States),ionq.com,2025 年收入指引 1.06–1.10 亿美元（取中值）；2025 年 10 月完成 20 亿美元增发
+Rigetti Computing,中型,QC,超导量子计算机;量子云,2013,Berkeley,CA,US,上市,RGTI,193,,,2022 SPAC 上市,,7.1,2025,Chad Rigetti,,Rigetti Computing (United States),rigetti.com,2025 收入 710 万美元（同比 -34%），年末现金 5.9 亿美元
+D-Wave Quantum,中型,QC,量子退火;优化,1999,Burnaby,BC,CA,上市,QBTS,388,,,2022 SPAC 上市,,24.6,2025,Haig Farris;Geordie Rose;Alexandre Zagoskin;Bob Wiens,University of British Columbia,D-Wave Systems (Canada),dwavequantum.com,2025 收入 2460 万美元（同比 +179%）
+Xanadu,中型,QC,光量子计算;PennyLane 量子化学模块,2016,Toronto,ON,CA,上市,XNDU,260,290,B,2026 年 3 月经 SPAC（Crane Harbor）在纳斯达克/多伦多上市，募资约 3.02 亿美元,3600,,,Christian Weedbrook,University of Toronto,Xanadu Quantum Technologies (Canada),xanadu.ai,宣布时备考市值 36 亿美元；募资低于 5 亿目标（赎回较多）
+PsiQuantum,大型,QC,光量子容错计算;化学与材料模拟用例,2016,Palo Alto,CA,US,私营,,630,3600,C,2025 年 9 月 E 轮 10 亿美元,7000,,,Jeremy O'Brien;Terry Rudolph;Mark Thompson;Pete Shadbolt,University of Bristol;Imperial College London,PsiQuantum (United States),psiquantum.com,累计融资为数据商口径（约 36 亿，含政府资金），估值 70 亿美元为媒体报道
+Quantinuum,大型,QC,离子阱量子计算;InQuanto 量子化学平台,2021,Broomfield,CO,US,上市,QNT,600,1200,C,2026 年 6 月纳斯达克 IPO（募资至多约 14.6 亿美元）,14300,30.9,2025,Ilyas Khan,,Quantinuum (United States),quantinuum.com,Honeywell 与 Cambridge Quantum 合并；IPO 前私募总额为估计
+QuEra Computing,中型,QC,中性原子量子计算;模拟,2018,Boston,MA,US,私营,,215,277,B,2025 年 2 月融资逾 2.3 亿美元（Google、软银愿景二期）,1000,,,Mikhail Lukin;Markus Greiner;Vladan Vuletić,Harvard University;Massachusetts Institute of Technology,,quera.com,估值为 Caplight 估计
+Atom Computing,初创,QC,中性原子量子计算,2018,Berkeley,CA,US,私营,,100,300,B,2026 年 6 月 C 轮 1 亿美元,,,,Benjamin Bloom;Jonathan King,,,atom-computing.com,累计逾 3 亿美元（含美国商务部 1 亿美元意向）
+Infleqtion,中型,QC,中性原子量子计算;量子传感,2007,Boulder,CO,US,上市,INFQ,300,,,2026 年 2 月经 SPAC（Churchill Capital X）在纽交所上市，毛募资逾 5.5 亿美元,1800,29,TTM 2025-06,Dana Anderson,University of Colorado Boulder,,infleqtion.com,原名 ColdQuanta；交易前估值 18 亿美元
+Photonic Inc.,初创,QC,硅自旋-光子量子计算,2016,Coquitlam,BC,CA,私营,,150,270,C,2026 年 1 月 1.8 亿加元（Planet First 领投），5 月追加,1450,,,Stephanie Simmons,Simon Fraser University,,photonic.com,报道金额多为加元，已按约 0.72 折合美元（估计）
+Nord Quantique,初创,QC,玻色子纠错量子比特,2020,Sherbrooke,QC,CA,私营,,40,30,C,种子/A 轮,,,,Julien Camirand Lemyre;Philippe St-Jean,Université de Sherbrooke,,nordquantique.ca,融资额为估计值
+Anyon Systems,初创,QC,超导量子计算机,2014,Dorval,QC,CA,私营,,40,,,未公开,,,,,,,anyonsys.com,
+Zapata Computing（已停止运营）,初创,QC,量子化学算法;Orquestra 平台;生成式 AI,2017,Boston,MA,US,已关闭,ZPTA,0,90,B,2024 SPAC 上市后同年 10 月停止运营,,,,Alán Aspuru-Guzik;Christopher Savoie;Jonathan Olson;Peter Johnson;Yudong Cao,Harvard University;University of Toronto,Zapata (United States),zapata.ai,Aspuru-Guzik 现任 UofT 教授
+QC Ware,初创,QC,量子/GPU 化学 Promethium,2014,Palo Alto,CA,US,私营,,50,33,C,B 轮,,,,Matt Johnson;Randall Correll,,,qcware.com,融资额为估计值
+1QBit,初创,QC,量子启发优化;化学模拟,2012,Vancouver,BC,CA,私营,,60,,,未公开,,,,Andrew Fursman;Landon Downs,,1QBit,1qbit.com,
+Good Chemistry Company,初创,QC,量子化学 QEMIST 平台;Tangelo 开源,2021,Vancouver,BC,CA,被收购,,0,,,2024 年 1 月被 SandboxAQ 收购（约 7500 万美元现金+股票）,75,,,,,,goodchemistry.com,自 1QBit 分拆
+OTI Lumionics,初创,QC,量子启发材料设计;OLED 材料,2011,Mississauga,ON,CA,私营,,40,,,未公开,,,,Michael Helander;Zhibin Wang,University of Toronto,OTI Lumionics (Canada),otilumionics.com,UofT 材料系衍生
+Agnostiq,初创,QC,Covalent 高性能/量子计算编排,2018,Toronto,ON,CA,私营,,30,,,种子轮,,,,Oktay Goktas;Elliot MacGowan,University of Toronto,,agnostiq.ai,
+PolarisQB,初创,AIDD,量子启发药物分子设计,2020,Durham,NC,US,私营,,15,2.1,B,2021 种子轮 210 万美元 + DARPA 项目,,,,Shahar Keinan;Bill Shipman,,,polarisqb.com,
+ProteinQure,初创,AIDD,量子计算+AI 多肽药物设计,2017,Toronto,ON,CA,私营,,30,12,C,2025 年 5 月 A 轮 1100 万（多为加元）,,,,Lucas Siow;Chris Ing,University of Toronto,,proteinqure.com,金额可能为加元
+Menten AI,初创,AIDD,量子计算+机器学习蛋白设计,2018,San Francisco,CA,US,私营,,20,4,B,2020 种子轮 370 万美元,,,,Hans Melo;Tom Bodnar,University of Waterloo,,menten.ai,近况不明
+D. E. Shaw Research,中型,AIDD,Anton 专用 MD 超级计算机;分子动力学;药物发现,2001,New York,NY,US,私营,,300,,,母公司 D. E. Shaw 集团自有资金,,,,David E. Shaw,Columbia University,D. E. Shaw Research,deshawresearch.com,
+Relay Therapeutics,中型,AIDD,蛋白质动力学+分子模拟药物设计,2016,Cambridge,MA,US,上市,RLAY,250,,,2020 IPO,,15.4,2025,Mark Murcko;Matthew Jacobson;Dorothee Kern;David E. Shaw,"University of California, San Francisco;Brandeis University",Relay Therapeutics (United States),relaytx.com,2025 年末现金 5.5 亿美元
+Nimbus Therapeutics,中型,AIDD,物理计算药物设计（与 Schrödinger 共建）,2009,Boston,MA,US,私营,,100,600,C,2022 将 TYK2 资产以 40 亿美元首付售予武田,,,,,,,nimbustx.com,融资额为估计值
+Recursion Pharmaceuticals,大型,AIDD,表型组学+AI;化学空间;合并 Exscientia,2013,Salt Lake City,UT,US,上市,RXRX,600,,,2021 IPO；2024 合并 Exscientia,,58.8,2024,Christopher Gibson;Dean Li;Blake Borgeson,University of Utah,,recursion.com,收购了加拿大 Cyclica 和 Valence Labs
+Numerion Labs（原 Atomwise）,中型,AIDD,深度学习结构药物发现 AtomNet,2012,San Francisco,CA,US,私营,,100,239,B,2020 B 轮 1.23 亿美元,,,,Abraham Heifets;Izhar Wallach,University of Toronto,Numerion Labs (United States),atomwise.com,2025 年 10 月更名；两位创始人均为 UofT 博士；2022 年裁员约 30%
+Genesis Molecular AI（原 Genesis Therapeutics）,中型,AIDD,图神经网络+物理模拟药物设计,2019,Burlingame,CA,US,私营,,157,300,B,2023 B 轮 2 亿美元；2026 年 5 月 Incyte 股权投资 4000 万,,,,Evan Feinberg;Vijay Pande,Stanford University,,genesistherapeutics.ai,2025 年 10 月更名
+Iambic Therapeutics（原 Entos）,中型,AIDD,量子化学+机器学习 OrbNet;NeuralPLexer,2019,San Diego,CA,US,私营,,100,320,C,2025 年 11 月融资逾 1 亿美元,,,,Thomas Miller;Fred Manby,California Institute of Technology;University of Bristol,,iambic.ai,累计额为估计
+Terray Therapeutics,中型,AIDD,超高通量化学数据+生成式 AI,2018,Monrovia,CA,US,私营,,100,200,B,2024 年 10 月 B 轮 1.2 亿美元,,,,Eli Berlin;Narbe Mardirossian;Kathleen Elison;Jacob Berlin,City of Hope,,terraytx.com,
+Verseon,初创,AIDD,物理计算分子设计,2002,Fremont,CA,US,私营,,50,,,未公开,,,,Adityo Prakash;Eniko Fodor,,,verseon.com,
+Silicon Therapeutics（并入 Roivant）,初创,AIDD,物理模拟+量子计算药物设计,2016,Boston,MA,US,被收购,,0,,,2020 被 Roivant 以约 4.5 亿美元收购,450,,,Woody Sherman,,Silicon Therapeutics (United States),,并入 Roivant 后形成 Psivant
+Psivant Therapeutics,初创,AIDD,物理计算药物设计,2022,Boston,MA,US,私营,,60,,,Roivant 子公司,,,,Woody Sherman,,Roivant Sciences (United States),psivant.com,
+Inductive Bio,初创,AIDD,ADMET 机器学习预测,2021,New York,NY,US,私营,,15,30,C,2025 年 5 月 A 轮 2500 万美元,,,,Josh Haimson;Ben Birnbaum,,,inductive.bio,融资额为估计值
+Chai Discovery,初创,AIDD,生物分子结构预测 Chai-1/2;抗体设计,2024,San Francisco,CA,US,私营,,40,625,B,2026 年 7 月 C 轮 4 亿美元（Index 领投）,3800,,,Joshua Meier;Jack Dent;Matthew McPartlon;Jacques Boitreaud,,,chaidiscovery.com,累计额由各轮推算；OpenAI 早期投资
+Xaira Therapeutics,中型,AIDD,AI 蛋白与分子设计,2024,South San Francisco,CA,US,私营,,200,1000,B,2024 首轮逾 10 亿美元,,,,Marc Tessier-Lavigne;David Baker 团队成员,University of Washington;Stanford University,,xaira.com,2024 年 4 月首轮逾 10 亿美元
+Generate:Biomedicines,中型,AIDD,生成式蛋白设计,2018,Somerville,MA,US,私营,,300,700,B,2023 C 轮 2.73 亿美元,2000,,,Flagship Pioneering,,,generatebiomedicines.com,外延领域（蛋白设计）
+Arzeda,初创,AIDD,计算酶与蛋白设计,2008,Seattle,WA,US,私营,,60,90,C,B 轮,,,,Alexandre Zanghellini;Eric Althoff,University of Washington,,arzeda.com,David Baker 实验室衍生
+Variational AI,初创,AIDD,生成式小分子设计 Enki,2019,Vancouver,BC,CA,私营,,20,11,C,2025 年 2 月种子扩展 550 万美元,,,,Handol Kim;Jason Rolfe,,,variational.ai,融资额为估计值
+Cyclica（并入 Recursion）,初创,AIDD,蛋白组级多靶点预测,2011,Toronto,ON,CA,被收购,,0,,,2023 被 Recursion 收购（约 4000 万美元）,40,,,Naheed Kurji;Jason Mitakidis,,,,
+Valence Labs（并入 Recursion）,初创,AIDD,分子机器学习;低数据药物设计,2018,Montreal,QC,CA,被收购,,0,,,2023 被 Recursion 收购（约 4750 万美元）,48,,,Daniel Cohen;Prudencio Tossou,Mila,,valencelabs.com,
+1910 Genetics,初创,AIDD,小分子+蛋白 AI 设计,2018,Boston,MA,US,私营,,50,48,C,A 轮 2200 万美元,,,,Jen Nwankwo,,,1910genetics.com,融资额为估计值
+PostEra,初创,AIDD,合成可行性预测;生成式化学,2019,San Francisco,CA,US,私营,,50,34,C,A 轮,,,,Aaron Morris;Alpha Lee;Matthew Robinson,University of Cambridge,,postera.ai,
+Reverie Labs（已关闭）,初创,AIDD,机器学习药物化学,2016,Cambridge,MA,US,已关闭,,0,30,C,2024 停止运营,,,,Ankit Gupta;Jonah Kallenbach,Harvard University,,,
+Model Medicines,初创,AIDD,生成式化学 GALILEO,2019,San Diego,CA,US,私营,,20,,,未公开,,,,Daniel Haders,,,modelmedicines.com,
+Deep Origin,初创,AIDD,计算药物设计与模拟平台,2022,South San Francisco,CA,US,私营,,60,,,未公开,,,,Michael Antonov;Garegin Papoian,University of Maryland,,deeporigin.com,
+Achira,初创,AIDD,物理+机器学习结合自由能（基础模型）,2025,New York,NY,US,私营,,20,33,B,2025 年 4 月 3300 万美元（Dimension、NVIDIA 等）,,,,John Chodera,Memorial Sloan Kettering Cancer Center,,achira.ai,总部纽约；创始团队含 John Chodera
+Citrine Informatics,中型,AIMAT,材料信息学平台;AI 配方,2013,Redwood City,CA,US,私营,,150,65,C,C 轮,,,,Greg Mulholland;Bryce Meredig,Stanford University,Citrine Informatics (United States),citrine.io,
+Kebotix,初创,AIMAT,自主实验室;AI 材料发现,2017,Cambridge,MA,US,不明,,0,16.5,C,A 轮,,,,Alán Aspuru-Guzik;Christoph Kreisbeck;Semion Saikin;Dennis Sheberla;Jill Becker,Harvard University;University of Toronto,Kebotix (United States),,2022 年后无公开动态，可能已休眠
+Periodic Labs,中型,AIMAT,AI 科学家+自主实验室;超导与材料,2025,Menlo Park,CA,US,私营,,64,300,A,2025 种子轮 3 亿美元,1300,,,Liam Fedus;Ekin Dogus Cubuk,,,periodiclabs.ai,a16z 领投种子轮；2026 年传以约 75 亿美元估值洽谈新一轮（未证实）
+Lila Sciences,中型,AIMAT,科学超级智能;自主实验室（化学/材料/生命科学）,2023,Cambridge,MA,US,私营,,300,550,B,2025 年 10 月 A 轮扩展 1.15 亿美元（NVIDIA）,1300,,,George Church（共同创始科学家）;Flagship Pioneering,Harvard University,,lila.ai,2026 年传洽谈约 20 亿美元 B 轮（未证实）
+Radical AI,初创,AIMAT,自主材料实验室,2024,New York,NY,US,私营,,34,55,B,种子轮 5500 万美元（RTX Ventures 领投）,,,,Gerbrand Ceder 学生 Joseph Krause 等,"University of California, Berkeley",,radical-ai.com,
+Aionics,初创,AIMAT,AI 电池电解质设计,2020,Palo Alto,CA,US,私营,,20,11,B,种子轮,,,,Austin Sendek;Venkat Viswanathan,Stanford University;Carnegie Mellon University,,aionics.io,融资额为估计值
+Mitra Chem,初创,AIMAT,计算驱动电池正极材料,2021,Mountain View,CA,US,私营,,100,96,B,2025 年 6 月 SEC 文件：目标 5000 万美元已募 1560 万,,,,Vivas Kumar;Chaitanya Sharma,Stanford University,,mitrachem.com,
+Phaseshift Technologies,初创,AIMAT,AI 合金与材料设计,2020,Toronto,ON,CA,私营,,20,,,种子轮,,,,Abhi Gupta,University of Toronto,,phaseshift.ai,
+NobleAI,初创,AIMAT,科学约束 AI 化学/材料配方,2020,San Francisco,CA,US,私营,,30,17,C,A 轮,,,,Matt Kennedy,,,noble.ai,
+Uncountable,初创,AIMAT,研发数据平台+配方优化,2016,San Francisco,CA,US,私营,,60,,,未公开,,,,Noel Hollingsworth;Will Tashman;Jason Hirshman,Stanford University,,uncountable.com,
+Albert Invent,初创,AIMAT,化学研发 AI 平台,2022,Denver,CO,US,私营,,100,50,C,A 轮,,,,Nick Talken,,,albertinvent.com,融资额为估计值
+QuesTek Innovations,初创,AIMAT,计算材料设计 ICMD;合金设计,1997,Evanston,IL,US,私营,,50,,,自有资金/政府合同,,,,Gregory Olson,Northwestern University,QuesTek (United States),questek.com,
+Emerald Cloud Lab,初创,AIMAT,云端自动化实验室,2010,Austin,TX,US,私营,,150,,,未公开,,,,Brian Frezza;DJ Kleinbaum,Carnegie Mellon University,,emeraldcloudlab.com,
+Merck & Co.（MSD）,大型,PHARMA,计算与结构化学;AI 分子设计,1891,Rahway,NJ,US,上市,MRK,70000,,,上市公司,,,,,,"Merck & Co., Inc., Rahway, NJ, USA (United States)",merck.com,
+Pfizer,大型,PHARMA,计算化学;自由能;机器学习,1849,New York,NY,US,上市,PFE,80000,,,上市公司,,,,,,Pfizer (United States),pfizer.com,
+Bristol Myers Squibb,大型,PHARMA,分子设计;计算化学,1887,Princeton,NJ,US,上市,BMY,34000,,,上市公司,,,,,,Bristol-Myers Squibb (United States),bms.com,
+Johnson & Johnson（Janssen）,大型,PHARMA,计算化学;AI 药物发现,1886,New Brunswick,NJ,US,上市,JNJ,138000,,,上市公司,,,,,,Janssen Research & Development (United States),jnj.com,
+AbbVie,大型,PHARMA,计算化学;结构药物设计,2013,North Chicago,IL,US,上市,ABBV,55000,,,上市公司,,,,,,AbbVie (United States),abbvie.com,
+Eli Lilly,大型,PHARMA,计算化学;AI（TuneLab）,1876,Indianapolis,IN,US,上市,LLY,47000,,,上市公司,,,,,,Eli Lilly (United States),lilly.com,
+Genentech（Roche）,大型,PHARMA,计算药物设计;Prescient Design,1976,South San Francisco,CA,US,被收购,,13500,,,2009 被 Roche 全资收购,,,,Herbert Boyer;Robert Swanson,"University of California, San Francisco",Genentech,gene.com,
+Amgen,大型,PHARMA,分子工程;计算化学,1980,Thousand Oaks,CA,US,上市,AMGN,28000,,,上市公司,,,,,,Amgen (United States),amgen.com,
+Vertex Pharmaceuticals,大型,PHARMA,结构与计算药物设计,1989,Boston,MA,US,上市,VRTX,6000,,,上市公司,,,,Joshua Boger,,Vertex Pharmaceuticals (United States),vrtx.com,
+Biogen,大型,PHARMA,计算化学;分子建模,1978,Cambridge,MA,US,上市,BIIB,7500,,,上市公司,,,,Walter Gilbert;Phillip Sharp,Harvard University;Massachusetts Institute of Technology,Biogen (United States),biogen.com,
+Dow,大型,CHEM,材料模拟;催化与聚合物计算,1897,Midland,MI,US,上市,DOW,36000,,,上市公司,,,,,,Dow Chemical (United States),dow.com,
+DuPont,大型,CHEM,材料与聚合物模拟,1802,Wilmington,DE,US,上市,DD,24000,,,上市公司,,,,,,DuPont (United States),dupont.com,
+ExxonMobil,大型,CHEM,催化;分子筛;能源化学计算,1870,Spring,TX,US,上市,XOM,61000,,,上市公司,,,,,,ExxonMobil (United States),exxonmobil.com,
+Corning,大型,CHEM,玻璃与陶瓷原子模拟,1851,Corning,NY,US,上市,GLW,56000,,,上市公司,,,,,,Corning (United States),corning.com,
+3M,大型,CHEM,材料与表面化学计算,1902,Saint Paul,MN,US,上市,MMM,62000,,,上市公司,,,,,,3M (United States),3m.com,
+Procter & Gamble,大型,CHEM,配方与表面活性剂分子模拟,1837,Cincinnati,OH,US,上市,PG,108000,,,上市公司,,,,,,Procter & Gamble (United States),pg.com,
+Air Products,大型,CHEM,气体分离;催化计算,1940,Allentown,PA,US,上市,APD,23000,,,上市公司,,,,,,Air Products (United States),airproducts.com,
+General Motors,大型,CHEM,电池与催化材料计算,1908,Detroit,MI,US,上市,GM,163000,,,上市公司,,,,,,General Motors (United States),gm.com,
+IBM,大型,TECH,量子计算 Qiskit 化学;RXN 化学 AI;材料发现,1911,Armonk,NY,US,上市,IBM,270000,,,上市公司,,,,,,IBM (United States),ibm.com,
+Google（Quantum AI / Research）,大型,TECH,量子计算化学 OpenFermion;GNoME 材料,1998,Mountain View,CA,US,上市,GOOGL,180000,,,上市公司,,,,,,Google (United States),quantumai.google,
+Microsoft（Azure Quantum Elements / AI for Science）,大型,TECH,AI 化学模拟;MatterGen;Skala 泛函;量子化学,1975,Redmond,WA,US,上市,MSFT,228000,,,上市公司,,,,,,Microsoft (United States),azure.microsoft.com,
+NVIDIA,大型,TECH,GPU 计算化学;CUDA-Q;ALCHEMI;BioNeMo,1993,Santa Clara,CA,US,上市,NVDA,36000,,,上市公司,,,,,,Nvidia (United States),nvidia.com,
+Meta（FAIR Chemistry）,大型,TECH,Open Catalyst;OMol25 数据集;UMA 原子模型,2004,Menlo Park,CA,US,上市,META,76000,,,上市公司,,,,,,Meta (United States),ai.meta.com,
+Amazon（AWS 量子与 HPC）,大型,TECH,Amazon Braket;量子化学云;Ocelot 芯片,1994,Seattle,WA,US,上市,AMZN,1550000,,,上市公司,,,,,,Amazon (United States),aws.amazon.com,
+Intel,大型,TECH,半导体材料与工艺计算;硅自旋量子比特,1968,Santa Clara,CA,US,上市,INTC,100000,,,上市公司,,,,,,Intel (United States),intel.com,
+Honeywell,大型,TECH,Quantinuum 大股东;材料,1906,Charlotte,NC,US,上市,HON,100000,,,上市公司,,,,,,Honeywell (United States),honeywell.com,
+ACD/Labs,中型,INFO,化学信息学;谱图与物性预测,1994,Toronto,ON,CA,私营,,200,,,自有资金,,,,Antony Williams 等,,,acdlabs.com,
+CAS（美国化学会）,大型,INFO,化学文献与物质数据库;SciFinder,1907,Columbus,OH,US,非营利,,1400,,,ACS 下属机构,,,,,,,cas.org,
+Dotmatics,中型,INFO,科研数据平台;化学信息学,2005,Boston,MA,US,被收购,,800,,,2025 被 Siemens 以约 51 亿美元收购,5100,,,,,,dotmatics.com,Siemens 2025 年完成收购，企业价值 51 亿美元；2025 年预计收入逾 3 亿美元
+Collaborative Drug Discovery,初创,INFO,CDD Vault 数据平台,2004,Burlingame,CA,US,私营,,60,,,未公开,,,,Barry Bunin,,,collaborativedrug.com,
+Kitware,中型,INFO,开源科学软件（Avogadro 等）,1998,Clifton Park,NY,US,私营,,200,,,自有资金,,,,Ken Martin;Will Schroeder,,Kitware (United States),kitware.com,
