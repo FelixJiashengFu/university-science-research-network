@@ -1,0 +1,90 @@
+# Source: https://www.chemistry.utoronto.ca/people/directories/all-faculty (read in a regular browser 2026-11-08)
+# name|title|codes  (SG/UTM/UTSC campus, TEN tenure stream, TS teaching stream, X cross-appointed, then fields of study)
+Jonathan Abbatt|P|SG,TEN,Analytical,Environmental,Physical
+Alán Aspuru-Guzik|P|SG,TEN,ChemPhys
+Robert Batey|P|SG,TEN,Biological,Organic
+Tim Bender|P|SG,X
+Paul Brumer|University P|SG,TEN,ChemPhys
+Arthur Chan|P|SG,X
+Jik Chin|P|SG,TEN,Biological,Inorganic,Organic
+Haissi Cui|AsstP|SG,TEN,Biological,Organic
+Jessica D'eon|AssocP, TS|SG,TS
+John De Backere|AsstP, TS|SG,TS
+Al-Amin Dhirani|AssocP|SG,TEN,Physical
+Andrew P. Dicks|P, TS|SG,TS
+Landon Edgar|AsstP|SG,X,Biological,Organic
+Cynthia Goh|P|SG,TEN,Physical
+Walid Houry|P|SG,X,Biological,Organic
+Jane Howe|P|SG,X
+Artur Izmaylov|P|SG,UTSC,ChemPhys
+Rebecca Jockusch|AssocP|SG,TEN,Analytical,Physical
+Lewis Kay|University P|SG,X,Biological,Physical
+Ronald Kluger|P|SG,TEN,Biological,Organic
+Eugenia Kumacheva|University P|SG,TEN,Physical,Polymer/Materials
+Mark Lautens|University P and Chair|SG,TEN,Biological,Organic
+Xiang Li|AsstP|SG,TEN,Physical
+Bowen Li|AssocP|SG,X,Biological,Organic,Polymer/Materials
+Kylie Luska|AsstP, TS|SG,TS,Biological,Environmental,Organic
+Scott Mabury|P|SG,TEN,Analytical,Environmental
+Caitlin Maikawa|AsstP|SG,X,Biological
+Dwayne Miller|University P|SG,TEN,Physical
+J. Rafael Montenegro Burke|AsstP|SG,X,Analytical,Biological
+Barb Morra|P, TS and Associate Chair, Undergraduate|SG,TS
+Robert Morris|P|SG,TEN,Biological,Inorganic,Organic
+Jennifer Murphy|P|SG,TEN,Environmental
+Mark Nitz|P|SG,TEN,Biological,Organic
+Hui Peng|AssocP|SG,TEN,Analytical,Biological,Environmental,Organic
+Kristine Quinlan|AssocP, TS|SG,TS
+Mark Reed|AssocP|SG,X,Biological,Organic
+Sophie Rousseaux|P and Associate Chair, Graduate Studies|SG,TEN,Biological,Organic
+Aya Sakaya|AsstP, TS|SG,TS,Physical
+Sara Seager|North Star Distinguished P|SG,TEN,X,Physical
+Dvira Segal|P|SG,TEN,ChemPhys
+Barbara Sherwood Lollar|University P|SG,X
+Molly Shoichet|University P|SG,X
+Datong Song|P|SG,TEN,Biological,Inorganic,Organic,Polymer/Materials
+Doug Stephan|University P|SG,TEN,Inorganic
+David Stone|AssocP, TS|SG,TS
+Mark Taylor|P|SG,TEN,Biological,Organic,Polymer/Materials
+Michael Thompson|P|SG,TEN,Analytical
+Helen Tran|AsstP|SG,TEN,Biological,Organic,Polymer/Materials
+Anatole von Lilienfeld|P|SG,TEN,ChemPhys
+Gilbert Walker|P|SG,TEN,Analytical,Physical,Polymer/Materials
+Aaron Wheeler|P|SG,TEN,Analytical
+Mark Wilson|AssocP|SG,TEN,Physical,Polymer/Materials
+Mitchell Winnik|University P|SG,TEN,Polymer/Materials
+Andrew Woolley|P|SG,TEN,Biological,Organic
+Andrei Yudin|P|SG,TEN,Biological,Organic
+Chao Zheng|AsstP|SG,X,Biological,Organic
+David Armstrong|AsstP, TS|UTM,Inorganic
+Andrew Beharry|AssocP|UTM,TEN,Biological,Organic
+Ulrich Fekl|AssocP|UTM,TEN,Inorganic
+Claudiu Gradinaru|P|UTM,X,Biological,Physical
+Patrick Gunning|P|UTM,TEN,Biological,Organic
+Amanda Hargrove|P|UTM,TEN,Biological,Organic
+Voula Kanelis|AssocP|UTM,TEN,Biological,Organic,Physical
+Maciej Korzyński|AsstP|UTM,TEN,Inorganic,Polymer/Materials
+Vivienne Luk|AssocP, TS|UTM,Biological,Organic
+David McMillen|AssocP|UTM,TEN,Biological,Organic,Physical
+Alana Ogata|AsstP|UTM,TEN,Analytical
+Paul Piunno|AssocP, TS|UTM
+Scott Prosser|P|UTM,Biological,Organic,Physical
+Sarah Rauscher|AssocP|UTM,X
+Jumi Shin|AssocP|UTM,TEN,Analytical,Biological,Organic
+Juris Strautmanis|Lecturer|UTM
+Marco Zimmer-De Iuliis|AsstP, TS|UTM
+Holly Barrett|AsstP|UTSC,TEN,Analytical,Biological
+Shadi Dalili|AssocP, TS|UTSC
+Alen Hadzovic|AssocP, TS|UTSC
+Kagan Kerman|P|UTSC,TEN,Analytical
+Kris Kim|AssocP, TS|UTSC
+Lana Mikhaylichenko|P, TS|UTSC
+Effie Sauer|AssocP, TS|UTSC
+Andre Simpson|P|UTSC,TEN,Analytical,Environmental
+Myrna Simpson|P|UTSC,TEN,Analytical,Environmental
+Ruby Sullan|AssocP|UTSC,TEN,Analytical,Biological,Organic,Physical
+Nirusha Thavarajah|AssocP, TS|UTSC,TS,Biological,Organic
+Oleksandr Voznyy|AssocP|UTSC,TEN,ChemPhys,Inorganic,Physical,Polymer/Materials
+Frank Wania|P|UTSC,TEN,Environmental
+Xiao-an Zhang|AssocP|UTSC,TEN,Biological,Inorganic,Organic
+Carine Nemr|AsstP, TS, CLTA|SG,TS,Analytical

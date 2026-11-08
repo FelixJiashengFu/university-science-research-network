@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>大学数理化研究网络</title>
+<style>
+:root{--bg:#f8fafc;--panel:#fff;--ink:#0f172a;--muted:#64748b;--line:#e2e8f0;--accent:#1e3a8a}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0b1120;--panel:#111827;--ink:#e5e7eb;--muted:#94a3b8;--line:#1f2937;--accent:#93c5fd}}
+:root[data-theme="dark"]{--bg:#0b1120;--panel:#111827;--ink:#e5e7eb;--muted:#94a3b8;--line:#1f2937;--accent:#93c5fd}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 system-ui,-apple-system,"PingFang SC","Microsoft YaHei",sans-serif}
+main{max-width:920px;margin:0 auto;padding:48px 16px}
+h1{font-size:28px;margin:0 0 6px;color:var(--accent)}
+p.sub{color:var(--muted);margin:0 0 32px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+a.card{display:block;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px;color:inherit;text-decoration:none}
+a.card:hover{border-color:var(--accent)}
+.card h2{margin:0 0 4px;font-size:20px}
+.card .m{color:var(--muted);font-size:13px}
+.nums{display:grid;grid-template-columns:1fr 1fr;gap:6px 12px;margin-top:14px;font-size:13.5px}
+.nums b{font-size:18px;display:block}
+footer{margin-top:36px;color:var(--muted);font-size:12.5px}
+</style>
+</head>
+<body>
+<main>
+  <h1>大学 · 数学 / 物理 / 化学 研究网络</h1>
+  <p class="sub">把教授、研究主题、论文、合作与产业关系编织成可交互的网络。数据：院系官网 + OpenAlex（CC0）。</p>
+  <div class="grid">
+    <a class="card" href="uoft/">
+      <h2>多伦多大学 University of Toronto</h2>
+      <div class="m">St. George · Mississauga · Scarborough · 数学 / 物理 / 化学</div>
+      <div class="nums"><span><b>298</b>位教授</span><span><b>5.2 万</b>篇论文</span><span><b>6,274</b>主网节点</span><span><b>12</b>张网络</span></div>
+    </a>
+    <a class="card" href="stanford/">
+      <h2>斯坦福大学 Stanford University</h2>
+      <div class="m">数学 / 物理 / 应用物理 / 化学</div>
+      <div class="nums"><span><b>136</b>位教授</span><span><b>4.0 万</b>篇论文</span><span><b>3,844</b>主网节点</span><span><b>18</b>张网络</span></div>
+    </a>
+  </div>
+  <footer>论文数为各教授论文数之和（合写论文按人计）。方法与局限见各子目录 README。</footer>
+</main>
+</body>
+</html>

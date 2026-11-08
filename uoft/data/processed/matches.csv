@@ -1,0 +1,321 @@
+name,dept,campus,title,source,note,openalex_id,openalex_name,match_score,match_note,works_count,h_index,orcid
+Elisa Bellah,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,A5086728774,Elisa Bellah,1.402,,7,2,https://orcid.org/0000-0002-6328-6355
+Cindy Blois,Mathematics,St. George,"AssocP, TS",mathematics.utoronto.ca,,A5037304694,C. Blois,1.231,,11,6,
+Kyle Bower,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,A5127629447,Kyle Waller Bower,1.324,,1,0,
+Amenda Chow,Mathematics,St. George,"AssocP, TS",mathematics.utoronto.ca,,A5021529225,Amenda N. Chow,1.405,,14,5,https://orcid.org/0000-0003-4768-3139
+Xiaoyue Cui,Mathematics,St. George,"AsstP, TS (CLTA)",mathematics.utoronto.ca,,A5072529584,Xiaoyue Cui,1.252,no UofT affiliation in OpenAlex (new hire?),5,4,https://orcid.org/0000-0002-1254-5767
+Bernardo Galvão-Sousa,Mathematics,St. George,"AssocP, TS",mathematics.utoronto.ca,,A5040911017,Bernardo Galvão-Sousa,1.452,,6,3,
+Soheil Homayouni,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,A5028163242,Soheil Homayouni,1.201,,3,1,
+Kennedy Idu,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,A5060395303,Kennedy Obinna Idu,1.445,,10,4,https://orcid.org/0000-0002-4169-9108
+Nara Jung,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,A5072781260,Nara Jung,1.451,,2,1,
+Camelia Karimianpour,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,A5115581665,Camelia Karimianpour,1.2,,1,0,
+Dimitrios Karslidis,Mathematics,St. George,"AsstP, TS (CLTA)",mathematics.utoronto.ca,,A5051792171,Dimitrios Karslidis,1.251,no UofT affiliation in OpenAlex (new hire?),4,1,
+Maximilian Klambauer,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,A5127506479,Maximilian Jean-Paul Wolfe Klambauer,1.322,,1,0,
+Jonathan Korman,Mathematics,St. George,"AssocP, TS",mathematics.utoronto.ca,,A5050937756,Jonathan Korman,1.254,,12,5,
+Sarah Mayes-Tang,Mathematics,St. George,"AssocP, TS",mathematics.utoronto.ca,,A5060370515,Sarah Mayes-Tang,1.356,,17,5,https://orcid.org/0000-0001-9327-9802
+Geoffrey McGregor,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,A5064268751,Geoffrey McGregor,1.453,,9,2,https://orcid.org/0000-0003-4083-0650
+Fabian Parsch,Mathematics,St. George,"AssocP, TS",mathematics.utoronto.ca,,A5044857065,Fabian Parsch,1.453,,9,3,https://orcid.org/0000-0002-3751-7930
+Pam Sargent,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,A5012977889,Pam Sargent,1.203,no UofT affiliation in OpenAlex (new hire?),8,5,
+Lindsey Shorser,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,A5039751201,Lindsey Shorser,1.15,no UofT affiliation in OpenAlex (new hire?),1,0,
+Jason Siefken,Mathematics,St. George,"AssocP, TS",mathematics.utoronto.ca,,A5063017140,Jason Siefken,1.405,,14,4,https://orcid.org/0000-0001-8463-6193
+Sean Uppal,Mathematics,St. George,"AsstP, TS",mathematics.utoronto.ca,,,,0,,0,,
+Stan Yoshinobu,Mathematics,St. George,"P, TS and Associate Chair (Undergraduate Studies)",mathematics.utoronto.ca,,A5089498154,Stan Yoshinobu,1.203,,8,5,
+Asif Zaman,Mathematics,St. George,"AssocP, TS",mathematics.utoronto.ca,,A5030528477,Asif Zaman,1.461,,32,9,https://orcid.org/0000-0001-5782-7373
+Spyros Alexakis,Mathematics,St. George,P,mathematics.utoronto.ca,,A5067661527,Spyros Alexakis,1.465,,46,14,https://orcid.org/0000-0001-9230-4842
+Paul Apisa,Mathematics,St. George,AsstP,mathematics.utoronto.ca,,A5045309647,Paul Apisa,1.259,no UofT affiliation in OpenAlex (new hire?),26,8,https://orcid.org/0000-0002-8788-9230
+Dror Bar-Natan,Mathematics,St. George,P,mathematics.utoronto.ca,,A5047848997,Dror Bar-Natan,1.488,,115,24,https://orcid.org/0000-0001-9549-9243
+Alexander Braverman,Mathematics,St. George,P,mathematics.utoronto.ca,,A5104092809,Alexander Braverman,1.484,,103,25,
+Almut Burchard,Mathematics,St. George,P,mathematics.utoronto.ca,,A5025666080,Almut Burchard,1.282,,95,25,https://orcid.org/0000-0002-3542-1919
+Tristan Collins,Mathematics,St. George,AssocP,mathematics.utoronto.ca,,A5039509304,Tristan C. Collins,1.473,,70,20,https://orcid.org/0000-0002-1127-0458
+George Elliott,Mathematics,St. George,"P, Canada Research Chair, FRSC",mathematics.utoronto.ca,,A5072627439,George A. Elliott,1.523,,219,37,https://orcid.org/0000-0003-0173-5917
+Benjamin Gammage,Mathematics,St. George,AsstP,mathematics.utoronto.ca,,A5078688407,Benjamin Gammage,1.456,,17,8,https://orcid.org/0000-0002-2154-7190
+Mathilde Gerbelli-Gauthier,Mathematics,St. George,AsstP,mathematics.utoronto.ca,,A5034601077,Mathilde Gerbelli-Gauthier,1.455,,15,4,https://orcid.org/0000-0002-0662-8822
+Lior Gishboliner,Mathematics,St. George,AsstP,mathematics.utoronto.ca,,A5084893376,Lior Gishboliner,1.475,,74,11,https://orcid.org/0000-0003-0688-8111
+Marco Gualtieri,Mathematics,St. George,P and Associate Chair (Graduate Studies),mathematics.utoronto.ca,,A5050336301,Marco Gualtieri,1.466,,48,19,https://orcid.org/0000-0002-4560-0080
+Florian Herzig,Mathematics,St. George,P,mathematics.utoronto.ca,,A5001167425,Florian Herzig,1.462,,37,10,
+Victor Ivrii,Mathematics,St. George,"P, FRSC",mathematics.utoronto.ca,,A5018522927,Victor Yakovlevich Ivrii,1.305,,164,17,https://orcid.org/0000-0001-5150-9155
+Robert Jerrard,Mathematics,St. George,"P, FRSC",mathematics.utoronto.ca,,A5026025812,Robert L. Jerrard,1.477,,80,24,https://orcid.org/0000-0003-0561-3546
+Vitali Kapovitch,Mathematics,St. George,P,mathematics.utoronto.ca,,A5008588542,Vitali Kapovitch,1.474,,71,17,
+Boris Khesin,Mathematics,St. George,P,mathematics.utoronto.ca,,A5072480539,Boris Khesin,1.494,,132,26,https://orcid.org/0000-0002-6425-5032
+Askold Khovanskii,Mathematics,St. George,"P, FRSC",mathematics.utoronto.ca,,A5055682219,Askold Georgievich Khovanskii,1.51,,181,22,https://orcid.org/0000-0001-7281-8483
+Henry Kim,Mathematics,St. George,P,mathematics.utoronto.ca,,A5007512314,Henry H. Kim,1.477,,82,15,https://orcid.org/0000-0001-7877-3407
+Swastik Kopparty,Mathematics,St. George,P,mathematics.utoronto.ca,,A5031695135,Swastik Kopparty,1.488,,115,26,https://orcid.org/0000-0003-2704-8808
+Stephen Kudla,Mathematics,St. George,"P, FRSC",mathematics.utoronto.ca,,A5020427762,Stephen S. Kudla,1.282,,96,34,https://orcid.org/0000-0002-6612-786X
+Benjamin Landon,Mathematics,St. George,AsstP,mathematics.utoronto.ca,,A5036672523,Benjamin Landon,1.462,,36,15,https://orcid.org/0000-0003-2090-4886
+Daniel Litt,Mathematics,St. George,AsstP,mathematics.utoronto.ca,,A5013284360,Daniel Litt,1.264,,41,8,https://orcid.org/0000-0003-2273-4630
+Fedor (Fedya) Manin,Mathematics,St. George,AssocP,mathematics.utoronto.ca,,A5065552459,Fedor Manin,1.46,,31,7,https://orcid.org/0000-0002-4545-6998
+Robert McCann,Mathematics,St. George,"P, CRC Chair, FRSC",mathematics.utoronto.ca,,A5020361023,Robert J. McCann,1.49,,119,33,https://orcid.org/0000-0003-3867-808X
+Eckhard Meinrenken,Mathematics,St. George,"P, FRSC",mathematics.utoronto.ca,,A5055593599,Eckhard Meinrenken,1.493,,129,26,
+Kumar Murty,Mathematics,St. George,"P, FRSC",mathematics.utoronto.ca,,A5051026863,V. Kumar Murty,1.498,,168,22,https://orcid.org/0009-0003-7735-5942
+Alexander Nabutovsky,Mathematics,St. George,P,mathematics.utoronto.ca,,A5035125984,Alexander Nabutovsky,1.268,,53,15,https://orcid.org/0000-0002-4506-9664
+Adrian Nachman,Mathematics,St. George,"P, FRSC",mathematics.utoronto.ca,,A5011982971,Adrian Nachman,1.273,,70,30,
+Sebastián Olano,Mathematics,St. George,AsstP (CLTA),mathematics.utoronto.ca,,A5011721109,Sebastián Olano,1.406,,17,4,https://orcid.org/0000-0003-0995-9691
+Wenyu Pan,Mathematics,St. George,AsstP,mathematics.utoronto.ca,,A5081293855,Wenyu Pan,1.455,,15,5,https://orcid.org/0000-0001-8333-9074
+Dmitry Panchenko,Mathematics,St. George,P and Associate Chair (Research),mathematics.utoronto.ca,,A5065629981,Dmitry Panchenko,1.483,,98,31,https://orcid.org/0000-0002-4798-4719
+Vardan Papyan,Mathematics,St. George,Associate P,mathematics.utoronto.ca,,A5018100130,Vardan Papyan,1.463,,40,16,https://orcid.org/0000-0002-5028-2144
+Mary Pugh,Mathematics,St. George,"P, Chair and Graduate Chair",mathematics.utoronto.ca,,A5110525223,Mary C. Pugh,1.463,,40,18,
+Fabio Pusateri,Mathematics,St. George,AssocP,mathematics.utoronto.ca,,A5028142928,Fabio Pusateri,1.464,,42,18,https://orcid.org/0000-0002-9845-6334
+Jeremy Quastel,Mathematics,St. George,"University P, FRSC",mathematics.utoronto.ca,,A5004274893,Jeremy Quastel,1.432,,97,29,https://orcid.org/0000-0003-4413-4126
+Kasra Rafi,Mathematics,St. George,P,mathematics.utoronto.ca,,A5011968304,Kasra Rafi,1.475,,74,20,https://orcid.org/0000-0002-9343-3889
+Regina Rotman,Mathematics,St. George,P,mathematics.utoronto.ca,,A5043918843,Regina Rotman,1.465,,45,12,https://orcid.org/0000-0002-4949-6129
+Nick Rozenblyum,Mathematics,St. George,AssocP,mathematics.utoronto.ca,,A5078679979,Nick Rozenblyum,1.466,,47,16,
+Shubhangi Saraf,Mathematics,St. George,P,mathematics.utoronto.ca,,A5020540233,Shubhangi Saraf,1.484,,102,24,https://orcid.org/0009-0005-0874-2978
+Kirill Serkh,Mathematics,St. George,AssocP,mathematics.utoronto.ca,,A5071624080,Kirill Serkh,1.261,,33,8,https://orcid.org/0000-0003-4751-305X
+I. Michael Sigal,Mathematics,St. George,"University P, Robertson Chair, FRSC",mathematics.utoronto.ca,,A5004954975,Israel Michael Sigal,1.524,,298,39,https://orcid.org/0000-0001-7514-7056
+Hunter Spink,Mathematics,St. George,AsstP,mathematics.utoronto.ca,,A5046252542,Hunter Spink,1.464,,42,8,
+Adam Stinchcombe,Mathematics,St. George,AssocP,mathematics.utoronto.ca,,A5006516993,Adam R. Stinchcombe,1.361,,34,10,https://orcid.org/0000-0002-9082-4286
+Catherine Sulem,Mathematics,St. George,"P, FRSC",mathematics.utoronto.ca,,A5064463109,Catherine Sulem,1.487,,112,36,https://orcid.org/0009-0005-7917-8593
+Freid Tong,Mathematics,St. George,AsstP,mathematics.utoronto.ca,,A5004237982,Freid Tong,1.456,,17,9,https://orcid.org/0000-0002-7542-2086
+Jacob Tsimerman,Mathematics,St. George,"P, FRSC",mathematics.utoronto.ca,,A5030237072,Jacob Tsimerman,1.474,,73,20,
+Ignacio Uriarte-Tuero,Mathematics,St. George,P,mathematics.utoronto.ca,,A5087022176,Ignacio Uriarte-Tuero,1.476,,78,16,
+Maxime Van De Moortel,Mathematics,St. George,AsstP,mathematics.utoronto.ca,,A5053789248,Maxime Van de Moortel,1.255,no UofT affiliation in OpenAlex (new hire?),15,10,https://orcid.org/0000-0003-4505-0936
+Ila Varma,Mathematics,St. George,AssocP,mathematics.utoronto.ca,,A5068249241,Ila Varma,1.456,,19,7,
+Ilia Binder,Mathematics,UTM,P,mathematics.utoronto.ca,,A5012890747,Ilia A. Binder,1.467,,50,11,https://orcid.org/0000-0002-8232-6981
+Duncan Dauvergne,Mathematics,UTM,AsstP,mathematics.utoronto.ca,,A5082860022,Duncan Dauvergne,1.462,,35,15,
+Jacopo De Simoi,Mathematics,UTM,P,mathematics.utoronto.ca,,A5003519156,Jacopo De Simoi,1.46,,29,11,https://orcid.org/0000-0003-3053-4049
+Julie Desjardins,Mathematics,UTM,AsstP,mathematics.utoronto.ca,,A5109913138,Julie Desjardins,1.15,no UofT affiliation in OpenAlex (new hire?),1,1,
+Michael Groechenig,Mathematics,UTM,P,mathematics.utoronto.ca,,A5056438267,Michael Groechenig,1.462,,36,13,https://orcid.org/0000-0001-8499-8557
+Konstantin Khanin,Mathematics,UTM,P,mathematics.utoronto.ca,,A5041117816,Konstantin Mikhailovich Khanin,1.491,,124,26,https://orcid.org/0000-0001-7186-7646
+Yevgeny Liokumovich,Mathematics,UTM,AssocP,mathematics.utoronto.ca,,A5033217028,Yevgeny Liokumovich,1.463,,38,11,
+Myrto Mavraki,Mathematics,UTM,AsstP,mathematics.utoronto.ca,,A5042162519,Niki Myrto Mavraki,1.441,,20,6,https://orcid.org/0000-0002-7270-6729
+Emmy Murphy,Mathematics,UTM,P,mathematics.utoronto.ca,,A5004255439,Emmy Murphy,1.257,,21,11,
+Luis Seco,Mathematics,UTM,P,mathematics.utoronto.ca,,A5157721328,Luis Seco,1.3,,1,1,
+Arul Shankar,Mathematics,UTM,P,mathematics.utoronto.ca,,A5108689547,Arul Shankar,1.465,,46,16,
+Yakov Shlapentokh-Rothman,Mathematics,UTM,AsstP,mathematics.utoronto.ca,,A5004297539,Yakov Shlapentokh-Rothman,1.458,,24,13,https://orcid.org/0000-0001-7782-8752
+Vasu Tewari,Mathematics,UTM,AsstP (CLTA),mathematics.utoronto.ca,,A5060418023,Vasu Tewari,1.467,,51,10,https://orcid.org/0000-0001-5559-4828
+Spencer Unger,Mathematics,UTM,AssocP,mathematics.utoronto.ca,,A5020068591,Spencer Unger,1.261,,32,9,
+Michael Yampolsky,Mathematics,UTM,P,mathematics.utoronto.ca,,A5112551593,Michael Yampolsky,1.489,,117,22,
+Ke Zhang,Mathematics,UTM,P,mathematics.utoronto.ca,,A5100365704,Ke Zhang,1.463,,40,10,https://orcid.org/0000-0002-0322-390X
+Toni Annala,Mathematics,UTSC,AsstP,mathematics.utoronto.ca,,A5015766657,Toni Annala,1.259,no UofT affiliation in OpenAlex (new hire?),28,9,https://orcid.org/0000-0001-6419-0278
+Stefanos Aretakis,Mathematics,UTSC,AssocP,mathematics.utoronto.ca,,A5065521424,Stefanos Aretakis,1.462,,37,18,https://orcid.org/0000-0002-6965-8594
+Nikolay Bogachev,Mathematics,UTSC,AsstP (CLTA),mathematics.utoronto.ca,,A5018974523,Nikolay Vladimirovich Bogachev,1.458,,23,5,https://orcid.org/0000-0002-9289-5192
+James Bremer,Mathematics,UTSC,P,mathematics.utoronto.ca,,A5025604583,James C. Bremer,1.279,,87,15,https://orcid.org/0000-0001-5654-198X
+Elden Elmanto,Mathematics,UTSC,AsstP,mathematics.utoronto.ca,,A5014902242,Elden Elmanto,1.464,,41,12,https://orcid.org/0000-0003-1602-3349
+Robert Haslhofer,Mathematics,UTSC,P,mathematics.utoronto.ca,,A5024588618,Robert Haslhofer,1.473,,68,20,https://orcid.org/0000-0003-1350-1931
+Lisa Jeffrey,Mathematics,UTSC,"P, FRSC",mathematics.utoronto.ca,,A5025851451,Lisa C. Jeffrey,1.49,,120,19,https://orcid.org/0000-0003-4214-2333
+Alexander Kupers,Mathematics,UTSC,AssocP,mathematics.utoronto.ca,,A5061887458,Alexander Kupers,1.474,,71,14,https://orcid.org/0000-0003-0947-8820
+Giulio Tiozzo,Mathematics,UTSC,P,mathematics.utoronto.ca,,A5039880499,Giulio Tiozzo,1.476,,79,14,https://orcid.org/0000-0003-1075-2890
+Bálint Virág,Mathematics,UTSC,"P, FRSC",mathematics.utoronto.ca,,A5075377725,Bálint Virág,1.479,,88,27,https://orcid.org/0000-0002-9671-773X
+Vadim Vologodsky,Mathematics,UTSC,P,mathematics.utoronto.ca,,A5110628509,Vadim Vologodsky,1.463,,38,10,https://orcid.org/0000-0002-9010-8802
+Eitan Grinspun,Mathematics,St. George,P (CS),mathematics.utoronto.ca,cross-appointed,A5049319779,Eitan Grinspun,1.528,,234,61,https://orcid.org/0000-0003-4460-7747
+Alec Jacobson,Mathematics,St. George,AsstP (CS),mathematics.utoronto.ca,cross-appointed,A5060647975,Alec Jacobson,1.511,,182,42,https://orcid.org/0000-0003-4603-7143
+Jude Kong,Mathematics,St. George,AsstP (School of Public Health),mathematics.utoronto.ca,cross-appointed,A5043219852,Jude Dzevela Kong,1.42,,209,29,https://orcid.org/0000-0002-7557-5672
+Michael Molloy,Mathematics,St. George,P (CS),mathematics.utoronto.ca,cross-appointed,A5072889645,Michael S. O. Molloy,1.495,,135,31,https://orcid.org/0000-0001-5435-1015
+Piotr Zwiernik,Mathematics,St. George,AssocP (Stats),mathematics.utoronto.ca,cross-appointed,A5009589660,Piotr Zwiernik,1.271,,62,16,https://orcid.org/0000-0003-3431-131X
+Jonathan Abbatt,Chemistry,St. George,P,chemistry.utoronto.ca,Analytical; Environmental; Physical,A5010178344,Jonathan P. D. Abbatt,1.4,,575,104,https://orcid.org/0000-0002-3372-334X
+Alán Aspuru-Guzik,Chemistry,St. George,P,chemistry.utoronto.ca,ChemPhys,A5071495561,Alán Aspuru‐Guzik,1.5,,944,136,https://orcid.org/0000-0002-8277-4434
+Robert Batey,Chemistry,St. George,P,chemistry.utoronto.ca,Biological; Organic,A5084315463,Robert A. Batey,1.55,,319,57,https://orcid.org/0000-0001-8808-7646
+Tim Bender,Chemistry,St. George,P,chemistry.utoronto.ca,cross-appointed,,,0,,0,,
+Paul Brumer,Chemistry,St. George,University P,chemistry.utoronto.ca,ChemPhys,A5061216131,Paul W. Brumer,1.55,,393,55,https://orcid.org/0000-0002-4763-2393
+Arthur Chan,Chemistry,St. George,P,chemistry.utoronto.ca,cross-appointed,A5152494656,Arthur Chan,1.3,,1,0,
+Jik Chin,Chemistry,St. George,P,chemistry.utoronto.ca,Biological; Inorganic; Organic,A5077185233,Jik Chin,1.51,,180,49,https://orcid.org/0000-0001-9662-2856
+Haissi Cui,Chemistry,St. George,AsstP,chemistry.utoronto.ca,Biological; Organic,A5069146576,Haissi Cui,1.469,,56,21,https://orcid.org/0000-0003-3358-8958
+Jessica D'eon,Chemistry,St. George,"AssocP, TS",chemistry.utoronto.ca,,,,0,,0,,
+John De Backere,Chemistry,St. George,"AsstP, TS",chemistry.utoronto.ca,,A5017081999,John R. De Backere,1.467,,51,6,https://orcid.org/0000-0002-5954-6134
+Al-Amin Dhirani,Chemistry,St. George,AssocP,chemistry.utoronto.ca,Physical,A5010804904,Al-Amin Dhirani,1.475,,76,16,https://orcid.org/0000-0003-3257-4327
+Andrew P. Dicks,Chemistry,St. George,"P, TS",chemistry.utoronto.ca,,A5042890707,Andrew P. Dicks,1.328,,85,27,https://orcid.org/0000-0001-5456-0212
+Landon Edgar,Chemistry,St. George,AsstP,chemistry.utoronto.ca,cross-appointed; Biological; Organic,A5084521099,Landon J. Edgar,1.461,,34,13,https://orcid.org/0000-0001-6555-7609
+Cynthia Goh,Chemistry,St. George,P,chemistry.utoronto.ca,Physical,A5111516603,M. Cynthia Goh,1.476,,103,34,https://orcid.org/0000-0002-1495-8901
+Walid Houry,Chemistry,St. George,P,chemistry.utoronto.ca,cross-appointed; Biological; Organic,A5077991160,Walid A. Houry,1.55,,1226,56,https://orcid.org/0000-0002-1861-3441
+Jane Howe,Chemistry,St. George,P,chemistry.utoronto.ca,cross-appointed,A5040430480,Jane Y. Howe,1.55,,314,53,https://orcid.org/0000-0001-9319-3988
+Artur Izmaylov,Chemistry,UTSC,P,chemistry.utoronto.ca,ChemPhys,A5080074500,Artur F. Izmaylov,1.486,,127,39,https://orcid.org/0000-0001-8035-6020
+Rebecca Jockusch,Chemistry,St. George,AssocP,chemistry.utoronto.ca,Analytical; Physical,A5075996864,Rebecca A. Jockusch,1.472,,65,36,https://orcid.org/0000-0002-8192-7486
+Lewis Kay,Chemistry,St. George,University P,chemistry.utoronto.ca,cross-appointed; Biological; Physical,A5020050875,Lewis E. Kay,1.55,,676,130,https://orcid.org/0000-0002-4054-4083
+Ronald Kluger,Chemistry,St. George,P,chemistry.utoronto.ca,Biological; Organic,A5066425079,Ronald Kluger,1.54,,271,36,https://orcid.org/0000-0002-1749-2094
+Eugenia Kumacheva,Chemistry,St. George,University P,chemistry.utoronto.ca,Physical; Polymer/Materials,A5060107939,Eugenia Kumacheva,1.5,,380,93,https://orcid.org/0000-0001-5942-3890
+Mark Lautens,Chemistry,St. George,University P and Chair,chemistry.utoronto.ca,Biological; Organic,A5044555614,Mark Lautens,1.55,,2698,102,https://orcid.org/0000-0002-0179-2914
+Xiang Li,Chemistry,St. George,AsstP,chemistry.utoronto.ca,Physical,A5100331092,Xiang Olivia Li,1.347,,292,46,https://orcid.org/0000-0002-9168-1598
+Bowen Li,Chemistry,St. George,AssocP,chemistry.utoronto.ca,cross-appointed; Biological; Organic; Polymer/Materials,A5123309956,Bowen Li,1.451,,2,2,https://orcid.org/0009-0003-9321-0137
+Kylie Luska,Chemistry,St. George,"AsstP, TS",chemistry.utoronto.ca,Biological; Environmental; Organic,A5023134782,Kylie L. Luska,1.47,,59,20,https://orcid.org/0000-0003-3477-4648
+Scott Mabury,Chemistry,St. George,P,chemistry.utoronto.ca,Analytical; Environmental,A5029017897,Scott A. Mabury,1.391,,274,88,https://orcid.org/0000-0003-0091-8199
+Caitlin Maikawa,Chemistry,St. George,AsstP,chemistry.utoronto.ca,cross-appointed; Biological,A5062824120,Caitlin L. Maikawa,1.064,,41,21,https://orcid.org/0000-0002-6214-1226
+Dwayne Miller,Chemistry,St. George,University P,chemistry.utoronto.ca,Physical,A5029288551,R. J. Dwayne Miller,1.537,,671,74,https://orcid.org/0000-0003-0884-0541
+J. Rafael Montenegro Burke,Chemistry,St. George,AsstP,chemistry.utoronto.ca,cross-appointed; Analytical; Biological,A5021803498,J. Rafael Montenegro-Burke,1.416,,47,21,https://orcid.org/0000-0001-7787-3414
+Barb Morra,Chemistry,St. George,"P, TS and Associate Chair, Undergraduate",chemistry.utoronto.ca,,,,0,,0,,
+Robert Morris,Chemistry,St. George,P,chemistry.utoronto.ca,Biological; Inorganic; Organic,A5039634682,Robert H. Morris,1.55,,495,73,https://orcid.org/0000-0002-7574-9388
+Jennifer Murphy,Chemistry,St. George,P,chemistry.utoronto.ca,Environmental,A5016231702,J. G. Murphy,1.371,,212,59,https://orcid.org/0000-0001-8865-5463
+Mark Nitz,Chemistry,St. George,P,chemistry.utoronto.ca,Biological; Organic,A5040529254,Mark Nitz,1.515,,196,42,https://orcid.org/0000-0001-8078-2265
+Hui Peng,Chemistry,St. George,AssocP,chemistry.utoronto.ca,Analytical; Biological; Environmental; Organic,A5032007926,Hui Peng,1.5,,303,53,https://orcid.org/0000-0002-7297-1733
+Kristine Quinlan,Chemistry,St. George,"AssocP, TS",chemistry.utoronto.ca,,A5002978856,Kristine B. Quinlan,1.2,,18,8,https://orcid.org/0009-0005-1640-0871
+Mark Reed,Chemistry,St. George,AssocP,chemistry.utoronto.ca,cross-appointed; Biological; Organic,A5023158279,Mark A. Reed,1.515,,195,12,https://orcid.org/0000-0002-0293-2691
+Sophie Rousseaux,Chemistry,St. George,"P and Associate Chair, Graduate Studies",chemistry.utoronto.ca,Biological; Organic,A5043550213,Sophie A. L. Rousseaux,1.477,,80,24,https://orcid.org/0000-0002-6505-5593
+Aya Sakaya,Chemistry,St. George,"AsstP, TS",chemistry.utoronto.ca,Physical,A5071295241,Aya Sakaya,1.254,,13,5,https://orcid.org/0000-0002-7714-944X
+Sara Seager,Chemistry,St. George,North Star Distinguished P,chemistry.utoronto.ca,cross-appointed; Physical,A5126377535,Sara Seager,1.401,,3,0,
+Dvira Segal,Chemistry,St. George,P,chemistry.utoronto.ca,ChemPhys,A5069795012,Dvira Segal,1.514,,192,45,https://orcid.org/0000-0002-8027-8920
+Barbara Sherwood Lollar,Chemistry,St. George,University P,chemistry.utoronto.ca,cross-appointed,A5062872049,Barbara Sherwood Lollar,1.5,,461,73,https://orcid.org/0000-0001-9758-7095
+Molly Shoichet,Chemistry,St. George,University P,chemistry.utoronto.ca,cross-appointed,A5045900479,Molly Sandra Shoichet,1.4,,420,98,https://orcid.org/0000-0003-1830-3475
+Datong Song,Chemistry,St. George,P,chemistry.utoronto.ca,Biological; Inorganic; Organic; Polymer/Materials,A5069565621,Datong Song,1.55,,557,41,https://orcid.org/0000-0001-6622-5980
+Doug Stephan,Chemistry,St. George,University P,chemistry.utoronto.ca,Inorganic,A5037978366,Douglas W. Stephan,1.55,,1680,108,https://orcid.org/0000-0001-8140-8355
+David Stone,Chemistry,St. George,"AssocP, TS",chemistry.utoronto.ca,,A5003851632,David C. Stone,1.202,,32,13,https://orcid.org/0000-0002-5994-5223
+Mark Taylor,Chemistry,St. George,P,chemistry.utoronto.ca,Biological; Organic; Polymer/Materials,A5078189430,Mark S. Taylor,1.51,,180,49,https://orcid.org/0000-0003-3424-4380
+Michael Thompson,Chemistry,St. George,P,chemistry.utoronto.ca,Analytical,A5009158848,Michael E. Thompson,1.55,,363,51,https://orcid.org/0000-0002-1445-9918
+Helen Tran,Chemistry,St. George,AsstP,chemistry.utoronto.ca,Biological; Organic; Polymer/Materials,A5001249541,Helen Tran,1.479,,87,35,https://orcid.org/0000-0002-4041-7340
+Anatole von Lilienfeld,Chemistry,St. George,P,chemistry.utoronto.ca,ChemPhys,A5088793872,O. Anatole von Lilienfeld,1.477,,243,61,https://orcid.org/0000-0001-7419-0466
+Gilbert Walker,Chemistry,St. George,P,chemistry.utoronto.ca,Analytical; Physical; Polymer/Materials,A5140618972,Gilbert C. Walker,1.344,,1,0,https://orcid.org/0000-0002-5248-5498
+Aaron Wheeler,Chemistry,St. George,P,chemistry.utoronto.ca,Analytical,A5002024611,Aaron R. Wheeler,1.477,,230,70,https://orcid.org/0000-0001-5230-7475
+Mark Wilson,Chemistry,St. George,AssocP,chemistry.utoronto.ca,Physical; Polymer/Materials,A5062301913,Mark W. B. Wilson,1.477,,80,30,https://orcid.org/0000-0002-1957-2979
+Mitchell Winnik,Chemistry,St. George,University P,chemistry.utoronto.ca,Polymer/Materials,A5026093276,Mitchell A. Winnik,1.544,,896,99,https://orcid.org/0000-0002-2673-2141
+Andrew Woolley,Chemistry,St. George,P,chemistry.utoronto.ca,Biological; Organic,A5058585588,G. Andrew Woolley,1.453,,159,47,https://orcid.org/0000-0002-3446-2639
+Andrei Yudin,Chemistry,St. George,P,chemistry.utoronto.ca,Biological; Organic,A5081408580,Andrei K. Yudin,1.55,,460,56,https://orcid.org/0000-0003-3170-9103
+Chao Zheng,Chemistry,St. George,AsstP,chemistry.utoronto.ca,cross-appointed; Biological; Organic,A5103112369,Chao Zheng,1.485,,106,31,https://orcid.org/0000-0001-5441-6720
+David Armstrong,Chemistry,UTM,"AsstP, TS",chemistry.utoronto.ca,Inorganic,A5016548167,David R. Armstrong,1.55,,508,44,https://orcid.org/0000-0002-5480-1386
+Andrew Beharry,Chemistry,UTM,AssocP,chemistry.utoronto.ca,Biological; Organic,A5085065543,Andrew A. Beharry,1.471,,63,25,https://orcid.org/0000-0003-1505-2375
+Ulrich Fekl,Chemistry,UTM,AssocP,chemistry.utoronto.ca,Inorganic,A5019838644,Ulrich Fekl,1.499,,147,20,https://orcid.org/0000-0001-7345-1716
+Claudiu Gradinaru,Chemistry,UTM,P,chemistry.utoronto.ca,cross-appointed; Biological; Physical,A5078061681,Claudiu C. Gradinaru,1.498,,144,32,https://orcid.org/0000-0002-1897-313X
+Patrick Gunning,Chemistry,UTM,P,chemistry.utoronto.ca,Biological; Organic,A5037938281,Patrick Thomas Gunning,1.475,,225,45,https://orcid.org/0000-0003-0654-735X
+Amanda Hargrove,Chemistry,UTM,P,chemistry.utoronto.ca,Biological; Organic,A5046661216,Amanda E. Hargrove,1.43,,91,31,https://orcid.org/0000-0003-1536-6753
+Voula Kanelis,Chemistry,UTM,AssocP,chemistry.utoronto.ca,Biological; Organic; Physical,A5027410091,Voula Kanelis,1.418,,53,20,https://orcid.org/0000-0001-9262-9954
+Maciej Korzyński,Chemistry,UTM,AsstP,chemistry.utoronto.ca,Inorganic; Polymer/Materials,A5086008501,Maciej Damian Korzyński,1.465,,45,14,https://orcid.org/0000-0002-6577-1821
+Vivienne Luk,Chemistry,UTM,"AssocP, TS",chemistry.utoronto.ca,Biological; Organic,A5061610307,Vivienne N. Luk,1.405,,14,6,https://orcid.org/0000-0003-2587-6378
+David McMillen,Chemistry,UTM,AssocP,chemistry.utoronto.ca,Biological; Organic; Physical,A5082427927,David R. McMillen,1.471,,63,18,https://orcid.org/0000-0003-2676-5450
+Alana Ogata,Chemistry,UTM,AsstP,chemistry.utoronto.ca,Analytical,A5013401641,Alana F. Ogata,1.415,,46,21,https://orcid.org/0000-0002-5234-6463
+Paul Piunno,Chemistry,UTM,"AssocP, TS",chemistry.utoronto.ca,,A5029468115,Paul A. E. Piunno,1.466,,49,22,https://orcid.org/0000-0001-6809-2843
+Scott Prosser,Chemistry,UTM,P,chemistry.utoronto.ca,Biological; Organic; Physical,A5032543179,Robert Scott Prosser,1.488,,135,46,https://orcid.org/0000-0001-9351-178X
+Sarah Rauscher,Chemistry,UTM,AssocP,chemistry.utoronto.ca,cross-appointed,A5064842246,Sarah Rauscher,1.428,,85,17,https://orcid.org/0000-0001-9860-3237
+Jumi Shin,Chemistry,UTM,AssocP,chemistry.utoronto.ca,Analytical; Biological; Organic,A5044146971,Jumi A. Shin,1.421,,62,20,https://orcid.org/0000-0001-9939-2072
+Juris Strautmanis,Chemistry,UTM,Lecturer,chemistry.utoronto.ca,,A5018796606,Juris R. Strautmanis,1.246,,5,3,
+Marco Zimmer-De Iuliis,Chemistry,UTM,"AsstP, TS",chemistry.utoronto.ca,,A5022340770,M.Z.-D. Iuliis,1.458,,23,8,
+Holly Barrett,Chemistry,UTSC,AsstP,chemistry.utoronto.ca,Analytical; Biological,A5047560857,Holly Barrett,1.009,,27,16,https://orcid.org/0000-0002-0303-6215
+Shadi Dalili,Chemistry,UTSC,"AssocP, TS",chemistry.utoronto.ca,,A5085851075,Shadi Dalili,1.414,,42,13,https://orcid.org/0000-0001-7641-2966
+Alen Hadzovic,Chemistry,UTSC,"AssocP, TS",chemistry.utoronto.ca,,A5074379394,A. Hadzovic,1.478,,83,13,https://orcid.org/0000-0002-2935-5679
+Kagan Kerman,Chemistry,UTSC,P,chemistry.utoronto.ca,Analytical,A5063954731,Kağan Kerman,1.489,,266,64,https://orcid.org/0000-0003-3511-8570
+Kris Kim,Chemistry,UTSC,"AssocP, TS",chemistry.utoronto.ca,,A5003992894,Kris Sanghyun Kim,1.396,,20,11,https://orcid.org/0000-0002-8912-520X
+Lana Mikhaylichenko,Chemistry,UTSC,"P, TS",chemistry.utoronto.ca,,A5050784641,Lana Mikhaylichenko,1.25,,1,1,
+Effie Sauer,Chemistry,UTSC,"AssocP, TS",chemistry.utoronto.ca,,,,0,,0,,
+Andre Simpson,Chemistry,UTSC,P,chemistry.utoronto.ca,Analytical; Environmental,A5080435447,André J. Simpson,1.45,,360,66,https://orcid.org/0000-0002-8247-5450
+Myrna Simpson,Chemistry,UTSC,P,chemistry.utoronto.ca,Analytical; Environmental,A5019076569,Myrna J. Simpson,1.45,,342,66,https://orcid.org/0000-0002-8084-411X
+Ruby Sullan,Chemistry,UTSC,AssocP,chemistry.utoronto.ca,Analytical; Biological; Organic; Physical,A5086630277,Ruby May A. Sullan,1.471,,64,22,https://orcid.org/0000-0002-8927-2605
+Nirusha Thavarajah,Chemistry,UTSC,"AssocP, TS",chemistry.utoronto.ca,Biological; Organic,A5034068537,Nirusha Thavarajah,1.353,,9,4,
+Oleksandr Voznyy,Chemistry,UTSC,AssocP,chemistry.utoronto.ca,ChemPhys; Inorganic; Physical; Polymer/Materials,A5051815230,Oleksandr Voznyy,1.55,,309,104,https://orcid.org/0000-0002-8656-5074
+Frank Wania,Chemistry,UTSC,P,chemistry.utoronto.ca,Environmental,A5091794038,Frank Wania,1.35,,438,84,https://orcid.org/0000-0003-3836-0901
+Xiao-an Zhang,Chemistry,UTSC,AssocP,chemistry.utoronto.ca,Biological; Inorganic; Organic,A5018597403,Xiao‐an Zhang,1.302,,7,7,https://orcid.org/0000-0001-9417-4228
+Carine Nemr,Chemistry,St. George,"AsstP, TS, CLTA",chemistry.utoronto.ca,Analytical,A5058369809,Carine R. Nemr,1.455,,16,12,https://orcid.org/0000-0001-7040-6485
+Nadya Askaripour,Mathematics,UTM,"Assistant Professor, Teaching Stream (LTA) (MATH)",utm.utoronto.ca,,A5070454250,Nadya Askaripour,1.451,,4,1,
+Andrijana (Andie) Burazin,Mathematics,UTM,"Associate Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5026616905,Andrijana Burazin,1.255,,15,3,https://orcid.org/0000-0001-9975-6120
+Shay Fuchs,Mathematics,UTM,"Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5007500654,Shay Fuchs,1.257,,22,2,https://orcid.org/0009-0005-7018-265X
+Jonathan Herman,Mathematics,UTM,"Assistant Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5078277001,Jonathan Herman,1.455,,16,4,
+Tyler Holden,Mathematics,UTM,"Associate Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5081760349,Tyler Holden,1.451,,4,1,
+Ehsaan Hossain,Mathematics,UTM,"Assistant Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5004082651,Ehsaan Hossain,1.451,,3,1,
+Maryam Khaqan,Mathematics,UTM,"Assistant Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5004253413,Maryam Khaqan,1.251,no UofT affiliation in OpenAlex (new hire?),4,1,https://orcid.org/0000-0002-5116-8300
+Ivan Khatchatourian,Mathematics,UTM,"Assistant Professor, Teaching Stream (LTA) (MATH)",utm.utoronto.ca,,A5022336237,Ivan Khatchatourian,1.15,no UofT affiliation in OpenAlex (new hire?),1,1,
+Niki Myrto Mavraki,Mathematics,UTM,Assistant Profesor (MATH),utm.utoronto.ca,,A5042162519,Niki Myrto Mavraki,1.457,,20,6,https://orcid.org/0000-0002-7270-6729
+Ali Mousavidehshikh,Mathematics,UTM,"Assistant Professor, Teaching Stream, (MATH)",utm.utoronto.ca,,A5086853993,Ali Mousavidehshikh,1.35,,1,1,
+Micheal Pawliuk,Mathematics,UTM,"Assistant Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5020422005,Micheal Pawliuk,1.455,,16,5,https://orcid.org/0000-0003-2808-8502
+Alexander Rennet,Mathematics,UTM,"Associate Professor, Teaching Stream & Associate Chair (MATH)",utm.utoronto.ca,,A5014657027,Alexander David Rennet,1.385,,2,1,
+Jaimal Thind,Mathematics,UTM,"Associate Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5034148233,Jaimal Thind,1.253,no UofT affiliation in OpenAlex (new hire?),8,2,
+Marina Tvalavadze,Mathematics,UTM,"Associate Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5014488492,Marina Tvalavadze,1.459,,27,5,https://orcid.org/0000-0002-9750-8833
+Qun Wang,Mathematics,UTM,"Assistant Professor, Teaching Stream (LTA) (MATH)",utm.utoronto.ca,,A5022854166,Qun Wang,1.401,,2,2,https://orcid.org/0000-0002-9655-8599
+Maria Wesslén,Mathematics,UTM,"Associate Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5066986177,Maria S. M. Wesslén,1.138,,3,2,
+Timothy Yusun,Mathematics,UTM,"Associate Professor, Teaching Stream (MATH)",utm.utoronto.ca,,A5060028535,Timothy Yusun,1.402,,7,4,https://orcid.org/0000-0003-0733-9659
+Joshua N. Milstein,Chemistry,UTM,Chair & Professor at the Department of Chemical and Physical Sciences,utm.utoronto.ca,,A5070460978,Joshua N. Milstein,1.476,,79,15,https://orcid.org/0000-0003-2515-4025
+Virginijus Barzda,Physics,UTM,Ph.D. | Professor | Physics | Biophysics,utm.utoronto.ca,,A5061698804,Virginijus Barzda,1.521,,212,37,https://orcid.org/0000-0003-0669-9513
+Wagih Ghobriel,Physics,UTM,"Ph.D. | Professor, Teaching Stream | Physics Undergraduate Academic Advisor (Physics)",utm.utoronto.ca,,A5152302329,Wagih Ghobriel,1.301,,2,0,
+Andreas Hilfinger,Physics,UTM,Ph.D. | Associate Professor | Physics | Biophysics,utm.utoronto.ca,,A5009787730,Andreas Hilfinger,1.462,,37,12,https://orcid.org/0000-0002-2411-6775
+Lea Hirsch,Physics,UTM,"Ph.D. | Assistant Professor, Teaching Stream | Astronomy | Undergraduate Academic Advisor (Astronomy)",utm.utoronto.ca,,A5067381103,Lea A. Hirsch,1.513,,189,41,https://orcid.org/0000-0001-8058-7443
+Kent Moore,Physics,UTM,Ph.D. | University Professor | Physics | Atmospheric Physics,utm.utoronto.ca,,A5010704341,G. W. K. Moore,1.45,,327,56,https://orcid.org/0000-0002-3986-5605
+Xiaoyong Xu,Physics,UTM,Ph.D. | Assistant Professor (part-time) | Earth Science & Physics | Hydrology and Climate Physics,utm.utoronto.ca,,A5048241156,Xiaoyong Xu,1.169,,56,14,https://orcid.org/0000-0002-5040-6442
+Pawel Artymowicz,Physics,UTSC,Professor,utsc.utoronto.ca/physsci,,A5037499522,Pawel Artymowicz,1.279,,87,26,
+Johann Bayer,Physics,UTSC,"Associate Professor, Teaching Stream",utsc.utoronto.ca/physsci,,A5090946237,Johann Bayer,1.401,,3,3,
+Ulrich Englich,Chemistry,UTSC,"Associate Professor, Teaching Stream",utsc.utoronto.ca/physsci,,A5054659070,U. Englich,1.298,no UofT affiliation in OpenAlex (new hire?),145,28,
+Julian Lowman,Physics,UTSC,Professor,utsc.utoronto.ca/physsci,,A5068508635,J. P. Lowman,1.488,,114,26,https://orcid.org/0000-0002-8588-9747
+Kristen Menou,Physics,UTSC,Associate Professor,utsc.utoronto.ca/physsci,,A5008019902,Kristen Menou A,1.549,,297,64,
+Hanno Rein,Physics,UTSC,Associate Professor,utsc.utoronto.ca/physsci,,A5026802133,Hanno Rein,1.487,,111,28,https://orcid.org/0000-0003-1927-731X
+Karin Ruhlandt,Chemistry,UTSC,Professor,utsc.utoronto.ca/physsci,,A5033890830,Karin Ruhlandt‐Senge,1.532,,498,44,
+Salam Tawfiq,Physics,UTSC,"Associate Professor, Teaching Stream",utsc.utoronto.ca/physsci,,A5042721102,Salam Tawfiq,1.454,,12,6,
+Diana Valencia,Physics,UTSC,Associate Professor,utsc.utoronto.ca/physsci,,A5042639978,Diana Valencia,1.508,,174,35,https://orcid.org/0000-0003-3993-4030
+Dan Weaver,Physics,UTSC,"Associate Professor, Teaching Stream",utsc.utoronto.ca/physsci,,A5064865246,Dan Weaver,1.361,,33,13,https://orcid.org/0000-0002-5400-5099
+Nicole Ashford,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+J. Richard Bond,Physics,St. George,University Professor,physics.utoronto.ca,CITA Non-Budgetary Cross-Appointed Faculty; Canadian Institute for Theoretical Astrophysics,A5107906417,John Richard Bond,1.55,,592,148,https://orcid.org/0000-0003-2358-9949
+Boris Braverman,Physics,St. George,Assistant Professor,physics.utoronto.ca,,A5103031897,Boris Braverman,1.481,,94,26,https://orcid.org/0000-0001-5193-2711
+Xiaoyang (Jim) Chen,Physics,St. George,Faculty,physics.utoronto.ca,,A5100463028,Xiaoyang Chen,1.292,,127,24,https://orcid.org/0000-0002-1098-8185
+Valentin Crepel,Physics,St. George,Assistant Professor,physics.utoronto.ca,,A5006890410,Valentin Crépel,1.47,,61,22,https://orcid.org/0000-0003-0240-3412
+David Curtin,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5071301179,David Y. Curtin,1.55,,352,57,https://orcid.org/0000-0003-0263-6195
+Pratika Dayal,Physics,St. George,Professor,physics.utoronto.ca,CITA Non-Budgetary Cross-Appointed Faculty; Canadian Institute for Theoretical Astrophysics,A5001194386,Pratika Dayal,1.516,,199,63,https://orcid.org/0000-0001-8460-1564
+Clelia de Ferrieres de Sauveboeuf,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+Sergio de la Barrera,Physics,St. George,Assistant Professor,physics.utoronto.ca,,A5032862953,Sergio C. de la Barrera,1.468,,53,16,https://orcid.org/0000-0002-5974-9476
+Miriam Diamond,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5106558328,M. D. Diamond,1.462,,35,23,https://orcid.org/0009-0001-7614-1497
+Reed Essick,Physics,St. George,Assistant Professor,physics.utoronto.ca,CITA Non-Budgetary Cross-Appointed Faculty; Canadian Institute for Theoretical Astrophysics,A5011820388,R. C. Essick,1.55,,366,115,https://orcid.org/0000-0001-8196-9267
+Maya Fishbach,Physics,St. George,Assistant Professor,physics.utoronto.ca,CITA Non-Budgetary Cross-Appointed Faculty; Canadian Institute for Theoretical Astrophysics,A5027286356,M. Fishbach,1.511,,184,81,https://orcid.org/0000-0002-1980-5293
+Jacob Gordon,Physics,St. George,Faculty,physics.utoronto.ca,,A5088153713,Jacob S. Gordon,1.456,,17,7,https://orcid.org/0000-0002-4750-3495
+Sidhartha Goyal,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5061121742,Sidhartha Goyal,1.418,,54,16,https://orcid.org/0000-0002-7452-892X
+Debora Griffin,Physics,St. George,Faculty,physics.utoronto.ca,,A5022501379,Debora Griffin,1.337,,112,28,https://orcid.org/0000-0002-4849-9125
+Nicolas Grisouard,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5064232785,Nicolas Grisouard,1.473,,68,14,https://orcid.org/0000-0003-4045-2143
+Luca Haines,Physics,St. George,Faculty,physics.utoronto.ca,,A5151135854,Luca Haines,1.3,,1,1,https://orcid.org/0009-0002-2730-578X
+William Harding,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+Ania Harlick,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5100203428,Ania Harlick,1.2,,1,0,https://orcid.org/0009-0007-2409-3685
+Jason Harlow,Physics,St. George,Professor,physics.utoronto.ca,,A5088789274,Jason J. B. Harlow,1.358,,24,9,https://orcid.org/0000-0003-1603-0792
+David Hathcock,Physics,St. George,Assistant Professor,physics.utoronto.ca,,A5051083209,David J. Hathcock,1.261,no UofT affiliation in OpenAlex (new hire?),34,13,https://orcid.org/0000-0003-4551-9239
+Philip Joseph Heron,Physics,St. George,Faculty,physics.utoronto.ca,,A5033447468,Philip J. Heron,1.482,,95,17,https://orcid.org/0000-0002-4813-0504
+Ziqing Hong,Physics,St. George,Assistant Professor,physics.utoronto.ca,,A5006670391,Z. Hong,1.49,,120,39,https://orcid.org/0000-0001-8762-4921
+Hamed Ibrahim,Physics,St. George,Assistant Professor,physics.utoronto.ca,UTSG Non-Budgetary Cross-Appointed Faculty; Department of Civil & Mineral Engineering,A5010730521,Hamed D. Ibrahim,1.36,,30,6,https://orcid.org/0000-0002-4720-3476
+Nikolina Ilic,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5107871237,N. Ilic,1.55,,2031,182,https://orcid.org/0000-0003-0105-7634
+Baran Irak,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+Daniel F.V. James,Physics,St. George,Professor,physics.utoronto.ca,,A5111697434,Daniel F. V. James,1.532,,247,42,https://orcid.org/0000-0003-3981-4602
+Sajeev John,Physics,St. George,University Professor,physics.utoronto.ca,,A5074594387,Sajeev John,1.548,,293,65,https://orcid.org/0000-0003-0908-5808
+Dylan Jones,Physics,St. George,Professor,physics.utoronto.ca,,A5032751311,Dylan B. A. Jones,1.441,,272,53,https://orcid.org/0000-0002-1935-3725
+Stephen R. Julian,Physics,St. George,Professor,physics.utoronto.ca,,A5052881776,S. R. Julian,1.506,,169,43,https://orcid.org/0000-0002-5410-8709
+Yonatan Kahn,Physics,St. George,Assistant Professor,physics.utoronto.ca,,A5108821003,Yonatan F. Kahn,1.511,,182,54,https://orcid.org/0000-0002-9379-1838
+Hae-Young Kee,Physics,St. George,Professor,physics.utoronto.ca,,A5065238882,Hae‐Young Kee,1.536,,257,45,https://orcid.org/0000-0002-8248-4461
+Yong Baek Kim,Physics,St. George,Professor,physics.utoronto.ca,,A5043066579,Yong Baek Kim,1.55,,358,52,https://orcid.org/0000-0003-0473-8785
+Young-June Kim,Physics,St. George,Professor,physics.utoronto.ca,,A5101692369,Young‐June Kim,1.527,,231,48,https://orcid.org/0000-0002-1172-8895
+Peter Krieger,Physics,St. George,Professor,physics.utoronto.ca,,A5107829113,P. Krieger,1.55,,1617,181,https://orcid.org/0000-0001-9958-949X
+Andrew Kubik,Physics,St. George,Faculty,physics.utoronto.ca,,A5103949363,Andrew Kubik,1.459,,26,5,
+Paul Kushner,Physics,St. George,Professor,physics.utoronto.ca,,A5041348953,Paul J. Kushner,1.484,,251,47,https://orcid.org/0000-0002-6404-4518
+Yaowei Li,Physics,St. George,Assistant Professor,physics.utoronto.ca,,A5024538926,Yaowei Li,1.255,no UofT affiliation in OpenAlex (new hire?),15,7,https://orcid.org/0009-0006-7325-6439
+Jonathan Lilly,Physics,St. George,Faculty,physics.utoronto.ca,,A5049934372,Jonathan Patrick Lilly,1.178,no UofT affiliation in OpenAlex (new hire?),2,0,
+Qinya Liu,Physics,St. George,Professor,physics.utoronto.ca,,A5024442001,Qinya Liu,1.475,,76,31,https://orcid.org/0000-0002-1071-2314
+Hoi-Kwong Lo,Physics,St. George,Professor,physics.utoronto.ca,UTSG Non-Budgetary Cross-Appointed Faculty; Department of Physics,A5011884682,Hoi‐Kwong Lo,1.528,,233,61,https://orcid.org/0000-0002-0340-4989
+Peter Love,Physics,St. George,Professor,physics.utoronto.ca,,A5051926511,Peter J. Love,1.492,,125,33,https://orcid.org/0000-0002-8344-0532
+Michael Luke,Physics,St. George,Professor,physics.utoronto.ca,,A5081013166,Michael E. Luke,1.481,,93,37,https://orcid.org/0000-0002-6786-3877
+Kirk Madison,Physics,St. George,Faculty,physics.utoronto.ca,,A5058381129,Kirk W. Madison,1.299,no UofT affiliation in OpenAlex (new hire?),147,32,https://orcid.org/0000-0003-0331-3267
+Zen Mariani,Physics,St. George,Faculty,physics.utoronto.ca,,A5031869790,Zen Mariani,1.17,,61,14,https://orcid.org/0000-0001-9368-5659
+Robin S. Marjoribanks,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5053890928,Robin S. Marjoribanks,1.483,,100,20,https://orcid.org/0000-0002-3119-1554
+Anupam Mazumdar,Physics,St. George,Professor,physics.utoronto.ca,CITA Non-Budgetary Cross-Appointed Faculty; Canadian Institute for Theoretical Astrophysics,A5020747405,Anupam Mazumdar,1.55,,326,64,https://orcid.org/0000-0002-0967-8964
+Guo-Xing Miao,Physics,St. George,Faculty,physics.utoronto.ca,,A5067386110,Guo‐Xing Miao,1.309,no UofT affiliation in OpenAlex (new hire?),178,38,https://orcid.org/0000-0002-4354-5540
+Girish Lingadahalli Muralidhara,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+Norman W. Murray,Physics,St. George,Professor,physics.utoronto.ca,CITA Non-Budgetary Cross-Appointed Faculty; Canadian Institute for Theoretical Astrophysics,A5079016405,Norman Murray,1.54,,270,79,https://orcid.org/0000-0002-8659-3729
+Zahin Mustari,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+Ray Nassar,Physics,St. George,Faculty,physics.utoronto.ca,,A5055122757,Ray Nassar,1.196,,137,36,https://orcid.org/0000-0001-6282-1611
+Barth Netterfield,Physics,St. George,Professor,physics.utoronto.ca,,A5108075031,C. Barth Netterfield,1.536,,276,99,
+Morgan O'Neill,Physics,St. George,Assistant Professor,physics.utoronto.ca,,,,0,,0,,
+Philippe Adrian Okwe,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+Arun Paramekanti,Physics,St. George,Professor,physics.utoronto.ca,,A5051133900,Arun Paramekanti,1.524,,221,43,https://orcid.org/0000-0001-6113-3147
+Camille Paule,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+A.W. Peet,Physics,St. George,Professor,physics.utoronto.ca,,A5053314103,Amanda W. Peet,1.478,,84,33,https://orcid.org/0000-0002-5171-9897
+W. Richard Peltier,Physics,St. George,University Professor,physics.utoronto.ca,,A5080313267,W. R. Peltier,1.5,,704,104,https://orcid.org/0000-0002-5555-7661
+Ue-Li Pen,Physics,St. George,Professor,physics.utoronto.ca,CITA Non-Budgetary Cross-Appointed Faculty; Canadian Institute for Theoretical Astrophysics,A5020243437,Ue‐Li Pen,1.537,,606,97,https://orcid.org/0000-0003-2155-9578
+Erich Poppitz,Physics,St. George,Professor,physics.utoronto.ca,,A5111200774,Erich Poppitz,1.476,,79,37,https://orcid.org/0000-0002-8740-503X
+Russ Pysklywec,Physics,St. George,Professor,physics.utoronto.ca,UTSG Non-Budgetary Cross-Appointed Faculty; Department of Earth Sciences,,,0,,0,,
+Bart Ripperda,Physics,St. George,Assistant Professor,physics.utoronto.ca,CITA Non-Budgetary Cross-Appointed Faculty; Canadian Institute for Theoretical Astrophysics,A5029559893,Bart Ripperda,1.496,,138,43,https://orcid.org/0000-0002-7301-3908
+Matthew Robbins,Physics,St. George,Assistant Professor,physics.utoronto.ca,,A5089594593,Matthew P. G. Robbins,1.441,,8,5,https://orcid.org/0000-0002-4970-6165
+William Ryu,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5048992372,William S. Ryu,1.432,,97,30,https://orcid.org/0000-0002-0350-7507
+Mark Saad,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+Rhine Samajdar,Physics,St. George,Assistant Professor,physics.utoronto.ca,,A5074780718,Rhine Samajdar,1.277,no UofT affiliation in OpenAlex (new hire?),80,24,https://orcid.org/0000-0001-5171-7798
+Pierre Savard,Physics,St. George,Professor,physics.utoronto.ca,,A5007692239,Pierre Savard,1.55,,2395,192,https://orcid.org/0000-0001-5606-0107
+Pekka Sinervo,Physics,St. George,Professor,physics.utoronto.ca,,A5110523092,P. Sinervo,1.55,,2613,204,https://orcid.org/0000-0002-5128-2373
+Manmeet Pal Singh,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+John Sipe,Physics,St. George,Professor,physics.utoronto.ca,,A5055379196,John E. Sipe,1.55,,903,91,https://orcid.org/0000-0002-1927-084X
+Aephraim M. Steinberg,Physics,St. George,University Professor,physics.utoronto.ca,,A5049199960,Aephraim M. Steinberg,1.55,,324,51,https://orcid.org/0000-0002-7737-8971
+Kimberly Strong,Physics,St. George,Professor,physics.utoronto.ca,,A5039719211,Strong Kimberly,1.452,,7,0,
+Matthew Stukel,Physics,St. George,Faculty,physics.utoronto.ca,,A5016566221,M. Stukel,1.261,no UofT affiliation in OpenAlex (new hire?),33,8,https://orcid.org/0000-0002-9052-7513
+Andrei Swidinsky,Physics,St. George,Associate Professor,physics.utoronto.ca,UTSG Non-Budgetary Cross-Appointed Faculty; Department of Earth Sciences,A5021174796,Andrei Swidinsky,1.489,,117,16,https://orcid.org/0000-0002-6435-6730
+Yigal Teplitsky,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+Richard Teuscher,Physics,St. George,Professor,physics.utoronto.ca,,A5105345855,R. J. Teuscher,1.55,,1947,187,https://orcid.org/0000-0002-8768-2272
+Chris Thompson,Physics,St. George,Professor,physics.utoronto.ca,CITA Non-Budgetary Cross-Appointed Faculty; Canadian Institute for Theoretical Astrophysics,A5049368928,Chris P. Thompson,1.252,,155,18,https://orcid.org/0000-0003-1939-6749
+Joseph Thywissen,Physics,St. George,Professor,physics.utoronto.ca,,A5020646783,Joseph H. Thywissen,1.503,,158,33,https://orcid.org/0000-0002-7007-8204
+Alexander To-Dang,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+William Trischuk,Physics,St. George,Professor,physics.utoronto.ca,,A5107840239,W. Trischuk,1.35,,736,141,
+Chong Un Un,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+Keith Vanderlinde,Physics,St. George,Professor,physics.utoronto.ca,UTSG Non-Budgetary Cross-Appointed Faculty; Dunlap Institute for Astronomy & Astrophysics,A5049144785,K. Vanderlinde,1.501,,153,65,https://orcid.org/0000-0003-4535-9378
+Felix Vogel,Physics,St. George,Faculty,physics.utoronto.ca,,A5002276197,Felix Vogel,1.353,,158,31,https://orcid.org/0000-0002-2548-3390
+Amelia Voulgaris,Physics,St. George,Faculty,physics.utoronto.ca,,,,0,,0,,
+Amar Vutha,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5001047738,Amar C. Vutha,1.483,,98,18,https://orcid.org/0000-0002-1250-2927
+Kaley Walker,Physics,St. George,Professor,physics.utoronto.ca,,A5071107014,Kaley A. Walker,1.45,,631,63,https://orcid.org/0000-0003-3420-9454
+Chen Wang,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5065484071,C. H. Wang,1.35,,1793,184,https://orcid.org/0000-0002-8487-8480
+Bryce Warren,Physics,St. George,Faculty,physics.utoronto.ca,,A5147591420,Bryce J. J. Warren,1.443,,3,0,
+John Y.T. Wei,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5008456975,J. Y. T. Wei,1.48,,91,13,https://orcid.org/0000-0001-7054-2719
+Mathew Wells,Physics,UTSC,Professor,physics.utoronto.ca,UTM/UTSC Non-Budgetary Cross-Appointed Faculty; Department of Physical & Environmental Sciences (UTSC),A5002463605,Mathew Graeme Wells,1.442,,126,32,https://orcid.org/0000-0003-3838-9202
+Cynthia Whaley,Physics,St. George,Faculty,physics.utoronto.ca,,A5009856903,Cynthia Heather Whaley,1.129,,86,17,https://orcid.org/0000-0002-0028-1514
+Nathan Wiebe,Physics,St. George,Associate Professor,physics.utoronto.ca,UTSG Non-Budgetary Cross-Appointed Faculty; Department of Computer Science,A5004290683,Nathan Wiebe,1.499,,146,41,https://orcid.org/0000-0001-7642-1061
+Brian Wilson,Physics,St. George,Assistant Professor,physics.utoronto.ca,,A5080602355,Brian C. Wilson,1.492,,946,103,https://orcid.org/0000-0001-5543-666X
+Debra Wunch,Physics,St. George,Associate Professor,physics.utoronto.ca,,A5020681167,Debra Wunch,1.45,,422,69,https://orcid.org/0000-0002-4924-0377

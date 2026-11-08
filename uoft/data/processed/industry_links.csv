@@ -1,0 +1,783 @@
+openalex_id,professor,dept,company,country,joint_works,example_titles
+A5077991160,Walid Houry,Chemistry,Genentech,US,923,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study || Data for EMSL Project 50414 from September 2025
+A5029288551,Dwayne Miller,Chemistry,IBM (United States),US,90,"Quantities, terminology, and symbols in photothermal and related spectroscopies (IUPAC Recommendatio || Self-Diffraction || Mass-Density Waves"
+A5004290683,Nathan Wiebe,Physics,Microsoft (United States),US,63,Quantum machine learning || Circuit-centric quantum classifiers || Elucidating reaction mechanisms on quantum computers
+A5080435447,Andre Simpson,Chemistry,Bruker (Germany),DE,48,Molecular structures and associations of humic substances in the terrestrial environment || The application of LC-NMR and LC-SPE-NMR to compositional studies of natural organic matter || Digital microfluidics and nuclear magnetic resonance spectroscopy for in situ diffusion measurements
+A5020243437,Ue-Li Pen,Physics,Google (United States),US,36,First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole || First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole i || First M87 Event Horizon Telescope Results. IV. Imaging the Central Supermassive Black Hole
+A5029559893,Bart Ripperda,Physics,Google (United States),US,36,First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole || First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole i || First M87 Event Horizon Telescope Results. IV. Imaging the Central Supermassive Black Hole
+A5029017897,Scott Mabury,Chemistry,Ford Motor Company (United States),US,29,Degradation of Fluorotelomer Alcohols: A Likely Atmospheric Source of Perfluorinated Carboxylic Acid || Atmospheric Chemistry of Perfluoroalkanesulfonamides: Kinetic and Product Studies of the OH Radical  || Formation of C7F15COOH (PFOA) and Other Perfluorocarboxylic Acids during the Atmospheric Oxidation o
+A5080435447,Andre Simpson,Chemistry,Bruker (United States),US,25,Soil Organic Matter in Its Native State: Unravelling the Most Complex Biomaterial on Earth || Comprehensive multiphase NMR spectroscopy: Basic experimental approaches to differentiate phases in  || Comprehensive multiphase NMR applied to a living organism
+A5080435447,Andre Simpson,Chemistry,Bruker (Canada),CA,25,Soil Organic Matter in Its Native State: Unravelling the Most Complex Biomaterial on Earth || Comprehensive multiphase NMR spectroscopy: Basic experimental approaches to differentiate phases in  || Comprehensive multiphase NMR applied to a living organism
+A5060647975,Alec Jacobson,Mathematics,Adobe Systems (United States),US,24,Bounded biharmonic weights for real-time deformation || Tetrahedral meshing in the wild || Bounded biharmonic weights for real-time deformation
+A5019076569,Myrna Simpson,Chemistry,Bruker (Germany),DE,23,"The application of LC-NMR and LC-SPE-NMR to compositional studies of natural organic matter || Assessing the potential of quantitative 2D HSQC NMR in 13C enriched living organisms || NMR spectroscopy of wastewater: A review, case study, and future potential"
+A5071495561,Alán Aspuru-Guzik,Chemistry,Google (United States),US,22,Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules || The theory of variational hybrid quantum-classical algorithms || Scalable Quantum Simulation of Molecular Energies
+A5071495561,Alán Aspuru-Guzik,Chemistry,Nvidia (United States),US,21,"Artificial intelligence for science in quantum, atomistic, and continuum systems || ORGANA: A robotic assistant for automated chemistry experimentation and characterization || Drug design on quantum computers"
+A5101692369,Young-June Kim,Physics,Canadian Light Source (Canada),CA,21,α−RuCl3 : A spin-orbit assisted Mott insulator on a honeycomb lattice || Spin-orbit coupling in iridium-based 5 d compounds probed by x-ray absorption spectroscopy || Bulk sensitive x-ray absorption spectroscopy free of self-absorption effects
+A5026093276,Mitchell Winnik,Chemistry,Xerox (Canada),CA,20,Direct Energy-Transfer Studies on Doped and Labeled Polymer Latex Particles || The Interaction of Sodium Dodecylsulfate with (Hydroxypropyl)Cellulose || A microphase model for sterically stabilized polymer colloids: Fluorescence energy transfer from nap
+A5040430480,Jane Howe,Chemistry,Hitachi (Canada),CA,19,Nonlinear fracture toughness measurement and crack propagation resistance of functionalized graphene || Strengthening in Graphene Oxide Nanosheets: Bridging the Gap between Interplanar and Intraplanar Fra || In situ experimental formation and growth of Fe nanoparticles and vesicles in lunar soil
+A5080435447,Andre Simpson,Chemistry,Bruker (Switzerland),CH,19,"Rapid Chemical Reaction Monitoring by Digital Microfluidics‐NMR: Proof of Principle Towards an Autom || Ex vivo Comprehensive Multiphase NMR of whole organisms: A complementary tool to in vivo NMR || 5-Axis CNC Micromilling for Rapid, Cheap, and Background-Free NMR Microcoils"
+A5071107014,Kaley Walker,Physics,G & A Technical Software (United States),US,19,Atmospheric Chemistry Experiment (ACE): Mission overview || Solar occultation satellite data and derived meteorological products: Sampling issues and comparison || Validation of ozone measurements from the Atmospheric Chemistry Experiment (ACE)
+A5049144785,Keith Vanderlinde,Physics,Three-Speed Logic (Canada),CA,18,An Improved Measurement of the Secondary Cosmic Microwave Background Anisotropies from the SPT-SZ +  || Measurements of B -mode polarization of the cosmic microwave background from 500 square degrees of S || A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg 2
+A5071107014,Kaley Walker,Physics,Science Systems and Applications (United States),US,18,Unprecedented Arctic ozone loss in 2011 || Validation of Aura Microwave Limb Sounder stratospheric ozone measurements || An update on ozone profile trends for the period 2000 to 2016
+A5019076569,Myrna Simpson,Chemistry,Bruker (Canada),CA,17,Soil Organic Matter in Its Native State: Unravelling the Most Complex Biomaterial on Earth || Comprehensive multiphase NMR spectroscopy: Basic experimental approaches to differentiate phases in  || Comparison of nuclear magnetic resonance methods for the analysis of organic matter composition from
+A5011884682,Hoi-Kwong Lo,Physics,NTT (Japan),JP,17,Secure quantum key distribution || Quantum repeaters: From quantum networks to the quantum internet || All-photonic quantum repeaters
+A5049319779,Eitan Grinspun,Mathematics,Walt Disney (United States),US,16,Designing inflatable structures || Computational design of linkage-based characters || Asynchronous contact mechanics
+A5010178344,Jonathan Abbatt,Chemistry,Aerodyne Research,US,16,"Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 18 || Organic condensation: a vital link connecting aerosol formation to cloud condensation nuclei (CCN) c || An overview of current issues in the uptake of atmospheric trace gases by aerosols and clouds"
+A5019076569,Myrna Simpson,Chemistry,Bruker (United States),US,16,Soil Organic Matter in Its Native State: Unravelling the Most Complex Biomaterial on Earth || Comprehensive multiphase NMR spectroscopy: Basic experimental approaches to differentiate phases in  || Identifying Components in Dissolved Humic Acid That Bind Organofluorine Contaminants using 1H{19F} R
+A5071495561,Alán Aspuru-Guzik,Chemistry,Zapata (United States),US,15,Quantum Chemistry in the Age of Quantum Computing || Expressibility and Entangling Capability of Parameterized Quantum Circuits for Hybrid Quantum‐Classi || Variational Quantum Generators: Generative Adversarial Quantum Machine Learning for Continuous Distr
+A5071495561,Alán Aspuru-Guzik,Chemistry,Intel (United States),US,15,Quantum Chemistry in the Age of Quantum Computing || qHiPSTER: The Quantum High Performance Software Testing Environment || Quantum Neuron: an elementary building block for machine learning on quantum computers
+A5040430480,Jane Howe,Chemistry,Hitachi High-Tech (Japan),JP,15,Laboratory evidence for co-condensed oxygen- and carbon-rich meteoritic stardust from nova outbursts || In-situ TEM study from the perspective of holders || Simultaneous secondary electron microscopy in the scanning transmission electron microscope with app
+A5029288551,Dwayne Miller,Chemistry,Xerox (United States),US,14,Time-resolved two-photon photoemission from Cu(100): Energy dependence of electron relaxation || Observation of surface enhanced multiphoton photoemission from metal surfaces in the short pulse lim || Energy Dependence of Electron Lifetime in Graphite Observed with Femtosecond Photoemission Spectrosc
+A5055379196,John Sipe,Physics,AT&T (United States),US,14,Long-period fiber gratings as band-rejection filters || Bragg Grating Solitons || Optical properties of photosensitive fiber phase gratings
+A5055379196,John Sipe,Physics,Xanadu Quantum Technologies (Canada),CA,14,Beyond photon pairs—nonlinear quantum photonics in the high-gain regime: a tutorial || Nonlinear Coupling of Linearly Uncoupled Resonators || Degenerate squeezing in a dual-pumped integrated microresonator: Parasitic processes and their suppr
+A5023158279,Mark Reed,Chemistry,Treventis (Canada),CA,13,Furazans in Medicinal Chemistry || Diversification of edaravone via palladium-catalyzed hydrazine cross-coupling: Applications against  || Development and Optimization of a Target Engagement Model of Brain IDO Inhibition for Alzheimer’s Di
+A5026093276,Mitchell Winnik,Chemistry,Fluidigm (Canada),CA,13,Reagents for Mass Cytometry || Lanthanide nanoparticles for high sensitivity multiparameter single cell analysis || Liposome-Encapsulated NaLnF4 Nanoparticles for Mass Cytometry: Evaluating Nonspecific Binding to Cel
+A5011884682,Hoi-Kwong Lo,Physics,MagiQ Technologies (United States),US,13,Classical-communication cost in distributed quantum-information processing: A generalization of quan || Concentrating entanglement by local actions: Beyond mean values || Proof of unconditional security of six-state quantum key distribution scheme
+A5060647975,Alec Jacobson,Mathematics,Nvidia (United States),US,12,Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes || Variable Bitrate Neural Fields || Learning Smooth Neural Functions via Lipschitz Regularization
+A5107840239,William Trischuk,Physics,DSM (Netherlands),NL,12,Performance of the DELPHI detector || Improved measurements of cross sections and asymmetries at the Z0 resonance || J/ψ production in the hadronic decays of the Z
+A5026093276,Mitchell Winnik,Chemistry,BASF (United States),US,11,Characterization of an Aqueous Dispersion of a Hydrophilic Polyisocyanate for Waterborne Two-Pack Po || Monitoring Polymer Diffusion in a Waterborne 2K Polyurethane Formulation Based on an Acrylic Polyol  || Understanding particle formation in surfactant-free waterborne coatings prepared by emulsification o
+A5042639978,Diana Valencia,Physics,Light Bridges (Spain),ES,11,NIRPS detection of delayed atmospheric escape from the warm and misaligned Saturn-mass exoplanet WAS || Hydride ion continuum hides absorption signatures in the NIRPS near-infrared transmission spectrum o || TOI-3288 b and TOI-4666 b: Two gas giants transiting low-mass stars characterised by NIRPS
+A5021174796,Andrei Swidinsky,Physics,Shell (Netherlands),NL,11,A method of moments approach to model the electromagnetic response of multiple steel casings in a la || On the electromagnetic response of complex pipeline infrastructure || Do metal infrastructure effects cancel out in time-lapse electromagnetic measurements?
+A5071107014,Kaley Walker,Physics,ABB (Canada),CA,11,"Atmospheric Chemistry Experiment (ACE): Mission overview || The portable atmospheric research interferometric spectrometer for the infrared, PARIS-IR || The onboard imagers for the Canadian ACE SCISAT‐1 mission"
+A5031695135,Swastik Kopparty,Mathematics,Microsoft (United States),US,9,"High-rate codes with sublinear-time decoding || Optimal Testing of Reed-Muller Codes || Extensions to the Method of Multiplicities, with Applications to Kakeya Sets and Mergers"
+A5075377725,Bálint Virág,Mathematics,Microsoft (United States),US,9,Zeros of Gaussian Analytic Functions and Determinantal Point Processes || Determinantal point processes || Gaussian analytic functions
+A5040430480,Jane Howe,Chemistry,Hitachi (Japan),JP,9,Efficient electrically powered CO2-to-ethanol via suppression of deoxygenation || Laboratory evidence for co-condensed oxygen- and carbon-rich meteoritic stardust from nova outbursts || In-situ TEM study from the perspective of holders
+A5040430480,Jane Howe,Chemistry,Norcada (Canada),CA,9,"Dispersion Stability, Ligand Structure and Conformation, and SERS Activities of 1-Alkanethiol Functi || In situ Thermal Shock of Lunar and Planetary Materials Using A Newly Developed MEMS Heating Holder i || Understanding the Coarsening Behaviors of Nanoporous Gold via In situ Heating"
+A5080074500,Artur Izmaylov,Chemistry,OTI Lumionics (Canada),CA,9,Qubit Coupled Cluster Method: A Systematic Approach to Quantum Chemistry on a Quantum Computer || Iterative Qubit Coupled Cluster Approach with Efficient Screening of Generators || Constrained Variational Quantum Eigensolver: Quantum Computer Search Engine in the Fock Space
+A5026093276,Mitchell Winnik,Chemistry,BASF (Germany),DE,9,Monitoring Polymer Diffusion in a Waterborne 2K Polyurethane Formulation Based on an Acrylic Polyol  || Stratification of polyisocyanate in two-component waterborne polyurethane films || Film Formation of Waterborne 2K Polyurethanes: Effect of Polyols Containing Different Carboxylic Aci
+A5019076569,Myrna Simpson,Chemistry,Bruker (Switzerland),CH,9,Ex vivo Comprehensive Multiphase NMR of whole organisms: A complementary tool to in vivo NMR || Comprehensive Multiphase NMRA Powerful Tool to Understand and Monitor Molecular Processes during Bio || NMR as a Discovery Tool: Exploration of Industrial Effluents Discharged Into the Environment
+A5051815230,Oleksandr Voznyy,Chemistry,Canadian Light Source (Canada),CA,9,Homogeneously dispersed multimetal oxygen-evolving catalysts || High-valence metals improve oxygen evolution reaction performance by modulating 3d metal oxidation c || Theory-driven design of high-valence metal sites for water oxidation confirmed using in situ soft X-
+A5004290683,Nathan Wiebe,Physics,Google (United States),US,9,Quantum Simulation of Electronic Structure with Linear Depth and Connectivity || Witnessing eigenstates for quantum simulation of Hamiltonian spectra || Drug design on quantum computers
+A5020540233,Shubhangi Saraf,Mathematics,Microsoft (United States),US,8,"High-rate codes with sublinear-time decoding || Extensions to the Method of Multiplicities, with Applications to Kakeya Sets and Mergers || Blackbox Polynomial Identity Testing for Depth 3 Circuits"
+A5072889645,Michael Molloy,Mathematics,Microsoft (United States),US,8,Cores in random hypergraphs and Boolean formulas || A sharp threshold in proof complexity || A sharp threshold in proof complexity yields lower bounds for satisfiability search
+A5026093276,Mitchell Winnik,Chemistry,Dow Chemical (United States),US,8,Growth and Crystallization of Metal‐Containing Block Copolymer Nanotubes in a Selective Solvent || Effect of Hydroplasticization on Polymer Diffusion in Poly(butyl acrylate-co-methyl methacrylate) an || Smart Polymer Nanoparticles Designed for Environmentally Compliant Coatings
+A5026093276,Mitchell Winnik,Chemistry,DuPont (Canada),CA,8,Crosslinking vs. interdiffusion rates in melamine-formaldehyde cured latex coatings: A model for wat || Thermal decomposition of amide and imide derivatives of maleated polyethylene || Compatibility of Chlorinated Polyolefin with the Components of Thermoplastic Polyolefin: A Study by 
+A5011884682,Hoi-Kwong Lo,Physics,Hewlett-Packard (United Kingdom),GB,8,Unconditional Security of Quantum Key Distribution over Arbitrarily Long Distances || How to Share a Quantum Secret || Insecurity of quantum secure computations
+A5074780718,Rhine Samajdar,Physics,QuEra Computing (United States),US,8,Quantum phases of matter on a 256-atom programmable quantum simulator || Probing topological spin liquids on a programmable quantum simulator || Quantum optimization of maximum independent set using Rydberg atom arrays
+A5040430480,Jane Howe,Chemistry,Canadian Light Source (Canada),CA,7,Copper adparticle enabled selective electrosynthesis of n-propanol || New black indium oxide—tandem photothermal CO2-H2 methanol selective catalyst || Gold-in-copper at low *CO coverage enables efficient electromethanation of CO2
+A5032007926,Hui Peng,Chemistry,Sinopec (China),CN,7,Understanding the role of Au in the selective hydrogenation of acetylene on trimetallic PdAgAu catal || Carbon-Supported Raney Nickel Catalyst for Acetone Hydrogenation with High Selectivity || Polymer-supported catalysts for clean preparation of n-butanol
+A5062872049,Barbara Sherwood Lollar,Chemistry,DuPont (United States),US,7,Dual Carbon–Chlorine Isotope Analysis Indicates Distinct Anaerobic Dichloromethane Degradation Pathw || Determination of in situ biodegradation rates via a novel high resolution isotopic approach in conta || Diffusion Sampler for Compound Specific Carbon Isotope Analysis of Dissolved Hydrocarbon Contaminant
+A5078189430,Mark Taylor,Chemistry,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,7,Site-selective redox isomerizations of furanosides using a combined arylboronic acid/photoredox cata || Preparation and Novel Reduction Reactions of Vinamidinium Salts || Stereoselective hydrogen bromide-promoted hydrogenation of an α-hydroxyoxime
+A5026093276,Mitchell Winnik,Chemistry,Standard BioTools (United States),US,7,Tellurium-containing polymer for mass cytometry || Preparation of Functionalized Mesoporous Silica Nanoparticles as Mass Tags for Potential Application || A platinum polymer probe for multiplexed single cell suspension mass cytometry and imaging mass cyto
+A5026093276,Mitchell Winnik,Chemistry,Visteon (United States),US,7,Compatibility of Chlorinated Polyolefin with the Components of Thermoplastic Polyolefin: A Study by  || Stratified morphology of a polypropylene/elastomer blend following channel flow || Characterizing interfacial structure of TPO/CPO/TPO adhesive joints by PFM–AFM and SEM
+A5029468115,Paul Piunno,Chemistry,FONA International (Canada),CA,7,Considerations for the quantitative transduction of hybridization of immobilized DNA || Controlling the density of nucleic acid oligomers on fiber optic sensors for enhancement of selectiv || Influences of non-selective interactions of nucleic acids on response rates of nucleic acid fiber op
+A5004290683,Nathan Wiebe,Physics,Boehringer Ingelheim (Germany),DE,7,Drug design on quantum computers || Efficient quantum computation of molecular forces and other energy gradients || Fullqubit alchemist: quantum algorithm for alchemical free energy calculations
+A5060647975,Alec Jacobson,Mathematics,Nvidia (United Kingdom),GB,6,Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes || Variable Bitrate Neural Fields || Learning Deformable Tetrahedral Meshes for 3D Reconstruction
+A5060647975,Alec Jacobson,Mathematics,Walt Disney (United States),US,6,Bounded biharmonic weights for real-time deformation || Bounded biharmonic weights for real-time deformation || Fast automatic skinning transformations
+A5040430480,Jane Howe,Chemistry,General Motors (United States),US,6,Antiwear Performance and Mechanism of an Oil-Miscible Ionic Liquid as a Lubricant Additive || In Situ TEM Investigation of Congruent Phase Transition and Structural Evolution of Nanostructured S || A low-viscosity ionic liquid demonstrating superior lubricating performance from mixed to boundary l
+A5040430480,Jane Howe,Chemistry,Applied Sciences (United States),US,6,In Situ TEM Investigation of Congruent Phase Transition and Structural Evolution of Nanostructured S || Improving microstructure of silicon/carbon nanofiber composites as a Li battery anode || Heat treating carbon nanofibers for optimal composite performance
+A5016231702,Jennifer Murphy,Chemistry,Aerodyne Research,US,6,Laboratory Investigation of Renoxification from the Photolysis of Inorganic Particulate Nitrate || Characterizing a Quantum Cascade Tunable Infrared Laser Differential Absorption Spectrometer (QC-TIL || Validation of IASI Satellite Ammonia Observations at the Pixel Scale Using In Situ Vertical Profiles
+A5032007926,Hui Peng,Chemistry,"Sinopec Beijing Research Institute of Chemical Industry Co., Ltd. (China)",CN,6,Understanding the role of Au in the selective hydrogenation of acetylene on trimetallic PdAgAu catal || Carbon-Supported Raney Nickel Catalyst for Acetone Hydrogenation with High Selectivity || Polymer-supported catalysts for clean preparation of n-butanol
+A5062872049,Barbara Sherwood Lollar,Chemistry,Chemours (United States),US,6,Dual Carbon–Chlorine Isotope Analysis Indicates Distinct Anaerobic Dichloromethane Degradation Pathw || Determination of in situ biodegradation rates via a novel high resolution isotopic approach in conta || Transformation of Chlorofluorocarbons Investigated via Stable Carbon Compound-Specific Isotope Analy
+A5074594387,Sajeev John,Physics,ExxonMobil (United States),US,6,Theory of Electron Band Tails and the Urbach Optical-Absorption Edge || Diffusing-wave spectroscopy and multiple scattering of light in correlated random media || Density of states for an electron in a correlated Gaussian random potential: Theory of the Urbach ta
+A5080602355,Brian Wilson,Physics,Steba Biotech SA (Luxembourg),LU,6,Preclinical Studies in Normal Canine Prostate of a Novel Palladium-Bacteriopheophorbide (WST09) Phot || Assessment of Cutaneous Photosensitivity of TOOKAD (WST09) in Preclinical Animal Models and in Patie || Effects of Pd-bacteriopheophorbide (TOOKAD)-Mediated Photodynamic Therapy on Canine Prostate Pretrea
+A5080602355,Brian Wilson,Physics,Xillix Technologies Corporation (Canada),CA,6,Diffuse reflectance spectroscopy in Barrett’s Esophagus: developing a large field‐of‐view screening  || Assessment of photobleaching during endoscopic autofluorescence imaging of the lower GI tract || Combined autofluorescence and white-light endoscopy for improved detection of dysplastic colonic les
+A5025604583,James Bremer,Mathematics,Research Support Instruments (United States),US,5,Characterization of zone plate properties using monochromatic synchrotron radiation in the 2 to 20 n || Radiometry and metrology of a phase zone plate measured by extreme ultraviolet synchrotron radiation || Calibration of a zone plate for an EUV solar irradiance monitor
+A5049319779,Eitan Grinspun,Mathematics,Adobe Systems (United States),US,5,Fast Complementary Dynamics via Skinning Eigenmodes || Can one hear the shape of a neural network?: Snooping the GPU via Magnetic Side Channel || All's well that ends well
+A5060647975,Alec Jacobson,Mathematics,Walt Disney (Switzerland),CH,5,Bounded biharmonic weights for real-time deformation || Bounded biharmonic weights for real-time deformation || Fast automatic skinning transformations
+A5071495561,Alán Aspuru-Guzik,Chemistry,D-Wave Systems (Canada),CA,5,Simulated Quantum Computation of Molecular Energies || Finding low-energy conformations of lattice protein models by quantum annealing || Construction of model Hamiltonians for adiabatic quantum computation and its application to finding 
+A5040430480,Jane Howe,Chemistry,Integran (Canada),CA,5,On the extrinsic Hall-Petch to inverse Hall-Petch transition in nanocrystalline Ni-Co electrodeposit || Characterization of a nanocrystalline NiCo electroformed sheet metal || In situ annealing studies on the microstructural evolution of a macro defect free electroformed nano
+A5040430480,Jane Howe,Chemistry,Timken (United States),US,5,Effects of extreme pressure additive chemistry on rolling element bearing surface durability || Influence of Steel Type on the Propensity for Tribochemical Wear in Boundary Lubrication with a Wind || Influence of Deposition Parameters on the Composition and Structure of Reactively Sputtered Nanocomp
+A5040529254,Mark Nitz,Chemistry,Fluidigm (Canada),CA,5,Reagents for Mass Cytometry || Lanthanide nanoparticles for high sensitivity multiparameter single cell analysis || Tellurium‐based mass cytometry barcode for live and fixed cells
+A5043550213,Sophie Rousseaux,Chemistry,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,5,Nickel-Catalyzed Reductive Arylation of Redox Active Esters for the Synthesis of α-Aryl Nitriles: In || Synthesis of α-Aryl Secondary Amides via Nickel-Catalyzed Reductive Coupling of Redox-Active Esters || Nickel-Catalyzed Reductive Arylation of Redox Active Esters for the Synthesis of α-Aryl Nitriles – R
+A5103031897,Boris Braverman,Physics,QuEra Computing (United States),US,5,Experimental demonstration of logical magic state distillation || Observation of string breaking on a (2 + 1)D Rydberg quantum simulator || Probing quantum floating phases in Rydberg atom arrays
+A5020243437,Ue-Li Pen,Physics,Applied Materials (United States),US,5,First M87 Event Horizon Telescope Results. IX. Detection of Near-horizon Circular Polarization || The persistent shadow of the supermassive black hole of M 87 || Horizon-scale variability of M87* from 2017–2021 EHT observations
+A5029559893,Bart Ripperda,Physics,Applied Materials (United States),US,5,First M87 Event Horizon Telescope Results. IX. Detection of Near-horizon Circular Polarization || The persistent shadow of the supermassive black hole of M 87 || Horizon-scale variability of M87* from 2017–2021 EHT observations
+A5055379196,John Sipe,Physics,Infinera (United States),US,5,Low-power continuous-wave nonlinear optics in doped silica glass integrated waveguide structures || Ultra-low power frequency conversion in high-index glass micro ring resonators || Ultra-low power CW λ-conversion in silica glass micro-ring resonators
+A5055379196,John Sipe,Physics,NTT (Japan),JP,5,Extrinsic Optical Scattering Loss in Photonic Crystal Waveguides: Role of Fabrication Disorder and P || Spatial solitons in a self-focusing semiconductor gain medium || Optical scattering loss due to disorder and fabrication roughness in semiconductor photonic crystal 
+A5055379196,John Sipe,Physics,Soitec (France),FR,5,Programmable frequency-bin quantum states in a nano-engineered silicon device || Suppression of Parasitic Nonlinear Processes in Spontaneous Four-Wave Mixing with Linearly Uncoupled || Suppression of Nonlinear Parasitic Processes in Linearly Uncoupled Silicon Resonators
+A5055379196,John Sipe,Physics,Alcatel-Lucent (France),FR,5,Distributed feedback pulse generator based on nonlinearfibre grating || Bragg-grating-enhanced polarization instabilities || Dispersion characteristics of nonuniform Bragg gratings: Implications for WDM communication systems
+A5071107014,Kaley Walker,Physics,Fujitsu FIP (Japan),JP,5,"Validation of ozone measurements from the Atmospheric Chemistry Experiment (ACE) || CO measurements from the ACE-FTS satellite instrument: data analysis and validation using ground-bas || Validation of HNO 3 , ClONO 2 , and N 2 O 5 from the Atmospheric Chemistry Experiment Fourier Transf"
+A5020681167,Debra Wunch,Physics,BH Consulting (Ireland),IE,5,The ACOS CO 2 retrieval algorithm – Part 1: Description and validation against synthetic observation || The ACOS CO 2 retrieval algorithm – Part II: Global X CO 2 data characterization || A method for evaluating bias in global measurements of CO 2 total columns from space
+A5031695135,Swastik Kopparty,Mathematics,Microsoft Research New England (United States),US,4,New affine-invariant codes from lifting || Kakeya-type sets in finite vector spaces || New affine-invariant codes from lifting
+A5071495561,Alán Aspuru-Guzik,Chemistry,Yangtze River Delta Physics Research Center (China),CN,4,Rational design of layered oxide materials for sodium-ion batteries || Revealing High Na-Content P2-Type Layered Oxides as Advanced Sodium-Ion Cathodes || Ti Substitution Facilitating Oxygen Oxidation in Na2/3Mg1/3Ti1/6Mn1/2O2 Cathode
+A5071495561,Alán Aspuru-Guzik,Chemistry,Samsung (South Korea),KR,4,Tuning charge transport in solution-sheared organic semiconductors using lattice strain || Design of efficient molecular organic light-emitting diodes by a high-throughput virtual screening a || An Alternative Host Material for Long‐Lifespan Blue Organic Light‐Emitting Diodes Using Thermally Ac
+A5071495561,Alán Aspuru-Guzik,Chemistry,Samsung Advanced Institute of Technology (South Korea),KR,4,Tuning charge transport in solution-sheared organic semiconductors using lattice strain || Design of efficient molecular organic light-emitting diodes by a high-throughput virtual screening a || An Alternative Host Material for Long‐Lifespan Blue Organic Light‐Emitting Diodes Using Thermally Ac
+A5071495561,Alán Aspuru-Guzik,Chemistry,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,4,QSAR without borders || Data-science driven autonomous process optimization || Olympus: a benchmarking framework for noisy optimization and experiment planning
+A5071495561,Alán Aspuru-Guzik,Chemistry,Microsoft (United States),US,4,Quantum Simulation of Electronic Structure with Linear Depth and Connectivity || Chemical basis of Trotter-Suzuki errors in quantum chemistry simulation || Bounding the costs of quantum simulation of many-body physics in real space
+A5071495561,Alán Aspuru-Guzik,Chemistry,AstraZeneca (United Kingdom),GB,4,A Comprehensive Discovery Platform for Organophosphorus Ligands for Catalysis || Review of low-cost self-driving laboratories in chemistry and materials science: the “frugal twin” c || A Comprehensive Discovery Platform for Organophosphorus Ligands for Catalysis
+A5071495561,Alán Aspuru-Guzik,Chemistry,Kebotix (United States),US,4,Autonomous Molecular Design: Then and Now || Closed-loop discovery platform integration is needed for artificial intelligence to make an impact i || From Absorption Spectra to Charge Transfer in Nanoaggregates of Oligomers with Machine Learning
+A5071495561,Alán Aspuru-Guzik,Chemistry,Nvidia (United Kingdom),GB,4,MVTrans: Multi-View Perception of Transparent Objects || Learning Advance: Robotics-LLM Guided Hypotheses Generation for the Discovery of Chemical Knowledge || Quantum algorithms for ligand design in drug discovery
+A5040430480,Jane Howe,Chemistry,Oxford Instruments (United Kingdom),GB,4,Mass-Thickness Measurements in the Transmission Electron Microscope: A Single-Standard Approach to Q || Nanoscale Investigation of Thermal Alteration of Chondritic Meteorites via Simultaneous Secondary an || Mass-Thickness Measurements in the TEM via EDS: A New Approach to Quantitative Chemical Analysis of 
+A5080074500,Artur Izmaylov,Chemistry,"Gaussian, Inc. (United States)",US,4,Can short-range hybrids describe long-range-dependent properties? || Efficient evaluation of short-range Hartree-Fock exchange in large molecules and periodic systems || Nonequilibrium Fermi golden rule for electronic transitions through conical intersections
+A5080074500,Artur Izmaylov,Chemistry,Zapata (United States),US,4,Block-Invariant Symmetry Shift: Preprocessing Technique for Second-Quantized Hamiltonians to Improve || Fidelity Overhead for Nonlocal Measurements in Variational Quantum Algorithms || Feasibility of accelerating homogeneous catalyst discovery with fault-tolerant quantum computers
+A5060107939,Eugenia Kumacheva,Chemistry,BASF (Germany),DE,4,Hydrodynamically generated multilayer skin spheroids enable in vitro screening of biologically activ || Resilient Women and the Resiliency of Science || A microfluidic approach to evaluating surface protection from nonspecific antibody adsorption
+A5029288551,Dwayne Miller,Chemistry,Carestream (United States),US,4,Electron Injection from Adsorbed Oxazine into SnS2 || Ultrafast electron dynamics in two dimensional layered systems: two-photon photoemission studies of  || Femtosecond photoemission study of electron relaxation in two-dimensional layered electron systems
+A5029288551,Dwayne Miller,Chemistry,Kodak (United States),US,4,Electron Injection from Adsorbed Oxazine into SnS2 || Ultrafast electron dynamics in two dimensional layered systems: two-photon photoemission studies of  || Femtosecond photoemission study of electron relaxation in two-dimensional layered electron systems
+A5002024611,Aaron Wheeler,Chemistry,Bruker (Germany),DE,4,Digital microfluidics and nuclear magnetic resonance spectroscopy for in situ diffusion measurements || Rapid Chemical Reaction Monitoring by Digital Microfluidics‐NMR: Proof of Principle Towards an Autom || Integrated Digital Microfluidics NMR Spectroscopy: A Key Step toward Automated In Vivo Metabolomics
+A5002024611,Aaron Wheeler,Chemistry,Bruker (Canada),CA,4,Digital microfluidics and nuclear magnetic resonance spectroscopy for in situ diffusion measurements || Rapid Chemical Reaction Monitoring by Digital Microfluidics‐NMR: Proof of Principle Towards an Autom || Integrated Digital Microfluidics NMR Spectroscopy: A Key Step toward Automated In Vivo Metabolomics
+A5026093276,Mitchell Winnik,Chemistry,Union Carbide (United States),US,4,Viscoelastic Properties in Water of Comb Associative Polymers Based On Poly(ethylene oxide) || Fluorescence Probe Studies of Hydrophobic Domains in a Model Hydrophobically Modified Alkali-Swellab || Synthesis and Characterization of Comb Associative Polymers Based on Poly(ethylene oxide)
+A5081408580,Andrei Yudin,Chemistry,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,4,Carboxyboronate: A Versatile C1 Building Block || Carboxyboronate as a Versatile In Situ CO Surrogate in Palladium‐Catalyzed Carbonylative Transformat || Carboxyboronate: A Versatile C1 Building Block
+A5103112369,Chao Zheng,Chemistry,Tencent (China),CN,4,Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning || Geometry-Guided Representations for Coherent Lane and Traffic Topology Reasoning in Driving Scenes || FASTopoWM: Fast-Slow Lane Segment Topology Reasoning with Latent World Models
+A5019076569,Myrna Simpson,Chemistry,Waters (United States),US,4,Gas Chromatography-(Cyclic) Ion Mobility Mass Spectrometry: A Novel Platform for the Discovery of Un || Nontargeted screening reveals fluorotelomer ethoxylates in indoor dust and industrial wastewater || Data-Independent Identification of Suspected Organic Pollutants Using Gas Chromatography–Atmospheric
+A5071301179,David Curtin,Physics,Air Liquide (France),FR,4,FCC-ee: The Lepton Collider || FCC Physics Opportunities || FCC-hh: The Hadron Collider
+A5022501379,Debora Griffin,Physics,Science Systems and Applications (United States),US,4,Fire Influence on Regional to Global Environments and Air Quality (FIREX‐AQ) || Airborne Emission Rate Measurements Validate Remote Sensing Observations and Emission Inventories of || Version 1 NOAA-20/OMPS Nadir Mapper total column SO 2 product: continuation of NASA long-term global
+A5111697434,Daniel F.V. James,Physics,Hewlett-Packard (United Kingdom),GB,4,Measurement of qubits || Maximizing the entanglement of two mixed qubits || Exploring Hilbert space: Accurate characterization of quantum information
+A5051926511,Peter Love,Physics,D-Wave Systems (Canada),CA,4,Simulated Quantum Computation of Molecular Energies || Thermally Assisted Adiabatic Quantum Computation || A Characterization of Global Entanglement
+A5051926511,Peter Love,Physics,Google (United States),US,4,Strategies for quantum computing molecular energies using the unitary coupled cluster ansatz || Exponentially more precise quantum simulation of fermions in second quantization || Exponentially more precise quantum simulation of fermions in the configuration interaction represent
+A5071107014,Kaley Walker,Physics,FluxSense AB (Sweden),SE,4,SPARC Data Initiative: A comparison of ozone climatologies from international satellite limb sounder || Characterizing sampling biases in the trace gas climatologies of the SPARC Data Initiative || Overview and update of the SPARC Data Initiative: comparison of stratospheric composition measuremen
+A5025604583,James Bremer,Mathematics,Arctic Slope Regional (United States),US,3,On-orbit validation of the geolocation accuracy of GOES-16 Geostationary Lightning Mapper (GLM) flas || GOES imager visible-to-infrared channel registration using star observations || On-orbit Validation of the Geolocation Accuracy of the GOES-16 Geostationary Lightning Mapper (GLM) 
+A5025604583,James Bremer,Mathematics,Space Systems Research Corporation (United States),US,3,Miniature Extreme Ultraviolet Solar Radiometers || Calibration and Performance Modeling of Free-Standing Zone Plates for Extreme Ultraviolet Solar Radi || Free-Standing Zone Plate Optimized for He II 30.4 nm Solar Irradiance Measurements Having High Accur
+A5049319779,Eitan Grinspun,Mathematics,Walt Disney (Switzerland),CH,3,Designing inflatable structures || Computational design of linkage-based characters || Interactive surface design with interlocking elements
+A5049319779,Eitan Grinspun,Mathematics,Meta (United States),US,3,Neural Stress Fields for Reduced-order Elastoplasticity and Fracture || LiCROM: Linear-Subspace Continuous Reduced Order Modeling with Neural Fields || Force-Dual Modes: Subspace Design from Stochastic Forces
+A5060647975,Alec Jacobson,Mathematics,Google (United States),US,3,SpotLessSplats: Ignoring Distractors in 3D Gaussian Splatting || VecFusion: Vector Font Generation with Diffusion || NiLBS: Neural Inverse Linear Blend Skinning
+A5010178344,Jonathan Abbatt,Chemistry,Handix Scientific (United States),US,3,Sea spray aerosol as a unique source of ice nucleating particles || Light Absorption by Ambient Black and Brown Carbon and its Dependence on Black Carbon Coating State  || A biogenic secondary organic aerosol source of cirrus ice nucleating particles
+A5071495561,Alán Aspuru-Guzik,Chemistry,Insilico Medicine (United States),US,3,Reinforced Adversarial Neural Computer for de Novo Molecular Design || DORA AI Scientist: Multi-agent Virtual Research Team for Scientific Exploration Discovery and Automa || Lessons From Drug Discovery for Cryoprotective Agent Design: An AI‐Oriented Perspective
+A5071495561,Alán Aspuru-Guzik,Chemistry,Xanadu Quantum Technologies (Canada),CA,3,Differentiable quantum computational chemistry with PennyLane || Quantum algorithm for vibronic dynamics: case study on singlet fission solar cell design || Molecular realization of a quantum NAND tree
+A5077185233,Jik Chin,Chemistry,Amorepacific (South Korea),KR,3,A Highly Reactive and Enantioselective Bifunctional Organocatalyst for the Methanolytic Desymmetriza || Bifunctional organocatalyst for methanolytic desymmetrization of cyclic anhydrides: increasing enant || A Highly Reactive and Enantioselective Bifunctional Organocatalyst for the Methanolytic Desymmetriza
+A5111516603,Cynthia Goh,Chemistry,Axela (Canada),CA,3,A quantitative diffraction-based sandwich immunoassay || Label-free monitoring of multiple biomolecular binding interactions in real-time with diffraction-ba || An enzyme-amplified diffraction-based immunoassay
+A5077991160,Walid Houry,Chemistry,Oncoceutics (United States),US,3,Mitochondrial ClpP-Mediated Proteolysis Induces Selective Cancer Cell Lethality || Abstract 2720: Mitochondrial ClpP-mediated proteolysis induces selective cancer cell lethality || Abstract 2720: Mitochondrial ClpP-mediated proteolysis induces selective cancer cell lethality
+A5040430480,Jane Howe,Chemistry,Caterpillar (United States),US,3,"Microstructure, Morphology, and Nanomechanical Properties Near Fine Holes Produced by Electro-Discha || Materials for High-Pressure Fuel Injection Systems || Materials for High-Pressure Fuel Injection Systems"
+A5080074500,Artur Izmaylov,Chemistry,Xanadu Quantum Technologies (Canada),CA,3,Trotter Simulation of Vibrational Hamiltonians on a Quantum Computer || Quantum algorithm for simulating resonant inelastic X-ray scattering in battery materials || Efficient Block Encodings of Vibrational Hamiltonians
+A5075996864,Rebecca Jockusch,Chemistry,Sanofi (France),FR,3,"Hydrogen Bonding and Cooperativity in Isolated and Hydrated Sugars: Mannose, Galactose, Glucose, and || Sugars in the gas phase. Spectroscopy, conformation, hydration, co-operativity and selectivity || Building Up Key Segments of N-Glycans in the Gas Phase: Intrinsic Structural Preferences of the α(1,"
+A5020050875,Lewis Kay,Chemistry,Varian Medical Systems (United States),US,3,"A Gradient 13C NOESY-HSQC Experiment for Recording NOESY Spectra of 13C-Labeled Proteins Dissolved i || An HNCA Pulse Scheme for the Backbone Assignment of 15N,13C,2H-Labeled Proteins: Application to a 37 || Measurement of 3JHNα Vicinal Coupling Constants in Proteins"
+A5060107939,Eugenia Kumacheva,Chemistry,ExxonMobil (United States),US,3,Reduction of frictional forces between solid surfaces bearing polymer brushes || Shear forces between sliding surfaces coated with polymer brushes: The high friction regime || Surface exchange of polymer amphiphiles
+A5044555614,Mark Lautens,Chemistry,Bayer (Germany),DE,3,"Rhodium‐Catalyzed Asymmetric Cycloisomerization and Parallel Kinetic Resolution of Racemic Oxabicycl || Rhodium‐Catalyzed Enantioselective Isomerization of meso‐Oxabenzonorbornadienes to 1,2‐Naphthalene O || Rhodium‐Catalyzed Enantioselective Isomerization of meso‐Oxabenzonorbornadienes to 1,2‐Naphthalene O"
+A5044555614,Mark Lautens,Chemistry,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,3,Computational and 13C Investigations of the Diazadienes and Oxazadienes Formed via the Rearrangement || Remote Asymmetric Induction via a Chiral Acetylene Equivalent || Synthesis of Spiroindenes via Palladium Catalysis Using Oxabicycles as Acetylene Surrogates
+A5029017897,Scott Mabury,Chemistry,DuPont (United States),US,3,"Perfluoroalkyl and polyfluoroalkyl substances in the environment: Terminology, classification, and o || Peer Reviewed: Analytical Challenges Hamper Perfluoroalkyl Research || Gas phase UV and IR absorption spectra of CF3CH2CH2OH and F(CF2CF2)xCH2CH2OH (x=2, 3, 4)"
+A5029017897,Scott Mabury,Chemistry,3M (United States),US,3,Determination of perfluorinated alkyl acid concentrations in human serum and milk standard reference || Determination of perfluorinated alkyl acid concentrations in biological standard reference materials || P3—Inter-laboratory comparison update: Perfluorinated contaminants in NIST standard reference materi
+A5029288551,Dwayne Miller,Chemistry,DuPont (United States),US,3,"Investigation of KTiOPO4 as an electro-optic amplitude modulator || Electron Injection from Adsorbed Oxazine into SnS2 || KTP: a new electro-optic device for high-power, high-repetition-rate applications"
+A5021803498,J. Rafael Montenegro Burke,Chemistry,EURECAT Centre Tecnològic de Catalunya,ES,3,The METLIN small molecule dataset for machine learning-based retention time prediction || Computational Expansion of High-Resolution-MSn Spectral Libraries || Drug-Initiated Activity Metabolomics Identifies Myristoylglycine as a Potent Endogenous Metabolite f
+A5062872049,Barbara Sherwood Lollar,Chemistry,Advanced Resources International (United States),US,3,Solubility trapping in formation water as dominant CO2 sink in natural gas fields || The noble gas geochemistry of natural CO2 gas reservoirs from the Colorado Plateau and Rocky Mountai || New insights into geologic CO2 sequestration from natural analogues of the Colorado Plateau and Rock
+A5062872049,Barbara Sherwood Lollar,Chemistry,Honeybee Robotics (United States),US,3,The next frontier for planetary and human exploration || Deep Trek: Science of Subsurface Habitability & Life on Mars || Deep Trek: Mission Concepts for Exploring Subsurface Habitability & Life on Mars — A Window into Sub
+A5062872049,Barbara Sherwood Lollar,Chemistry,ExxonMobil (United States),US,3,"Dissolved organic matter compositions in 0.6–3.4 km deep fracture waters, Kaapvaal Craton, South Afr || Capture of Planktonic Microbial Diversity in Fractures by Long-Term Monitoring of Flowing Boreholes, || Abiotic (Prebiotic?) Organic Chemistry in a Potentially Ancient Hypersaline Brine: New Insights on t"
+A5002024611,Aaron Wheeler,Chemistry,Bruker (Switzerland),CH,3,Rapid Chemical Reaction Monitoring by Digital Microfluidics‐NMR: Proof of Principle Towards an Autom || Integrated Digital Microfluidics NMR Spectroscopy: A Key Step toward Automated In Vivo Metabolomics || Rapid Chemical Reaction Monitoring by Digital Microfluidics‐NMR: Proof of Principle Towards an Autom
+A5026093276,Mitchell Winnik,Chemistry,UES (United States),US,3,Two-dimensional assemblies from crystallizable homopolymers with charged termini || Complex and Hierarchical 2D Assemblies via Crystallization-Driven Self-Assembly of Poly( l -lactide) || Uniform “Patchy” Platelets by Seeded Heteroepitaxial Growth of Crystallizable Polymer Blends in Two 
+A5026093276,Mitchell Winnik,Chemistry,3M (United States),US,3,Polyurethane−Polyacrylate Interpenetrating Networks. 1. Preparation and Morphology || Energy Transfer Studies of Interpenetrating Polymer Networks: Characterizing the Interface in Polyac || Polyurethane−Polyacrylate Interpenetrating Networks. 2. Morphology Studies by Direct Nonradiative En
+A5058585588,Andrew Woolley,Chemistry,JSR (Japan),JP,3,Photoswitchable Affinity Reagents: Computational Design and Efficient Red‐Light Switching || Intramolecular cross-linking of proteins with azobenzene-based cross-linkers || Modification of proteins with azobenzene crosslinkers using reversible covalent bonds
+A5032543179,Scott Prosser,Chemistry,Bristol-Myers Squibb (United States),US,3,The Dynamic Process of β2-Adrenergic Receptor Activation || Ligand-specific regulation of the extracellular surface of a G-protein-coupled receptor || Conformational Changes in GPCR Surface and Core Probed by [13C]-Methyl NMR Spectroscopy
+A5080435447,Andre Simpson,Chemistry,Waters (United States),US,3,Gas Chromatography-(Cyclic) Ion Mobility Mass Spectrometry: A Novel Platform for the Discovery of Un || Nontargeted screening reveals fluorotelomer ethoxylates in indoor dust and industrial wastewater || Exposing Halogenated Airborne Pollutants by Non-Targeted Screening of Passive Samplers Using Ion Mob
+A5080435447,Andre Simpson,Chemistry,MilliporeSigma (United States),US,3,13C‐depleted algae as food: Permitting background free in‐vivo nuclear magnetic resonance of Daphnia || Benchtop NMR Spectroscopy of In Vivo Multicellular Organisms || Early warning signs: Applications of in vivo NMR spectroscopy to understand the impacts of industria
+A5051815230,Oleksandr Voznyy,Chemistry,Toyota Motor Corporation (Belgium),BE,3,Efficient near-infrared light-emitting diodes based on quantum dots in layered perovskite || All-Quantum-Dot Infrared Light-Emitting Diodes || Author Correction: Efficient near-infrared light-emitting diodes based on quantum dots in layered pe
+A5026802133,Hanno Rein,Physics,Google DeepMind (United Kingdom),GB,3,Predicting the long-term stability of compact multiplanet systems || A Bayesian neural network predicts the dissolution of compact planetary systems || Predicting the Long-Term Stability of Compact Multi-Planet Systems
+A5103031897,Boris Braverman,Physics,Pirelli (Italy),IT,3,Spatial and temporal characterization of a Bessel beam produced using a conical mirror || Spatial and temporal characterization of a Bessel beam produced using a conical mirror || Measurement of superluminal phase and group velocities of Bessel beams in free space
+A5103031897,Boris Braverman,Physics,Optical Sciences Company (United States),US,3,Performance of real-time adaptive optics compensation in a turbulent channel with high-dimensional s || Performance analysis of d -dimensional quantum cryptography under state-dependent diffraction || Investigate the performance of real-time adaptive optics correction in a turbulent high-dimensional 
+A5032751311,Dylan Jones,Physics,Science Systems and Applications (United States),US,3,Estimating the summertime tropospheric ozone distribution over North America through assimilation of || Origin of springtime ozone enhancements in the lower troposphere over Beijing: in situ measurements  || Influence of interannual variations in transport on summertime abundances of ozone over the Middle E
+A5101692369,Young-June Kim,Physics,General Motors (United States),US,3,Local structure investigation of Ga and Yb dopants in Co4Sb12 skutterudites || Anharmonicity in partially filled skutterudites YbxCo4Sb12 || Interaction between filler species in double-filled skutterudites
+A5024538926,Yaowei Li,Physics,Tencent (China),CN,3,MotionCtrl: A Unified and Flexible Motion Controller for Video Generation || BlobCtrl: Taming Controllable Blob for Element-level Image Editing || ViewWeaver: Geometry-Grounded Generative Rendering for 3D-Aware Image Customization
+A5051926511,Peter Love,Physics,Cambridge Quantum Computing (United Kingdom),GB,3,Implementation of measurement reduction for the variational quantum eigensolver || A Stabilizer Framework for the Contextual Subspace Variational Quantum Eigensolver and the Noncontex || Unitary partitioning and the contextual subspace variational quantum eigensolver
+A5031869790,Zen Mariani,Physics,ABB (Canada),CA,3,Infrared measurements in the Arctic using two Atmospheric Emitted Radiance Interferometers || Probing Atmospheric Composition over Canada using Ground-based FTIR Spectroscopy || Infrared measurements throughout polar night using two AERIs in the Arctic
+A5067386110,Guo-Xing Miao,Physics,IBM (United States),US,3,In-situ characterization of rapid crystallization of amorphous CoFeB electrodes in CoFeB/MgO/CoFeB j || Properties of epitaxial chromium dioxide films grown by chemical vapor deposition using a liquid pre || Magnetization reversal of CrO2 nanomagnet arrays
+A5055122757,Ray Nassar,Physics,ABB (Canada),CA,3,"Atmospheric Chemistry Experiment (ACE): Mission overview || PCW/PHEOS-WCA: quasi-geostationary Arctic measurements for weather, climate, and air quality from hi || GHG measurements using an imaging FTS on a stratospheric balloon: a tech demo for the Arctic observi"
+A5055122757,Ray Nassar,Physics,Science Applications International Corporation (United States),US,3,"Atmospheric Chemistry Experiment (ACE) Arctic stratospheric measurements of NOx during February and  || Trends of HF, HCl, CCl2F2, CCl3F, CHClF2 (HCFC‐22), and SF6 in the lower stratosphere from Atmospher || Spectroscopic detection of COClF in the tropical and mid-latitude lower stratosphere"
+A5021174796,Andrei Swidinsky,Physics,GEOMAR Technologie GmbH - GTG,DE,3,Electromagnetic imaging of gas hydrate deposits off-shore Taiwan: First results of the Taiflux surve || Exploration of Buried SMS Deposits with Time Domain EM || First Results from an Electromagnetic Survey of a Gas Hydrate Vent Offshore Mid-Norway
+A5107840239,William Trischuk,Physics,Aptiv (United States),US,3,The reaction e+e− → γγ(γ) at Z0 energies || Search for scalar leptoquarks from Z0 decays || A study of the reaction e+e− → μ+μ− around the Z0 pole
+A5071107014,Kaley Walker,Physics,Bodeker Scientific (New Zealand),NZ,3,An update on ozone profile trends for the period 2000 to 2016 || Past changes in the vertical distribution of ozone – Part 3: Analysis and interpretation of trends || Sampling bias adjustment for sparsely sampled satellite measurements applied to ACE-FTS carbonyl sul
+A5071107014,Kaley Walker,Physics,Science Applications International Corporation (United States),US,3,"Atmospheric Chemistry Experiment (ACE) Arctic stratospheric measurements of NOx during February and  || Validation of ozone profile retrievals derived from the OMPS LP version 2.5 algorithm against correl || Trends of HF, HCl, CCl2F2, CCl3F, CHClF2 (HCFC‐22), and SF6 in the lower stratosphere from Atmospher"
+A5071107014,Kaley Walker,Physics,3v Geomatics (Canada),CA,3,"Surface snow bromide and nitrate at Eureka, Canada, in early spring and implications for polar bound || Supplementary material to ""Surface snow bromide and nitrate at Eureka, Canada in early spring and im || Using Arctic field data and remote sensing BrO data to constrain blowing snow sea salt aerosol produ"
+A5071107014,Kaley Walker,Physics,Airbus (Germany),DE,3,The Changing-Atmosphere Infra-Red Tomography Explorer CAIRT – a proposal for an innovative whole-atm || CAIRT - the Changing-Atmosphere Infra-Red Tomography Explorer || EE-11 candidate mission CAIRT: an overview of the Phase 0 and A System studies
+A5004290683,Nathan Wiebe,Physics,Xanadu Quantum Technologies (Canada),CA,3,Ground State Preparation via Dynamical Cooling || Generating Approximate Ground States of Molecules Using Quantum Machine Learning || Quantum algorithm for simulating resonant inelastic X-ray scattering in battery materials
+A5080602355,Brian Wilson,Physics,VivoSight (United Kingdom),GB,3,Head & neck optical diagnostics: vision of the future of surgery || The future of medical diagnostics: review paper || At the frontiers of surgery: review
+A5025666080,Almut Burchard,Mathematics,Deutsche Telekom (Germany),DE,2,On Superlinear Scaling of Network Delays || Non-asymptotic Delay Bounds for Networks with Heavy-Tailed Traffic
+A5031695135,Swastik Kopparty,Mathematics,VMware (United States),US,2,Maximally Recoverable Codes for Grid-like Topologies || Maximally Recoverable Codes for Grid-like Topologies
+A5018100130,Vardan Papyan,Mathematics,Google (United States),US,2,Out of the Ordinary: Spectrally Adapting Regression for Covariate Shift || Automatic Assessment of Surgical Performance Using Intraoperative Video and Deep Learning: A Compari
+A5020540233,Shubhangi Saraf,Mathematics,VMware (United States),US,2,Maximally Recoverable Codes for Grid-like Topologies || Maximally Recoverable Codes for Grid-like Topologies
+A5041117816,Konstantin Khanin,Mathematics,Hewlett-Packard (United Kingdom),GB,2,On almost everywhere strong convergence of multi-dimensional continued fraction algorithms || Burgers Turbulence and Dynamical Systems
+A5025604583,James Bremer,Mathematics,Northrop Grumman (United States),US,2,Advanced Geosynchronous Studies Imager: instrument system design || Advanced Geosynchronous Studies Imager: scanning CCD star detection
+A5025604583,James Bremer,Mathematics,Global Strategy Group,US,2,Calibration of a zone plate for an EUV solar irradiance monitor || Zone plate EUV solar irradiance monitor
+A5043219852,Jude Kong,Mathematics,Sanofi (Canada),CA,2,Quantifying the annual incidence and underestimation of seasonal influenza: A modelling approach || Redefining pandemic preparedness: Multidisciplinary insights from the CERP modelling workshop in inf
+A5043219852,Jude Kong,Mathematics,Sanofi (France),FR,2,Quantifying the annual incidence and underestimation of seasonal influenza: A modelling approach || Redefining pandemic preparedness: Multidisciplinary insights from the CERP modelling workshop in inf
+A5010178344,Jonathan Abbatt,Chemistry,Droplet Measurement Technologies (United States),US,2,A biogenic secondary organic aerosol source of cirrus ice nucleating particles || The SPectrometer for Ice Nuclei (SPIN): an instrument to investigate ice nucleation
+A5071495561,Alán Aspuru-Guzik,Chemistry,Q Chem (United States),US,2,Advances in molecular quantum chemistry contained in the Q-Chem 4 program package || Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package
+A5071495561,Alán Aspuru-Guzik,Chemistry,Wavefunction (United States),US,2,Advances in molecular quantum chemistry contained in the Q-Chem 4 program package || Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package
+A5071495561,Alán Aspuru-Guzik,Chemistry,Samsung Electronics (South Korea),KR,2,Design of efficient molecular organic light-emitting diodes by a high-throughput virtual screening a || An Alternative Host Material for Long‐Lifespan Blue Organic Light‐Emitting Diodes Using Thermally Ac
+A5071495561,Alán Aspuru-Guzik,Chemistry,Mitsubishi Chemical (Japan),JP,2,"Autonomous Chemical Experiments: Challenges and Perspectives on Establishing a Self-Driving Lab || Delocalized, asynchronous, closed-loop discovery of organic laser emitters"
+A5071495561,Alán Aspuru-Guzik,Chemistry,Amazon (United States),US,2,Differentiable quantum computational chemistry with PennyLane || AI-enhanced adaptive virtual screening of large libraries for ligand discovery
+A5084315463,Robert Batey,Chemistry,Numerion Labs (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5084315463,Robert Batey,Chemistry,Amgen (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5084315463,Robert Batey,Chemistry,OpenAI (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5084315463,Robert Batey,Chemistry,Genentech,US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5084315463,Robert Batey,Chemistry,Cytokinetics (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5084315463,Robert Batey,Chemistry,Nurix (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5084315463,Robert Batey,Chemistry,Amazon (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5084315463,Robert Batey,Chemistry,Nvidia (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5084315463,Robert Batey,Chemistry,AstraZeneca (Sweden),SE,2,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b || Diastereoselective synthesis of fluorinated piperidine quinazoline spirocycles as iNOS selective inh
+A5084315463,Robert Batey,Chemistry,AstraZeneca (Canada),CA,2,"Effect of acid catalysis on the direct electrophilic fluorination of ketones, ketals, and enamides u || Diastereoselective synthesis of fluorinated piperidine quinazoline spirocycles as iNOS selective inh"
+A5077991160,Walid Houry,Chemistry,Numerion Labs (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5077991160,Walid Houry,Chemistry,Amgen (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5077991160,Walid Houry,Chemistry,OpenAI (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5077991160,Walid Houry,Chemistry,Cytokinetics (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5077991160,Walid Houry,Chemistry,Nurix (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5077991160,Walid Houry,Chemistry,Amazon (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5077991160,Walid Houry,Chemistry,Nvidia (United States),US,2,AI is a viable alternative to high throughput screening: a 318-target study || Author Correction: AI is a viable alternative to high throughput screening: a 318-target study
+A5077991160,Walid Houry,Chemistry,Pfizer (United States),US,2,Functional cooperativity between the trigger factor chaperone and the ClpXP proteolytic complex || Author Correction: Functional cooperativity between the trigger factor chaperone and the ClpXP prote
+A5040430480,Jane Howe,Chemistry,Shell (Netherlands),NL,2,Reactive capture of CO2 via amino acid || Reactive Capture of CO2 via Amino Acid
+A5040430480,Jane Howe,Chemistry,Sinopec (China),CN,2,Improving the SO2 tolerance of CO2 reduction electrocatalysts using a polymer/catalyst/ionomer heter || SO2-Tolerant Electrocatalytic Reduction of CO2 from Simulated Industrial Flue Gas
+A5020050875,Lewis Kay,Chemistry,Novartis (Switzerland),CH,2,Dynamic conformational equilibria in the active states of KRAS and NRAS || Correction: Dynamic conformational equilibria in the active states of KRAS and NRAS
+A5020050875,Lewis Kay,Chemistry,Bristol-Myers Squibb (United States),US,2,4D NMR triple-resonance experiments for assignment of protein backbone nuclei using shared constant- || Measurement of 3JHNα Vicinal Coupling Constants in Proteins
+A5060107939,Eugenia Kumacheva,Chemistry,BASF (United States),US,2,Microfluidic arrays of dermal spheroids: a screening platform for active ingredients of skincare pro || Hydrodynamically generated multilayer skin spheroids enable in vitro screening of biologically activ
+A5044555614,Mark Lautens,Chemistry,Sygnature Discovery (Canada),CA,2,Dearomative Cyclopropanation of Naphthols via Cyclopropene Ring‐Opening || Dearomative Cyclopropanation of Naphthols via Cyclopropene Ring‐Opening
+A5044555614,Mark Lautens,Chemistry,Boehringer Ingelheim (Germany),DE,2,Nemacol is a small molecule inhibitor of C. elegans vesicular acetylcholine transporter with anthelm || Egg-laying and locomotory screens with C. elegans yield a nematode-selective small molecule stimulat
+A5044555614,Mark Lautens,Chemistry,Elanco Animal Health (Germany),DE,2,Nemacol is a small molecule inhibitor of C. elegans vesicular acetylcholine transporter with anthelm || Egg-laying and locomotory screens with C. elegans yield a nematode-selective small molecule stimulat
+A5100331092,Xiang Li,Chemistry,Boehringer Ingelheim (United States),US,2,"Substituted 2H-isoquinolin-1-ones as potent Rho-kinase inhibitors: Part 3, aryl substituted pyrrolid || Integrated Strategies for Identifying Leads That Target the NS3 Helicase of the Hepatitis C Virus"
+A5029017897,Scott Mabury,Chemistry,Ford Motor Company (Canada),CA,2,"Atmospheric Chemistry ofN-methyl Perfluorobutane Sulfonamidoethanol, C4F9SO2N(CH3)CH2CH2OH: Kinetics || Atmospheric Lifetime and Global Warming Potential of a Perfluoropolyether"
+A5029288551,Dwayne Miller,Chemistry,General Electric (United States),US,2,Interrogation of Vibrational Structure and Line Broadening of Liquid Water by Raman-Induced Kerr Eff || Femtosecond probes of molecular and structural dynamics in liquid water: dependence on temperature a
+A5029288551,Dwayne Miller,Chemistry,Hitachi High-Tech (Japan),JP,2,Sub-Angstrom Structure Determination of Organic Molecules at Room Temperature Using 100 KeV Serial E || High-Throughput Structure Determination Using Serial Electron Diffraction
+A5021803498,J. Rafael Montenegro Burke,Chemistry,Agios Pharmaceuticals (United States),US,2,Chemical genomics with pyrvinium identifies C1orf115 as a regulator of drug efflux || Author Correction: Chemical genomics with pyrvinium identifies C1orf115 as a regulator of drug efflu
+A5021803498,J. Rafael Montenegro Burke,Chemistry,Celsius Therapeutics (United States),US,2,Chemical genomics with pyrvinium identifies C1orf115 as a regulator of drug efflux || Author Correction: Chemical genomics with pyrvinium identifies C1orf115 as a regulator of drug efflu
+A5016231702,Jennifer Murphy,Chemistry,Picarro (United States),US,2,"Modeling the diurnal variability of agricultural ammonia in Bakersfield, California, during the CalN || Hydrogen Chloride (HCl) at Ground Sites During CalNex 2010 and Insight Into Its Thermodynamic Proper"
+A5040529254,Mark Nitz,Chemistry,Miltenyi Biotec (Germany),DE,2,CSF1R+ myeloid-monocytic cells drive CAR-T cell resistance in aggressive B cell lymphoma || Targeting Lymphoma Associated Myeloid-Monocytic Cells through CSF1R Blockade Enhances CAR-T Cell Res
+A5040529254,Mark Nitz,Chemistry,Standard BioTools (United States),US,2,Tellurium‐based mass cytometry barcode for live and fixed cells || Tellurium-containing polymer for mass cytometry
+A5040529254,Mark Nitz,Chemistry,Kane Biotech (Canada),CA,2,"Characterization of the Poly-β-1,6- N -Acetylglucosamine Polysaccharide Component of Burkholderia Bi || Chromogenic Carbamate and Acetal Substrates for Glycosaminidases"
+A5043550213,Sophie Rousseaux,Chemistry,Genentech,US,2,Ni-Catalyzed Reductive Cross-Coupling of Cyclopropylamines and Other Strained Ring NHP Esters with ( || Nickel-Catalyzed Synthesis of Benzylamines from (Hetero)aryl Halides and Glycine-Derived N-Hydroxyph
+A5062872049,Barbara Sherwood Lollar,Chemistry,Geosyntec Consultants (United States),US,2,Radiolytic H 2 in continental crust: Nuclear power for deep subsurface microbial communities || Temporal Shifts in the Geochemistry and Microbial Community Structure of an Ultradeep Mine Borehole 
+A5062872049,Barbara Sherwood Lollar,Chemistry,General Electric (United States),US,2,Stable Carbon Isotope Evidence for Intrinsic Bioremediation of Tetrachloroethene and Trichloroethene || Contrasting carbon isotope fractionation during biodegradation of trichloroethylene and toluene: Imp
+A5062872049,Barbara Sherwood Lollar,Chemistry,AngloGold Ashanti (South Africa),ZA,2,Eukaryotic opportunists dominate the deep-subsurface biosphere in South Africa || New ecosystems in the deep subsurface follow the flow of water driven by geological activity
+A5045900479,Molly Shoichet,Chemistry,Rohto Pharmaceutical (Japan),JP,2,Hyaluronan improves photoreceptor differentiation and maturation in human retinal organoids || Transplanted human photoreceptors transfer cytoplasmic material but not to the recipient mouse retin
+A5045900479,Molly Shoichet,Chemistry,Syngenta (Canada),CA,2,Central Nervous System || Contributors
+A5037978366,Doug Stephan,Chemistry,Nova Chemicals (Canada),CA,2,An Approach to Catalyst Design: Cyclopentadienyl-Titanium Phosphinimide Complexes in Ethylene Polyme || Iron Phosphinimide and Phosphinimine Complexes: Catalyst Precursors for Ethylene Polymerization
+A5001249541,Helen Tran,Chemistry,AstraZeneca (United Kingdom),GB,2,"Review of low-cost self-driving laboratories in chemistry and materials science: the “frugal twin” c || Review of Low-cost Self-driving Laboratories: The ""Frugal Twin"" Concept"
+A5001249541,Helen Tran,Chemistry,OPKO Health (United States),US,2,The development of a novel anti-peptoid antibody for a peptoid-based vaccine platform (P4506) || A novel platform to generate peptoid-based mimetic vaccines (P4504)
+A5002024611,Aaron Wheeler,Chemistry,Sciex (Canada),CA,2,Digital Microfluidics for Immunoprecipitation || Direct Interface between Digital Microfluidics and High Performance Liquid Chromatography–Mass Spect
+A5002024611,Aaron Wheeler,Chemistry,GlaxoSmithKline (United Kingdom),GB,2,Multiplexed Extraction and Quantitative Analysis of Pharmaceuticals from DBS Samples Using Digital M || Attractive Design: An Elution Solvent Optimization Platform for Magnetic-Bead-based Fractionation Us
+A5002024611,Aaron Wheeler,Chemistry,Quanterix (United States),US,2,A compartmentalization-free microfluidic digital assay for detecting picogram levels of protein anal || A digital microfluidic approach to increasing sample volume and reducing bead numbers in single mole
+A5026093276,Mitchell Winnik,Chemistry,PerkinElmer (United States),US,2,"Synthesis, Characterization, and Rheological Behavior of Polyethylene Glycols End-Capped with Fluoro || Design of separation media for DNA sequencing in capillaries"
+A5026093276,Mitchell Winnik,Chemistry,Air Products (United States),US,2,Interdiffusion vs Cross-Linking Rates in Isobutoxyacrylamide-Containing Latex Coatings || Polymerizable anthracene derivatives for labeling emulsion copolymers
+A5016548167,David Armstrong,Chemistry,Zoetis (United Kingdom),GB,2,A monitoring study to explore gastrointestinal helminth burdens of ewes of different fecundities in  || Short communication: A practical farm-based trial to compare ewe nematode control strategies in peri
+A5037938281,Patrick Gunning,Chemistry,Munich Leukemia Laboratory (Germany),DE,2,Hyperactive STAT5 hijacks T cell receptor signaling and drives immature T cell acute lymphoblastic l || STAT5 Gain-of-Function Variants Promote Precursor T-Cell Receptor Activation to Drive T-Cell Acute L
+A5086008501,Maciej Korzyński,Chemistry,Saudi Aramco (United States),US,2,Stabilized Vanadium Catalyst for Olefin Polymerization by Site Isolation in a Metal–Organic Framewor || Stabilized Vanadium Catalyst for Olefin Polymerization by Site Isolation in a Metal–Organic Framewor
+A5032543179,Scott Prosser,Chemistry,D. E. Shaw Research,US,2,The Dynamic Process of β2-Adrenergic Receptor Activation || The Role of Ligands on the Equilibria Between Functional States of a G Protein-Coupled Receptor
+A5080435447,Andre Simpson,Chemistry,Bruker (United Kingdom),GB,2,Towards real-time kinetic monitoring of wastewater treatment: A case study of sunlight and ozone tre || Application of 15N-Edited 1H–13C Correlation NMR Spectroscopy─Toward Fragment-Based Metabolite Ident
+A5019076569,Myrna Simpson,Chemistry,MilliporeSigma (United States),US,2,Benchtop NMR Spectroscopy of In Vivo Multicellular Organisms || Early warning signs: Applications of in vivo NMR spectroscopy to understand the impacts of industria
+A5091794038,Frank Wania,Chemistry,Eurofins (Germany),DE,2,"Global evaluation and calibration of a passive air sampler for gaseous mercury || Supplementary material to ""Global evaluation and calibration of a passive air sampler for gaseous me"
+A5067381103,Lea Hirsch,Physics,Google (United States),US,2,orbitize! v3: Orbit fitting for the High-contrast Imaging Community || HAT-P-58b–HAT-P-64b: Seven Planets Transiting Bright Stars*
+A5010704341,Kent Moore,Physics,Biospherical Instruments (United States),US,2,The Arctic || Introduction
+A5008019902,Kristen Menou,Physics,Spectral Sciences (United States),US,2,"The Changing Face of the Extrasolar Giant Planet HD 209458b || ""Weather"" Variability of Close-in Extrasolar Giant Planets"
+A5008019902,Kristen Menou,Physics,Google DeepMind (United Kingdom),GB,2,Predicting the long-term stability of compact multiplanet systems || Predicting the Long-Term Stability of Compact Multi-Planet Systems
+A5100463028,Xiaoyang (Jim) Chen,Physics,Delphinus Medical Technologies (United States),US,2,Breast imaging with the SoftVue imaging system: first results || Breast imaging with ultrasound tomography: Initial results with SoftVue
+A5001194386,Pratika Dayal,Physics,von Hoerner & Sulger (Germany),DE,2,Euclid preparation || Euclid preparation
+A5024442001,Qinya Liu,Physics,Geomechanica (Canada),CA,2,Numerical simulation of hydraulic fracturing and associated microseismicity using finite-discrete el || Influence ofin situstress variations on acoustic emissions: a numerical study
+A5024442001,Qinya Liu,Physics,China Communications Construction Company (China),CN,2,A coupled NMM-SPH method for fluid-structure interaction problems || A generalized cover renewal strategy for multiple crack propagation in two-dimensional numerical man
+A5011884682,Hoi-Kwong Lo,Physics,Microsoft (United States),US,2,From Quantum Cheating to Quantum Security || A quantum analog of Huffman coding
+A5058381129,Kirk Madison,Physics,General Atomics (United States),US,2,Fusion neutron and ion emission from deuterium and deuterated methane cluster plasmas || Overview of future directions in high energy-density and high-field science using ultra-intense lase
+A5031869790,Zen Mariani,Physics,Vaisala (Finland),FI,2,Toronto Water Vapor Lidar Inter-Comparison Campaign || Evaluation of Arctic Water Vapor Profile Observations from a Differential Absorption Lidar
+A5067386110,Guo-Xing Miao,Physics,Bruker (China),CN,2,Extremely High Ferromagnetic Resonance Frequency Induced by Triclinic Lattice Distortion in Epitaxia || Extremely High Ferromagnetic Resonance Frequency Induced by Triclinic Lattice Distortion in Epitaxia
+A5079016405,Norman W. Murray,Physics,Teledyne e2v (United Kingdom),GB,2,Euclid || VIS: the visible imager for Euclid
+A5055122757,Ray Nassar,Physics,Leidos (United States),US,2,Long‐term stratospheric carbon tetrafluoride (CF4) increase inferred from 1985–2004 infrared space‐b || Spectroscopic detection of COClF in the tropical and mid-latitude lower stratosphere
+A5108075031,Barth Netterfield,Physics,F. Hoffmann-La Roche AG,CH,2,Planck 2015 results || Planck intermediate results. XXX. The angular power spectrum of polarized dust emission at intermedi
+A5108075031,Barth Netterfield,Physics,DSM (Netherlands),NL,2,Planck 2015 results || Planck intermediate results. XXX. The angular power spectrum of polarized dust emission at intermedi
+A5020243437,Ue-Li Pen,Physics,Thoth Technology (Canada),CA,2,A bright millisecond-duration radio burst from a Galactic magnetar || Scintillation of PSR B1508+55 – the view from a 10 000-km baseline
+A5020243437,Ue-Li Pen,Physics,IBM (Canada),CA,2,Canadian Hydrogen Intensity Mapping Experiment (CHIME) pathfinder || Calibrating CHIME: a new radio interferometer to probe dark energy
+A5020243437,Ue-Li Pen,Physics,Subaru (Japan),JP,2,Broadband multi-wavelength properties of M87 during the 2018 EHT campaign including a very high ener || The persistent shadow of the supermassive black hole of M87
+A5020243437,Ue-Li Pen,Physics,China Electronics Technology Group Corporation,CN,2,The Tianlai Cylinder Pathfinder array: System functions and basic performance analysis || Progress in the construction and testing of the Tianlai radio interferometers
+A5029559893,Bart Ripperda,Physics,Subaru (Japan),JP,2,Broadband multi-wavelength properties of M87 during the 2018 EHT campaign including a very high ener || The persistent shadow of the supermassive black hole of M87
+A5074780718,Rhine Samajdar,Physics,Google (United States),US,2,Quantum optimization of maximum independent set using Rydberg atom arrays || Dynamics of magnetization at infinite temperature in a Heisenberg spin chain
+A5055379196,John Sipe,Physics,STMicroelectronics (France),FR,2,Suppression of Parasitic Nonlinear Processes in Spontaneous Four-Wave Mixing with Linearly Uncoupled || Suppression of Nonlinear Parasitic Processes in Linearly Uncoupled Silicon Resonators
+A5055379196,John Sipe,Physics,MPB Technologies & Communications (Canada),CA,2,"Full-band-structure calculation of ε → 2 (ω) and χ → ( 2 ) (-2ω;ω,ω) for (GaAs ) n /(GaP ) n ( n =1, || Enhancement of zone-folding effects in the second order response of the [(Si)5/(Ge)5]/(Si0.4Ge0.6)(0"
+A5049199960,Aephraim M. Steinberg,Physics,Rockwell International (United States),US,2,High-efficiency single-photon detectors || Absolute efficiency and time-response measurement of single-photon detectors
+A5021174796,Andrei Swidinsky,Physics,Shell (United States),US,2,A method of moments approach to model the electromagnetic response of multiple steel casings in a la || An analytic solution for numerical modeling validation in electromagnetics: the resistive sphere
+A5105345855,Richard Teuscher,Physics,DSM (Netherlands),NL,2,Study of energy response and resolution of the ATLAS barrel calorimeter to hadrons of energies from  || Study of the response of the ATLAS central calorimeter to pions of energies from 3 to 9 GeV
+A5049144785,Keith Vanderlinde,Physics,Thoth Technology (Canada),CA,2,A bright millisecond-duration radio burst from a Galactic magnetar || Scintillation of PSR B1508+55 – the view from a 10 000-km baseline
+A5002276197,Felix Vogel,Physics,Bruker (Germany),DE,2,Building the COllaborative Carbon Column Observing Network (COCCON): long-term stability and ensembl || Improved calibration procedures for the EM27/SUN spectrometers of the COllaborative Carbon Column Ob
+A5002276197,Felix Vogel,Physics,Thales (France),FR,2,XCO 2 in an emission hot-spot region: the COCCON Paris campaign 2015 || Can we separate industrial CH4 emission sources from atmospheric observations? - A test case for car
+A5071107014,Kaley Walker,Physics,Science and Technology Corporation (United States),US,2,Unprecedented Arctic ozone loss in 2011 || Validation of revised methane and nitrous oxide profiles from MIPAS–ENVISAT
+A5071107014,Kaley Walker,Physics,Columbus Technologies and Services (United States),US,2,Solar occultation satellite data and derived meteorological products: Sampling issues and comparison || Intercomparison of UV-visible measurements of ozone and NO 2 during the Canadian Arctic ACE validati
+A5071107014,Kaley Walker,Physics,COM DEV International,CA,2,"The ACE-MAESTRO instrument on SCISAT: description, performance, and preliminary results || PCW/PHEOS-WCA: quasi-geostationary Arctic measurements for weather, climate, and air quality from hi"
+A5071107014,Kaley Walker,Physics,Swiss Center for Electronics and Microtechnology (Switzerland),CH,2,Reconciliation of essential process parameters for an enhanced predictability of Arctic stratospheri || Reconciliation of essential process parameters for an enhanced predictability of Arctic stratospheri
+A5071107014,Kaley Walker,Physics,Fincons Group (Italy),IT,2,"Evaluating modelled tropospheric columns of CH 4 , CO, and O 3 in the Arctic using ground-based Four || Evaluation of Modeled Carbon Monoxide and Methane Columns in the High Arctic Using TCCON Measurement"
+A5071107014,Kaley Walker,Physics,Airbus Defence and Space GmbH (Germany),DE,2,The Changing-Atmosphere Infra-Red Tomography Explorer CAIRT – a proposal for an innovative whole-atm || EE-11 candidate mission CAIRT: an overview of the Phase 0 and A System studies
+A5065484071,Chen Wang,Physics,DSM (Netherlands),NL,2,Study of energy response and resolution of the ATLAS barrel calorimeter to hadrons of energies from  || Study of the response of the ATLAS central calorimeter to pions of energies from 3 to 9 GeV
+A5002463605,Mathew Wells,Physics,Vemco (Canada),CA,2,Strong thermal stratification reduces detection efficiency and range of acoustic telemetry in a larg || Pressure sensor calibrations of acoustic telemetry transmitters
+A5009856903,Cynthia Whaley,Physics,Fincons Group (Italy),IT,2,"Evaluating modelled tropospheric columns of CH 4 , CO, and O 3 in the Arctic using ground-based Four || Evaluation of Modeled Carbon Monoxide and Methane Columns in the High Arctic Using TCCON Measurement"
+A5004290683,Nathan Wiebe,Physics,Qu & Co. (Netherlands),NL,2,Learning models of quantum systems from experiments || Quantum model learning agent: characterisation of quantum systems through machine learning
+A5004290683,Nathan Wiebe,Physics,Boehringer Ingelheim (Austria),AT,2,Learning models of quantum systems from experiments || Quantum model learning agent: characterisation of quantum systems through machine learning
+A5004290683,Nathan Wiebe,Physics,Zapata (United States),US,2,Improved Accuracy for Trotter Simulations Using Chebyshev Interpolation || Constant-Factor Improvements in Quantum Algorithms for Linear Differential Equations
+A5020681167,Debra Wunch,Physics,Bruker (Germany),DE,2,Building the COllaborative Carbon Column Observing Network (COCCON): long-term stability and ensembl || Improved calibration procedures for the EM27/SUN spectrometers of the COllaborative Carbon Column Ob
+A5025666080,Almut Burchard,Mathematics,Microsoft (United States),US,1,Scaling limits for minimal and random spanning trees in two dimensions
+A5072480539,Boris Khesin,Mathematics,Terra Quantum (Switzerland),CH,1,Topological foundations of ferroelectricity
+A5007512314,Henry Kim,Mathematics,KLA (United States),US,1,New Advances In Reticle Qualification Techniques
+A5020361023,Robert McCann,Mathematics,Ernst & Young (United States),US,1,"Optimal transportation, topology and uniqueness"
+A5051026863,Kumar Murty,Mathematics,Process Research Ortech (Canada),CA,1,The Role of Skills Development in Smart Villages
+A5011982971,Adrian Nachman,Mathematics,Nortel (Canada),CA,1,"CMOS SOCs at 100 GHz: System Architectures, Device Characterization, and IC Design Examples"
+A5011982971,Adrian Nachman,Mathematics,Taiwan Semiconductor Manufacturing Company (United States),US,1,"CMOS SOCs at 100 GHz: System Architectures, Device Characterization, and IC Design Examples"
+A5011982971,Adrian Nachman,Mathematics,Taiwan Semiconductor Manufacturing Company (Taiwan),TW,1,"CMOS SOCs at 100 GHz: System Architectures, Device Characterization, and IC Design Examples"
+A5011982971,Adrian Nachman,Mathematics,Nihon Dempa Kogyo (Japan),JP,1,An ultrasonic ring transducer system for studies of scattering and imaging
+A5065629981,Dmitry Panchenko,Mathematics,Carestream (United States),US,1,Risk Bounds for Mixture Density Estimation
+A5065629981,Dmitry Panchenko,Mathematics,Kodak (France),FR,1,Risk Bounds for Mixture Density Estimation
+A5065629981,Dmitry Panchenko,Mathematics,Kodak (Japan),JP,1,Risk Bounds for Mixture Density Estimation
+A5065629981,Dmitry Panchenko,Mathematics,Toyota Motor Corporation (Japan),JP,1,Risk Bounds for Mixture Density Estimation
+A5065629981,Dmitry Panchenko,Mathematics,Kodak (United States),US,1,Risk Bounds for Mixture Density Estimation
+A5065629981,Dmitry Panchenko,Mathematics,"Honda R&D Co., Ltd. (Japan)",JP,1,Risk Bounds for Mixture Density Estimation
+A5018100130,Vardan Papyan,Mathematics,Nvidia (United States),US,1,Expert surgeons and deep learning models can predict the outcome of surgical hemorrhage from 1 min o
+A5020540233,Shubhangi Saraf,Mathematics,Microsoft Research New England (United States),US,1,Kakeya-type sets in finite vector spaces
+A5071624080,Kirill Serkh,Mathematics,Amazon (United States),US,1,A Hybrid Boundary Element and Boundary Integral Equation Method for Accurate Diffusion Curves
+A5064463109,Catherine Sulem,Mathematics,BHP (Australia),AU,1,Stability of isotropic self-similar dynamics for scalar-wave collapse
+A5012890747,Ilia Binder,Mathematics,Exact Sciences (United States),US,1,Computable Carathéodory Theory
+A5012890747,Ilia Binder,Mathematics,Microsoft (United States),US,1,The complexity of simulating Brownian Motion
+A5033217028,Yevgeny Liokumovich,Mathematics,Google DeepMind (United Kingdom),GB,1,Quantifying stability of non-power-seeking in artificial agents
+A5112551593,Michael Yampolsky,Mathematics,Exact Sciences (United States),US,1,Computable Carathéodory Theory
+A5112551593,Michael Yampolsky,Mathematics,Microsoft Research New England (United States),US,1,Constructing Locally Connected Non-Computable Julia Sets
+A5100365704,Ke Zhang,Mathematics,Nokia (China),CN,1,Physical Proximity and Online User Behaviour in an Indoor Mobile Social Networking Application
+A5100365704,Ke Zhang,Mathematics,Adobe Systems (United States),US,1,Think Before You Diffuse: Infusing Physical Rules into Video Diffusion
+A5025604583,James Bremer,Mathematics,Artep,US,1,Characterization of zone plate properties using monochromatic synchrotron radiation in the 2 to 20 n
+A5025604583,James Bremer,Mathematics,Analytical Mechanics Associates (United States),US,1,Comet/Asteroid Protection System (CAPS): Preliminary Space-Based Concept and Study Results
+A5049319779,Eitan Grinspun,Mathematics,Industrial Light & Magic (United Kingdom),GB,1,Praise for Game Physics Engine Development
+A5049319779,Eitan Grinspun,Mathematics,Meta (Israel),IL,1,Model Reduction for the Material Point Method on Nonlinear Manifolds Using Deep Learning.
+A5049319779,Eitan Grinspun,Mathematics,Nvidia (United States),US,1,Subspace Mixed-FEM for Real-Time Heterogeneous Elastodynamics
+A5060647975,Alec Jacobson,Mathematics,Google (United Kingdom),GB,1,SpotLessSplats: Ignoring Distractors in 3D Gaussian Splatting
+A5060647975,Alec Jacobson,Mathematics,Google DeepMind (United Kingdom),GB,1,RoMo: Robust Motion Segmentation Improves Structure from Motion
+A5060647975,Alec Jacobson,Mathematics,Activision Blizzard (United States),US,1,Rig Animation with a Tangible and Modular Input Device
+A5060647975,Alec Jacobson,Mathematics,DoCoMo Communications Laboratories Europe GmbH,DE,1,Demo hour
+A5060647975,Alec Jacobson,Mathematics,"NTT DOCOMO, Inc. (Japan)",JP,1,Demo hour
+A5060647975,Alec Jacobson,Mathematics,Amazon (United States),US,1,A Hybrid Boundary Element and Boundary Integral Equation Method for Accurate Diffusion Curves
+A5043219852,Jude Kong,Mathematics,BlueDot (Canada),CA,1,Redefining pandemic preparedness: Multidisciplinary insights from the CERP modelling workshop in inf
+A5072889645,Michael Molloy,Mathematics,AT&T (United States),US,1,Edge-disjoint cycles in regular directed graphs
+A5072889645,Michael Molloy,Mathematics,Microsoft (Canada),CA,1,(Δ-k) -critical graphs
+A5072889645,Michael Molloy,Mathematics,Microsoft Research Montréal (Canada),CA,1,(Δ-k) -critical graphs
+A5009589660,Piotr Zwiernik,Mathematics,Genentech,US,1,Positivity in linear Gaussian structural equation models
+A5010178344,Jonathan Abbatt,Chemistry,Total (France),FR,1,Ship emissions measurement in the Arctic by plume intercepts of the Canadian Coast Guard icebreaker 
+A5010178344,Jonathan Abbatt,Chemistry,Tofwerk (Switzerland),CH,1,Product ion distributions using H 3 O + proton-transfer-reaction time-of-flight mass spectrometry (P
+A5010178344,Jonathan Abbatt,Chemistry,Picarro (United States),US,1,Near-source hypochlorous acid emissions from indoor bleach cleaning
+A5010178344,Jonathan Abbatt,Chemistry,Land Use Consultants (United Kingdom),GB,1,Tree risk evaluation environment for failure and limb loss (TREEFALL): An integrated model for quant
+A5010178344,Jonathan Abbatt,Chemistry,Copernicus.org (Germany),DE,1,Vertical profiles of light absorption and scattering associated with black carbon particle fractions
+A5010178344,Jonathan Abbatt,Chemistry,Aerosol d.o.o. (Slovenia),SI,1,Combustion Characteristics and Emission Factors of Trace Gases and Particulate Matter from Biomass R
+A5071495561,Alán Aspuru-Guzik,Chemistry,WuXi AppTec (China),CN,1,Deep learning enables rapid identification of potent DDR1 kinase inhibitors
+A5071495561,Alán Aspuru-Guzik,Chemistry,AstraZeneca (Sweden),SE,1,Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models
+A5071495561,Alán Aspuru-Guzik,Chemistry,Citrine Informatics (United States),US,1,The 2019 materials by design roadmap
+A5071495561,Alán Aspuru-Guzik,Chemistry,GE Global Research (United States),US,1,The 2019 materials by design roadmap
+A5071495561,Alán Aspuru-Guzik,Chemistry,Total (United States),US,1,Bioinspiration in light harvesting and catalysis
+A5071495561,Alán Aspuru-Guzik,Chemistry,Boehringer Ingelheim (Germany),DE,1,Drug design on quantum computers
+A5071495561,Alán Aspuru-Guzik,Chemistry,Boehringer Ingelheim (China),CN,1,Drug design on quantum computers
+A5071495561,Alán Aspuru-Guzik,Chemistry,BASF (Germany),DE,1,Drug design on quantum computers
+A5071495561,Alán Aspuru-Guzik,Chemistry,NEC (United States),US,1,Faster quantum chemistry simulation on fault-tolerant quantum computers
+A5071495561,Alán Aspuru-Guzik,Chemistry,Foxconn (Taiwan),TW,1,Exploring the Advantages of Quantum Generative Adversarial Networks in Generative Chemistry
+A5071495561,Alán Aspuru-Guzik,Chemistry,LG AI Research (South Korea),KR,1,Accelerated chemical science with AI
+A5071495561,Alán Aspuru-Guzik,Chemistry,Quandela (France),FR,1,Artificial intelligence for quantum computing
+A5071495561,Alán Aspuru-Guzik,Chemistry,Qubit Pharmaceuticals,FR,1,Artificial intelligence for quantum computing
+A5071495561,Alán Aspuru-Guzik,Chemistry,Boehringer Ingelheim (Netherlands),NL,1,TEQUILA: a platform for rapid development of quantum algorithms
+A5071495561,Alán Aspuru-Guzik,Chemistry,Cambridge Intellectual Property (United Kingdom),GB,1,The rise of generative AI for metal-organic framework design and synthesis
+A5071495561,Alán Aspuru-Guzik,Chemistry,Innovative Technology and Science (United Kingdom),GB,1,The rise of generative AI for metal-organic framework design and synthesis
+A5071495561,Alán Aspuru-Guzik,Chemistry,Nice Solar Energy (Germany),DE,1,Interface Molecular Engineering for Laminated Monolithic Perovskite/Silicon Tandem Solar Cells with 
+A5071495561,Alán Aspuru-Guzik,Chemistry,Photon Etc (Canada),CA,1,Interface Molecular Engineering for Laminated Monolithic Perovskite/Silicon Tandem Solar Cells with 
+A5071495561,Alán Aspuru-Guzik,Chemistry,Enamine (Ukraine),UA,1,AI-enhanced adaptive virtual screening of large libraries for ligand discovery
+A5071495561,Alán Aspuru-Guzik,Chemistry,Denso (Japan),JP,1,Generative quantum combinatorial optimization by means of a novel conditional generative quantum eig
+A5071495561,Alán Aspuru-Guzik,Chemistry,RTX (United States),US,1,Equivalence between spin Hamiltonians and boson sampling
+A5071495561,Alán Aspuru-Guzik,Chemistry,Canadian Light Source (Canada),CA,1,A nickel gallium oxide chlorophyll mimic for green methanol synthesis
+A5071495561,Alán Aspuru-Guzik,Chemistry,Dow Chemical (United States),US,1,Accelerating catalytic advancements through the precision of high-throughput experiments & calculati
+A5071495561,Alán Aspuru-Guzik,Chemistry,SandboxAQ,US,1,Accelerating catalytic advancements through the precision of high-throughput experiments & calculati
+A5071495561,Alán Aspuru-Guzik,Chemistry,Leidos (United States),US,1,State-by-State Investigation of Destructive Interference in Resonance Raman Spectra of Neutral Tyros
+A5071495561,Alán Aspuru-Guzik,Chemistry,Schrodinger (United States),US,1,Construction of the Fock Matrix on a Grid-Based Molecular Orbital Basis Using GPGPUs
+A5071495561,Alán Aspuru-Guzik,Chemistry,VASP Software (Austria),AT,1,Evaluating global optimization and generative methods for low-energy and diverse crystal structure p
+A5071495561,Alán Aspuru-Guzik,Chemistry,IBM (United Kingdom),GB,1,Parallel and Distributed Thompson Sampling for Large-scale Accelerated Exploration of Chemical Space
+A5071495561,Alán Aspuru-Guzik,Chemistry,Google DeepMind (United Kingdom),GB,1,"Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts"
+A5071495561,Alán Aspuru-Guzik,Chemistry,"ColdQuanta, Inc., DBA Infleqtion (United States)",US,1,QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding
+A5071495561,Alán Aspuru-Guzik,Chemistry,IQM (Germany),DE,1,QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding
+A5071495561,Alán Aspuru-Guzik,Chemistry,IQM (Finland),FI,1,QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding
+A5071495561,Alán Aspuru-Guzik,Chemistry,LG (United States),US,1,QPILOTS: Efficient Test-Time Q-Steering for Flow Policies
+A5071495561,Alán Aspuru-Guzik,Chemistry,LG (South Korea),KR,1,QPILOTS: Efficient Test-Time Q-Steering for Flow Policies
+A5071495561,Alán Aspuru-Guzik,Chemistry,QuEra Computing (United States),US,1,Quantum circuits as a game: A reinforcement learning agent for quantum compilation and its applicati
+A5071495561,Alán Aspuru-Guzik,Chemistry,IBM (United States),US,1,Basic Energy Sciences Roundtable: Opportunities for Quantum Computing in Chemical and Materials Scie
+A5071495561,Alán Aspuru-Guzik,Chemistry,"Merck KGaA, Darmstadt (Germany)",DE,1,La Agente Óptima: Towards Agentic Self-Driving Laboratories
+A5071495561,Alán Aspuru-Guzik,Chemistry,"Mizuho Research & Technologies, Ltd. (Japan)",JP,1,Auger Spectroscopy via Generative Quantum Eigensolver: A Quantum Approach to Molecular Excitations
+A5084315463,Robert Batey,Chemistry,Aché (Brazil),BR,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5084315463,Robert Batey,Chemistry,"Merck Healthcare KGaA, Darmstadt (Germany)",DE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5084315463,Robert Batey,Chemistry,IBM (United States),US,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5084315463,Robert Batey,Chemistry,Sanofi (Germany),DE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5084315463,Robert Batey,Chemistry,Bayer (Germany),DE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5084315463,Robert Batey,Chemistry,"Merck KGaA, Darmstadt (Germany)",DE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5084315463,Robert Batey,Chemistry,Boehringer Ingelheim (Germany),DE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5084315463,Robert Batey,Chemistry,Alkermes (United States),US,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5084315463,Robert Batey,Chemistry,Relay Therapeutics (United States),US,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5084315463,Robert Batey,Chemistry,Takeda (United States),US,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5084315463,Robert Batey,Chemistry,Acpharis,US,1,High Accuracy Prediction of PROTAC Complex Structures
+A5084315463,Robert Batey,Chemistry,WuXi AppTec (China),CN,1,Discovery and Structural Characterization of Small Molecule Binders of the Human CTLH E3 Ligase Subu
+A5084315463,Robert Batey,Chemistry,WuXi AppTec (United States),US,1,Discovery and Structural Characterization of Small Molecule Binders of the Human CTLH E3 Ligase Subu
+A5084315463,Robert Batey,Chemistry,AstraZeneca (United States),US,1,Diastereoselective synthesis of fluorinated piperidine quinazoline spirocycles as iNOS selective inh
+A5084315463,Robert Batey,Chemistry,AstraZeneca (United Kingdom),GB,1,Diastereoselective synthesis of fluorinated piperidine quinazoline spirocycles as iNOS selective inh
+A5061216131,Paul Brumer,Chemistry,Imperial Oil (Canada),CA,1,State densities and time delay in molecular collisions
+A5069146576,Haissi Cui,Chemistry,GlaxoSmithKline (Spain),ES,1,Cytoplasmic isoleucyl tRNA synthetase as an attractive multistage antimalarial drug target
+A5077991160,Walid Houry,Chemistry,Advanced Cell Technology (United States),US,1,Potent ClpP agonists with anticancer properties bind with improved structural complementarity and al
+A5040430480,Jane Howe,Chemistry,A123 Systems (United States),US,1,Advanced surface and microstructural characterization of natural graphite anodes for lithium ion bat
+A5040430480,Jane Howe,Chemistry,Radiation Monitoring Devices (United States),US,1,Development of Novel Polycrystalline Ceramic Scintillators
+A5040430480,Jane Howe,Chemistry,Ford Motor Company (United States),US,1,Characterization of alumina-supported Pt and Pt–Pd NO oxidation catalysts with advanced electron mic
+A5040430480,Jane Howe,Chemistry,Momentum Transfer (Germany),DE,1,Synthesis and Structural Analysis of an Emissive Colloidal Argyrodite Nanocrystal: Canfieldite Ag8Sn
+A5040430480,Jane Howe,Chemistry,Lonza (Switzerland),CH,1,Characterization of Green‐Emitting Translucent Zinc Oxide Ceramics Prepared Via Spark Plasma Sinteri
+A5040430480,Jane Howe,Chemistry,Chengdu Organic Chemicals (China),CN,1,Growth of thin carbon nanotubes on MoCoMgO catalyst
+A5040430480,Jane Howe,Chemistry,Oxford Instruments (United States),US,1,X-ray Spectrum Imaging at High Resolution in the STEM and STEM/SEM and SEM
+A5040430480,Jane Howe,Chemistry,ARES (United States),US,1,Simulating Space Weathering in the Transmission Electron Microscope via Dynamic in Situ Heating and 
+A5040430480,Jane Howe,Chemistry,Jacobs (United States),US,1,Simulating Space Weathering in the Transmission Electron Microscope via Dynamic in Situ Heating and 
+A5040430480,Jane Howe,Chemistry,JEOL (Japan),JP,1,Special issue: Quantitative and precise measurements in conventional (scanning) electron microscopy 
+A5080074500,Artur Izmaylov,Chemistry,Robert Bosch (Germany),DE,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,IBM (United States),US,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,Cambridge Consultants (United Kingdom),GB,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,"ColdQuanta, Inc., DBA Infleqtion (United States)",US,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,ExxonMobil (United States),US,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,DELL (United States),US,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,IBM Research - Cambridge (United States),US,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,Phasecraft Ltd. (United Kingdom),GB,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,BMW (Germany),DE,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,BMW Group (Germany),DE,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,JSR (Japan),JP,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,IBM (Ireland),IE,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,Robert Bosch (United States),US,1,Quantum-centric supercomputing for materials science: A perspective on challenges and future directi
+A5080074500,Artur Izmaylov,Chemistry,Boehringer Ingelheim (Netherlands),NL,1,TEQUILA: a platform for rapid development of quantum algorithms
+A5020050875,Lewis Kay,Chemistry,Syngenta (United Kingdom),GB,1,A methyl-TROSY approach for NMR studies of high-molecular-weight DNA with application to the nucleos
+A5020050875,Lewis Kay,Chemistry,Amgen (Canada),CA,1,Structure of a Numb PTB domain–peptide complex suggests a basis for diverse binding specificity
+A5020050875,Lewis Kay,Chemistry,Agilent Technologies (United States),US,1,Parallel acquisition of multi-dimensional spectra in protein NMR
+A5020050875,Lewis Kay,Chemistry,Agilent Technologies (United Kingdom),GB,1,Parallel acquisition of multi-dimensional spectra in protein NMR
+A5020050875,Lewis Kay,Chemistry,AstraZeneca (United States),US,1,Global multi-method analysis of interaction parameters for reversibly self-associating macromolecule
+A5020050875,Lewis Kay,Chemistry,Waters (United Kingdom),GB,1,Structural heterogeneity and substrate engagement mechanism of the bacterial proteasome activator Bp
+A5020050875,Lewis Kay,Chemistry,Bristol-Myers Squibb (Canada),CA,1,Measurement of 3JHNα Vicinal Coupling Constants in Proteins
+A5020050875,Lewis Kay,Chemistry,Abbott (United States),US,1,Applicability and Limitations of Three-Dimensional NMR Spectroscopy for the Study of Proteins in Sol
+A5020050875,Lewis Kay,Chemistry,Waters (United States),US,1,Assembly and substrate engagement mechanism of the bacterial proteasome activator Bpa
+A5060107939,Eugenia Kumacheva,Chemistry,Guangzhou Chemistry (China),CN,1,Synthesis and Optical Properties of Thiol-Stabilized PbS Nanocrystals
+A5060107939,Eugenia Kumacheva,Chemistry,Dow Chemical (United States),US,1,Exploring a direct injection method for microfluidic generation of polymer microgels
+A5060107939,Eugenia Kumacheva,Chemistry,Xerox (Canada),CA,1,Polymeric nanostructured material for high-density three-dimensional optical memory storage
+A5060107939,Eugenia Kumacheva,Chemistry,Monsanto (United States),US,1,Anisotropic nanoparticles: general discussion
+A5060107939,Eugenia Kumacheva,Chemistry,Cabot (United States),US,1,An Exploratory Microfluidic Approach to Photopolymerized Polymer‐Inorganic Nanocomposite Films
+A5044555614,Mark Lautens,Chemistry,AstraZeneca (Canada),CA,1,Discovery of μ-opioid selective ligands derived from 1-aminotetralin scaffolds made via metal-cataly
+A5044555614,Mark Lautens,Chemistry,AstraZeneca (United States),US,1,Discovery of μ-opioid selective ligands derived from 1-aminotetralin scaffolds made via metal-cataly
+A5044555614,Mark Lautens,Chemistry,Pfizer (United States),US,1,CsCF3B(OMe)3: A Versatile Nucleophilic Source of the Trifluoromethyl Anion
+A5100331092,Xiang Li,Chemistry,BGI Group (China),CN,1,High-fiber diet mitigates maternal obesity-induced cognitive and social dysfunction in the offspring
+A5100331092,Xiang Li,Chemistry,Ping An (China),CN,1,Longitudinal multi-omics analysis uncovers the altered landscape of gut microbiota and plasma metabo
+A5100331092,Xiang Li,Chemistry,Fimlab (Finland),FI,1,Talin2-mediated traction force drives matrix degradation and cell invasion
+A5100331092,Xiang Li,Chemistry,Alibaba Group (China),CN,1,Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Se
+A5100331092,Xiang Li,Chemistry,Boehringer Ingelheim (Canada),CA,1,Integrated Strategies for Identifying Leads That Target the NS3 Helicase of the Hepatitis C Virus
+A5100331092,Xiang Li,Chemistry,IBM Research (China),CN,1,Automatic Variance Analysis of Multistage Care Pathways
+A5100331092,Xiang Li,Chemistry,IBM (United States),US,1,Automatic Variance Analysis of Multistage Care Pathways
+A5100331092,Xiang Li,Chemistry,DuPont (United States),US,1,Application of real-time polymerase chain reaction to quantitate induced expression of interleukin-1
+A5100331092,Xiang Li,Chemistry,Abbott (China),CN,1,Carotenoid Profile in Maternal/Cord Plasma and Changes in Breast Milk along Lactation and Its Associ
+A5100331092,Xiang Li,Chemistry,Sinovac Biotech,CN,1,Generation and utilization of endostatin‐sensitive cell lines for assessing the biological activity 
+A5023134782,Kylie Luska,Chemistry,Evonik (Germany),DE,1,Bifunctional nanoparticle–SILP catalysts (NPs@SILP) for the selective deoxygenation of biomass subst
+A5029017897,Scott Mabury,Chemistry,Sciex (Canada),CA,1,Sorption of Perfluoroalkyl Phosphonates and Perfluoroalkyl Phosphinates in Soils
+A5029017897,Scott Mabury,Chemistry,Bruker (Germany),DE,1,NMR as a Discovery Tool: Exploration of Industrial Effluents Discharged Into the Environment
+A5029017897,Scott Mabury,Chemistry,Bruker (Switzerland),CH,1,NMR as a Discovery Tool: Exploration of Industrial Effluents Discharged Into the Environment
+A5029017897,Scott Mabury,Chemistry,Geosyntec Consultants (United States),US,1,A field-validated equilibrium passive sampler for the monitoring of per- and polyfluoroalkyl substan
+A5029017897,Scott Mabury,Chemistry,Eurofins (United States),US,1,A field-validated equilibrium passive sampler for the monitoring of per- and polyfluoroalkyl substan
+A5029017897,Scott Mabury,Chemistry,Dow Chemical (United States),US,1,An Update on the Research Activities of the Environmental and Occupational Working Group for the Ont
+A5029017897,Scott Mabury,Chemistry,Solvay (Belgium),BE,1,Peer Reviewed: Analytical Challenges Hamper Perfluoroalkyl Research
+A5029017897,Scott Mabury,Chemistry,Solvay (France),FR,1,Peer Reviewed: Analytical Challenges Hamper Perfluoroalkyl Research
+A5029017897,Scott Mabury,Chemistry,Syngenta (Canada),CA,1,Erratum to “Enantiomer fractions of chiral organochlorine pesticides and polychlorinated biphenyls i
+A5029017897,Scott Mabury,Chemistry,AXYS Technologies (Canada),CA,1,P3—Inter-laboratory comparison update: Perfluorinated contaminants in NIST standard reference materi
+A5062824120,Caitlin Maikawa,Chemistry,Novo Nordisk (Denmark),DK,1,Use of a biomimetic hydrogel depot technology for sustained delivery of GLP-1 receptor agonists redu
+A5029288551,Dwayne Miller,Chemistry,Canadian Light Source (Canada),CA,1,Full characterization of RF compressed femtosecond electron pulses using ponderomotive scattering
+A5029288551,Dwayne Miller,Chemistry,Beiersdorf (Germany),DE,1,Homogenization of tissues via picosecond-infrared laser (PIRL) ablation: Giving a closer view on the
+A5029288551,Dwayne Miller,Chemistry,Xerox (Canada),CA,1,Polymeric nanostructured material for high-density three-dimensional optical memory storage
+A5029288551,Dwayne Miller,Chemistry,Quantum Technology Sciences (United States),US,1,Investigation of β-BaB2O4 as a Q switch for high power applications
+A5029288551,Dwayne Miller,Chemistry,Rigaku (Japan),JP,1,Electron diffraction captures high-resolution structures from in vivo protein nanocrystals of Bacill
+A5021803498,J. Rafael Montenegro Burke,Chemistry,Retrotope (United States),US,1,Unusual Kinetic Isotope Effects of Deuterium Reinforced Polyunsaturated Fatty Acids in Tocopherol-Me
+A5021803498,J. Rafael Montenegro Burke,Chemistry,IBM (United States),US,1,Cognitive analysis of metabolomics data for systems biology
+A5021803498,J. Rafael Montenegro Burke,Chemistry,Waters (United States),US,1,Cognitive analysis of metabolomics data for systems biology
+A5039634682,Robert Morris,Chemistry,Dow Chemical (United States),US,1,Using nature’s blueprint to expand catalysis with Earth-abundant metals
+A5039634682,Robert Morris,Chemistry,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1,Using nature’s blueprint to expand catalysis with Earth-abundant metals
+A5039634682,Robert Morris,Chemistry,Firmenich (Switzerland),CH,1,Hydrogenation versus Transfer Hydrogenation of Ketones: Two Established Ruthenium Systems Catalyze B
+A5039634682,Robert Morris,Chemistry,Carestream (United States),US,1,An Objective Method for Determination of Equivalent Neutral Densities of Color Film Images II Determ
+A5039634682,Robert Morris,Chemistry,Kodak (United States),US,1,An Objective Method for Determination of Equivalent Neutral Densities of Color Film Images II Determ
+A5016231702,Jennifer Murphy,Chemistry,Aerosol Dynamics (United States),US,1,Insights into Secondary Organic Aerosol Formation Mechanisms from Measured Gas/Particle Partitioning
+A5016231702,Jennifer Murphy,Chemistry,Sonoma Technology (United States),US,1,Validation of IASI Satellite Ammonia Observations at the Pixel Scale Using In Situ Vertical Profiles
+A5016231702,Jennifer Murphy,Chemistry,Ionicon Analytik (Austria),AT,1,Validation of IASI Satellite Ammonia Observations at the Pixel Scale Using In Situ Vertical Profiles
+A5016231702,Jennifer Murphy,Chemistry,Science Systems and Applications (United States),US,1,"Supplementary material to ""Modeling the Diurnal Variability of Agricultural Ammonia in Bakersfield, "
+A5040529254,Mark Nitz,Chemistry,Novonesis (Denmark),DK,1,Expansion of the diversity of dispersin scaffolds
+A5032007926,Hui Peng,Chemistry,State Grid Corporation of China (China),CN,1,"Dual modulation of pore architecture and surface chemistry in P, N co-doped carbons for high-perform"
+A5032007926,Hui Peng,Chemistry,Chengdu Design & Research Institute of Building Materials Industry (China),CN,1,Kinetic simulation of NOx reduction in cement pre-calciner environment: Synergistic effect of multi-
+A5032007926,Hui Peng,Chemistry,China Resources Cement Technology Research and Development (Guangxi) Company Limited (China),CN,1,Kinetic simulation of NOx reduction in cement pre-calciner environment: Synergistic effect of multi-
+A5032007926,Hui Peng,Chemistry,Abu Dhabi National Oil (United Arab Emirates),AE,1,From Pressure Sink to Production Sync: A Strategic Well Pattern Optimization (WPO) of a Mature Onsho
+A5032007926,Hui Peng,Chemistry,China National Petroleum Corporation (China),CN,1,Assessment of Different Field Development Strategies Deploying Maximum Reservoir Contacting (MRC) We
+A5032007926,Hui Peng,Chemistry,"Yunnan Power Grid Co., Ltd. (China)",CN,1,Experimental Study on monitoring of SF6 degradation by Raman Spectroscopy
+A5023158279,Mark Reed,Chemistry,Eli Lilly (United States),US,1,Synthesis of Constrained Raloxifene Analogues by Complementary Use of Friedel−Crafts and Directed Re
+A5023158279,Mark Reed,Chemistry,Enamine (Ukraine),UA,1,In silico Modeling for Small Molecule PRMT6 Inhibitors for the Treatment of Spinal Bulbar Muscular A
+A5043550213,Sophie Rousseaux,Chemistry,Aché (Brazil),BR,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5043550213,Sophie Rousseaux,Chemistry,"Merck Healthcare KGaA, Darmstadt (Germany)",DE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5043550213,Sophie Rousseaux,Chemistry,IBM (United States),US,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5043550213,Sophie Rousseaux,Chemistry,Sanofi (Germany),DE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5043550213,Sophie Rousseaux,Chemistry,Bayer (Germany),DE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5043550213,Sophie Rousseaux,Chemistry,AstraZeneca (Sweden),SE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5043550213,Sophie Rousseaux,Chemistry,"Merck KGaA, Darmstadt (Germany)",DE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5043550213,Sophie Rousseaux,Chemistry,Boehringer Ingelheim (Germany),DE,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5043550213,Sophie Rousseaux,Chemistry,Alkermes (United States),US,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5043550213,Sophie Rousseaux,Chemistry,Relay Therapeutics (United States),US,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5043550213,Sophie Rousseaux,Chemistry,Takeda (United States),US,1,CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership b
+A5062872049,Barbara Sherwood Lollar,Chemistry,Dow Chemical (United States),US,1,Stable Carbon Isotope Evidence for Intrinsic Bioremediation of Tetrachloroethene and Trichloroethene
+A5062872049,Barbara Sherwood Lollar,Chemistry,Shell (United States),US,1,The relative abundances of resolved l2CH2D2 and 13CH3D and mechanisms controlling isotopic bond orde
+A5062872049,Barbara Sherwood Lollar,Chemistry,Aerodyne Research,US,1,"Measurement of a Doubly Substituted Methane Isotopologue, 13CH3D, by Tunable Infrared Laser Direct A"
+A5062872049,Barbara Sherwood Lollar,Chemistry,Thermo Fisher Scientific (Germany),DE,1,Hydrothermal 15N15N abundances constrain the origins of mantle nitrogen
+A5062872049,Barbara Sherwood Lollar,Chemistry,Sibanye Gold (South Africa),ZA,1,Eukaryotic opportunists dominate the deep-subsurface biosphere in South Africa
+A5062872049,Barbara Sherwood Lollar,Chemistry,Schlumberger (United States),US,1,The next frontier for planetary and human exploration
+A5062872049,Barbara Sherwood Lollar,Chemistry,Corteva (United States),US,1,Compound-specific isotope analysis (CSIA) evaluation of degradation of chlorinated benzenes (CBs) an
+A5062872049,Barbara Sherwood Lollar,Chemistry,Total (France),FR,1,"Generation, migration and accumulation of natural hydrogen and helium in the intracratonic São Franc"
+A5062872049,Barbara Sherwood Lollar,Chemistry,Uni Research (Norway),NO,1,New ecosystems in the deep subsurface follow the flow of water driven by geological activity
+A5062872049,Barbara Sherwood Lollar,Chemistry,Golder Associates (Canada),CA,1,Variations in expression of carbon isotope fractionation of chlorinated ethenes during biologically 
+A5062872049,Barbara Sherwood Lollar,Chemistry,Eau de Paris (France),FR,1,"Future trends in transport and fate of diffuse contaminants in catchments, with special emphasis on "
+A5062872049,Barbara Sherwood Lollar,Chemistry,Johnson & Johnson (United States),US,1,Mars sample return campaign: biological risk and a proposed sample safety assessment protocol
+A5062872049,Barbara Sherwood Lollar,Chemistry,Aecom (United States),US,1,Investigating Transformation of CFCs at a Contaminated Field Site Using Compound-Specific Isotope An
+A5045900479,Molly Shoichet,Chemistry,Johnson & Johnson (United States),US,1,Characterization of hyaluronan–methylcellulose hydrogels for cell delivery to the injured spinal cor
+A5045900479,Molly Shoichet,Chemistry,Orla Protein Technologies (United Kingdom),GB,1,Neural differentiation regulated by biomimetic surfaces presenting motifs of extracellular matrix pr
+A5045900479,Molly Shoichet,Chemistry,Stemmatters (Portugal),PT,1,In vitro Evaluation of ASCs and HUVECs Co-cultures in 3D Biodegradable Hydrogels on Neurite Outgrowt
+A5069565621,Datong Song,Chemistry,Nautilus Environmental,CA,1,Synthesis and Toxicity Evaluation of p -Phenylenediamine-Quinones
+A5037978366,Doug Stephan,Chemistry,Saudi Arabia Basic Industries (Saudi Arabia),SA,1,"1,1-Olefin-bridged bis-(2-indenyl) metallocenes of titanium and zirconium"
+A5037978366,Doug Stephan,Chemistry,Dow Chemical (United States),US,1,FLP-CO 2 adducts: convenient sources of frustrated Lewis pairs for stoichiometric and catalytic chem
+A5037978366,Doug Stephan,Chemistry,Pfizer (United States),US,1,"Design considerations for chiral frustrated Lewis pairs: B/N FLPs derived from 3,5-bicyclic aryl pip"
+A5009158848,Michael Thompson,Chemistry,Japan Tobacco (Japan),JP,1,Tobacco smoking produces widespread dominant brain wave alpha frequency increases
+A5009158848,Michael Thompson,Chemistry,Dow Chemical (Canada),CA,1,The Potential of the Bulk Acoustic Wave Device as a Liquid-Phase Immunosensor
+A5009158848,Michael Thompson,Chemistry,Aerojet Rocketdyne (United States),US,1,Development and testing of the aerojet strutjet combustor
+A5009158848,Michael Thompson,Chemistry,Google (United States),US,1,Fine-tuning user research to drive innovation
+A5009158848,Michael Thompson,Chemistry,"Systems, Applications & Products in Data Processing (Germany)",DE,1,Fine-tuning user research to drive innovation
+A5009158848,Michael Thompson,Chemistry,"Magnolia Consulting, LLC (United States)",US,1,Creating an Infrastructure Education Community of Practice
+A5009158848,Michael Thompson,Chemistry,Shell (United Kingdom),GB,1,A chemoreceptive bilayer lipid membrane based on an auxin-receptor ATPase electrogenic pump
+A5009158848,Michael Thompson,Chemistry,Xerox (United States),US,1,Image Noise in Dry Powder Electrophotography
+A5009158848,Michael Thompson,Chemistry,AbbVie (United States),US,1,Utility of common in vitro systems for predicting circulating metabolites
+A5001249541,Helen Tran,Chemistry,Asahi Kasei (Japan),JP,1,Designing a Quinone-Based Redox Mediator to Facilitate Li2S Oxidation in Li-S Batteries
+A5001249541,Helen Tran,Chemistry,Samsung (South Korea),KR,1,Fully stretchable active-matrix organic light-emitting electrochemical cell array
+A5001249541,Helen Tran,Chemistry,Samsung Advanced Institute of Technology (South Korea),KR,1,Fully stretchable active-matrix organic light-emitting electrochemical cell array
+A5001249541,Helen Tran,Chemistry,Samsung Electronics (South Korea),KR,1,Fully stretchable active-matrix organic light-emitting electrochemical cell array
+A5088793872,Anatole von Lilienfeld,Chemistry,Google (United States),US,1,Prediction Errors of Molecular Machine Learning Models Lower than Hybrid DFT Error
+A5088793872,Anatole von Lilienfeld,Chemistry,Google (United Kingdom),GB,1,Prediction Errors of Molecular Machine Learning Models Lower than Hybrid DFT Error
+A5088793872,Anatole von Lilienfeld,Chemistry,DuPont (United States),US,1,Long range interactions in nanoscale science
+A5088793872,Anatole von Lilienfeld,Chemistry,LG AI Research (South Korea),KR,1,Accelerated chemical science with AI
+A5088793872,Anatole von Lilienfeld,Chemistry,Microsoft (United States),US,1,Roadmap on Advancements of the FHI-aims Software Package
+A5088793872,Anatole von Lilienfeld,Chemistry,GTT-Technologies (Germany),DE,1,Guiding ab initio calculations by alchemical derivatives
+A5002024611,Aaron Wheeler,Chemistry,Standard BioTools (United States),US,1,Microfluidic Device for Single-Cell Analysis
+A5002024611,Aaron Wheeler,Chemistry,Agilent Technologies (United States),US,1,Bio-Microarray Fabrication Techniques—A Review
+A5002024611,Aaron Wheeler,Chemistry,AbbVie (United States),US,1,Automated Digital Microfluidic Platform for Magnetic-Particle-Based Immunoassays with Optimization b
+A5002024611,Aaron Wheeler,Chemistry,Abbott (United States),US,1,Automated Digital Microfluidic Platform for Magnetic-Particle-Based Immunoassays with Optimization b
+A5002024611,Aaron Wheeler,Chemistry,Bruker (United States),US,1,Interfacing digital microfluidics with high-field nuclear magnetic resonance spectroscopy
+A5002024611,Aaron Wheeler,Chemistry,GlaxoSmithKline Research & Development Limited (United Kingdom),GB,1,Attractive Design: An Elution Solvent Optimization Platform for Magnetic-Bead-based Fractionation Us
+A5002024611,Aaron Wheeler,Chemistry,ANDE (United States),US,1,Toward Analysis at the Point of Need: A Digital Microfluidic Approach to Processing Multi‐Source Sex
+A5002024611,Aaron Wheeler,Chemistry,Rigel (United States),US,1,Single Organelle Analysis with Integrated Chip Electrophoresis and Optical Tweezers
+A5062301913,Mark Wilson,Chemistry,Momentum Transfer (Germany),DE,1,Synthesis and Structural Analysis of an Emissive Colloidal Argyrodite Nanocrystal: Canfieldite Ag8Sn
+A5026093276,Mitchell Winnik,Chemistry,Saudi Arabia Basic Industries (Saudi Arabia),SA,1,Structure‐Tuned Lead Halide Perovskite Nanocrystals
+A5026093276,Mitchell Winnik,Chemistry,Folium Optics (United Kingdom),GB,1,Uniform electroactive fibre-like micelle nanowires for organic electronics
+A5026093276,Mitchell Winnik,Chemistry,DuPont (United States),US,1,Study of Interaction of Poly(ethylene imine) with Sodium Dodecyl Sulfate in Aqueous Solution by Ligh
+A5026093276,Mitchell Winnik,Chemistry,Bombardier (Canada),CA,1,Covalent Attachment of RuII Phenanthroline Complexes to Polythionylphosphazenes: The Development and
+A5026093276,Mitchell Winnik,Chemistry,ROHM,JP,1,Consistent values of rate parameters in free radical polymerization systems
+A5026093276,Mitchell Winnik,Chemistry,IBM (United States),US,1,Tube Renewal versus Reptation: Polymer Diffusion in Molten Poly(Propylene Oxide)
+A5026093276,Mitchell Winnik,Chemistry,Bayer (Canada),CA,1,"Surface‐directed morphology evolution in ternary blends of polyethylene, polypropylene, and ethylene"
+A5026093276,Mitchell Winnik,Chemistry,Électricité de France (France),FR,1,Energy transfer studies with fluorosiloxanes
+A5026093276,Mitchell Winnik,Chemistry,Ford Motor Company (United States),US,1,Use of a dye-labeled ethylene-butene copolymer as a tracer in laser scanning confocal fluorescence m
+A5026093276,Mitchell Winnik,Chemistry,Carestream (United States),US,1,Polymer Films from Size Exclusion Chromatography Using A Solvent-Evaporation Interface: Analysis of 
+A5026093276,Mitchell Winnik,Chemistry,Kodak (United States),US,1,Polymer Films from Size Exclusion Chromatography Using A Solvent-Evaporation Interface: Analysis of 
+A5026093276,Mitchell Winnik,Chemistry,Agilent Technologies (United States),US,1,Controllable growth of single walled CNTs using nanotemplates from diblock copolymers
+A5081408580,Andrei Yudin,Chemistry,Thieme Medical Publishers (Germany),DE,1,Synthesis of Borylated Hydrazino Acid Derivatives
+A5103112369,Chao Zheng,Chemistry,Dow Chemical (United States),US,1,Raman Spectroscopic Investigation of Tetraethylammonium Polybromides
+A5103112369,Chao Zheng,Chemistry,"Yunnan Power Grid Co., Ltd. (China)",CN,1,Collaborative Optimization Strategy for Multidimensional Flexible Resource Clusters under Multifacto
+A5016548167,David Armstrong,Chemistry,AstraZeneca (United Kingdom),GB,1,"Evaluating cis‐2,6‐Dimethylpiperidide (cis‐DMP) as a Base Component in Lithium‐Mediated Zincation Ch"
+A5016548167,David Armstrong,Chemistry,Johnson Matthey (United Kingdom),GB,1,A solid state and theoretical study of the solvent effects controlling the mono- and di-lithiation o
+A5016548167,David Armstrong,Chemistry,BP (United Kingdom),GB,1,"Zirconocene Ketimides: Synthesis, Structural Characterization, Ethylene Polymerization Activity, and"
+A5016548167,David Armstrong,Chemistry,Cambridge Crystallographic Data Centre,GB,1,Selective oxygen capture by lithium aluminates: a solid state and theoretical structural study †
+A5016548167,David Armstrong,Chemistry,GlaxoSmithKline (United Kingdom),GB,1,Perfluorinated Heteroaromatic Systems as Scaffolds for Drug Discovery
+A5016548167,David Armstrong,Chemistry,GlaxoSmithKline Research & Development Limited (United Kingdom),GB,1,Perfluorinated Heteroaromatic Systems as Scaffolds for Drug Discovery
+A5037938281,Patrick Gunning,Chemistry,HalTech,CA,1,Mutations in UBA3 Confer Resistance to the NEDD8-Activating Enzyme Inhibitor MLN4924 in Human Leukem
+A5037938281,Patrick Gunning,Chemistry,Dalton Pharma Services (Canada),CA,1,Identification of NAE Inhibitors Exhibiting Potent Activity in Leukemia Cells: Exploring the Structu
+A5037938281,Patrick Gunning,Chemistry,Almac (United Kingdom),GB,1,Thyroid hormone receptor beta signaling is a targetable driver of prostate cancer growth
+A5046661216,Amanda Hargrove,Chemistry,Henkel (United States),US,1,Artificial Receptors for the Recognition of Phosphorylated Molecules
+A5061610307,Vivienne Luk,Chemistry,ANDE (United States),US,1,Toward Analysis at the Point of Need: A Digital Microfluidic Approach to Processing Multi‐Source Sex
+A5061610307,Vivienne Luk,Chemistry,Bruker (Germany),DE,1,A CASE (Computer-Assisted Structure Elucidation) for Bench-Top NMR Systems in the Undergraduate Labo
+A5013401641,Alana Ogata,Chemistry,Hitachi High-Tech (Japan),JP,1,High-Throughput Structure Determination Using Serial Electron Diffraction
+A5032543179,Scott Prosser,Chemistry,Atomic Energy (Canada),CA,1,Rarely Observed Phase Transitions in a Novel Lyotropic Liquid Crystal System
+A5047560857,Holly Barrett,Chemistry,Nautilus Environmental,CA,1,Synthesis and Toxicity Evaluation of p -Phenylenediamine-Quinones
+A5063954731,Kagan Kerman,Chemistry,i-Sense (South Korea),KR,1,Rapid Cytotoxicity Screening Platform for Amyloid Inhibitors Using a Membrane-Potential Sensitive Fl
+A5063954731,Kagan Kerman,Chemistry,Fluxion Biosciences (United States),US,1,P2‐043: UNDERSTANDING THE INTERACTION OF APOLIPOPROTEIN E WITH AMYLOID‐BETA IN THE PRESENCE OF EPIGA
+A5063954731,Kagan Kerman,Chemistry,Numerion Labs (United States),US,1,P2‐043: UNDERSTANDING THE INTERACTION OF APOLIPOPROTEIN E WITH AMYLOID‐BETA IN THE PRESENCE OF EPIGA
+A5080435447,Andre Simpson,Chemistry,Intrinsik (Canada),CA,1,Comparison of earthworm responses to petroleum hydrocarbon exposure in aged field contaminated soil 
+A5080435447,Andre Simpson,Chemistry,Stantec (Canada),CA,1,Comparison of earthworm responses to petroleum hydrocarbon exposure in aged field contaminated soil 
+A5080435447,Andre Simpson,Chemistry,Bruker (France),FR,1,Water suppression 101 for benchtop NMR–An accessible guide and primer including fully interactive tr
+A5019076569,Myrna Simpson,Chemistry,Intrinsik (Canada),CA,1,Comparison of earthworm responses to petroleum hydrocarbon exposure in aged field contaminated soil 
+A5019076569,Myrna Simpson,Chemistry,Stantec (Canada),CA,1,Comparison of earthworm responses to petroleum hydrocarbon exposure in aged field contaminated soil 
+A5019076569,Myrna Simpson,Chemistry,Bruker (United Kingdom),GB,1,Towards real-time kinetic monitoring of wastewater treatment: A case study of sunlight and ozone tre
+A5019076569,Myrna Simpson,Chemistry,Atomic Energy (Canada),CA,1,Low water activity limits bentonite-associated microbial growth
+A5019076569,Myrna Simpson,Chemistry,Bruker (France),FR,1,Water suppression 101 for benchtop NMR–An accessible guide and primer including fully interactive tr
+A5019076569,Myrna Simpson,Chemistry,Leco Corporation (United States),US,1,Contributors
+A5086630277,Ruby Sullan,Chemistry,Catalent (United States),US,1,Rapid Characterization of a Mechanically Labile α-Helical Protein Enabled by Efficient Site-Specific
+A5086630277,Ruby Sullan,Chemistry,Bruker (Switzerland),CH,1,"5-Axis CNC Micromilling for Rapid, Cheap, and Background-Free NMR Microcoils"
+A5086630277,Ruby Sullan,Chemistry,Bruker (Germany),DE,1,"5-Axis CNC Micromilling for Rapid, Cheap, and Background-Free NMR Microcoils"
+A5086630277,Ruby Sullan,Chemistry,Bruker (United States),US,1,"5-Axis CNC Micromilling for Rapid, Cheap, and Background-Free NMR Microcoils"
+A5086630277,Ruby Sullan,Chemistry,Bruker (Canada),CA,1,"5-Axis CNC Micromilling for Rapid, Cheap, and Background-Free NMR Microcoils"
+A5051815230,Oleksandr Voznyy,Chemistry,Meta (United States),US,1,The Open Catalyst 2022 (OC22) Dataset and Challenges for Oxide Electrocatalysts
+A5051815230,Oleksandr Voznyy,Chemistry,Sinopec (China),CN,1,Dipole–dipole-interaction-assisted self-assembly of quantum dots for highly efficient light-emitting
+A5051815230,Oleksandr Voznyy,Chemistry,Trojan Technologies (Canada),CA,1,ZnFe2O4 Leaves Grown on TiO2 Trees Enhance Photoelectrochemical Water Splitting
+A5051815230,Oleksandr Voznyy,Chemistry,Huawei Technologies (United Kingdom),GB,1,Enhanced Blue Emission in Rb 2 HfCl 6 Double Perovskite via Bi 3+ Doping and Cs + Alloying
+A5051815230,Oleksandr Voznyy,Chemistry,Huawei Technologies (Canada),CA,1,Enhanced Blue Emission in Rb 2 HfCl 6 Double Perovskite via Bi 3+ Doping and Cs + Alloying
+A5091794038,Frank Wania,Chemistry,Dow Chemical (United States),US,1,Seasonal and latitudinal variability in the atmospheric concentrations of cyclic volatile methyl sil
+A5091794038,Frank Wania,Chemistry,Henkel (Germany),DE,1,Comment on “By integrating previously overlooked drivers AI boosts bioaccumulation assessment in fis
+A5058369809,Carine Nemr,Chemistry,3M (Canada),CA,1,A fully-integrated and automated testing device for PCR-free viral nucleic acid detection in whole b
+A5061698804,Virginijus Barzda,Physics,Intel (United States),US,1,Crystal lattice determination of ZnSe nanowires with polarization-dependent second harmonic generati
+A5010704341,Kent Moore,Physics,Riverside Technology (United States),US,1,Towards a more reliable historical reanalysis: Improvements for version 3 of the Twentieth Century R
+A5010704341,Kent Moore,Physics,DigiM Solution,US,1,Manifestation and consequences of warming and altered heat fluxes over the Bering and Chukchi Sea co
+A5010704341,Kent Moore,Physics,Uni Research (Norway),NO,1,Irminger Sea deep convection injects oxygen and anthropogenic carbon to the ocean interior
+A5010704341,Kent Moore,Physics,Alaska Biological Research (United States),US,1,The Arctic
+A5010704341,Kent Moore,Physics,Multiconsult (Norway),NO,1,Kinematic Structure and Dynamics of the Denmark Strait Overflow from Ship-Based Observations
+A5048241156,Xiaoyong Xu,Physics,China Electronics Technology Group Corporation,CN,1,Tactical Environment Path Planning Based on Improved A* Algorithm
+A5008019902,Kristen Menou,Physics,Alcatel-Lucent (France),FR,1,Sloan Digital Sky Survey: Early Data Release
+A5008019902,Kristen Menou,Physics,Microsoft (United States),US,1,Sloan Digital Sky Survey: Early Data Release
+A5008019902,Kristen Menou,Physics,Google (United Kingdom),GB,1,Predicting the long-term stability of compact multiplanet systems
+A5008019902,Kristen Menou,Physics,Google (United States),US,1,Predicting the Long-Term Stability of Compact Multi-Planet Systems
+A5026802133,Hanno Rein,Physics,Google (United Kingdom),GB,1,Predicting the long-term stability of compact multiplanet systems
+A5026802133,Hanno Rein,Physics,Google (United States),US,1,Predicting the Long-Term Stability of Compact Multi-Planet Systems
+A5042639978,Diana Valencia,Physics,ABB (Canada),CA,1,New Mass and Radius Constraints on the LHS 1140 Planets: LHS 1140 b Is either a Temperate Mini-Neptu
+A5042639978,Diana Valencia,Physics,IAC (United States),US,1,Ariel: Enabling planetary science across light-years
+A5042639978,Diana Valencia,Physics,RUAG (Switzerland),CH,1,Ariel: Enabling planetary science across light-years
+A5064865246,Dan Weaver,Physics,ABB (Canada),CA,1,Probing Atmospheric Composition over Canada using Ground-based FTIR Spectroscopy
+A5107906417,J. Richard Bond,Physics,Thales Alenia Space (France),FR,1,Planck pre-launch status: The Planck mission
+A5107906417,J. Richard Bond,Physics,Thales (Italy),IT,1,Planck pre-launch status: The Planck mission
+A5107906417,J. Richard Bond,Physics,Oerlikon (Switzerland),CH,1,Planck pre-launch status: The Planck mission
+A5107906417,J. Richard Bond,Physics,F. Hoffmann-La Roche AG,CH,1,Planck intermediate results - XL. The Sunyaev-Zeldovich signal from the Virgo cluster
+A5107906417,J. Richard Bond,Physics,Sierra Lobo (United States),US,1,Searching for Non-Gaussian Signals in the BOOMERANG 2003 CMB Maps
+A5103031897,Boris Braverman,Physics,Xanadu Quantum Technologies (Canada),CA,1,Composably secure data processing for Gaussian-modulated continuous-variable quantum key distributio
+A5103031897,Boris Braverman,Physics,Toptica Photonics (Germany),DE,1,Passive intrinsic-linewidth narrowing of ultraviolet extended-cavity diode laser by weak optical fee
+A5103031897,Boris Braverman,Physics,Optical Sciences (United States),US,1,Investigate the performance of real-time adaptive optics correction in a turbulent high-dimensional 
+A5100463028,Xiaoyang (Jim) Chen,Physics,General Electric (United States),US,1,Helical‐Like 3D Ultrathin Piezoelectric Element for Complicated Ultrasonic Field
+A5100463028,Xiaoyang (Jim) Chen,Physics,GE Global Research (United States),US,1,Helical‐Like 3D Ultrathin Piezoelectric Element for Complicated Ultrasonic Field
+A5100463028,Xiaoyang (Jim) Chen,Physics,Caterpillar (United States),US,1,Experimental investigation of EHD grease lubrication in finite line contacts
+A5100463028,Xiaoyang (Jim) Chen,Physics,China State Construction Engineering (China),CN,1,Experimental Study on the Effect of the Displacement Rate on the Shear Strength of Coastal Soft Soil
+A5100463028,Xiaoyang (Jim) Chen,Physics,Ford Motor Company (United States),US,1,Principle Experiments Research of Noise in Engine Main Bearing
+A5100463028,Xiaoyang (Jim) Chen,Physics,First Automotive Works (China),CN,1,Extraction of COM parameters from field distribution
+A5027286356,Maya Fishbach,Physics,IBM (United States),US,1,Enabling real-time multi-messenger astrophysics discoveries with deep learning
+A5027286356,Maya Fishbach,Physics,Google (United States),US,1,Enabling real-time multi-messenger astrophysics discoveries with deep learning
+A5027286356,Maya Fishbach,Physics,Nvidia (United States),US,1,Enabling real-time multi-messenger astrophysics discoveries with deep learning
+A5061121742,Sidhartha Goyal,Physics,Illumina (United States),US,1,A dynamical systems treatment of transcriptomic trajectories in hematopoiesis
+A5022501379,Debora Griffin,Physics,Science and Technology Corporation (Netherlands),NL,1,High‐Resolution Mapping of Nitrogen Dioxide With TROPOMI: First Results and Validation Over the Cana
+A5022501379,Debora Griffin,Physics,Aerodyne Research,US,1,Fire Influence on Regional to Global Environments and Air Quality (FIREX‐AQ)
+A5022501379,Debora Griffin,Physics,Ionicon Analytik (Austria),AT,1,Airborne Emission Rate Measurements Validate Remote Sensing Observations and Emission Inventories of
+A5022501379,Debora Griffin,Physics,Adnet Systems (United States),US,1,Version 1 NOAA-20/OMPS Nadir Mapper total column SO 2 product: continuation of NASA long-term global
+A5022501379,Debora Griffin,Physics,3v Geomatics (Canada),CA,1,"Retrieval of NO 2 profiles from 3 years of Pandora MAX-DOAS measurements in Toronto, Canada"
+A5022501379,Debora Griffin,Physics,ABB (Canada),CA,1,Probing Atmospheric Composition over Canada using Ground-based FTIR Spectroscopy
+A5064232785,Nicolas Grisouard,Physics,Autodesk (United States),US,1,A Deep Learning Approach to Extract Internal Tides Scattered by Geostrophic Turbulence
+A5051083209,David Hathcock,Physics,IBM (United States),US,1,Phase transitions beyond criticality: extending Ising universal scaling functions to describe entire
+A5033447468,Philip Joseph Heron,Physics,BP (United Kingdom),GB,1,Segmentation of Rifts Through Structural Inheritance: Creation of the Davis Strait
+A5074594387,Sajeev John,Physics,Core Competence,US,1,Weak localization of photons: Termination of coherent random walks by absorption and confined geomet
+A5074594387,Sajeev John,Physics,Raith (Germany),DE,1,Sculpturing of photonic crystals by ion beam lithography: towards complete photonic bandgap at visib
+A5074594387,Sajeev John,Physics,IX-Factory (Germany),DE,1,Light-trapping optimization in wet-etched silicon photonic crystal solar cells
+A5074594387,Sajeev John,Physics,Infineon Technologies (Germany),DE,1,Attenuation of optical transmission within the band gap of thin two-dimensional macroporous silicon 
+A5032751311,Dylan Jones,Physics,BP (United States),US,1,Improved estimate of the policy-relevant background ozone in the United States using the GEOS-Chem g
+A5032751311,Dylan Jones,Physics,IM Systems (United States),US,1,Quantifying CO emissions from boreal wildfires by assimilating TROPOMI and TCCON observations
+A5032751311,Dylan Jones,Physics,FastOpt (Germany),DE,1,Iconic CO 2 Time Series at Risk
+A5032751311,Dylan Jones,Physics,ABB (Canada),CA,1,Probing Atmospheric Composition over Canada using Ground-based FTIR Spectroscopy
+A5032751311,Dylan Jones,Physics,Adnet Systems (United States),US,1,"Impactful Datasets in Earth, Space, and Environmental Sciences: Highlighting the Data That Transform"
+A5032751311,Dylan Jones,Physics,Shell (United Kingdom),GB,1,"Impactful Datasets in Earth, Space, and Environmental Sciences: Highlighting the Data That Transform"
+A5052881776,Stephen R. Julian,Physics,Atomic Energy (Canada),CA,1,Mössbauer spectroscopy of iron implanted and doped in ZrO2
+A5108821003,Yonatan Kahn,Physics,Salesforce (United States),US,1,Topological obstructions to autoencoding
+A5065238882,Hae-Young Kee,Physics,Canadian Light Source (Canada),CA,1,α−RuCl3 : A spin-orbit assisted Mott insulator on a honeycomb lattice
+A5043066579,Yong Baek Kim,Physics,AT&T (United States),US,1,Edge states of integral quantum Hall states versus edge states of antiferromagnetic quantum spin cha
+A5043066579,Yong Baek Kim,Physics,Alcatel-Lucent (France),FR,1,Anomalous Hall Effect in Double Exchange Magnets
+A5041348953,Paul Kushner,Physics,Adnet Systems (United States),US,1,Winter Arctic sea ice thickness from ICESat-2: upgrades to freeboard and snow loading estimates and 
+A5041348953,Paul Kushner,Physics,Rhodium Group (United States),US,1,Separating the Influences of Low-Latitude Warming and Sea Ice Loss on Northern Hemisphere Climate Ch
+A5041348953,Paul Kushner,Physics,Science Systems and Applications (United States),US,1,Comparing multi-model ensemble simulations with observations and decadal projections of upper atmosp
+A5041348953,Paul Kushner,Physics,Science and Technology Corporation (United States),US,1,Comparing multi-model ensemble simulations with observations and decadal projections of upper atmosp
+A5041348953,Paul Kushner,Physics,Sofar Ocean (United States),US,1,Earth System Reanalysis in Support of Climate Model Improvements
+A5011884682,Hoi-Kwong Lo,Physics,Cisco Systems (United States),US,1,Fully Passive Quantum Key Distribution
+A5011884682,Hoi-Kwong Lo,Physics,IBM (United States),US,1,Some attacks on quantum-based cryptographic protocols
+A5011884682,Hoi-Kwong Lo,Physics,Huawei Technologies (Germany),DE,1,Space QUEST mission proposal: experimentally testing decoherence due to gravity
+A5011884682,Hoi-Kwong Lo,Physics,Mitsubishi Electric (Japan),JP,1,Quantum key distribution with setting-choice-independently correlated light sources
+A5011884682,Hoi-Kwong Lo,Physics,Toshiba (United Kingdom),GB,1,Information theoretic security of quantum key distribution overcoming the repeaterless secret key ca
+A5011884682,Hoi-Kwong Lo,Physics,NEC (Japan),JP,1,Efficient Quantum Key Distribution
+A5051926511,Peter Love,Physics,Oxagen (United Kingdom),GB,1,Simulations of amphiphilic fluids using mesoscale lattice-Boltzmann and lattice-gas methods
+A5051926511,Peter Love,Physics,Schlumberger (United Kingdom),GB,1,Mesoscale Modeling of Amphiphilic Fluid Dynamics
+A5051926511,Peter Love,Physics,Microsoft (United States),US,1,Basic Energy Sciences Roundtable: Opportunities for Quantum Computing in Chemical and Materials Scie
+A5051926511,Peter Love,Physics,IBM (United States),US,1,Basic Energy Sciences Roundtable: Opportunities for Quantum Computing in Chemical and Materials Scie
+A5051926511,Peter Love,Physics,Evotec (United Kingdom),GB,1,Multiscale Quantum-Classical Simulation of Protein Autoproteolysis in a Million-Atom Membrane Enviro
+A5051926511,Peter Love,Physics,Nvidia (United States),US,1,Multiscale Quantum-Classical Simulation of Protein Autoproteolysis in a Million-Atom Membrane Enviro
+A5051926511,Peter Love,Physics,IQM (Germany),DE,1,Multiscale Quantum-Classical Simulation of Protein Autoproteolysis in a Million-Atom Membrane Enviro
+A5058381129,Kirk Madison,Physics,Southwest Sciences (United States),US,1,Demonstration of magnetically silent optically pumped magnetometers for the TUCAN electric dipole mo
+A5067386110,Guo-Xing Miao,Physics,Anelva Corporation (Japan),JP,1,Inelastic tunneling spectroscopy of magnetic tunnel junctions based on CoFeB∕MgO∕CoFeB with Mg inser
+A5067386110,Guo-Xing Miao,Physics,Samsung (South Korea),KR,1,Magnetic field dependent microwave losses in superconducting niobium microstrip resonators
+A5067386110,Guo-Xing Miao,Physics,Samsung Electronics (South Korea),KR,1,Magnetic field dependent microwave losses in superconducting niobium microstrip resonators
+A5067386110,Guo-Xing Miao,Physics,Canadian Light Source (Canada),CA,1,Flat Band Generation Through Interlayer Geometric Frustration in Intercalated Transition Metal Dicha
+A5079016405,Norman W. Murray,Physics,Surrey Satellite Technology (United Kingdom),GB,1,Euclid
+A5079016405,Norman W. Murray,Physics,OHB (Italy),IT,1,Euclid
+A5055122757,Ray Nassar,Physics,G & A Technical Software (United States),US,1,Atmospheric Chemistry Experiment (ACE): Mission overview
+A5055122757,Ray Nassar,Physics,Science Systems and Applications (United States),US,1,Space‐Based Observations for Understanding Changes in the Arctic‐Boreal Zone
+A5055122757,Ray Nassar,Physics,COM DEV International,CA,1,"PCW/PHEOS-WCA: quasi-geostationary Arctic measurements for weather, climate, and air quality from hi"
+A5108075031,Barth Netterfield,Physics,Thales Alenia Space (France),FR,1,Planckearly results. II. The thermal performance ofPlanck
+A5108075031,Barth Netterfield,Physics,McKinsey & Company (United States),US,1,The QMAP and MAT/TOCO Experiments for Measuring Anisotropy in the Cosmic Microwave Background
+A5108075031,Barth Netterfield,Physics,Sierra Lobo (United States),US,1,Searching for Non-Gaussian Signals in the BOOMERANG 2003 CMB Maps
+A5108075031,Barth Netterfield,Physics,Global Science & Technology (United States),US,1,"Observations of the anisotropy in the cosmic microwave background by the FIRS, SK93, and MSAM-I expe"
+A5051133900,Arun Paramekanti,Physics,Credit Suisse (Switzerland),CH,1,Spiral order by disorder and lattice nematic order in a frustrated Heisenberg antiferromagnet on the
+A5051133900,Arun Paramekanti,Physics,ALBA Synchrotron (Spain),ES,1,Octupolar versus Néel Order in Cubic 5d2 Double Perovskites
+A5051133900,Arun Paramekanti,Physics,Intellectual Ventures (United States),US,1,Coherent helicity-dependent spin-phonon oscillations in the ferromagnetic van der Waals crystal CrI3
+A5080313267,W. Richard Peltier,Physics,Saudi Aramco (United States),US,1,Understanding variability in petroleum jet fuel life cycle greenhouse gas emissions to inform aviati
+A5080313267,W. Richard Peltier,Physics,Saudi Aramco (Saudi Arabia),SA,1,Understanding variability in petroleum jet fuel life cycle greenhouse gas emissions to inform aviati
+A5080313267,W. Richard Peltier,Physics,IBM (Canada),CA,1,Climate change impacts on Great Lakes Basin precipitation extremes
+A5020243437,Ue-Li Pen,Physics,Tokyo Electron Technology Solutions Limited (Japan),JP,1,A ring-like accretion structure in M87 connecting its black hole and jet
+A5020243437,Ue-Li Pen,Physics,IBM (United States),US,1,The persistent shadow of the supermassive black hole of M87
+A5020243437,Ue-Li Pen,Physics,AbCellera (Canada),CA,1,CHIME All-sky Multiday Pulsar Stacking Search (CHAMPSS): System Overview and First Discoveries
+A5029559893,Bart Ripperda,Physics,IBM (United States),US,1,The persistent shadow of the supermassive black hole of M87
+A5029559893,Bart Ripperda,Physics,Avaya (United States),US,1,Charged Particle Motion in Neutron Star Magnetic Fields: A Comparison Between the Boris Algorithm an
+A5074780718,Rhine Samajdar,Physics,Amazon (United States),US,1,Probing topological spin liquids on a programmable quantum simulator
+A5074780718,Rhine Samajdar,Physics,Google (Switzerland),CH,1,Probing topological spin liquids on a programmable quantum simulator
+A5074780718,Rhine Samajdar,Physics,IBM (United States),US,1,Learning Topological States from Randomized Measurements Using Variational Tensor-Network Tomography
+A5055379196,John Sipe,Physics,ExxonMobil (United States),US,1,Brewster Anomalies: A Polarization-Induced Delocalization Effect
+A5055379196,John Sipe,Physics,Corning (United States),US,1,Applications of ultrashort pulse propagation in Bragg gratings for wavelength-division multiplexing 
+A5055379196,John Sipe,Physics,Alcatel Lucent (Germany),DE,1,Distributed feedback pulse generator based on nonlinearfibre grating
+A5055379196,John Sipe,Physics,IBM (United States),US,1,Competition between magnetic-field- and electric-field-induced localizations in GaAs/ Ga0.65 Al0.35 
+A5055379196,John Sipe,Physics,Cambridge Scientific (United States),US,1,Competition between magnetic-field- and electric-field-induced localizations in GaAs/ Ga0.65 Al0.35 
+A5055379196,John Sipe,Physics,Lumerical Solutions (Canada),CA,1,Is photonic crystal technology commercially viable
+A5055379196,John Sipe,Physics,OFS (United States),US,1,"Polarization Effects in Birefringent, Nonlinear, Periodic Media"
+A5049199960,Aephraim M. Steinberg,Physics,IonQ (United States),US,1,Information gain and measurement disturbance for quantum agents
+A5039719211,Kimberly Strong,Physics,Planet Labs PBC (United States),US,1,The OCO‐2 and OCO‐3 ACOS Version 11 XCO 2 Data Products: A Benchmark Record for Space‐Based Global C
+A5039719211,Kimberly Strong,Physics,Spectra Research (United States),US,1,The OCO‐2 and OCO‐3 ACOS Version 11 XCO 2 Data Products: A Benchmark Record for Space‐Based Global C
+A5016566221,Matthew Stukel,Physics,Cisco Systems (United States),US,1,Terrestrial Muon Flux Measurement at Low Energies for Soft Error Studies
+A5021174796,Andrei Swidinsky,Physics,Noble (United States),US,1,On the electromagnetic response of complex pipeline infrastructure
+A5021174796,Andrei Swidinsky,Physics,Shell (United Kingdom),GB,1,"A Method of Moments Solution to the Conductive Steel Casing Problem - Theory, Validation and Model S"
+A5021174796,Andrei Swidinsky,Physics,Glencore (Canada),CA,1,The interferographic TEM (ITEM) method: Array beamforming for TEM field compaction and resolution im
+A5105345855,Richard Teuscher,Physics,Hamamatsu Photonics (Japan),JP,1,Design of the first full size ATLAS ITk strip sensor for the endcap region
+A5049368928,Chris Thompson,Physics,ConocoPhillips (United States),US,1,"Predictions of Droplet Distribution in Low Liquid Loading, Stratified Flow in a Large Diameter Pipel"
+A5049368928,Chris Thompson,Physics,Babcock International Group (United Kingdom),GB,1,Evaluation of signal disturbance and recovery in phased array ultrasonic inspection during welding
+A5049368928,Chris Thompson,Physics,Thermo Fisher Scientific (United States),US,1,Automated Extraction and Quantification of Immunosuppressants and Anticonvulsants from Dried Blood S
+A5049368928,Chris Thompson,Physics,IBM (United States),US,1,A dynamically adaptive multigrid algorithm for the incompressible Navier-Stokes equations—validation
+A5049368928,Chris Thompson,Physics,Bristol-Myers Squibb (United States),US,1,Concerted Application of LC–MS and Ligand Binding Assays to Better Understand Exposure of a Large Mo
+A5049368928,Chris Thompson,Physics,Pharmaceutical Product Development (United States),US,1,Concerted Application of LC–MS and Ligand Binding Assays to Better Understand Exposure of a Large Mo
+A5049368928,Chris Thompson,Physics,Hughes Aircraft (United States),US,1,Ada type interchange—moving data between platforms
+A5049368928,Chris Thompson,Physics,Rolls-Royce (United Kingdom),GB,1,Intelligent Recognition: Components of the Short‐Time Fourier Transform Vs. Conventional Approaches
+A5049368928,Chris Thompson,Physics,Origin Energy (Australia),AU,1,The Portfolio Planning and Ranking (PPR) project
+A5020646783,Joseph Thywissen,Physics,John Wiley & Sons (Germany),DE,1,Interactions in Ultracold Gases
+A5020646783,Joseph Thywissen,Physics,Thales (France),FR,1,Coherence length of an elongated condensate
+A5020646783,Joseph Thywissen,Physics,Motorola (United States),US,1,Microfabrication of two layer structures of electrically isolated wires using self-assembly to guide
+A5020646783,Joseph Thywissen,Physics,Ontario Power Generation,CA,1,Fermions on Atom Chips
+A5020646783,Joseph Thywissen,Physics,Entanglement Technologies (United States),US,1,Fermions on Atom Chips
+A5020646783,Joseph Thywissen,Physics,Morgan Solar (Canada),CA,1,Fermions on Atom Chips
+A5107840239,William Trischuk,Physics,Element Six (United Kingdom),GB,1,Charge-carrier properties in synthetic single-crystal diamond measured with the transient-current te
+A5107840239,William Trischuk,Physics,Saint-Gobain (United States),US,1,First measurements with a diamond microstrip detector
+A5049144785,Keith Vanderlinde,Physics,General Dynamics (United States),US,1,The 10 Meter South Pole Telescope
+A5049144785,Keith Vanderlinde,Physics,D-Wave Systems (Canada),CA,1,Frequency multiplexed superconducting quantum interference device readout of large bolometer arrays 
+A5049144785,Keith Vanderlinde,Physics,McKinsey & Company (United States),US,1,New Measurements of Fine‐Scale CMB Polarization Power Spectra from CAPMAP at Both 40 and 90 GHz
+A5002276197,Felix Vogel,Physics,EURECAT Centre Tecnològic de Catalunya,ES,1,Ground-Based Mobile Measurements to Track Urban Methane Emissions from Natural Gas in 12 Cities acro
+A5002276197,Felix Vogel,Physics,Suez (France),FR,1,Detection and long-term quantification of methane emissions from an active landfill
+A5002276197,Felix Vogel,Physics,Total (France),FR,1,Detection and long-term quantification of methane emissions from an active landfill
+A5002276197,Felix Vogel,Physics,SenseAir (Sweden),SE,1,Characterization of a commercial lower-cost medium-precision non-dispersive infrared sensor for atmo
+A5002276197,Felix Vogel,Physics,Harris (United States),US,1,Demonstration of spatial greenhouse gas mapping using laser absorption spectrometers on local scales
+A5002276197,Felix Vogel,Physics,Aerodyne Research,US,1,From hotspots to background: High-resolution mapping of ethylene oxide in urban air
+A5002276197,Felix Vogel,Physics,Earth Networks (United States),US,1,A multi-city urban atmospheric greenhouse gas measurement data synthesis
+A5002276197,Felix Vogel,Physics,Sigma Space (United States),US,1,Progress Toward an Integrated Global Greenhouse Gas Information System (IG3IS)
+A5071107014,Kaley Walker,Physics,Lockheed Martin (United States),US,1,"High Resolution Dynamics Limb Sounder: Experiment overview, recovery, and validation of initial temp"
+A5071107014,Kaley Walker,Physics,Earth Resources Technology (United States),US,1,"High Resolution Dynamics Limb Sounder: Experiment overview, recovery, and validation of initial temp"
+A5071107014,Kaley Walker,Physics,Schneider Electric (France),FR,1,"Past changes in the vertical distribution of ozone – Part 1: Measurement techniques, uncertainties a"
+A5071107014,Kaley Walker,Physics,"SYSTEMS Engineering Consultants Co., Ltd. (Japan)",JP,1,Validation of ozone data from the Superconducting Submillimeter‐Wave Limb‐Emission Sounder (SMILES)
+A5071107014,Kaley Walker,Physics,Meteotest (Switzerland),CH,1,Validation of water vapour profiles (version 13) retrieved by the IMK/IAA scientific retrieval proce
+A5071107014,Kaley Walker,Physics,Airbus (France),FR,1,EE-11 candidate mission CAIRT: an overview of the Phase 0 and A System studies
+A5071107014,Kaley Walker,Physics,OHB (Germany),DE,1,EE-11 candidate mission CAIRT: an overview of the Phase 0 and A System studies
+A5065484071,Chen Wang,Physics,Westinghouse Electric (United States),US,1,A modular straw drift tube tracking system for the Solenoidal Detector Collaboration experiment Part
+A5008456975,John Y.T. Wei,Physics,Canadian Light Source (Canada),CA,1,Discovery of charge order in a cuprate Mott insulator
+A5002463605,Mathew Wells,Physics,Equinor (Norway),NO,1,Global (latitudinal) variation in submarine channel sinuosity: REPLY
+A5002463605,Mathew Wells,Physics,Minnow Environmental (Canada),CA,1,"Wash-zone dynamics of the thermocline in Lake Simcoe, Ontario"
+A5009856903,Cynthia Whaley,Physics,Fujitsu FIP (Japan),JP,1,"Observed and simulated time evolution of HCl, ClONO 2 , and HF total column abundances"
+A5009856903,Cynthia Whaley,Physics,Scientific Aviation (United States),US,1,Arctic tropospheric ozone: assessment of current knowledge and model performance
+A5009856903,Cynthia Whaley,Physics,ABB (Canada),CA,1,Probing Atmospheric Composition over Canada using Ground-based FTIR Spectroscopy
+A5004290683,Nathan Wiebe,Physics,QuEra Computing (United States),US,1,Quantum Simulation for High-Energy Physics
+A5004290683,Nathan Wiebe,Physics,IonQ (United States),US,1,Quantum Simulation for High-Energy Physics
+A5004290683,Nathan Wiebe,Physics,Mitre (United States),US,1,Quantum Simulation for High-Energy Physics
+A5004290683,Nathan Wiebe,Physics,Boehringer Ingelheim (China),CN,1,Drug design on quantum computers
+A5004290683,Nathan Wiebe,Physics,Nvidia (United States),US,1,Drug design on quantum computers
+A5004290683,Nathan Wiebe,Physics,BASF (Germany),DE,1,Drug design on quantum computers
+A5004290683,Nathan Wiebe,Physics,KBR (United States),US,1,Real-Time Evolution for Ultracompact Hamiltonian Eigenstates on Quantum Hardware
+A5004290683,Nathan Wiebe,Physics,"ColdQuanta, Inc., DBA Infleqtion (United States)",US,1,"Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields"
+A5004290683,Nathan Wiebe,Physics,CMC Microsystems (Canada),CA,1,Gate-based quantum computing for protein design
+A5004290683,Nathan Wiebe,Physics,Pasqal (France),FR,1,Quantum model learning agent: characterisation of quantum systems through machine learning
+A5004290683,Nathan Wiebe,Physics,Amazon (United States),US,1,Error-Corrected QRAM Queries with One-Fault-Tolerant \texttt{CSWAP} Gates
+A5080602355,Brian Wilson,Physics,Thorlabs (United States),US,1,Speckle variance detection of microvasculature using swept-source optical coherence tomography
+A5080602355,Brian Wilson,Physics,Guided Therapeutics (United States),US,1,Stable J-aggregation enabled dual photoacoustic and fluorescence nanoparticles for intraoperative ca
+A5080602355,Brian Wilson,Physics,Johnson Matthey (United States),US,1,The photophysical properties of a ruthenium-substituted phthalocyanine
+A5080602355,Brian Wilson,Physics,Ibule Photonics (South Korea),KR,1,"A prototype hand-held tri-modal instrument for in vivo ultrasound, photoacoustic, and fluorescence i"
+A5080602355,Brian Wilson,Physics,Bombardier (Canada),CA,1,Improved sensitivity to fluorescence for cancer detection in wide-field image-guided neurosurgery
+A5080602355,Brian Wilson,Physics,Samsung Electronics (South Korea),KR,1,"Real‐Time, AI ‐Guided Photodynamic Laparoscopy Enhances Detection in a Rabbit Model of Peritoneal Ca"
+A5080602355,Brian Wilson,Physics,Huron Technologies (Canada),CA,1,A 2D MEMS mirror with sidewall electrodes applied for confocal MACROscope imaging
+A5080602355,Brian Wilson,Physics,Siemens (United States),US,1,Local Integration of Commercially Available Intra-operative MR-scanner and Neurosurgical Guidance fo
+A5020681167,Debra Wunch,Physics,Analytical Mechanics Associates (United States),US,1,The Total Carbon Column Observing Network's GGG2020 data version
+A5020681167,Debra Wunch,Physics,FastOpt (Germany),DE,1,The Greenhouse Gas Climate Change Initiative (GHG-CCI): Comparison and quality assessment of near-su
+A5020681167,Debra Wunch,Physics,EURECAT Centre Tecnològic de Catalunya,ES,1,Ground-Based Mobile Measurements to Track Urban Methane Emissions from Natural Gas in 12 Cities acro
+A5020681167,Debra Wunch,Physics,IM Systems (United States),US,1,Quantifying CO emissions from boreal wildfires by assimilating TROPOMI and TCCON observations
+A5020681167,Debra Wunch,Physics,ABB (Canada),CA,1,Solar Occultation FTIR Spectrometry at Mars for Trace Gas Detection: A Sensitivity Study
+A5020681167,Debra Wunch,Physics,Cube Technology (United States),US,1,Corrigendum to ‘A U.S. scientific community review of carbon cycle science gaps and opportunities to
+A5020681167,Debra Wunch,Physics,Adnet Systems (United States),US,1,"Impactful Datasets in Earth, Space, and Environmental Sciences: Highlighting the Data That Transform"
+A5020681167,Debra Wunch,Physics,Shell (United Kingdom),GB,1,"Impactful Datasets in Earth, Space, and Environmental Sciences: Highlighting the Data That Transform"
+A5020681167,Debra Wunch,Physics,Planet Labs PBC (United States),US,1,The OCO‐2 and OCO‐3 ACOS Version 11 XCO 2 Data Products: A Benchmark Record for Space‐Based Global C
+A5020681167,Debra Wunch,Physics,Spectra Research (United States),US,1,The OCO‐2 and OCO‐3 ACOS Version 11 XCO 2 Data Products: A Benchmark Record for Space‐Based Global C

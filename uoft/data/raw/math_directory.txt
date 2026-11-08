@@ -1,0 +1,109 @@
+# Source: https://www.mathematics.utoronto.ca/people/directories/all-faculty (read in a regular browser 2026-11-08; role filters)
+#Teaching-Stream Faculty (St. George)
+Elisa Bellah|AsstP, TS
+Cindy Blois|AssocP, TS
+Kyle Bower|AsstP, TS
+Amenda Chow|AssocP, TS
+Xiaoyue Cui|AsstP, TS (CLTA)
+Bernardo Galvão-Sousa|AssocP, TS
+Soheil Homayouni|AsstP, TS
+Kennedy Idu|AsstP, TS
+Nara Jung|AsstP, TS
+Camelia Karimianpour|AsstP, TS
+Dimitrios Karslidis|AsstP, TS (CLTA)
+Maximilian Klambauer|AsstP, TS
+Jonathan Korman|AssocP, TS
+Sarah Mayes-Tang|AssocP, TS
+Geoffrey McGregor|AsstP, TS
+Fabian Parsch|AssocP, TS
+Pam Sargent|AsstP, TS
+Lindsey Shorser|AsstP, TS
+Jason Siefken|AssocP, TS
+Sean Uppal|AsstP, TS
+Stan Yoshinobu|P, TS and Associate Chair (Undergraduate Studies)
+Asif Zaman|AssocP, TS
+#Tenure-Stream Faculty (St. George)
+Spyros Alexakis|P
+Paul Apisa|AsstP
+Dror Bar-Natan|P
+Alexander Braverman|P
+Almut Burchard|P
+Tristan Collins|AssocP
+George Elliott|P, Canada Research Chair, FRSC
+Benjamin Gammage|AsstP
+Mathilde Gerbelli-Gauthier|AsstP
+Lior Gishboliner|AsstP
+Marco Gualtieri|P and Associate Chair (Graduate Studies)
+Florian Herzig|P
+Victor Ivrii|P, FRSC
+Robert Jerrard|P, FRSC
+Vitali Kapovitch|P
+Boris Khesin|P
+Askold Khovanskii|P, FRSC
+Henry Kim|P
+Swastik Kopparty|P
+Stephen Kudla|P, FRSC
+Benjamin Landon|AsstP
+Daniel Litt|AsstP
+Fedor (Fedya) Manin|AssocP
+Robert McCann|P, CRC Chair, FRSC
+Eckhard Meinrenken|P, FRSC
+Kumar Murty|P, FRSC
+Alexander Nabutovsky|P
+Adrian Nachman|P, FRSC
+Sebastián Olano|AsstP (CLTA)
+Wenyu Pan|AsstP
+Dmitry Panchenko|P and Associate Chair (Research)
+Vardan Papyan|Associate P
+Mary Pugh|P, Chair and Graduate Chair
+Fabio Pusateri|AssocP
+Jeremy Quastel|University P, FRSC
+Kasra Rafi|P
+Regina Rotman|P
+Nick Rozenblyum|AssocP
+Shubhangi Saraf|P
+Kirill Serkh|AssocP
+I. Michael Sigal|University P, Robertson Chair, FRSC
+Hunter Spink|AsstP
+Adam Stinchcombe|AssocP
+Catherine Sulem|P, FRSC
+Freid Tong|AsstP
+Jacob Tsimerman|P, FRSC
+Ignacio Uriarte-Tuero|P
+Maxime Van De Moortel|AsstP
+Ila Varma|AssocP
+#Tenure-Stream Faculty (UTM)
+Ilia Binder|P
+Duncan Dauvergne|AsstP
+Jacopo De Simoi|P
+Julie Desjardins|AsstP
+Michael Groechenig|P
+Konstantin Khanin|P
+Yevgeny Liokumovich|AssocP
+Myrto Mavraki|AsstP
+Emmy Murphy|P
+Luis Seco|P
+Arul Shankar|P
+Yakov Shlapentokh-Rothman|AsstP
+Vasu Tewari|AsstP (CLTA)
+Spencer Unger|AssocP
+Michael Yampolsky|P
+Ke Zhang|P
+#Tenure-Stream Faculty (UTSC)
+Toni Annala|AsstP
+Stefanos Aretakis|AssocP
+Nikolay Bogachev|AsstP (CLTA)
+James Bremer|P
+Elden Elmanto|AsstP
+Robert Haslhofer|P
+Lisa Jeffrey|P, FRSC
+Alexander Kupers|AssocP
+Giulio Tiozzo|P
+Bálint Virág|P, FRSC
+Vadim Vologodsky|P
+#Cross-Appointed Faculty
+Eitan Grinspun|P (CS)
+Alec Jacobson|AsstP (CS)
+Jude Kong|AsstP (School of Public Health)
+Michael Molloy|P (CS)
+Piotr Zwiernik|AssocP (Stats)
