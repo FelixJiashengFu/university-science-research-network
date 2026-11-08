@@ -9,13 +9,13 @@ I142108993,Southwest University,29.560260772705078,106.55770874023438,Chongqing,
 I113940042,Shanghai University,31.222219467163086,121.45806121826172,Shanghai,,CN,10
 I24185976,Sichuan University,30.66667,104.06667,Chengdu,Sichuan,CN,10
 I25254941,Beijing Normal University,39.9075,116.39723,Beijing,Beijing,CN,8
-I27357992,Dalian University of Technology,38.9122200012207,121.60221862792969,Dalian,,CN,7
 I75390827,Beijing University of Chemical Technology,39.9075,116.39723,Beijing,Beijing,CN,7
 I183067930,Shanghai Jiao Tong University,31.22222,121.45806,Shanghai,Shanghai,CN,7
 I36399199,Nanjing University of Science and Technology,32.06167,118.77778,Nanjing,Jiangsu,CN,7
 I173899330,Henan University,34.79859924316406,114.30741882324219,Kaifeng,,CN,6
 I17145004,Northwestern Polytechnical University,34.258331298828125,108.9286117553711,Xi'an,,CN,6
 I16609230,Hunan University,28.19874,112.97087,Changsha,Hunan,CN,6
+I27357992,Dalian University of Technology,38.9122200012207,121.60221862792969,Dalian,,CN,6
 I181877577,Shanxi University,37.86944,112.56028,Taiyuan,Shanxi,CN,6
 I258800397,New York University Shanghai,31.222219467163086,121.45806121826172,Shanghai,,CN,5
 I177725633,Chinese University of Hong Kong,22.27832,114.17469,Hong Kong,,HK,5
@@ -56,6 +56,7 @@ I182707071,Ludong University,37.47649,121.44081,Yantai,Shandong,CN,3
 I87445476,Xi'an Jiaotong University,34.25833,108.92861,Xi'an,Shaanxi,CN,3
 I204553293,"China University of Petroleum, Beijing",39.9075,116.39723,Beijing,Beijing,CN,3
 I167027274,Nanjing Forestry University,32.06167,118.77778,Nanjing,Jiangsu,CN,3
+I76569877,Southeast University,32.06167,118.77778,Nanjing,Jiangsu,CN,2
 I4210155088,Institute of Chemistry,39.9075,116.39723,Beijing,Beijing,CN,2
 I134052481,Harbin Normal University,45.75,126.65,Harbin,Heilongjiang,CN,2
 I4210090176,Institute of Computing Technology,39.9075,116.39723,Beijing,Beijing,CN,2
@@ -184,7 +185,6 @@ I27781120,Wenzhou Medical University,27.99942,120.66682,Wenzhou,Zhejiang,CN,1
 I154893126,Guizhou Normal University,26.583330154418945,106.71666717529297,Guiyang,,CN,1
 I10535382,Chongqing University of Posts and Telecommunications,29.56026,106.55771,Chongqing,Chongqing,CN,1
 I148128674,University of Shanghai for Science and Technology,31.22222,121.45806,Shanghai,Shanghai,CN,1
-I76569877,Southeast University,32.06167,118.77778,Nanjing,Jiangsu,CN,1
 I4210136047,Weifang University of Science and Technology,36.709999084472656,119.10193634033203,Weifang,,CN,1
 I3133055985,Westlake University,30.293649673461914,120.16142272949219,Hangzhou,,CN,1
 I4405263052,Tsinghua Shenzhen International Graduate School,22.54554,114.0683,Shenzhen,Guangdong,CN,1

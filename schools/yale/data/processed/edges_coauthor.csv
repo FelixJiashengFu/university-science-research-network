@@ -1,0 +1,112 @@
+a,b,a_name,b_name,shared_works,large_collab_works
+A5003543257,A5012867203,Sohrab Ismail-Beigi,John Sous,1,0
+A5003543257,A5013623888,Sohrab Ismail-Beigi,Owen Miller,1,0
+A5003543257,A5018362554,Sohrab Ismail-Beigi,Charles Ahn,85,0
+A5003543257,A5032729465,Sohrab Ismail-Beigi,Logan Wright,1,0
+A5003543257,A5055038010,Sohrab Ismail-Beigi,David Poland,1,0
+A5003543257,A5062018362,Sohrab Ismail-Beigi,Yu He,8,0
+A5003543257,A5062709693,Sohrab Ismail-Beigi,Nilay Hazari,1,0
+A5003543257,A5064040856,Sohrab Ismail-Beigi,Gary Brudvig,1,0
+A5007440199,A5017158416,Jack Harris,Charles Brown,10,0
+A5007440199,A5022583741,Jack Harris,Konrad Lehnert,1,0
+A5007440199,A5024414185,Jack Harris,Shruti Puri,2,0
+A5007440199,A5056975686,Jack Harris,Reina Maruyama,1,0
+A5007440199,A5064806572,Jack Harris,Peter Rakich,3,0
+A5007440199,A5085325248,Jack Harris,David Moore,1,0
+A5007440199,A5108292806,Jack Harris,Nicholas Read,3,0
+A5008418985,A5055359361,Benjamin Machta,Michael Murrell,1,0
+A5008486123,A5014330086,Marla Geha,Priyamvada Natarajan,1,0
+A5008486123,A5054431009,Marla Geha,Nikhil Padmanabhan,2,0
+A5008486123,A5066316052,Marla Geha,Pieter van Dokkum,3,0
+A5009175477,A5062709693,Mingjiang Zhong,Nilay Hazari,1,0
+A5009388223,A5013623888,Vladimir Rokhlin,Owen Miller,1,0
+A5009388223,A5110436903,Vladimir Rokhlin,Ronald Coifman,10,0
+A5012406363,A5037787121,Jon Ellman,James Mayer,10,0
+A5012660081,A5062671923,Jeffrey Brock,Yair Minsky,7,0
+A5012867203,A5013623888,John Sous,Owen Miller,1,0
+A5012867203,A5032729465,John Sous,Logan Wright,1,0
+A5012867203,A5055038010,John Sous,David Poland,1,0
+A5012867203,A5062018362,John Sous,Yu He,2,0
+A5013623888,A5024414185,Owen Miller,Shruti Puri,1,0
+A5013623888,A5032729465,Owen Miller,Logan Wright,1,0
+A5013623888,A5055038010,Owen Miller,David Poland,1,0
+A5013623888,A5062018362,Owen Miller,Yu He,1,0
+A5014330086,A5025149406,Priyamvada Natarajan,Daisuke Nagai,5,0
+A5014330086,A5044794137,Priyamvada Natarajan,Paolo Coppi,7,0
+A5014330086,A5054431009,Priyamvada Natarajan,Nikhil Padmanabhan,1,0
+A5014330086,A5057355965,Priyamvada Natarajan,Chiara Mingarelli,10,0
+A5014330086,A5058110839,Priyamvada Natarajan,Laura Newburgh,1,0
+A5014330086,A5066316052,Priyamvada Natarajan,Pieter van Dokkum,7,0
+A5017158416,A5079525186,Charles Brown,Sean Barrett,1,0
+A5017158416,A5105770327,Charles Brown,Karsten Heeger,1,0
+A5018028906,A5055878366,Jason M. Crawford,Seth Herzon,17,0
+A5018028906,A5089129603,Jason M. Crawford,Victor Batista,2,0
+A5018028906,A5101539014,Jason M. Crawford,David Spiegel,2,0
+A5018362554,A5062018362,Charles Ahn,Yu He,5,0
+A5018362554,A5064806572,Charles Ahn,Peter Rakich,1,0
+A5022283101,A5029597992,Mark Johnson,Patrick Holland,11,0
+A5022283101,A5037787121,Mark Johnson,James Mayer,1,0
+A5022283101,A5062709693,Mark Johnson,Nilay Hazari,1,0
+A5022283101,A5064040856,Mark Johnson,Gary Brudvig,1,0
+A5022583741,A5056975686,Konrad Lehnert,Reina Maruyama,3,0
+A5022583741,A5084929692,Konrad Lehnert,Robert Schoelkopf,13,0
+A5022583741,A5085325248,Konrad Lehnert,David Moore,1,0
+A5024414185,A5064806572,Shruti Puri,Peter Rakich,3,0
+A5024414185,A5084929692,Shruti Puri,Robert Schoelkopf,9,0
+A5025149406,A5044794137,Daisuke Nagai,Paolo Coppi,1,0
+A5025149406,A5058110839,Daisuke Nagai,Laura Newburgh,2,0
+A5025149406,A5066316052,Daisuke Nagai,Pieter van Dokkum,2,0
+A5029597992,A5037787121,Patrick Holland,James Mayer,20,0
+A5029597992,A5052874755,Patrick Holland,Hailiang Wang,2,0
+A5029597992,A5064040856,Patrick Holland,Gary Brudvig,1,0
+A5029597992,A5089129603,Patrick Holland,Victor Batista,1,0
+A5032729465,A5055038010,Logan Wright,David Poland,1,0
+A5032729465,A5062018362,Logan Wright,Yu He,1,0
+A5034101678,A5038038703,Caitlin Davis,Tianyu Zhu,5,0
+A5034101678,A5041408659,Caitlin Davis,Amymarie Bartholomew,6,0
+A5034101678,A5089129603,Caitlin Davis,Victor Batista,3,0
+A5037787121,A5041408659,James Mayer,Amymarie Bartholomew,7,0
+A5037787121,A5052874755,James Mayer,Hailiang Wang,4,0
+A5037787121,A5055878366,James Mayer,Seth Herzon,1,0
+A5037787121,A5062709693,James Mayer,Nilay Hazari,11,0
+A5037787121,A5064040856,James Mayer,Gary Brudvig,9,0
+A5038038703,A5041408659,Tianyu Zhu,Amymarie Bartholomew,5,0
+A5041408659,A5062709693,Amymarie Bartholomew,Nilay Hazari,3,0
+A5041914961,A5076898136,Timothy Newhouse,J. Patrick Loria,3,0
+A5041914961,A5089129603,Timothy Newhouse,Victor Batista,6,0
+A5041914961,A5101539014,Timothy Newhouse,David Spiegel,1,0
+A5044171015,A5076898136,Sarah Slavoff,J. Patrick Loria,2,0
+A5044794137,A5057355965,Paolo Coppi,Chiara Mingarelli,1,0
+A5044794137,A5066316052,Paolo Coppi,Pieter van Dokkum,6,0
+A5044794137,A5085325248,Paolo Coppi,David Moore,1,0
+A5044794137,A5108187959,Paolo Coppi,Charles Bailyn,10,0
+A5049406437,A5049440760,Witold Skiba,Walter Goldberger,5,0
+A5052874755,A5062709693,Hailiang Wang,Nilay Hazari,4,0
+A5052874755,A5064040856,Hailiang Wang,Gary Brudvig,22,0
+A5052874755,A5089129603,Hailiang Wang,Victor Batista,15,0
+A5054174931,A5107843387,Ian Moult,Sarah Demers,1,0
+A5055038010,A5062018362,David Poland,Yu He,1,0
+A5055878366,A5089129603,Seth Herzon,Victor Batista,3,0
+A5056975686,A5085325248,Reina Maruyama,David Moore,1,0
+A5056975686,A5105770327,Reina Maruyama,Karsten Heeger,91,0
+A5058110839,A5107843387,Laura Newburgh,Sarah Demers,1,0
+A5062671923,A5103051033,Yair Minsky,Hee Oh,3,0
+A5062709693,A5064040856,Nilay Hazari,Gary Brudvig,58,0
+A5062709693,A5089129603,Nilay Hazari,Victor Batista,6,0
+A5064040856,A5069830262,Gary Brudvig,Patrick Vaccaro,1,0
+A5064040856,A5089129603,Gary Brudvig,Victor Batista,152,0
+A5064806572,A5084929692,Peter Rakich,Robert Schoelkopf,12,0
+A5066316052,A5085325248,Pieter van Dokkum,David Moore,1,0
+A5066316052,A5108187959,Pieter van Dokkum,Charles Bailyn,1,0
+A5069830262,A5084929692,Patrick Vaccaro,Robert Schoelkopf,2,0
+A5069830262,A5089129603,Patrick Vaccaro,Victor Batista,3,0
+A5076898136,A5079525186,J. Patrick Loria,Sean Barrett,4,0
+A5076898136,A5089129603,J. Patrick Loria,Victor Batista,19,0
+A5076898136,A5104546174,J. Patrick Loria,Kurt Zilm,2,0
+A5079525186,A5104546174,Sean Barrett,Kurt Zilm,2,0
+A5079525186,A5105770327,Sean Barrett,Karsten Heeger,1,0
+A5084929692,A5089129603,Robert Schoelkopf,Victor Batista,2,0
+A5089129603,A5104546174,Victor Batista,Kurt Zilm,1,0
+A5105764616,A5105770327,Helen Caines,Karsten Heeger,1,0
+A5105770327,A5107843387,Karsten Heeger,Sarah Demers,1,0
+A5108292806,A5110833054,Nicholas Read,Ramamurti Shankar,1,0

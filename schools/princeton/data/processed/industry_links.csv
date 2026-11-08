@@ -1,0 +1,885 @@
+openalex_id,name,dept,company_id,company,country,joint_works
+A5042307561,H. Vincent Poor,Mathematics,I4405253225,Mitsubishi Electric Research Laboratories (United States),US,59
+A5042307561,H. Vincent Poor,Mathematics,I4210087596,Qualcomm (United States),US,36
+A5042307561,H. Vincent Poor,Mathematics,I4210123571,Huawei Technologies (France),FR,12
+A5042307561,H. Vincent Poor,Mathematics,I1283103587,AT&T (United States),US,10
+A5042307561,H. Vincent Poor,Mathematics,I4387152414,Alcatel-Lucent (United States),US,8
+A5042307561,H. Vincent Poor,Mathematics,I4387152956,Alcatel-Lucent (France),FR,6
+A5042307561,H. Vincent Poor,Mathematics,I1324840837,Hewlett-Packard (United States),US,6
+A5042307561,H. Vincent Poor,Mathematics,I4405259277,Samsung Electronics (South Korea),KR,6
+A5042307561,H. Vincent Poor,Mathematics,I1290206253,Microsoft (United States),US,5
+A5042307561,H. Vincent Poor,Mathematics,I1306339040,Ericsson (Sweden),SE,5
+A5042307561,H. Vincent Poor,Mathematics,I2250955327,Huawei Technologies (China),CN,5
+A5042307561,H. Vincent Poor,Mathematics,I4210137693,Siemens (United States),US,4
+A5042307561,H. Vincent Poor,Mathematics,I4210149358,Nokia (France),FR,4
+A5042307561,H. Vincent Poor,Mathematics,I2738502077,Nokia (Finland),FI,3
+A5042307561,H. Vincent Poor,Mathematics,I4210139236,Ericsson (United States),US,3
+A5042307561,H. Vincent Poor,Mathematics,I4405274904,China Mobile Research Institute,CN,3
+A5042307561,H. Vincent Poor,Mathematics,I4210086503,ABB (Sweden),SE,3
+A5042307561,H. Vincent Poor,Mathematics,I19370010,Orange (France),FR,3
+A5042307561,H. Vincent Poor,Mathematics,I4210144877,Barron Associates (United States),US,3
+A5042307561,H. Vincent Poor,Mathematics,I133958730,Energinet (Denmark),DK,3
+A5042307561,H. Vincent Poor,Mathematics,I40713646,Goldman Sachs (United States),US,3
+A5042307561,H. Vincent Poor,Mathematics,I4210148979,MediaTek (Taiwan),TW,2
+A5042307561,H. Vincent Poor,Mathematics,I1341412227,IBM (United States),US,2
+A5042307561,H. Vincent Poor,Mathematics,I2250650973,Samsung (South Korea),KR,2
+A5042307561,H. Vincent Poor,Mathematics,I17442442,State Grid Corporation of China (China),CN,2
+A5042307561,H. Vincent Poor,Mathematics,I4210115038,Huawei Technologies (Canada),CA,2
+A5042307561,H. Vincent Poor,Mathematics,I4210165686,Lockheed Martin Orincon (United States),US,2
+A5042307561,H. Vincent Poor,Mathematics,I4210133125,Mitsubishi Electric (Japan),JP,2
+A5042307561,H. Vincent Poor,Mathematics,I4210164937,Microsoft Research (United Kingdom),GB,2
+A5042307561,H. Vincent Poor,Mathematics,I1295339012,Boeing (United States),US,2
+A5042307561,H. Vincent Poor,Mathematics,I180662265,China Mobile (China),CN,2
+A5042307561,H. Vincent Poor,Mathematics,I2948394018,Northrop Grumman (United States),US,2
+A5042307561,H. Vincent Poor,Mathematics,I2818286,LG (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I131787340,Seagate (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I4210165591,Network Group (Czechia),CZ,1
+A5042307561,H. Vincent Poor,Mathematics,I4387154912,United Technologies (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I4387153335,China Telecom,CN,1
+A5042307561,H. Vincent Poor,Mathematics,I56303344,Aselsan (Turkey),TR,1
+A5042307561,H. Vincent Poor,Mathematics,I1330063522,Johnson & Johnson (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I4210136903,Airbus (Germany),DE,1
+A5042307561,H. Vincent Poor,Mathematics,I2252096349,Fujitsu (Japan),JP,1
+A5042307561,H. Vincent Poor,Mathematics,I1330693074,Walmart (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I137594350,Infineon Technologies (Germany),DE,1
+A5042307561,H. Vincent Poor,Mathematics,I1322087612,Alcatel Lucent (Germany),DE,1
+A5042307561,H. Vincent Poor,Mathematics,I1333370159,Motorola (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I4210155268,Salesforce (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I4210159266,Mitsubishi Electric (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I1343180700,Intel (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I889804353,Robert Bosch (Germany),DE,1
+A5042307561,H. Vincent Poor,Mathematics,I4210089561,Johnson & Johnson (Ireland),IE,1
+A5042307561,H. Vincent Poor,Mathematics,I4210094487,Intel (Germany),DE,1
+A5042307561,H. Vincent Poor,Mathematics,I82514191,Honeywell (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I4405271865,Futurewei Technologies (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I4210116539,Larsen & Toubro (India),IN,1
+A5042307561,H. Vincent Poor,Mathematics,I4387153765,Collins Aerospace (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I1305444813,Capital One (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I4210103986,Jingdong (China),CN,1
+A5042307561,H. Vincent Poor,Mathematics,I98301712,Baidu (China),CN,1
+A5042307561,H. Vincent Poor,Mathematics,I4210127875,Nvidia (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I101155339,Korea Telecom (South Korea),KR,1
+A5042307561,H. Vincent Poor,Mathematics,I1311688040,Amazon (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I173632517,MediaTek (China),CN,1
+A5042307561,H. Vincent Poor,Mathematics,I4210107353,NEC (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I4388891881,Hughes Aircraft (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I1299343005,Strand Life Sciences (India),IN,1
+A5042307561,H. Vincent Poor,Mathematics,I4210151956,Robert Bosch (India),IN,1
+A5042307561,H. Vincent Poor,Mathematics,I2250653659,Tencent (China),CN,1
+A5042307561,H. Vincent Poor,Mathematics,I36326968,InterDigital (United States),US,1
+A5042307561,H. Vincent Poor,Mathematics,I4210143841,Saudi Aramco (Saudi Arabia),SA,1
+A5042307561,H. Vincent Poor,Mathematics,I4210093367,Deutsche Telekom (Germany),DE,1
+A5030611363,R. J. Cava,Physics,I1283103587,AT&T (United States),US,253
+A5030611363,R. J. Cava,Physics,I4387152956,Alcatel-Lucent (France),FR,14
+A5030611363,R. J. Cava,Physics,I1316910977,DuPont (United States),US,11
+A5030611363,R. J. Cava,Physics,I4210087036,BeDimensional (Italy),IT,1
+A5030611363,R. J. Cava,Physics,I4210107053,Core Competence,US,1
+A5030611363,R. J. Cava,Physics,I4210140930,Thales (France),FR,1
+A5030611363,R. J. Cava,Physics,I2801631255,ALBA Synchrotron (Spain),ES,1
+A5030611363,R. J. Cava,Physics,I4210125572,Element Six (United Kingdom),GB,1
+A5030611363,R. J. Cava,Physics,I4210157320,Quantum Design (United States),US,1
+A5030611363,R. J. Cava,Physics,I1292669757,Toshiba (Japan),JP,1
+A5030611363,R. J. Cava,Physics,I4210135429,Companhia Brasileira de Metalurgia e Mineração (Brazil),BR,1
+A5030611363,R. J. Cava,Physics,I4210113028,Air Products (United States),US,1
+A5077712228,Simon A. Levin,Mathematics,I4401726965,Boston Consulting Group (United States),US,2
+A5077712228,Simon A. Levin,Mathematics,I4210126001,Applied Biomathematics (United States),US,1
+A5077712228,Simon A. Levin,Mathematics,I1299343005,Strand Life Sciences (India),IN,1
+A5077712228,Simon A. Levin,Mathematics,I4210151956,Robert Bosch (India),IN,1
+A5077712228,Simon A. Levin,Mathematics,I4210095365,Collecte Localisation Satellites (France),FR,1
+A5077712228,Simon A. Levin,Mathematics,I1341412227,IBM (United States),US,1
+A5077712228,Simon A. Levin,Mathematics,I4210151701,Biological Mimetics (United States),US,1
+A5077712228,Simon A. Levin,Mathematics,I1330693074,Walmart (United States),US,1
+A5077712228,Simon A. Levin,Mathematics,I4210090411,Google DeepMind (United Kingdom),GB,1
+A5077712228,Simon A. Levin,Mathematics,I4210113297,Google (United Kingdom),GB,1
+A5025805979,David W. C. MacMillan,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,17
+A5025805979,David W. C. MacMillan,Chemistry,I4210091812,Bristol-Myers Squibb (United States),US,8
+A5025805979,David W. C. MacMillan,Chemistry,I180857899,Pfizer (United States),US,8
+A5025805979,David W. C. MacMillan,Chemistry,I4210128228,Eli Lilly (Spain),ES,4
+A5025805979,David W. C. MacMillan,Chemistry,I1330063522,Johnson & Johnson (United States),US,2
+A5025805979,David W. C. MacMillan,Chemistry,I4405282460,Janssen Research & Development (United States),US,1
+A5025805979,David W. C. MacMillan,Chemistry,I4210150756,AstraZeneca (United States),US,1
+A5025805979,David W. C. MacMillan,Chemistry,I89199228,Syngenta (Switzerland),CH,1
+A5025805979,David W. C. MacMillan,Chemistry,I266595603,Genmab (United States),US,1
+A5025805979,David W. C. MacMillan,Chemistry,I168537998,Eli Lilly (United States),US,1
+A5025805979,David W. C. MacMillan,Chemistry,I105036370,AstraZeneca (United Kingdom),GB,1
+A5025805979,David W. C. MacMillan,Chemistry,I1320553840,Amgen (United States),US,1
+A5025805979,David W. C. MacMillan,Chemistry,I4210114143,GlaxoSmithKline (United States),US,1
+A5025805979,David W. C. MacMillan,Chemistry,I4210125795,Bristol-Myers Squibb (United Kingdom),GB,1
+A5083316408,Howard A. Stone,Physics,I1342131907,Unilever (United Kingdom),GB,11
+A5083316408,Howard A. Stone,Physics,I4210105249,Firmenich (United States),US,5
+A5083316408,Howard A. Stone,Physics,I4210133462,Schlumberger (United Kingdom),GB,3
+A5083316408,Howard A. Stone,Physics,I923382979,ExxonMobil (United States),US,3
+A5083316408,Howard A. Stone,Physics,I123791789,Saint-Gobain (France),FR,2
+A5083316408,Howard A. Stone,Physics,I4210139043,NovaFlux (United States),US,2
+A5083316408,Howard A. Stone,Physics,I4210100606,Unilever (United States),US,2
+A5083316408,Howard A. Stone,Physics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5083316408,Howard A. Stone,Physics,I4210158204,Altria (United States),US,1
+A5083316408,Howard A. Stone,Physics,I4210128854,CEINGE Biotecnologie Avanzate Franco Salvatore (Italy),IT,1
+A5083316408,Howard A. Stone,Physics,I1332737386,General Electric (United States),US,1
+A5083316408,Howard A. Stone,Physics,I4405267830,Abbott Rapid Diagnostics (United States),US,1
+A5083316408,Howard A. Stone,Physics,I2801043613,Firmenich (Switzerland),CH,1
+A5083316408,Howard A. Stone,Physics,I127319611,FrieslandCampina (Netherlands),NL,1
+A5083316408,Howard A. Stone,Physics,I4210097667,ASCOMP (Switzerland),CH,1
+A5083316408,Howard A. Stone,Physics,I4210150756,AstraZeneca (United States),US,1
+A5083316408,Howard A. Stone,Physics,I4210116770,Numerica Corporation (United States),US,1
+A5083316408,Howard A. Stone,Physics,I4210118014,Chevron (United States),US,1
+A5083316408,Howard A. Stone,Physics,I4210118662,Bentley Systems (United States),US,1
+A5083316408,Howard A. Stone,Physics,I4210103721,Unilever (China),CN,1
+A5083316408,Howard A. Stone,Physics,I168537998,Eli Lilly (United States),US,1
+A5000130235,Eliot Quataert,Physics,I4210139001,Quazar Technologies (India),IN,1
+A5008924957,Adam S. Burrows,Physics,I1287521167,Lockheed Martin (United States),US,1
+A5008924957,Adam S. Burrows,Physics,I4388891857,Lockheed (United States),US,1
+A5008924957,Adam S. Burrows,Physics,I4401726965,Boston Consulting Group (United States),US,1
+A5091900050,David N. Spergel,Physics,I4210165854,Adnet Systems (United States),US,12
+A5091900050,David N. Spergel,Physics,I4210144891,Science Systems and Applications (United States),US,8
+A5091900050,David N. Spergel,Physics,I4210090411,Google DeepMind (United Kingdom),GB,6
+A5091900050,David N. Spergel,Physics,I2948394018,Northrop Grumman (United States),US,2
+A5091900050,David N. Spergel,Physics,I4210112445,Stinger Ghaffarian Technologies (United States),US,2
+A5091900050,David N. Spergel,Physics,I4210113297,Google (United Kingdom),GB,2
+A5091900050,David N. Spergel,Physics,I1291425158,Google (United States),US,2
+A5091900050,David N. Spergel,Physics,I4210108547,EarthTech International (United States),US,1
+A5091900050,David N. Spergel,Physics,I4210132373,Ball (United States),US,1
+A5091900050,David N. Spergel,Physics,I24262253,Subaru (Japan),JP,1
+A5091900050,David N. Spergel,Physics,I4210092786,Applied Research Corporation (United States),US,1
+A5091900050,David N. Spergel,Physics,I110675161,Infosys (India),IN,1
+A5091900050,David N. Spergel,Physics,I85722119,UCB Pharma (Belgium),BE,1
+A5091900050,David N. Spergel,Physics,I4210143017,Sequenom (United States),US,1
+A5091900050,David N. Spergel,Physics,I4210139661,Two Sigma Investments (United States),US,1
+A5091900050,David N. Spergel,Physics,I4210158486,ITT (United States),US,1
+A5091900050,David N. Spergel,Physics,I4210132089,Jackson and Tull (United States),US,1
+A5091900050,David N. Spergel,Physics,I2251713219,NTT (Japan),JP,1
+A5007841515,Roberto Car,Physics,I4210122849,Philips (Netherlands),NL,7
+A5007841515,Roberto Car,Physics,I1283103587,AT&T (United States),US,6
+A5007841515,Roberto Car,Physics,I1341412227,IBM (United States),US,6
+A5007841515,Roberto Car,Physics,I4210094045,Shell (India),IN,4
+A5007841515,Roberto Car,Physics,I4210150951,Shell (United States),US,4
+A5007841515,Roberto Car,Physics,I4210163196,Signify (Netherlands),NL,3
+A5007841515,Roberto Car,Physics,I4387152956,Alcatel-Lucent (France),FR,3
+A5007841515,Roberto Car,Physics,I4210122524,IBM (Italy),IT,1
+A5007841515,Roberto Car,Physics,I118347220,NEC (Japan),JP,1
+A5007841515,Roberto Car,Physics,I4210127875,Nvidia (United States),US,1
+A5007841515,Roberto Car,Physics,I4405256866,ByteDance (China),CN,1
+A5007841515,Roberto Car,Physics,I98301712,Baidu (China),CN,1
+A5007841515,Roberto Car,Physics,I4210098980,Cambridge Crystallographic Data Centre,GB,1
+A5007841515,Roberto Car,Physics,I2799548008,D. E. Shaw Research,US,1
+A5007841515,Roberto Car,Physics,I4210113028,Air Products (United States),US,1
+A5062172005,Salvatore Torquato A,Mathematics,I118136607,General Motors (United States),US,2
+A5062172005,Salvatore Torquato A,Mathematics,I4400600948,Microsoft Research New England (United States),US,1
+A5062172005,Salvatore Torquato A,Mathematics,I4210090857,Schlumberger (United States),US,1
+A5062172005,Salvatore Torquato A,Mathematics,I923382979,ExxonMobil (United States),US,1
+A5062172005,Salvatore Torquato A,Mathematics,I4387152956,Alcatel-Lucent (France),FR,1
+A5100664286,Jianqing Fan,Mathematics,I1341412227,IBM (United States),US,2
+A5100664286,Jianqing Fan,Mathematics,I1311688040,Amazon (United States),US,2
+A5100664286,Jianqing Fan,Mathematics,I4405256301,Stellantis North America (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I122754148,SAS Institute (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I129302853,Roche (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I4210088367,Systems Analytics (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I4210088555,Abbott (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I4210114143,GlaxoSmithKline (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I4210137931,Almac (United Kingdom),GB,1
+A5100664286,Jianqing Fan,Mathematics,I4210086341,Biomarker Technologies (China),CN,1
+A5100664286,Jianqing Fan,Mathematics,I4210106596,Zeus Scientific (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I1283103587,AT&T (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I1305429384,JPMorgan Chase & Co (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I75380228,McKinsey & Company (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I1291425158,Google (United States),US,1
+A5100664286,Jianqing Fan,Mathematics,I2250653659,Tencent (China),CN,1
+A5051027549,Robert Endre Tarjan,Mathematics,I1283103587,AT&T (United States),US,79
+A5051027549,Robert Endre Tarjan,Mathematics,I1324840837,Hewlett-Packard (United States),US,40
+A5051027549,Robert Endre Tarjan,Mathematics,I1290206253,Microsoft (United States),US,18
+A5051027549,Robert Endre Tarjan,Mathematics,I1291425158,Google (United States),US,17
+A5051027549,Robert Endre Tarjan,Mathematics,I118347220,NEC (Japan),JP,4
+A5051027549,Robert Endre Tarjan,Mathematics,I1341412227,IBM (United States),US,4
+A5051027549,Robert Endre Tarjan,Mathematics,I4210164937,Microsoft Research (United Kingdom),GB,3
+A5051027549,Robert Endre Tarjan,Mathematics,I1311688040,Amazon (United States),US,3
+A5051027549,Robert Endre Tarjan,Mathematics,I4401726785,Microsoft Research New York City (United States),US,2
+A5051027549,Robert Endre Tarjan,Mathematics,I4210107053,Core Competence,US,2
+A5051027549,Robert Endre Tarjan,Mathematics,I4210107353,NEC (United States),US,2
+A5051027549,Robert Endre Tarjan,Mathematics,I4210132870,Xerox (United States),US,1
+A5051027549,Robert Endre Tarjan,Mathematics,I88773910,Intuit (United States),US,1
+A5051027549,Robert Endre Tarjan,Mathematics,I4210088646,Benbria (Canada),CA,1
+A5051027549,Robert Endre Tarjan,Mathematics,I4210134091,Yahoo (United States),US,1
+A5018222452,Bryan Thomas Grenfell,Mathematics,I4210108991,IQVIA (United States),US,2
+A5018222452,Bryan Thomas Grenfell,Mathematics,I114662689,Leidos (United States),US,1
+A5018222452,Bryan Thomas Grenfell,Mathematics,I4210096935,Integrated Statistics (United States),US,1
+A5018222452,Bryan Thomas Grenfell,Mathematics,I4210156513,BioFire Diagnostics (United States),US,1
+A5018222452,Bryan Thomas Grenfell,Mathematics,I4210160498,RELX Group (United States),US,1
+A5018222452,Bryan Thomas Grenfell,Mathematics,I3018075036,Sanofi (France),FR,1
+A5018222452,Bryan Thomas Grenfell,Mathematics,I4210135132,Cambridge University Press,GB,1
+A5018222452,Bryan Thomas Grenfell,Mathematics,I4210095529,GlaxoSmithKline (Belgium),BE,1
+A5024948946,Bogdan Andrei Bernevig,Physics,I1290206253,Microsoft (United States),US,3
+A5024948946,Bogdan Andrei Bernevig,Physics,I2801631255,ALBA Synchrotron (Spain),ES,1
+A5024948946,Bogdan Andrei Bernevig,Physics,I1341412227,IBM (United States),US,1
+A5045925716,Jeremiah P. Ostriker,Physics,I4387152956,Alcatel-Lucent (France),FR,5
+A5045925716,Jeremiah P. Ostriker,Physics,I1290206253,Microsoft (United States),US,4
+A5045925716,Jeremiah P. Ostriker,Physics,I24262253,Subaru (Japan),JP,1
+A5045925716,Jeremiah P. Ostriker,Physics,I4388482704,TRW (United States),US,1
+A5045925716,Jeremiah P. Ostriker,Physics,I4388891831,Martin Marietta (United States),US,1
+A5045925716,Jeremiah P. Ostriker,Physics,I44619346,Textron (United States),US,1
+A5045925716,Jeremiah P. Ostriker,Physics,I1295339012,Boeing (United States),US,1
+A5029838157,Gregory D. Scholes,Physics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,3
+A5029838157,Gregory D. Scholes,Physics,I4210091812,Bristol-Myers Squibb (United States),US,2
+A5029838157,Gregory D. Scholes,Physics,I4210125572,Element Six (United Kingdom),GB,1
+A5029838157,Gregory D. Scholes,Physics,I4387153311,Hyperion Materials & Technologies (United States),US,1
+A5029838157,Gregory D. Scholes,Physics,I4210156129,Prozomix (United Kingdom),GB,1
+A5029838157,Gregory D. Scholes,Physics,I4210105028,Total (United States),US,1
+A5029838157,Gregory D. Scholes,Physics,I3018075036,Sanofi (France),FR,1
+A5029838157,Gregory D. Scholes,Physics,I4210135984,Saudi Arabia Basic Industries (Saudi Arabia),SA,1
+A5090200106,Emily A. Carter,Physics,I4387156175,BIOVIA,US,3
+A5090200106,Emily A. Carter,Physics,I923382979,ExxonMobil (United States),US,2
+A5090200106,Emily A. Carter,Physics,I1283103587,AT&T (United States),US,1
+A5090200106,Emily A. Carter,Physics,I197817023,International Paper (United States),US,1
+A5090200106,Emily A. Carter,Physics,I2802626578,Oxford University Press (United Kingdom),GB,1
+A5090200106,Emily A. Carter,Physics,I4210131595,Haldor Topsoe (Denmark),DK,1
+A5022041722,Marlan O. Scully,Physics,I4210104289,Engility (United States),US,7
+A5022041722,Marlan O. Scully,Physics,I880747138,Science Applications International Corporation (United States),US,4
+A5022041722,Marlan O. Scully,Physics,I4210124086,Columbus NanoWorks (United States),US,3
+A5022041722,Marlan O. Scully,Physics,I4210101821,Nanohmics (United States),US,3
+A5022041722,Marlan O. Scully,Physics,I2948394018,Northrop Grumman (United States),US,3
+A5022041722,Marlan O. Scully,Physics,I4387152956,Alcatel-Lucent (France),FR,2
+A5022041722,Marlan O. Scully,Physics,I1341412227,IBM (United States),US,2
+A5022041722,Marlan O. Scully,Physics,I175669267,Carestream (United States),US,2
+A5022041722,Marlan O. Scully,Physics,I4210159451,Kodak (United States),US,2
+A5022041722,Marlan O. Scully,Physics,I4388891782,Litton Industries (United States),US,1
+A5022041722,Marlan O. Scully,Physics,I1338503839,Corning (United States),US,1
+A5022041722,Marlan O. Scully,Physics,I4210098132,Ekspla (Lithuania),LT,1
+A5022041722,Marlan O. Scully,Physics,I4387154912,United Technologies (United States),US,1
+A5022041722,Marlan O. Scully,Physics,I4387153765,Collins Aerospace (United States),US,1
+A5022041722,Marlan O. Scully,Physics,I1283103587,AT&T (United States),US,1
+A5022041722,Marlan O. Scully,Physics,I4405256118,Rockwell International (United States),US,1
+A5022041722,Marlan O. Scully,Physics,I1295339012,Boeing (United States),US,1
+A5022041722,Marlan O. Scully,Physics,I4210087549,La Jolla Science Applications (United States),US,1
+A5083469386,Noga Alon,Mathematics,I1283103587,AT&T (United States),US,35
+A5083469386,Noga Alon,Mathematics,I1290206253,Microsoft (United States),US,27
+A5083469386,Noga Alon,Mathematics,I4210125051,Microsoft (Israel),IL,21
+A5083469386,Noga Alon,Mathematics,I4210107053,Core Competence,US,14
+A5083469386,Noga Alon,Mathematics,I1341412227,IBM (United States),US,4
+A5083469386,Noga Alon,Mathematics,I4210117425,Google (Israel),IL,4
+A5083469386,Noga Alon,Mathematics,I1343180700,Intel (United States),US,3
+A5083469386,Noga Alon,Mathematics,I1291425158,Google (United States),US,3
+A5083469386,Noga Alon,Mathematics,I4210128969,Alphabet (United States),US,2
+A5083469386,Noga Alon,Mathematics,I4210164937,Microsoft Research (United Kingdom),GB,2
+A5083469386,Noga Alon,Mathematics,I118347220,NEC (Japan),JP,2
+A5083469386,Noga Alon,Mathematics,I4210113597,Defense Engineering Corporation (United States),US,2
+A5083469386,Noga Alon,Mathematics,I1311688040,Amazon (United States),US,1
+A5083469386,Noga Alon,Mathematics,I10734018,Akamai (United States),US,1
+A5083469386,Noga Alon,Mathematics,I4210133125,Mitsubishi Electric (Japan),JP,1
+A5083469386,Noga Alon,Mathematics,I4210134091,Yahoo (United States),US,1
+A5073079318,Paul Joseph Steinhardt,Physics,I1341412227,IBM (United States),US,6
+A5073079318,Paul Joseph Steinhardt,Physics,I4210127875,Nvidia (United States),US,2
+A5073079318,Paul Joseph Steinhardt,Physics,I4388891901,Allied Corporation (United States),US,1
+A5073079318,Paul Joseph Steinhardt,Physics,I4210122849,Philips (Netherlands),NL,1
+A5077627599,Annabella Selloni,Physics,I1341412227,IBM (United States),US,6
+A5077627599,Annabella Selloni,Physics,I4210122524,IBM (Italy),IT,4
+A5077627599,Annabella Selloni,Physics,I923382979,ExxonMobil (United States),US,2
+A5077627599,Annabella Selloni,Physics,I4405262680,Commonwealth Fusion Systems (United States),US,1
+A5077627599,Annabella Selloni,Physics,I24101674,ConocoPhillips (United States),US,1
+A5077627599,Annabella Selloni,Physics,I1324840837,Hewlett-Packard (United States),US,1
+A5077627599,Annabella Selloni,Physics,I4210158204,Altria (United States),US,1
+A5073608364,M. Zahid Hasan,Physics,I4210158803,Rigetti Computing (United States),US,2
+A5073608364,M. Zahid Hasan,Physics,I83308685,Canadian Light Source (Canada),CA,1
+A5073608364,M. Zahid Hasan,Physics,I2801631255,ALBA Synchrotron (Spain),ES,1
+A5073608364,M. Zahid Hasan,Physics,I193170854,Bruker (United States),US,1
+A5073608364,M. Zahid Hasan,Physics,I4210161429,Intellectual Ventures (United States),US,1
+A5073608364,M. Zahid Hasan,Physics,I4210133143,Dow Chemical (United States),US,1
+A5073608364,M. Zahid Hasan,Physics,I4210156525,Spring-8 (Japan),JP,1
+A5052560471,N. Phuan Ong,Physics,I4210107053,Core Competence,US,15
+A5052560471,N. Phuan Ong,Physics,I4405256118,Rockwell International (United States),US,5
+A5052560471,N. Phuan Ong,Physics,I1341412227,IBM (United States),US,2
+A5052560471,N. Phuan Ong,Physics,I1316910977,DuPont (United States),US,1
+A5052560471,N. Phuan Ong,Physics,I4387152956,Alcatel-Lucent (France),FR,1
+A5052560471,N. Phuan Ong,Physics,I4210116693,Advanced Materials Technology (United States),US,1
+A5052560471,N. Phuan Ong,Physics,I923382979,ExxonMobil (United States),US,1
+A5088416663,Pablo G. Debenedetti,Chemistry,I923382979,ExxonMobil (United States),US,6
+A5088416663,Pablo G. Debenedetti,Chemistry,I4387152956,Alcatel-Lucent (France),FR,3
+A5088416663,Pablo G. Debenedetti,Chemistry,I4210160255,Boehringer Ingelheim (United States),US,2
+A5088416663,Pablo G. Debenedetti,Chemistry,I1342131907,Unilever (United Kingdom),GB,2
+A5088416663,Pablo G. Debenedetti,Chemistry,I180857899,Pfizer (United States),US,1
+A5088416663,Pablo G. Debenedetti,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5088416663,Pablo G. Debenedetti,Chemistry,I4210113155,Unilever (Netherlands),NL,1
+A5088416663,Pablo G. Debenedetti,Chemistry,I4210124316,Unilever (India),IN,1
+A5088416663,Pablo G. Debenedetti,Chemistry,I4210133143,Dow Chemical (United States),US,1
+A5088416663,Pablo G. Debenedetti,Chemistry,I169912796,Grace (United States),US,1
+A5088416663,Pablo G. Debenedetti,Chemistry,I4210113028,Air Products (United States),US,1
+A5088416663,Pablo G. Debenedetti,Chemistry,I4210088951,Synopsys (United States),US,1
+A5087910041,Paul J. Chirik,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,15
+A5087910041,Paul J. Chirik,Chemistry,I4210091812,Bristol-Myers Squibb (United States),US,13
+A5087910041,Paul J. Chirik,Chemistry,I923382979,ExxonMobil (United States),US,6
+A5087910041,Paul J. Chirik,Chemistry,I118019719,F. Hoffmann-La Roche AG,CH,6
+A5087910041,Paul J. Chirik,Chemistry,I183934855,Genentech,US,5
+A5087910041,Paul J. Chirik,Chemistry,I4210098668,Momentive (United States),US,4
+A5087910041,Paul J. Chirik,Chemistry,I4210135984,Saudi Arabia Basic Industries (Saudi Arabia),SA,3
+A5087910041,Paul J. Chirik,Chemistry,I51409038,Saudi Arabia Basic Industries (United States),US,3
+A5087910041,Paul J. Chirik,Chemistry,I4210159209,Chevron Phillips Chemical (United States),US,2
+A5087910041,Paul J. Chirik,Chemistry,I1330063522,Johnson & Johnson (United States),US,2
+A5087910041,Paul J. Chirik,Chemistry,I4210093361,Biohaven Pharmaceuticals (United States),US,2
+A5087910041,Paul J. Chirik,Chemistry,I4405282460,Janssen Research & Development (United States),US,1
+A5087910041,Paul J. Chirik,Chemistry,I4210114143,GlaxoSmithKline (United States),US,1
+A5087910041,Paul J. Chirik,Chemistry,I4210133143,Dow Chemical (United States),US,1
+A5087910041,Paul J. Chirik,Chemistry,I3018075036,Sanofi (France),FR,1
+A5019365403,HERSCHEL A. RABITZ,Physics,I4210113436,SC Solutions (United States),US,27
+A5019365403,HERSCHEL A. RABITZ,Physics,I4210111149,Aerodyne Research,US,19
+A5019365403,HERSCHEL A. RABITZ,Physics,I4210091812,Bristol-Myers Squibb (United States),US,4
+A5019365403,HERSCHEL A. RABITZ,Physics,I4387156175,BIOVIA,US,4
+A5019365403,HERSCHEL A. RABITZ,Physics,I4210133143,Dow Chemical (United States),US,2
+A5019365403,HERSCHEL A. RABITZ,Physics,I867584213,General Motors (Canada),CA,2
+A5019365403,HERSCHEL A. RABITZ,Physics,I4387155476,Kadmon Corporation (United States),US,2
+A5019365403,HERSCHEL A. RABITZ,Physics,I1291425158,Google (United States),US,2
+A5019365403,HERSCHEL A. RABITZ,Physics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5019365403,HERSCHEL A. RABITZ,Physics,I923382979,ExxonMobil (United States),US,1
+A5019365403,HERSCHEL A. RABITZ,Physics,I4210113028,Air Products (United States),US,1
+A5071399584,Romain Teyssier,Physics,I4210134232,von Hoerner & Sulger (Germany),DE,30
+A5071399584,Romain Teyssier,Physics,I112991645,Airbus (France),FR,3
+A5071399584,Romain Teyssier,Physics,I4210127875,Nvidia (United States),US,2
+A5071399584,Romain Teyssier,Physics,I2948394018,Northrop Grumman (United States),US,2
+A5071399584,Romain Teyssier,Physics,I863118367,GMV Innovating Solutions (Spain),ES,1
+A5071399584,Romain Teyssier,Physics,I4401726916,Verizon Media (United States),US,1
+A5071399584,Romain Teyssier,Physics,I1341412227,IBM (United States),US,1
+A5071399584,Romain Teyssier,Physics,I1283197605,Surrey Satellite Technology (United Kingdom),GB,1
+A5071399584,Romain Teyssier,Physics,I4210098531,Teledyne e2v (United Kingdom),GB,1
+A5071399584,Romain Teyssier,Physics,I4210107374,OHB (Italy),IT,1
+A5081250081,Yiguang Ju,Physics,I4210101228,IHI Corporation (Japan),JP,5
+A5081250081,Yiguang Ju,Physics,I4210099556,Research Support Instruments (United States),US,4
+A5081250081,Yiguang Ju,Physics,I193427800,Applied Materials (United States),US,4
+A5081250081,Yiguang Ju,Physics,I21160419,Ansys (United States),US,4
+A5081250081,Yiguang Ju,Physics,I4210157295,Innovative Scientific Solutions (United States),US,3
+A5081250081,Yiguang Ju,Physics,I4210148433,FM Global (United States),US,3
+A5081250081,Yiguang Ju,Physics,I24262253,Subaru (Japan),JP,2
+A5081250081,Yiguang Ju,Physics,I4210152536,Combustion Science & Engineering (United States),US,2
+A5081250081,Yiguang Ju,Physics,I1332737386,General Electric (United States),US,2
+A5081250081,Yiguang Ju,Physics,I3019562804,BASF (United States),US,1
+A5081250081,Yiguang Ju,Physics,I4210087396,DNV (Netherlands),NL,1
+A5081250081,Yiguang Ju,Physics,I923382979,ExxonMobil (United States),US,1
+A5081250081,Yiguang Ju,Physics,I4210123504,Imagineering (Japan),JP,1
+A5081250081,Yiguang Ju,Physics,I38674515,Kanadevia (Japan),JP,1
+A5041302371,Sharon Hammes‐Schiffer,Physics,I4210088495,Q Chem (United States),US,4
+A5041302371,Sharon Hammes‐Schiffer,Physics,I1283103587,AT&T (United States),US,3
+A5041302371,Sharon Hammes‐Schiffer,Physics,I4405258653,Wavefunction (United States),US,1
+A5041302371,Sharon Hammes‐Schiffer,Physics,I2818286,LG (United States),US,1
+A5041302371,Sharon Hammes‐Schiffer,Physics,I4210105028,Total (United States),US,1
+A5041302371,Sharon Hammes‐Schiffer,Physics,I4405269909,"Gaussian, Inc. (United States)",US,1
+A5041302371,Sharon Hammes‐Schiffer,Physics,I3018075036,Sanofi (France),FR,1
+A5041302371,Sharon Hammes‐Schiffer,Physics,I1332737386,General Electric (United States),US,1
+A5041302371,Sharon Hammes‐Schiffer,Physics,I1341412227,IBM (United States),US,1
+A5081117311,Robert H. Austin,Physics,I1283103587,AT&T (United States),US,6
+A5081117311,Robert H. Austin,Physics,I2948394018,Northrop Grumman (United States),US,5
+A5081117311,Robert H. Austin,Physics,I4210107053,Core Competence,US,4
+A5081117311,Robert H. Austin,Physics,I923382979,ExxonMobil (United States),US,2
+A5081117311,Robert H. Austin,Physics,I4210100018,Sage Science (United States),US,1
+A5081117311,Robert H. Austin,Physics,I2799419483,Applied Minds (United States),US,1
+A5081117311,Robert H. Austin,Physics,I4210086448,Nanoco Technologies (United Kingdom),GB,1
+A5081117311,Robert H. Austin,Physics,I4210114612,Nanonex (United States),US,1
+A5081117311,Robert H. Austin,Physics,I4405265724,"Megaopto Co., Ltd. (Japan)",JP,1
+A5081117311,Robert H. Austin,Physics,I4210143711,Microfluidic ChipShop (Germany),DE,1
+A5081117311,Robert H. Austin,Physics,I122368001,Nikon (United States),US,1
+A5081117311,Robert H. Austin,Physics,I4401726965,Boston Consulting Group (United States),US,1
+A5081117311,Robert H. Austin,Physics,I1341412227,IBM (United States),US,1
+A5081117311,Robert H. Austin,Physics,I1333370159,Motorola (United States),US,1
+A5081117311,Robert H. Austin,Physics,I4210129934,GPB Scientific (United States),US,1
+A5010484610,Amilcare M Porporato,Physics,I4210107422,Stantec (United States),US,2
+A5010484610,Amilcare M Porporato,Physics,I1311688040,Amazon (United States),US,1
+A5066125745,James M. Stone,Physics,I4210156081,Tech-X Corporation (United States),US,3
+A5066125745,James M. Stone,Physics,I4387154060,Cray (United States),US,1
+A5066125745,James M. Stone,Physics,I1287521167,Lockheed Martin (United States),US,1
+A5066125745,James M. Stone,Physics,I1291425158,Google (United States),US,1
+A5053607565,Athanassios Z. Panagiotopoulos,Chemistry,I62856769,Saudi Aramco (United States),US,5
+A5053607565,Athanassios Z. Panagiotopoulos,Chemistry,I923382979,ExxonMobil (United States),US,4
+A5053607565,Athanassios Z. Panagiotopoulos,Chemistry,I20303223,BP (United Kingdom),GB,2
+A5053607565,Athanassios Z. Panagiotopoulos,Chemistry,I1320553840,Amgen (United States),US,1
+A5053607565,Athanassios Z. Panagiotopoulos,Chemistry,I4210131595,Haldor Topsoe (Denmark),DK,1
+A5053607565,Athanassios Z. Panagiotopoulos,Chemistry,I4210091812,Bristol-Myers Squibb (United States),US,1
+A5053607565,Athanassios Z. Panagiotopoulos,Chemistry,I7923278,Shell (Netherlands),NL,1
+A5053607565,Athanassios Z. Panagiotopoulos,Chemistry,I4210113028,Air Products (United States),US,1
+A5053607565,Athanassios Z. Panagiotopoulos,Chemistry,I4210107087,BASF (Germany),DE,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4210134983,Metabiota (United States),US,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4210089633,Sanaria,US,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I1299343005,Strand Life Sciences (India),IN,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4210151956,Robert Bosch (India),IN,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I118019719,F. Hoffmann-La Roche AG,CH,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4210150756,AstraZeneca (United States),US,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4210100774,Novavax (United States),US,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I105036370,AstraZeneca (United Kingdom),GB,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4387155976,Laboratory of Data Discovery for Health,HK,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I180857899,Pfizer (United States),US,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4210161372,Zoetis (Belgium),BE,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4405255418,MMGH Consulting (Switzerland),CH,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4405270194,F2G (United Kingdom),GB,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I188950975,GlaxoSmithKline (United Kingdom),GB,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4210139047,bioMérieux (France),FR,1
+A5088575114,Ramanan Laxminarayan,Mathematics,I4210095529,GlaxoSmithKline (Belgium),BE,1
+A5087600280,Ravi Shankar,Mathematics,I4210129961,IBM (India),IN,4
+A5087600280,Ravi Shankar,Mathematics,I172790451,Oil and Natural Gas Corporation (India),IN,3
+A5087600280,Ravi Shankar,Mathematics,I4210110397,Scientific Forming Technologies Corporation (United States),US,2
+A5087600280,Ravi Shankar,Mathematics,I1333370159,Motorola (United States),US,2
+A5087600280,Ravi Shankar,Mathematics,I4210117576,Hewlett-Packard (India),IN,1
+A5087600280,Ravi Shankar,Mathematics,I82514191,Honeywell (United States),US,1
+A5087600280,Ravi Shankar,Mathematics,I1336379959,Mahindra Group (India),IN,1
+A5087600280,Ravi Shankar,Mathematics,I4405269459,Singapore Telecommunications Limited (Singapore),SG,1
+A5087600280,Ravi Shankar,Mathematics,I1301507905,Tata Motors (India),IN,1
+A5087600280,Ravi Shankar,Mathematics,I4210120325,Biobase (Germany),DE,1
+A5087600280,Ravi Shankar,Mathematics,I180857899,Pfizer (United States),US,1
+A5087600280,Ravi Shankar,Mathematics,I28927889,IQVIA (United Kingdom),GB,1
+A5087600280,Ravi Shankar,Mathematics,I4210155296,Pfizer (Canada),CA,1
+A5087600280,Ravi Shankar,Mathematics,I4210142449,ITC (India),IN,1
+A5087600280,Ravi Shankar,Mathematics,I4210135984,Saudi Arabia Basic Industries (Saudi Arabia),SA,1
+A5087600280,Ravi Shankar,Mathematics,I1283582996,Novartis (Switzerland),CH,1
+A5049051097,Shirley Ho,Physics,I4210090411,Google DeepMind (United Kingdom),GB,6
+A5049051097,Shirley Ho,Physics,I1291425158,Google (United States),US,3
+A5049051097,Shirley Ho,Physics,I183934855,Genentech,US,2
+A5049051097,Shirley Ho,Physics,I1343180700,Intel (United States),US,2
+A5049051097,Shirley Ho,Physics,I4387154060,Cray (United States),US,2
+A5049051097,Shirley Ho,Physics,I4210110431,Microsoft (Netherlands),NL,1
+A5049051097,Shirley Ho,Physics,I4210113369,Microsoft Research Asia (China),CN,1
+A5049051097,Shirley Ho,Physics,I4210127875,Nvidia (United States),US,1
+A5049051097,Shirley Ho,Physics,I4210113297,Google (United Kingdom),GB,1
+A5049051097,Shirley Ho,Physics,I4210153776,Apple (United States),US,1
+A5049051097,Shirley Ho,Physics,I4210166566,Preferred Networks (Japan),JP,1
+A5049051097,Shirley Ho,Physics,I4210139661,Two Sigma Investments (United States),US,1
+A5031948088,Paul D. Seymour,Mathematics,I4210107053,Core Competence,US,10
+A5031948088,Paul D. Seymour,Mathematics,I1283103587,AT&T (United States),US,2
+A5018660847,Dmitry A. Abanin,Physics,I1291425158,Google (United States),US,30
+A5018660847,Dmitry A. Abanin,Physics,I4210100430,Google (Switzerland),CH,4
+A5018660847,Dmitry A. Abanin,Physics,I4210090411,Google DeepMind (United Kingdom),GB,3
+A5018660847,Dmitry A. Abanin,Physics,I4210127875,Nvidia (United States),US,2
+A5018660847,Dmitry A. Abanin,Physics,I1301041018,Rakuten (Japan),JP,1
+A5018660847,Dmitry A. Abanin,Physics,I153156064,KBR (United States),US,1
+A5018660847,Dmitry A. Abanin,Physics,I4210113297,Google (United Kingdom),GB,1
+A5018660847,Dmitry A. Abanin,Physics,I4210126100,Phasecraft Ltd. (United Kingdom),GB,1
+A5018660847,Dmitry A. Abanin,Physics,I4405257446,Phasecraft Inc. (United States),US,1
+A5018660847,Dmitry A. Abanin,Physics,I4210099511,Covestro (United States),US,1
+A5018660847,Dmitry A. Abanin,Physics,I4210105688,Covestro (Germany),DE,1
+A5018660847,Dmitry A. Abanin,Physics,I4387155786,Pasqal (France),FR,1
+A5018660847,Dmitry A. Abanin,Physics,I4210166210,Sumitomo Electric Industries (Japan),JP,1
+A5110014906,Charlotte Jessica E. Metcalf,Mathematics,I2800413675,Telenor (Norway),NO,3
+A5110014906,Charlotte Jessica E. Metcalf,Mathematics,I114662689,Leidos (United States),US,1
+A5110014906,Charlotte Jessica E. Metcalf,Mathematics,I179018852,Siga Technologies (United States),US,1
+A5110014906,Charlotte Jessica E. Metcalf,Mathematics,I3018075036,Sanofi (France),FR,1
+A5110014906,Charlotte Jessica E. Metcalf,Mathematics,I4210135132,Cambridge University Press,GB,1
+A5110014906,Charlotte Jessica E. Metcalf,Mathematics,I4210131784,Roslin Cells (United Kingdom),GB,1
+A5083295872,Bruce E. Koel,Physics,I63533367,General Atomics (United States),US,13
+A5083295872,Bruce E. Koel,Physics,I4210135274,Lodestar Research Corporation (United States),US,5
+A5083295872,Bruce E. Koel,Physics,I4210140095,Nova Photonics (United States),US,5
+A5083295872,Bruce E. Koel,Physics,I4405262680,Commonwealth Fusion Systems (United States),US,3
+A5083295872,Bruce E. Koel,Physics,I165638839,Huntsman (United States),US,2
+A5083295872,Bruce E. Koel,Physics,I4210118014,Chevron (United States),US,2
+A5083295872,Bruce E. Koel,Physics,I4210090550,Tokamak Energy (United Kingdom),GB,1
+A5083295872,Bruce E. Koel,Physics,I4210133143,Dow Chemical (United States),US,1
+A5083295872,Bruce E. Koel,Physics,I1341412227,IBM (United States),US,1
+A5083295872,Bruce E. Koel,Physics,I4210127875,Nvidia (United States),US,1
+A5083295872,Bruce E. Koel,Physics,I70745867,KLA (United States),US,1
+A5083295872,Bruce E. Koel,Physics,I4210118278,CompX (United States),US,1
+A5083295872,Bruce E. Koel,Physics,I4210109531,Far Tech (United States),US,1
+A5083295872,Bruce E. Koel,Physics,I4210147763,APIC (United States),US,1
+A5083295872,Bruce E. Koel,Physics,I4210122620,RHK Technology (United States),US,1
+A5083295872,Bruce E. Koel,Physics,I4210139090,Lam Research (United States),US,1
+A5083295872,Bruce E. Koel,Physics,I923382979,ExxonMobil (United States),US,1
+A5083295872,Bruce E. Koel,Physics,I4387156175,BIOVIA,US,1
+A5083295872,Bruce E. Koel,Physics,I4210096359,TDA Research (United States),US,1
+A5032304399,Naomi Ehrich Leonard,Physics,I4210125045,Princeton Satellite Systems (United States),US,2
+A5032304399,Naomi Ehrich Leonard,Physics,I1325886976,Siemens (Germany),DE,2
+A5032304399,Naomi Ehrich Leonard,Physics,I200576644,HRL Laboratories (United States),US,1
+A5032304399,Naomi Ehrich Leonard,Physics,I2948394018,Northrop Grumman (United States),US,1
+A5032304399,Naomi Ehrich Leonard,Physics,I1292974536,Ford Motor Company (United States),US,1
+A5032304399,Naomi Ehrich Leonard,Physics,I4210159266,Mitsubishi Electric (United States),US,1
+A5032304399,Naomi Ehrich Leonard,Physics,I4405253225,Mitsubishi Electric Research Laboratories (United States),US,1
+A5032304399,Naomi Ehrich Leonard,Physics,I4210090411,Google DeepMind (United Kingdom),GB,1
+A5032304399,Naomi Ehrich Leonard,Physics,I4210113297,Google (United Kingdom),GB,1
+A5032304399,Naomi Ehrich Leonard,Physics,I4210112697,Global Aerospace (United States),US,1
+A5032304399,Naomi Ehrich Leonard,Physics,I4210137693,Siemens (United States),US,1
+A5032304399,Naomi Ehrich Leonard,Physics,I4210153357,Vehicle Control Technologies (United States),US,1
+A5053662519,Shinsei Ryu,Physics,I1290206253,Microsoft (United States),US,2
+A5020267750,Ali Yazdani,Physics,I1341412227,IBM (United States),US,3
+A5020267750,Ali Yazdani,Physics,I115053289,Oxford Instruments (United Kingdom),GB,2
+A5020267750,Ali Yazdani,Physics,I83308685,Canadian Light Source (Canada),CA,1
+A5047437797,Ileana M. Cristea,Chemistry,I100135526,BGI Group (China),CN,4
+A5047437797,Ileana M. Cristea,Chemistry,I2799321762,WuXi AppTec (China),CN,2
+A5047437797,Ileana M. Cristea,Chemistry,I4210114173,WuXi AppTec (United States),US,1
+A5047437797,Ileana M. Cristea,Chemistry,I4210111364,GlycoMimetics (United States),US,1
+A5047437797,Ileana M. Cristea,Chemistry,I4210164411,Forge Life Science (United States),US,1
+A5047437797,Ileana M. Cristea,Chemistry,I4210087189,MSD (UK) Limited (United Kingdom),GB,1
+A5047437797,Ileana M. Cristea,Chemistry,I4210095227,Eli Lilly (United Kingdom),GB,1
+A5047437797,Ileana M. Cristea,Chemistry,I4210138933,Bruker (Germany),DE,1
+A5047437797,Ileana M. Cristea,Chemistry,I4210140998,Sangamo BioSciences (United States),US,1
+A5047437797,Ileana M. Cristea,Chemistry,I4210142740,Aptuit (Italy),IT,1
+A5047437797,Ileana M. Cristea,Chemistry,I4210130816,Evotec (Germany),DE,1
+A5035402935,N. J. Fisch,Physics,I63533367,General Atomics (United States),US,8
+A5035402935,N. J. Fisch,Physics,I4405260190,Extreme Light Infrastructure ERIC (Czech Republic),CZ,2
+A5035402935,N. J. Fisch,Physics,I926342451,"TAE Technologies, Inc (United States)",US,2
+A5035402935,N. J. Fisch,Physics,I4210092805,MKS Instruments (United States),US,1
+A5035402935,N. J. Fisch,Physics,I4210118278,CompX (United States),US,1
+A5035402935,N. J. Fisch,Physics,I4210140095,Nova Photonics (United States),US,1
+A5035402935,N. J. Fisch,Physics,I4210135274,Lodestar Research Corporation (United States),US,1
+A5035402935,N. J. Fisch,Physics,I4405262680,Commonwealth Fusion Systems (United States),US,1
+A5035402935,N. J. Fisch,Physics,I4210133704,Muons (United States),US,1
+A5048819613,MANSOUR SHAYEGAN,Physics,I1283103587,AT&T (United States),US,3
+A5048819613,MANSOUR SHAYEGAN,Physics,I82514191,Honeywell (United States),US,2
+A5048819613,MANSOUR SHAYEGAN,Physics,I4388891836,GTE (United States),US,1
+A5048819613,MANSOUR SHAYEGAN,Physics,I118136607,General Motors (United States),US,1
+A5048819613,MANSOUR SHAYEGAN,Physics,I1341412227,IBM (United States),US,1
+A5048819613,MANSOUR SHAYEGAN,Physics,I162282272,ROHM,JP,1
+A5029615438,Anatoly Spitkovsky,Physics,I4210139090,Lam Research (United States),US,3
+A5077408069,Amitava Bhattacharjee,Physics,I63533367,General Atomics (United States),US,10
+A5077408069,Amitava Bhattacharjee,Physics,I4210135274,Lodestar Research Corporation (United States),US,3
+A5077408069,Amitava Bhattacharjee,Physics,I4210140095,Nova Photonics (United States),US,3
+A5077408069,Amitava Bhattacharjee,Physics,I1287521167,Lockheed Martin (United States),US,2
+A5077408069,Amitava Bhattacharjee,Physics,I4390039347,"Thea Energy, Inc. (United States)",US,1
+A5077408069,Amitava Bhattacharjee,Physics,I4405262951,Type One Energy,US,1
+A5077408069,Amitava Bhattacharjee,Physics,I4210125372,Lockheed Martin (United Kingdom),GB,1
+A5077408069,Amitava Bhattacharjee,Physics,I4388891857,Lockheed (United States),US,1
+A5077408069,Amitava Bhattacharjee,Physics,I4405256118,Rockwell International (United States),US,1
+A5077408069,Amitava Bhattacharjee,Physics,I4210118278,CompX (United States),US,1
+A5077408069,Amitava Bhattacharjee,Physics,I4405262680,Commonwealth Fusion Systems (United States),US,1
+A5077408069,Amitava Bhattacharjee,Physics,I4210156081,Tech-X Corporation (United States),US,1
+A5077408069,Amitava Bhattacharjee,Physics,I4210087259,SciberQuest (United States),US,1
+A5077408069,Amitava Bhattacharjee,Physics,I4210127875,Nvidia (United States),US,1
+A5041337691,Stewart J. Zweben,Physics,I63533367,General Atomics (United States),US,54
+A5041337691,Stewart J. Zweben,Physics,I4210135274,Lodestar Research Corporation (United States),US,47
+A5041337691,Stewart J. Zweben,Physics,I4210140095,Nova Photonics (United States),US,42
+A5041337691,Stewart J. Zweben,Physics,I4210153952,Princeton Scientific (United States),US,10
+A5041337691,Stewart J. Zweben,Physics,I4210118278,CompX (United States),US,9
+A5041337691,Stewart J. Zweben,Physics,I4405262680,Commonwealth Fusion Systems (United States),US,4
+A5041337691,Stewart J. Zweben,Physics,I926342451,"TAE Technologies, Inc (United States)",US,2
+A5041337691,Stewart J. Zweben,Physics,I4210156081,Tech-X Corporation (United States),US,2
+A5041337691,Stewart J. Zweben,Physics,I4210090550,Tokamak Energy (United Kingdom),GB,1
+A5041337691,Stewart J. Zweben,Physics,I4405262951,Type One Energy,US,1
+A5041337691,Stewart J. Zweben,Physics,I4210094224,GT Advanced Technologies (United States),US,1
+A5041337691,Stewart J. Zweben,Physics,I4210114444,Meta (United States),US,1
+A5041337691,Stewart J. Zweben,Physics,I4210121678,Block Engineering (United States),US,1
+A5041337691,Stewart J. Zweben,Physics,I4210129379,Energetiq Technology (United States),US,1
+A5041337691,Stewart J. Zweben,Physics,I4388891764,Raytheon (United States),US,1
+A5041337691,Stewart J. Zweben,Physics,I1295339012,Boeing (United States),US,1
+A5041337691,Stewart J. Zweben,Physics,I37271104,Public Service Electric and Gas (United States),US,1
+A5041337691,Stewart J. Zweben,Physics,I4388482704,TRW (United States),US,1
+A5041337691,Stewart J. Zweben,Physics,I65143321,Hitachi (Japan),JP,1
+A5012875280,Christos T. Maravelias,Mathematics,I4210133143,Dow Chemical (United States),US,6
+A5012875280,Christos T. Maravelias,Mathematics,I142262071,Johnson Controls (United States),US,5
+A5012875280,Christos T. Maravelias,Mathematics,I4387154267,Praxair (United States),US,4
+A5012875280,Christos T. Maravelias,Mathematics,I4210133695,Aldevron (United States),US,2
+A5012875280,Christos T. Maravelias,Mathematics,I111878022,Linde (United States),US,2
+A5012875280,Christos T. Maravelias,Mathematics,I4210119556,Glucan Biorenewables (United States),US,2
+A5012875280,Christos T. Maravelias,Mathematics,I189090001,Novo Nordisk (Denmark),DK,1
+A5012875280,Christos T. Maravelias,Mathematics,I4210166982,ABB (Germany),DE,1
+A5012875280,Christos T. Maravelias,Mathematics,I106791491,AspenTech (United States),US,1
+A5012875280,Christos T. Maravelias,Mathematics,I4210118907,Hitachi (Germany),DE,1
+A5012875280,Christos T. Maravelias,Mathematics,I1340755506,3M (United States),US,1
+A5012875280,Christos T. Maravelias,Mathematics,I4210091812,Bristol-Myers Squibb (United States),US,1
+A5012875280,Christos T. Maravelias,Mathematics,I4210150951,Shell (United States),US,1
+A5012875280,Christos T. Maravelias,Mathematics,I4210164678,Shell (United Kingdom),GB,1
+A5012875280,Christos T. Maravelias,Mathematics,I7923278,Shell (Netherlands),NL,1
+A5012875280,Christos T. Maravelias,Mathematics,I923382979,ExxonMobil (United States),US,1
+A5012875280,Christos T. Maravelias,Mathematics,I4210153514,BP (United States),US,1
+A5051485543,Janós Kollár,Mathematics,I130375150,Sandvik (Sweden),SE,4
+A5051485543,Janós Kollár,Mathematics,I4210098603,VÚRUP (Slovakia),SK,1
+A5103080298,Richard B. Miles,Physics,I4210099556,Research Support Instruments (United States),US,19
+A5103080298,Richard B. Miles,Physics,I1287521167,Lockheed Martin (United States),US,13
+A5103080298,Richard B. Miles,Physics,I1295339012,Boeing (United States),US,7
+A5103080298,Richard B. Miles,Physics,I4210130306,MetroLaser (United States),US,7
+A5103080298,Richard B. Miles,Physics,I4210123694,Spectral Energies (United States),US,3
+A5103080298,Richard B. Miles,Physics,I4388891857,Lockheed (United States),US,3
+A5103080298,Richard B. Miles,Physics,I4210156081,Tech-X Corporation (United States),US,2
+A5103080298,Richard B. Miles,Physics,I4210130360,Cellular Materials International (United States),US,1
+A5103080298,Richard B. Miles,Physics,I4210127819,"Physics, Materials and Applied Mathematics Research (United States)",US,1
+A5103080298,Richard B. Miles,Physics,I4210131261,Southwest Sciences (United States),US,1
+A5103080298,Richard B. Miles,Physics,I4210153952,Princeton Scientific (United States),US,1
+A5103080298,Richard B. Miles,Physics,I4210159399,Universal Technology Corporation (United States),US,1
+A5103080298,Richard B. Miles,Physics,I880619579,Teledyne Technologies (United States),US,1
+A5103080298,Richard B. Miles,Physics,I4210139450,Time Domain (United States),US,1
+A5070435981,Michael Aizenman,Mathematics,I1290206253,Microsoft (United States),US,1
+A5009891438,Andrew Houck,Physics,I1291425158,Google (United States),US,3
+A5009891438,Andrew Houck,Physics,I1341412227,IBM (United States),US,3
+A5009891438,Andrew Houck,Physics,I4210122220,Angstrom Engineering (Canada),CA,1
+A5009891438,Andrew Houck,Physics,I1290206253,Microsoft (United States),US,1
+A5009891438,Andrew Houck,Physics,I4210119158,IonQ (United States),US,1
+A5009891438,Andrew Houck,Physics,I4210163537,L3Harris (United States),US,1
+A5015697952,Michael C. ZARNSTORFF,Physics,I63533367,General Atomics (United States),US,16
+A5015697952,Michael C. ZARNSTORFF,Physics,I1295339012,Boeing (United States),US,4
+A5015697952,Michael C. ZARNSTORFF,Physics,I4390039347,"Thea Energy, Inc. (United States)",US,3
+A5015697952,Michael C. ZARNSTORFF,Physics,I4405262951,Type One Energy,US,2
+A5015697952,Michael C. ZARNSTORFF,Physics,I4210094345,Solid Material Solutions (United States),US,2
+A5015697952,Michael C. ZARNSTORFF,Physics,I1283103587,AT&T (United States),US,1
+A5015697952,Michael C. ZARNSTORFF,Physics,I26725883,Shimizu (Japan),JP,1
+A5015697952,Michael C. ZARNSTORFF,Physics,I2800295664,RCA (United States),US,1
+A5015697952,Michael C. ZARNSTORFF,Physics,I4210109531,Far Tech (United States),US,1
+A5015697952,Michael C. ZARNSTORFF,Physics,I2948394018,Northrop Grumman (United States),US,1
+A5015697952,Michael C. ZARNSTORFF,Physics,I926342451,"TAE Technologies, Inc (United States)",US,1
+A5014376782,Matteo Cantiello,Physics,I4210131007,John Wiley & Sons (United States),US,3
+A5017793933,Jeremy Goodman,Physics,I4210140095,Nova Photonics (United States),US,1
+A5017793933,Jeremy Goodman,Physics,I63533367,General Atomics (United States),US,1
+A5089973231,Clarence W. Rowley,Physics,I1292974536,Ford Motor Company (United States),US,14
+A5089973231,Clarence W. Rowley,Physics,I4210135274,Lodestar Research Corporation (United States),US,5
+A5089973231,Clarence W. Rowley,Physics,I4210140095,Nova Photonics (United States),US,5
+A5089973231,Clarence W. Rowley,Physics,I63533367,General Atomics (United States),US,5
+A5089973231,Clarence W. Rowley,Physics,I4210118278,CompX (United States),US,2
+A5089973231,Clarence W. Rowley,Physics,I4210158486,ITT (United States),US,2
+A5089973231,Clarence W. Rowley,Physics,I4387154912,United Technologies (United States),US,1
+A5089973231,Clarence W. Rowley,Physics,I4405282460,Janssen Research & Development (United States),US,1
+A5050598542,R. N. Bhatt,Physics,I1283103587,AT&T (United States),US,42
+A5050598542,R. N. Bhatt,Physics,I70745867,KLA (United States),US,2
+A5059313827,Felix Heide,Physics,I4210124078,Torc Robotics (United States),US,27
+A5059313827,Felix Heide,Physics,I1332474105,Mercedes-Benz (Germany),DE,17
+A5059313827,Felix Heide,Physics,I1306409833,Adobe Systems (United States),US,4
+A5059313827,Felix Heide,Physics,I4210127875,Nvidia (United States),US,3
+A5059313827,Felix Heide,Physics,I891521709,Daimler (Germany),DE,3
+A5059313827,Felix Heide,Physics,I4210114444,Meta (United States),US,3
+A5059313827,Felix Heide,Physics,I1290206253,Microsoft (United States),US,2
+A5059313827,Felix Heide,Physics,I1304085615,Nvidia (United Kingdom),GB,1
+A5059313827,Felix Heide,Physics,I4210108678,MicroVision (United States),US,1
+A5059313827,Felix Heide,Physics,I188068037,Pohang Iron and Steel (South Korea),KR,1
+A5059313827,Felix Heide,Physics,I2250650973,Samsung (South Korea),KR,1
+A5059313827,Felix Heide,Physics,I4399598381,Samsung Advanced Institute of Technology (South Korea),KR,1
+A5059313827,Felix Heide,Physics,I4405259277,Samsung Electronics (South Korea),KR,1
+A5059313827,Felix Heide,Physics,I4210100430,Google (Switzerland),CH,1
+A5059313827,Felix Heide,Physics,I4210167039,ServiceNow (United States),US,1
+A5059313827,Felix Heide,Physics,I1291425158,Google (United States),US,1
+A5013104539,R.J. Goldston,Physics,I63533367,General Atomics (United States),US,26
+A5013104539,R.J. Goldston,Physics,I4210140095,Nova Photonics (United States),US,9
+A5013104539,R.J. Goldston,Physics,I4405262680,Commonwealth Fusion Systems (United States),US,5
+A5013104539,R.J. Goldston,Physics,I4210118278,CompX (United States),US,4
+A5013104539,R.J. Goldston,Physics,I4210090550,Tokamak Energy (United Kingdom),GB,4
+A5013104539,R.J. Goldston,Physics,I1295339012,Boeing (United States),US,3
+A5013104539,R.J. Goldston,Physics,I4405262951,Type One Energy,US,3
+A5013104539,R.J. Goldston,Physics,I4210135274,Lodestar Research Corporation (United States),US,3
+A5013104539,R.J. Goldston,Physics,I1283103587,AT&T (United States),US,2
+A5013104539,R.J. Goldston,Physics,I2800295664,RCA (United States),US,2
+A5013104539,R.J. Goldston,Physics,I2948394018,Northrop Grumman (United States),US,2
+A5013104539,R.J. Goldston,Physics,I1290206253,Microsoft (United States),US,1
+A5013104539,R.J. Goldston,Physics,I4390039347,"Thea Energy, Inc. (United States)",US,1
+A5013104539,R.J. Goldston,Physics,I4210126811,CH2M (United States),US,1
+A5013104539,R.J. Goldston,Physics,I9217761,Westinghouse Electric (United States),US,1
+A5013104539,R.J. Goldston,Physics,I923382979,ExxonMobil (United States),US,1
+A5013104539,R.J. Goldston,Physics,I4210153952,Princeton Scientific (United States),US,1
+A5013104539,R.J. Goldston,Physics,I4210156081,Tech-X Corporation (United States),US,1
+A5013104539,R.J. Goldston,Physics,I4388891751,McDonnel Douglas (United States),US,1
+A5013104539,R.J. Goldston,Physics,I181998121,Bechtel (United States),US,1
+A5013104539,R.J. Goldston,Physics,I887702905,TRW Automotive (United States),US,1
+A5013104539,R.J. Goldston,Physics,I114662689,Leidos (United States),US,1
+A5013104539,R.J. Goldston,Physics,I880747138,Science Applications International Corporation (United States),US,1
+A5013104539,R.J. Goldston,Physics,I4405256118,Rockwell International (United States),US,1
+A5013104539,R.J. Goldston,Physics,I65143321,Hitachi (Japan),JP,1
+A5078417346,Erik J. Sorensen,Chemistry,I4210117619,Novartis (United States),US,1
+A5078417346,Erik J. Sorensen,Chemistry,I4210147479,Cyclacel Pharmaceuticals (United Kingdom),GB,1
+A5078417346,Erik J. Sorensen,Chemistry,I4210116403,PharmaMar (Spain),ES,1
+A5055420458,Joseph Eli Subotnik,Physics,I4210088495,Q Chem (United States),US,8
+A5055420458,Joseph Eli Subotnik,Physics,I4405258653,Wavefunction (United States),US,2
+A5055420458,Joseph Eli Subotnik,Physics,I203455613,Schrodinger (United States),US,2
+A5029061433,Z. G. Soos,Physics,I4210107053,Core Competence,US,8
+A5029061433,Z. G. Soos,Physics,I4388891836,GTE (United States),US,3
+A5029061433,Z. G. Soos,Physics,I157773645,Wacker (United States),US,1
+A5029061433,Z. G. Soos,Physics,I17170469,Solvay (Belgium),BE,1
+A5029061433,Z. G. Soos,Physics,I4210107087,BASF (Germany),DE,1
+A5029061433,Z. G. Soos,Physics,I4210122849,Philips (Netherlands),NL,1
+A5029061433,Z. G. Soos,Physics,I4388891752,AlliedSignal (United States),US,1
+A5029061433,Z. G. Soos,Physics,I923382979,ExxonMobil (United States),US,1
+A5068844705,S. A. Lyon,Physics,I4210125572,Element Six (United Kingdom),GB,6
+A5068844705,S. A. Lyon,Physics,I4210137693,Siemens (United States),US,3
+A5068844705,S. A. Lyon,Physics,I1283103587,AT&T (United States),US,2
+A5068844705,S. A. Lyon,Physics,I4405261486,"Silvaco Group, Inc. (United States)",US,1
+A5068844705,S. A. Lyon,Physics,I1324840837,Hewlett-Packard (United States),US,1
+A5068844705,S. A. Lyon,Physics,I200576644,HRL Laboratories (United States),US,1
+A5068844705,S. A. Lyon,Physics,I173869447,Qinetiq (United Kingdom),GB,1
+A5068844705,S. A. Lyon,Physics,I1343180700,Intel (United States),US,1
+A5034006875,Robert R. Knowles,Chemistry,I4210091812,Bristol-Myers Squibb (United States),US,7
+A5034006875,Robert R. Knowles,Chemistry,I168537998,Eli Lilly (United States),US,2
+A5034006875,Robert R. Knowles,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5034006875,Robert R. Knowles,Chemistry,I4210125795,Bristol-Myers Squibb (United Kingdom),GB,1
+A5062844820,Amit Singer,Mathematics,I1290206253,Microsoft (United States),US,1
+A5062844820,Amit Singer,Mathematics,I1291425158,Google (United States),US,1
+A5062844820,Amit Singer,Mathematics,I4405256866,ByteDance (China),CN,1
+A5100707460,Mengdi Wang,Mathematics,I45928872,Alibaba Group (China),CN,8
+A5100707460,Mengdi Wang,Mathematics,I1291425158,Google (United States),US,6
+A5100707460,Mengdi Wang,Mathematics,I4210090411,Google DeepMind (United Kingdom),GB,6
+A5100707460,Mengdi Wang,Mathematics,I1305429384,JPMorgan Chase & Co (United States),US,4
+A5100707460,Mengdi Wang,Mathematics,I2250653659,Tencent (China),CN,4
+A5100707460,Mengdi Wang,Mathematics,I4405277472,CISDI Group (China),CN,2
+A5100707460,Mengdi Wang,Mathematics,I4405256866,ByteDance (China),CN,2
+A5100707460,Mengdi Wang,Mathematics,I17442442,State Grid Corporation of China (China),CN,2
+A5100707460,Mengdi Wang,Mathematics,I1305444813,Capital One (United States),US,1
+A5100707460,Mengdi Wang,Mathematics,I4401726785,Microsoft Research New York City (United States),US,1
+A5100707460,Mengdi Wang,Mathematics,I1316064682,LinkedIn (United States),US,1
+A5100707460,Mengdi Wang,Mathematics,I4210124949,Microsoft Research (India),IN,1
+A5100707460,Mengdi Wang,Mathematics,I1341412227,IBM (United States),US,1
+A5100707460,Mengdi Wang,Mathematics,I4210143797,Sony (Japan),JP,1
+A5100707460,Mengdi Wang,Mathematics,I1311688040,Amazon (United States),US,1
+A5100707460,Mengdi Wang,Mathematics,I4210133485,UnitedHealth Group (United States),US,1
+A5100707460,Mengdi Wang,Mathematics,I2250955327,Huawei Technologies (China),CN,1
+A5100707460,Mengdi Wang,Mathematics,I4210128969,Alphabet (United States),US,1
+A5100707460,Mengdi Wang,Mathematics,I4405270328,Ant Group (China),CN,1
+A5100707460,Mengdi Wang,Mathematics,I4387155233,Shandong Electric Power Engineering Consulting Institute Corp,CN,1
+A5100707460,Mengdi Wang,Mathematics,I4210144143,Inspur (China),CN,1
+A5100707460,Mengdi Wang,Mathematics,I180662265,China Mobile (China),CN,1
+A5100707460,Mengdi Wang,Mathematics,I4210155268,Salesforce (United States),US,1
+A5100707460,Mengdi Wang,Mathematics,I4405271892,"China Tobacco Hunan Industrial Co., Ltd. (China)",CN,1
+A5100707460,Mengdi Wang,Mathematics,I158108717,China National Offshore Oil Corporation (China),CN,1
+A5100707460,Mengdi Wang,Mathematics,I4405282449,"China Mobile Group Design Institute Co., Ltd. (China)",CN,1
+A5100707460,Mengdi Wang,Mathematics,I1290206253,Microsoft (United States),US,1
+A5100707460,Mengdi Wang,Mathematics,I4405259636,Aier Eye Hospital Group (China),CN,1
+A5100707460,Mengdi Wang,Mathematics,I4387152397,State Grid Hebei Electric Power Company,CN,1
+A5046867106,Michael V. Romalis,Physics,I4210165276,Twinleaf (United States),US,8
+A5072880658,Mikhail N. Shneider,Physics,I1287521167,Lockheed Martin (United States),US,13
+A5072880658,Mikhail N. Shneider,Physics,I4210099556,Research Support Instruments (United States),US,5
+A5072880658,Mikhail N. Shneider,Physics,I4388891857,Lockheed (United States),US,4
+A5072880658,Mikhail N. Shneider,Physics,I4210156081,Tech-X Corporation (United States),US,2
+A5072880658,Mikhail N. Shneider,Physics,I4405264642,ERC Inc. (Japan),JP,1
+A5072880658,Mikhail N. Shneider,Physics,I1343180700,Intel (United States),US,1
+A5072880658,Mikhail N. Shneider,Physics,I4210141466,Cummins (United States),US,1
+A5072880658,Mikhail N. Shneider,Physics,I4210130306,MetroLaser (United States),US,1
+A5072880658,Mikhail N. Shneider,Physics,I1295339012,Boeing (United States),US,1
+A5072880658,Mikhail N. Shneider,Physics,I4210139450,Time Domain (United States),US,1
+A5072880658,Mikhail N. Shneider,Physics,I4210161800,Scientific Applications & Research Associates (United States),US,1
+A5072880658,Mikhail N. Shneider,Physics,I193427800,Applied Materials (United States),US,1
+A5072238613,Yevgeny Raitses,Physics,I193427800,Applied Materials (United States),US,3
+A5072238613,Yevgeny Raitses,Physics,I926342451,"TAE Technologies, Inc (United States)",US,2
+A5072238613,Yevgeny Raitses,Physics,I4210140095,Nova Photonics (United States),US,2
+A5072238613,Yevgeny Raitses,Physics,I16362100,Rafael Advanced Defense Systems (Israel),IL,1
+A5072238613,Yevgeny Raitses,Physics,I4387156034,Hitachi High-Tech (Japan),JP,1
+A5072238613,Yevgeny Raitses,Physics,I4210156081,Tech-X Corporation (United States),US,1
+A5072238613,Yevgeny Raitses,Physics,I4210090550,Tokamak Energy (United Kingdom),GB,1
+A5072238613,Yevgeny Raitses,Physics,I4405259277,Samsung Electronics (South Korea),KR,1
+A5072238613,Yevgeny Raitses,Physics,I4210158237,UES (United States),US,1
+A5072238613,Yevgeny Raitses,Physics,I864088423,Veeco (United States),US,1
+A5015680502,Andrea L. Graham,Mathematics,I4210131784,Roslin Cells (United Kingdom),GB,1
+A5052985577,Assaf Naor,Mathematics,I1290206253,Microsoft (United States),US,49
+A5052985577,Assaf Naor,Mathematics,I4210164937,Microsoft Research (United Kingdom),GB,7
+A5052985577,Assaf Naor,Mathematics,I4401726785,Microsoft Research New York City (United States),US,1
+A5052985577,Assaf Naor,Mathematics,I1341412227,IBM (United States),US,1
+A5017733601,Alejandro W. Rodríguez,Physics,I4210137693,Siemens (United States),US,1
+A5017733601,Alejandro W. Rodríguez,Physics,I4210113003,Physical Sciences (United States),US,1
+A5017733601,Alejandro W. Rodríguez,Physics,I1341412227,IBM (United States),US,1
+A5017733601,Alejandro W. Rodríguez,Physics,I1324840837,Hewlett-Packard (United States),US,1
+A5017733601,Alejandro W. Rodríguez,Physics,I166097846,Maxwell Technologies (United States),US,1
+A5021151831,Leslie Mareike Schoop,Physics,I4210108613,Azimuth (United States),US,1
+A5021151831,Leslie Mareike Schoop,Physics,I4210139090,Lam Research (United States),US,1
+A5021151831,Leslie Mareike Schoop,Physics,I1341412227,IBM (United States),US,1
+A5084785219,Hakan E. Türeci,Physics,I1341412227,IBM (United States),US,1
+A5084785219,Hakan E. Türeci,Physics,I4210158803,Rigetti Computing (United States),US,1
+A5084785219,Hakan E. Türeci,Physics,I4388891764,Raytheon (United States),US,1
+A5018060531,Matias D. Cattaneo,Mathematics,I1311688040,Amazon (United States),US,1
+A5018060531,Matias D. Cattaneo,Mathematics,I4210139661,Two Sigma Investments (United States),US,1
+A5018060531,Matias D. Cattaneo,Mathematics,I4210089168,StataCorp (United States),US,1
+A5045153804,Igor Kaganovich,Physics,I4210142095,Voss Scientific (United States),US,14
+A5045153804,Igor Kaganovich,Physics,I193427800,Applied Materials (United States),US,9
+A5045153804,Igor Kaganovich,Physics,I1332737386,General Electric (United States),US,6
+A5045153804,Igor Kaganovich,Physics,I4210134512,GE Global Research (United States),US,4
+A5045153804,Igor Kaganovich,Physics,I114132059,Tokyo Electron (Japan),JP,4
+A5045153804,Igor Kaganovich,Physics,I4210154456,RadiaSoft (United States),US,3
+A5045153804,Igor Kaganovich,Physics,I923382979,ExxonMobil (United States),US,2
+A5045153804,Igor Kaganovich,Physics,I4405259277,Samsung Electronics (South Korea),KR,2
+A5045153804,Igor Kaganovich,Physics,I4210156081,Tech-X Corporation (United States),US,2
+A5045153804,Igor Kaganovich,Physics,I4210139090,Lam Research (United States),US,2
+A5045153804,Igor Kaganovich,Physics,I4210158237,UES (United States),US,2
+A5045153804,Igor Kaganovich,Physics,I4405271084,Safran Aircraft Engines (France),FR,1
+A5045153804,Igor Kaganovich,Physics,I2250650973,Samsung (South Korea),KR,1
+A5045153804,Igor Kaganovich,Physics,I4210145651,Advanced Research Center for Nanolithography (Netherlands),NL,1
+A5045153804,Igor Kaganovich,Physics,I4387156034,Hitachi High-Tech (Japan),JP,1
+A5045153804,Igor Kaganovich,Physics,I114662689,Leidos (United States),US,1
+A5045153804,Igor Kaganovich,Physics,I880747138,Science Applications International Corporation (United States),US,1
+A5045153804,Igor Kaganovich,Physics,I4405262916,Focused Energy,US,1
+A5045153804,Igor Kaganovich,Physics,I4210153148,CFD Research Corporation (United States),US,1
+A5045153804,Igor Kaganovich,Physics,I4405274803,Tokyo Electron Technology Solutions Limited (Japan),JP,1
+A5045153804,Igor Kaganovich,Physics,I4401726784,GE Vernova (United States),US,1
+A5077626973,Gerard Wysocki,Chemistry,I4210139710,Wroclaw Research Centre EIT+ (Poland),PL,15
+A5077626973,Gerard Wysocki,Chemistry,I4210142164,Thorlabs (United States),US,6
+A5077626973,Gerard Wysocki,Chemistry,I4210088371,Norsk Elektro Optikk (Norway),NO,6
+A5077626973,Gerard Wysocki,Chemistry,I1325886976,Siemens (Germany),DE,6
+A5077626973,Gerard Wysocki,Chemistry,I4210155256,Sotera Defense Solutions (United States),US,5
+A5077626973,Gerard Wysocki,Chemistry,I4210113003,Physical Sciences (United States),US,5
+A5077626973,Gerard Wysocki,Chemistry,I1338503839,Corning (United States),US,4
+A5077626973,Gerard Wysocki,Chemistry,I4210097186,Pendar Technologies (United States),US,3
+A5077626973,Gerard Wysocki,Chemistry,I4210141795,AdTech Optics (United States),US,3
+A5077626973,Gerard Wysocki,Chemistry,I1341412227,IBM (United States),US,3
+A5077626973,Gerard Wysocki,Chemistry,I138285227,Agilent Technologies (United States),US,2
+A5077626973,Gerard Wysocki,Chemistry,I4210107353,NEC (United States),US,2
+A5077626973,Gerard Wysocki,Chemistry,I1324360087,Infinera (United States),US,1
+A5077626973,Gerard Wysocki,Chemistry,I4210111147,Alpes Lasers (Switzerland),CH,1
+A5077626973,Gerard Wysocki,Chemistry,I4210150894,Jacobs (United States),US,1
+A5077626973,Gerard Wysocki,Chemistry,I4210155082,KeyW (United States),US,1
+A5077626973,Gerard Wysocki,Chemistry,I4210117222,BAE Systems (United States),US,1
+A5077626973,Gerard Wysocki,Chemistry,I4210131261,Southwest Sciences (United States),US,1
+A5077626973,Gerard Wysocki,Chemistry,I1311688040,Amazon (United States),US,1
+A5077626973,Gerard Wysocki,Chemistry,I4210138502,Onto Innovation (United States),US,1
+A5077626973,Gerard Wysocki,Chemistry,I4210111149,Aerodyne Research,US,1
+A5077626973,Gerard Wysocki,Chemistry,I4210110462,Tiger Optics (United States),US,1
+A5063823945,Sujit Sankar Datta,Physics,I180980256,Waters (United States),US,1
+A5063823945,Sujit Sankar Datta,Physics,I4210127493,Xperi (United States),US,1
+A5063823945,Sujit Sankar Datta,Physics,I103084370,Total (France),FR,1
+A5025706101,Nathalie P. de Leon,Physics,I4210125572,Element Six (United Kingdom),GB,12
+A5025706101,Nathalie P. de Leon,Physics,I1341412227,IBM (United States),US,2
+A5025706101,Nathalie P. de Leon,Physics,I4210113003,Physical Sciences (United States),US,1
+A5025706101,Nathalie P. de Leon,Physics,I4210140930,Thales (France),FR,1
+A5025706101,Nathalie P. de Leon,Physics,I4387153311,Hyperion Materials & Technologies (United States),US,1
+A5025706101,Nathalie P. de Leon,Physics,I4210138845,Element Six (United States),US,1
+A5025706101,Nathalie P. de Leon,Physics,I4210155140,Element Six (Germany),DE,1
+A5012708804,S. Cohen,Physics,I2800295664,RCA (United States),US,10
+A5012708804,S. Cohen,Physics,I4210125045,Princeton Satellite Systems (United States),US,8
+A5012708804,S. Cohen,Physics,I4210142095,Voss Scientific (United States),US,6
+A5012708804,S. Cohen,Physics,I63533367,General Atomics (United States),US,3
+A5012708804,S. Cohen,Physics,I2948394018,Northrop Grumman (United States),US,2
+A5012708804,S. Cohen,Physics,I4210140095,Nova Photonics (United States),US,2
+A5050912870,Martin Wühr,Chemistry,I4210142480,Thermo Fisher Scientific (United States),US,2
+A5050912870,Martin Wühr,Chemistry,I4210112383,Nestlé (Switzerland),CH,1
+A5050912870,Martin Wühr,Chemistry,I4210129925,Spectroswiss (Switzerland),CH,1
+A5050912870,Martin Wühr,Chemistry,I4210134725,Cell Signaling Technology (United States),US,1
+A5050912870,Martin Wühr,Chemistry,I199117387,Promega (United States),US,1
+A5050912870,Martin Wühr,Chemistry,I1297540436,Biogen (United States),US,1
+A5076570918,Allan Sly,Mathematics,I1290206253,Microsoft (United States),US,18
+A5076570918,Allan Sly,Mathematics,I4400600948,Microsoft Research New England (United States),US,1
+A5076570918,Allan Sly,Mathematics,I4210164937,Microsoft Research (United Kingdom),GB,1
+A5033746250,Egemen Kolemen,Physics,I63533367,General Atomics (United States),US,84
+A5033746250,Egemen Kolemen,Physics,I4210140095,Nova Photonics (United States),US,14
+A5033746250,Egemen Kolemen,Physics,I4390039347,"Thea Energy, Inc. (United States)",US,9
+A5033746250,Egemen Kolemen,Physics,I4210135274,Lodestar Research Corporation (United States),US,7
+A5033746250,Egemen Kolemen,Physics,I4405262680,Commonwealth Fusion Systems (United States),US,6
+A5033746250,Egemen Kolemen,Physics,I4405262951,Type One Energy,US,5
+A5033746250,Egemen Kolemen,Physics,I4210090550,Tokamak Energy (United Kingdom),GB,5
+A5033746250,Egemen Kolemen,Physics,I4210118278,CompX (United States),US,5
+A5033746250,Egemen Kolemen,Physics,I4210109531,Far Tech (United States),US,2
+A5033746250,Egemen Kolemen,Physics,I4210159872,Predictive Science (United States),US,1
+A5033746250,Egemen Kolemen,Physics,I4210127875,Nvidia (United States),US,1
+A5033746250,Egemen Kolemen,Physics,I4210156081,Tech-X Corporation (United States),US,1
+A5033746250,Egemen Kolemen,Physics,I4210090411,Google DeepMind (United Kingdom),GB,1
+A5033746250,Egemen Kolemen,Physics,I4210113297,Google (United Kingdom),GB,1
+A5033746250,Egemen Kolemen,Physics,I2946016260,Uber AI (United States),US,1
+A5026591395,F. I. Parra,Physics,I63533367,General Atomics (United States),US,17
+A5026591395,F. I. Parra,Physics,I4405262680,Commonwealth Fusion Systems (United States),US,8
+A5026591395,F. I. Parra,Physics,I4210090550,Tokamak Energy (United Kingdom),GB,7
+A5026591395,F. I. Parra,Physics,I4405262951,Type One Energy,US,6
+A5026591395,F. I. Parra,Physics,I4390039347,"Thea Energy, Inc. (United States)",US,3
+A5026591395,F. I. Parra,Physics,I4210118278,CompX (United States),US,2
+A5026591395,F. I. Parra,Physics,I4210140095,Nova Photonics (United States),US,2
+A5026591395,F. I. Parra,Physics,I4210100528,ENN (China),CN,2
+A5026591395,F. I. Parra,Physics,I4387154877,Fiat Lux,US,2
+A5026591395,F. I. Parra,Physics,I4210097631,Environmental Resources Management (United Kingdom),GB,1
+A5028345325,Maria Chudnovsky,Mathematics,I4210148186,Google (Canada),CA,2
+A5028345325,Maria Chudnovsky,Mathematics,I1291425158,Google (United States),US,2
+A5028345325,Maria Chudnovsky,Mathematics,I4210163007,Shaanxi Yulin Energy Group,CN,1
+A5028345325,Maria Chudnovsky,Mathematics,I4405268113,Xian Janssen Pharmaceutical Ltd. (China),CN,1
+A5086641609,Jeff D. Thompson,Physics,I4210140930,Thales (France),FR,1
+A5063843509,Ramon van Handel,Mathematics,I1291425158,Google (United States),US,1
+A5063843509,Ramon van Handel,Mathematics,I4210100430,Google (Switzerland),CH,1
+A5063843509,Ramon van Handel,Mathematics,I4210117425,Google (Israel),IL,1
+A5101485690,Amir Ali Ahmadi,Mathematics,I1341412227,IBM (United States),US,8
+A5101485690,Amir Ali Ahmadi,Mathematics,I1291425158,Google (United States),US,1
+A5081461094,Bartolomeo Stellato,Mathematics,I4210114444,Meta (United States),US,2
+A5081461094,Bartolomeo Stellato,Mathematics,I1291425158,Google (United States),US,1
+A5081461094,Bartolomeo Stellato,Mathematics,I885143765,ABB (Switzerland),CH,1
+A5081461094,Bartolomeo Stellato,Mathematics,I4210098317,Quansight (United States),US,1
+A5087523470,Christopher J. White,Physics,I1291425158,Google (United States),US,3
+A5066955363,Will Sawin,Mathematics,I1290206253,Microsoft (United States),US,2
+A5074568396,Michele L. Sarazen,Chemistry,I4210133143,Dow Chemical (United States),US,2
+A5074568396,Michele L. Sarazen,Chemistry,I4387153490,Global Thermostat (United States),US,1
+A5074568396,Michele L. Sarazen,Chemistry,I1322124587,Booz Allen Hamilton (United States),US,1
+A5074568396,Michele L. Sarazen,Chemistry,I3019562804,BASF (United States),US,1
+A5074568396,Michele L. Sarazen,Chemistry,I923382979,ExxonMobil (United States),US,1
+A5074568396,Michele L. Sarazen,Chemistry,I4210091812,Bristol-Myers Squibb (United States),US,1
+A5058730283,Jason M. Klusowski,Mathematics,I4210155268,Salesforce (United States),US,1
+A5058730283,Jason M. Klusowski,Mathematics,I4210139661,Two Sigma Investments (United States),US,1
+A5058730283,Jason M. Klusowski,Mathematics,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5002822382,V. N. Duarte,Physics,I63533367,General Atomics (United States),US,13
+A5002822382,V. N. Duarte,Physics,I4210090550,Tokamak Energy (United Kingdom),GB,7
+A5002822382,V. N. Duarte,Physics,I4210140095,Nova Photonics (United States),US,6
+A5002822382,V. N. Duarte,Physics,I4405262680,Commonwealth Fusion Systems (United States),US,5
+A5002822382,V. N. Duarte,Physics,I4210118278,CompX (United States),US,3
+A5002822382,V. N. Duarte,Physics,I4405262951,Type One Energy,US,3
+A5002822382,V. N. Duarte,Physics,I4210135274,Lodestar Research Corporation (United States),US,3
+A5002822382,V. N. Duarte,Physics,I4210156081,Tech-X Corporation (United States),US,1
+A5002822382,V. N. Duarte,Physics,I4210109531,Far Tech (United States),US,1

@@ -197,56 +197,55 @@ os.makedirs(f"{R}/compare/site/data", exist_ok=True)
 json.dump(C, open(f"{R}/compare/site/data/compare.json", "w"), ensure_ascii=False, separators=(",", ":"))
 print("compare.json", os.path.getsize(f"{R}/compare/site/data/compare.json"), file=sys.stderr)
 
-# ---------------------------------------------------------------- NA top 20 deep dives
-FIX_INST = {"A5040462364": None}
-top = rankNA[:20]
-byNA = {n["id"]: n for n in netNA["nodes"]}
-out = []
-for rk, n in enumerate(top, 1):
-    me = n["id"]; ps = [w for w in NA.values() if any(a[0] == me for a in w["au"]) and w.get("year")]
-    co = collections.Counter(); coname = {}; coinst = collections.defaultdict(collections.Counter); pair = collections.Counter()
-    instc = collections.Counter(); instinfo = {}
-    for w in ps:
-        others = []
-        for aid, nm, pos, insts in w["au"]:
-            if aid == me: continue
-            others.append(aid); co[aid] += 1; coname[aid] = nm
-            for iid, iname, t, cc in insts[:1]:
-                coinst[aid][(iname, t, cc)] += 1
-            for iid, iname, t, cc in insts:
-                instinfo[iid] = (iname, t, cc)
-        for iid in {i[0] for a in w["au"] if a[0] != me for i in a[3]}: instc[iid] += 1
-        if w["n_authors"] <= 30:
-            others = sorted(set(others))
-            for i in range(len(others)):
-                for j in range(i + 1, len(others)): pair[(others[i], others[j])] += 1
-    keep = [a for a, k in co.most_common(60) if k >= 2][:45]
-    ks = set(keep)
-    def cat(a):
-        if a in byNA: return "pi"
-        (iname, t, cc), _ = coinst[a].most_common(1)[0] if coinst[a] else ((None, None, None), 0)
-        if cc and cc not in ("US", "CA"): return "intl"
-        return {"education": "edu", "company": "company"}.get(t, "lab" if t else "edu")
-    nodes = [{"id": a, "n": coname[a], "k": co[a], "c": cat(a), "inst": (coinst[a].most_common(1)[0][0][0] if coinst[a] else None), "pi": a in byNA} for a in keep]
-    edges = [[a, b, k] for (a, b), k in pair.items() if a in ks and b in ks and k >= 2]
-    yr = collections.Counter(w["year"] for w in ps); yc = collections.Counter()
-    for w in ps: yc[w["year"]] += w["cites"]
-    ven = collections.Counter(w.get("venue") for w in ps if w.get("venue"))
-    arc = collections.Counter(work_area(w) for w in ps)
-    def pub(w): return {"t": w["title"], "y": w["year"], "v": w.get("venue"), "c": w["cites"], "doi": (w.get("doi") or "").replace("https://doi.org/", ""), "w": w["id"], "na": w["n_authors"]}
-    i = instNA[n["i"]]
-    out.append({"rank": rk, "id": me, "n": n["n"], "inst": i["n"], "city": i.get("city"), "reg": i.get("reg"), "cc": i["cc"], "lat": i["lat"], "lng": i["lng"],
-                "a": n["a"], "h": n["h"], "cit_all": n["cit"], "cit": citNA[me], "np": len(ps), "deg": n["deg"], "score": round(scNA[me], 4), "orcid": n["orcid"], "kw": n["kw"],
-                "y0": min(yr), "y1": max(yr), "years": [[y, yr[y], yc[y]] for y in range(min(yr), 2026)], "areas": dict(arc),
-                "venues": ven.most_common(8), "top": [pub(w) for w in sorted(ps, key=lambda w: -w["cites"])[:12]],
-                "recent": [pub(w) for w in sorted(ps, key=lambda w: (-(w["year"] or 0), -w["cites"]))[:6]],
-                "partners": [[instinfo[iid][0], instinfo[iid][1], instinfo[iid][2], k] for iid, k in instc.most_common(12)],
-                "net_pi": sorted([[x, k, byNA[x]["n"]] for x, k in ((b if a == me else a, k) for a, b, k in netNA["edges"] if me in (a, b))], key=lambda r: -r[1])[:30],
-                "ego": {"nodes": nodes, "edges": edges},
-                "coauthors_total": len(co), "solo_last_pct": round(100 * sum(1 for w in ps if w["au"] and w["au"][-1][0] == me) / len(ps), 1)})
-PROF = json.load(open(f"{R}/top20/data/manual/profiles.json"))  # hand-written research summaries
-for p in out: p["profile"] = PROF.get(p["id"])
-os.makedirs(f"{R}/top20/site/data", exist_ok=True)
-json.dump({"built": __import__("time").strftime("%Y-%m-%d"), "areas": AREAS, "profs": out, "all_n": len(netNA["nodes"]), "all_area": dict(collections.Counter(n["a"] for n in netNA["nodes"])),
-           "next": [row(n, instNA, scNA, citNA, npNA) for n in rankNA[20:50]]}, open(f"{R}/top20/site/data/top20.json", "w"), ensure_ascii=False, separators=(",", ":"))
-print("top20.json", os.path.getsize(f"{R}/top20/site/data/top20.json"), file=sys.stderr)
+# ---------------------------------------------------------------- Top 20 deep dives (NA and China)
+def deep_dives(top, net, W, inst, sc, cit, home, rest, outdir, profiles):
+    byN = {n["id"]: n for n in net["nodes"]}
+    out = []
+    for rk, n in enumerate(top, 1):
+        me = n["id"]; ps = [w for w in W.values() if any(a[0] == me for a in w["au"]) and w.get("year")]
+        co = collections.Counter(); coname = {}; coinst = collections.defaultdict(collections.Counter); pair = collections.Counter()
+        instc = collections.Counter(); instinfo = {}
+        for w in ps:
+            others = []
+            for aid, nm, pos, insts in w["au"]:
+                if aid == me: continue
+                others.append(aid); co[aid] += 1; coname[aid] = nm
+                for iid, iname, t, cc in insts[:1]: coinst[aid][(iname, t, cc)] += 1
+                for iid, iname, t, cc in insts: instinfo[iid] = (iname, t, cc)
+            for iid in {i[0] for a in w["au"] if a[0] != me for i in a[3]}: instc[iid] += 1
+            if w["n_authors"] <= 30:
+                others = sorted(set(others))
+                for i in range(len(others)):
+                    for j in range(i + 1, len(others)): pair[(others[i], others[j])] += 1
+        keep = [a for a, k in co.most_common(60) if k >= 2][:45]; ks = set(keep)
+        def cat(a):
+            if a in byN: return "pi"
+            (iname, t, cc), _ = coinst[a].most_common(1)[0] if coinst[a] else ((None, None, None), 0)
+            if cc and cc not in home: return "intl"
+            return {"education": "edu", "company": "company"}.get(t, "lab" if t else "edu")
+        nodes = [{"id": a, "n": coname[a], "k": co[a], "c": cat(a), "inst": (coinst[a].most_common(1)[0][0][0] if coinst[a] else None), "pi": a in byN} for a in keep]
+        edges = [[a, b, k] for (a, b), k in pair.items() if a in ks and b in ks and k >= 2]
+        yr = collections.Counter(w["year"] for w in ps); yc = collections.Counter()
+        for w in ps: yc[w["year"]] += w["cites"]
+        ven = collections.Counter(w.get("venue") for w in ps if w.get("venue"))
+        arc = collections.Counter(work_area(w) for w in ps)
+        def pub(w): return {"t": w["title"], "y": w["year"], "v": w.get("venue"), "c": w["cites"], "doi": (w.get("doi") or "").replace("https://doi.org/", ""), "w": w["id"], "na": w["n_authors"]}
+        i = inst[n["i"]]
+        out.append({"rank": rk, "id": me, "n": n["n"], "inst": i.get("zh") or i["n"], "inst_en": i["n"], "city": i.get("city"), "reg": i.get("reg"), "cc": i["cc"], "lat": i["lat"], "lng": i["lng"],
+                    "a": n["a"], "h": n["h"], "cit_all": n["cit"], "cit": cit[me], "np": len(ps), "deg": n["deg"], "score": round(sc[me], 4), "orcid": n["orcid"], "kw": n["kw"],
+                    "y0": min(yr), "y1": max(yr), "years": [[y, yr[y], yc[y]] for y in range(min(yr), 2026)], "areas": dict(arc),
+                    "venues": ven.most_common(8), "top": [pub(w) for w in sorted(ps, key=lambda w: -w["cites"])[:12]],
+                    "recent": [pub(w) for w in sorted(ps, key=lambda w: (-(w["year"] or 0), -w["cites"]))[:6]],
+                    "partners": [[instinfo[iid][0], instinfo[iid][1], instinfo[iid][2], k] for iid, k in instc.most_common(12)],
+                    "net_pi": sorted([[x, k, byN[x]["n"]] for x, k in ((b if a == me else a, k) for a, b, k in net["edges"] if me in (a, b))], key=lambda r: -r[1])[:30],
+                    "ego": {"nodes": nodes, "edges": edges},
+                    "coauthors_total": len(co)})
+    PROF = json.load(open(profiles)) if os.path.exists(profiles) else {}  # hand-written research summaries
+    for p in out: p["profile"] = PROF.get(p["id"])
+    os.makedirs(outdir, exist_ok=True)
+    json.dump({"built": __import__("time").strftime("%Y-%m-%d"), "areas": AREAS, "profs": out, "all_n": len(net["nodes"]), "all_area": dict(collections.Counter(n["a"] for n in net["nodes"])),
+               "next": rest}, open(f"{outdir}/top20.json", "w"), ensure_ascii=False, separators=(",", ":"))
+    print(outdir, os.path.getsize(f"{outdir}/top20.json"), file=sys.stderr)
+
+deep_dives(rankNA[:20], netNA, NA, instNA, scNA, citNA, {"US", "CA"}, [row(n, instNA, scNA, citNA, npNA) for n in rankNA[20:50]], f"{R}/top20/site/data", f"{R}/top20/data/manual/profiles.json")
+deep_dives(rankCN[:20], netCN, CN, instCN, scCN, citCN, CN_CC, [row(n, instCN, scCN, citCN, npCN) for n in rankCN[20:50]], f"{R}/cn-top20/site/data", f"{R}/cn-top20/data/manual/profiles.json")

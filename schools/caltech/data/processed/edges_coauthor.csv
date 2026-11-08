@@ -1,0 +1,145 @@
+a,b,a_name,b_name,shared_works,large_collab_works
+A5001073596,A5005844709,David G. Hitlin,Hirosi Ooguri,1,0
+A5001073596,A5024075990,David G. Hitlin,Sergei Gukov,1,0
+A5001073596,A5029343828,David G. Hitlin,Anton N. Kapustin,1,0
+A5001073596,A5041759371,David G. Hitlin,Kathryn M. Zurek,1,0
+A5001073596,A5061874000,David G. Hitlin,John P. Preskill,1,0
+A5001073596,A5101494909,David G. Hitlin,Alan J. Weinstein,44,0
+A5001073596,A5103052689,David G. Hitlin,Ryan B. Patterson,2,0
+A5003268863,A5004911977,Jay R. Winkler,Theodor Agapie,1,0
+A5003268863,A5035627473,Jay R. Winkler,William A. Goddard,5,0
+A5003268863,A5043841592,Jay R. Winkler,Frances H. Arnold,2,0
+A5003268863,A5057055428,Jay R. Winkler,Jonas C. Peters,4,0
+A5003268863,A5071708486,Jay R. Winkler,Ryan G. Hadt,15,0
+A5004911977,A5035627473,Theodor Agapie,William A. Goddard,18,0
+A5004911977,A5057055428,Theodor Agapie,Jonas C. Peters,31,0
+A5004911977,A5071708486,Theodor Agapie,Ryan G. Hadt,14,0
+A5005359878,A5017959939,Vikram Ravi,Elias R. Most,1,0
+A5005359878,A5022620913,Vikram Ravi,E. Sterl Phinney,2,0
+A5005359878,A5039647198,Vikram Ravi,Kareem J. El-Badry,1,0
+A5005359878,A5052075432,Vikram Ravi,Katerina Chatziioannou,1,0
+A5005359878,A5052525564,Vikram Ravi,Gregg W. Hallinan,35,0
+A5005359878,A5056485618,Vikram Ravi,Shrinivas R. Kulkarni,16,0
+A5005359878,A5061668167,Vikram Ravi,Katherine L. Bouman,2,0
+A5005359878,A5082652920,Vikram Ravi,Fiona A. Harrison,1,0
+A5005469972,A5043841592,Axel Scherer,Frances H. Arnold,1,0
+A5005469972,A5061874000,Axel Scherer,John P. Preskill,1,0
+A5005469972,A5108167374,Axel Scherer,Oskar J. Painter,41,0
+A5005844709,A5007011418,Hirosi Ooguri,Matilde Marcolli,1,0
+A5005844709,A5024075990,Hirosi Ooguri,Sergei Gukov,2,0
+A5005844709,A5029343828,Hirosi Ooguri,Anton N. Kapustin,1,0
+A5005844709,A5034700612,Hirosi Ooguri,David Simmons-Duffin,1,0
+A5005844709,A5061874000,Hirosi Ooguri,John P. Preskill,1,0
+A5005844709,A5103052689,Hirosi Ooguri,Ryan B. Patterson,1,0
+A5010404427,A5035627473,Mark E. Davis,William A. Goddard,1,0
+A5010404427,A5036989439,Mark E. Davis,Hosea M. Nelson,1,0
+A5012554206,A5035627473,Linda C. Hsieh‐Wilson,William A. Goddard,5,0
+A5013692222,A5041759371,Marco Bernardi,Kathryn M. Zurek,1,0
+A5013692222,A5061289896,Marco Bernardi,David Hsieh,2,0
+A5014635196,A5083319852,Nelson Darkwah Oppong,Manuel A. Endres,1,0
+A5015108167,A5043841592,Zhen‐Gang Wang,Frances H. Arnold,4,0
+A5015222692,A5027759442,Hsin-Yuan Huang,Alexei Kitaev,1,0
+A5015222692,A5030940558,Hsin-Yuan Huang,Fernando Brandao,8,0
+A5015222692,A5061874000,Hsin-Yuan Huang,John P. Preskill,17,0
+A5015222692,A5083319852,Hsin-Yuan Huang,Manuel A. Endres,7,0
+A5016642366,A5057055428,Gregory C. Fu,Jonas C. Peters,47,0
+A5017492543,A5028023592,Andrew W. Howard,Charles C. Steidel,3,0
+A5017492543,A5039647198,Andrew W. Howard,Kareem J. El-Badry,5,0
+A5017492543,A5056485618,Andrew W. Howard,Shrinivas R. Kulkarni,2,0
+A5017492543,A5061947430,Andrew W. Howard,Dimitri Mawet,26,0
+A5017959939,A5038938655,Elias R. Most,Philip F. Hopkins,2,0
+A5017959939,A5052075432,Elias R. Most,Katerina Chatziioannou,3,0
+A5017959939,A5078691132,Elias R. Most,Saul A. Teukolsky,3,0
+A5021745787,A5035627473,Nicholas R. Hutzler,William A. Goddard,2,0
+A5021745787,A5043360369,Nicholas R. Hutzler,Bradley W. Filippone,2,0
+A5022620913,A5038938655,E. Sterl Phinney,Philip F. Hopkins,2,0
+A5022620913,A5039647198,E. Sterl Phinney,Kareem J. El-Badry,1,0
+A5022620913,A5052525564,E. Sterl Phinney,Gregg W. Hallinan,1,0
+A5022620913,A5056485618,E. Sterl Phinney,Shrinivas R. Kulkarni,18,0
+A5022620913,A5061668167,E. Sterl Phinney,Katherine L. Bouman,1,0
+A5022620913,A5082652920,E. Sterl Phinney,Fiona A. Harrison,2,0
+A5024075990,A5029343828,Sergei Gukov,Anton N. Kapustin,3,0
+A5024075990,A5041759371,Sergei Gukov,Kathryn M. Zurek,1,0
+A5024075990,A5061874000,Sergei Gukov,John P. Preskill,1,0
+A5024075990,A5103052689,Sergei Gukov,Ryan B. Patterson,1,0
+A5026264194,A5035627473,John M. Eiler,William A. Goddard,1,0
+A5026264194,A5052069613,John M. Eiler,Geoffrey C. Toon,3,0
+A5026264194,A5064849339,John M. Eiler,Brian M. Stoltz,1,0
+A5027759442,A5061874000,Alexei Kitaev,John P. Preskill,7,0
+A5027759442,A5100329121,Alexei Kitaev,Xie Chen,1,0
+A5028023592,A5038938655,Charles C. Steidel,Philip F. Hopkins,1,0
+A5028023592,A5041759371,Charles C. Steidel,Kathryn M. Zurek,1,0
+A5028023592,A5056485618,Charles C. Steidel,Shrinivas R. Kulkarni,5,0
+A5028023592,A5061947430,Charles C. Steidel,Dimitri Mawet,6,0
+A5029343828,A5061874000,Anton N. Kapustin,John P. Preskill,1,0
+A5029343828,A5103052689,Anton N. Kapustin,Ryan B. Patterson,1,0
+A5030940558,A5061874000,Fernando Brandao,John P. Preskill,4,0
+A5030940558,A5073766057,Fernando Brandao,Gil Refael,3,0
+A5030940558,A5083319852,Fernando Brandao,Manuel A. Endres,5,0
+A5030940558,A5108167374,Fernando Brandao,Oskar J. Painter,12,0
+A5033035704,A5037260844,Yanbei Chen,Kenneth G. Libbrecht,2,0
+A5033035704,A5038938655,Yanbei Chen,Philip F. Hopkins,1,0
+A5033035704,A5041759371,Yanbei Chen,Kathryn M. Zurek,3,0
+A5033035704,A5052075432,Yanbei Chen,Katerina Chatziioannou,6,0
+A5033035704,A5061874000,Yanbei Chen,John P. Preskill,1,0
+A5033035704,A5078691132,Yanbei Chen,Saul A. Teukolsky,2,0
+A5033035704,A5101494909,Yanbei Chen,Alan J. Weinstein,10,0
+A5033035704,A5107894336,Yanbei Chen,Lee P. McCuller,9,0
+A5033035704,A5108167374,Yanbei Chen,Oskar J. Painter,2,0
+A5035627473,A5036989439,William A. Goddard,Hosea M. Nelson,2,0
+A5035627473,A5043841592,William A. Goddard,Frances H. Arnold,1,0
+A5035627473,A5057055428,William A. Goddard,Jonas C. Peters,3,0
+A5035627473,A5064849339,William A. Goddard,Brian M. Stoltz,21,0
+A5036989439,A5064849339,Hosea M. Nelson,Brian M. Stoltz,34,0
+A5037260844,A5038938655,Kenneth G. Libbrecht,Philip F. Hopkins,2,0
+A5037260844,A5101494909,Kenneth G. Libbrecht,Alan J. Weinstein,55,0
+A5037260844,A5107894336,Kenneth G. Libbrecht,Lee P. McCuller,1,0
+A5038661637,A5043841592,Sarah E. Reisman,Frances H. Arnold,1,0
+A5038661637,A5057055428,Sarah E. Reisman,Jonas C. Peters,2,0
+A5038661637,A5064849339,Sarah E. Reisman,Brian M. Stoltz,6,0
+A5038661637,A5071708486,Sarah E. Reisman,Ryan G. Hadt,5,0
+A5038938655,A5039647198,Philip F. Hopkins,Kareem J. El-Badry,24,0
+A5038938655,A5041759371,Philip F. Hopkins,Kathryn M. Zurek,2,0
+A5038938655,A5052075432,Philip F. Hopkins,Katerina Chatziioannou,17,0
+A5038938655,A5078691132,Philip F. Hopkins,Saul A. Teukolsky,5,0
+A5038938655,A5101494909,Philip F. Hopkins,Alan J. Weinstein,41,0
+A5038938655,A5107894336,Philip F. Hopkins,Lee P. McCuller,26,0
+A5039647198,A5056485618,Kareem J. El-Badry,Shrinivas R. Kulkarni,14,0
+A5039647198,A5082652920,Kareem J. El-Badry,Fiona A. Harrison,1,0
+A5040183342,A5073766057,Olexei I. Motrunich,Gil Refael,1,0
+A5040183342,A5082630102,Olexei I. Motrunich,Jason F. Alicea,10,0
+A5041759371,A5052075432,Kathryn M. Zurek,Katerina Chatziioannou,1,0
+A5041759371,A5085297892,Kathryn M. Zurek,Clifford Cheung,5,0
+A5041759371,A5107894336,Kathryn M. Zurek,Lee P. McCuller,2,0
+A5043841592,A5064849339,Frances H. Arnold,Brian M. Stoltz,2,0
+A5052075432,A5056485618,Katerina Chatziioannou,Shrinivas R. Kulkarni,2,0
+A5052075432,A5078691132,Katerina Chatziioannou,Saul A. Teukolsky,3,0
+A5052075432,A5101494909,Katerina Chatziioannou,Alan J. Weinstein,71,0
+A5052075432,A5107894336,Katerina Chatziioannou,Lee P. McCuller,72,0
+A5052525564,A5056485618,Gregg W. Hallinan,Shrinivas R. Kulkarni,16,0
+A5052525564,A5061668167,Gregg W. Hallinan,Katherine L. Bouman,2,0
+A5056485618,A5082652920,Shrinivas R. Kulkarni,Fiona A. Harrison,24,0
+A5056485618,A5101494909,Shrinivas R. Kulkarni,Alan J. Weinstein,5,0
+A5056485618,A5107894336,Shrinivas R. Kulkarni,Lee P. McCuller,1,0
+A5058245611,A5061947430,Jonas Zmuidzinas,Dimitri Mawet,2,0
+A5058245611,A5082652920,Jonas Zmuidzinas,Fiona A. Harrison,1,0
+A5058245611,A5110650760,Jonas Zmuidzinas,James J. Bock,20,0
+A5061289896,A5073766057,David Hsieh,Gil Refael,8,0
+A5061668167,A5061947430,Katherine L. Bouman,Dimitri Mawet,1,0
+A5061874000,A5073766057,John P. Preskill,Gil Refael,2,0
+A5061874000,A5082630102,John P. Preskill,Jason F. Alicea,2,0
+A5061874000,A5083319852,John P. Preskill,Manuel A. Endres,1,0
+A5061874000,A5103052689,John P. Preskill,Ryan B. Patterson,1,0
+A5061874000,A5107894336,John P. Preskill,Lee P. McCuller,1,0
+A5061874000,A5108167374,John P. Preskill,Oskar J. Painter,2,0
+A5064849339,A5071708486,Brian M. Stoltz,Ryan G. Hadt,2,0
+A5073766057,A5082630102,Gil Refael,Jason F. Alicea,13,0
+A5073766057,A5083319852,Gil Refael,Manuel A. Endres,3,0
+A5073766057,A5108167374,Gil Refael,Oskar J. Painter,3,0
+A5078691132,A5101494909,Saul A. Teukolsky,Alan J. Weinstein,7,0
+A5078691132,A5107894336,Saul A. Teukolsky,Lee P. McCuller,1,0
+A5082630102,A5083319852,Jason F. Alicea,Manuel A. Endres,5,0
+A5082630102,A5100329121,Jason F. Alicea,Xie Chen,2,0
+A5083319852,A5100329121,Manuel A. Endres,Xie Chen,2,0
+A5083319852,A5108167374,Manuel A. Endres,Oskar J. Painter,1,0
+A5101494909,A5107894336,Alan J. Weinstein,Lee P. McCuller,167,0
