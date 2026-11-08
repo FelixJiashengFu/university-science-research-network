@@ -165,6 +165,7 @@
   .ra-fab .menu .tip{font-size:11px;color:var(--muted,#6b767d);padding:6px 10px 2px}
   .ra-fab.inline{position:relative;left:auto;top:auto;transform:none;z-index:60}.ra-fab.inline .menu{left:0;transform:none}
   @media (max-width:760px){.ra-fab:not(.inline){left:10px;transform:none}.ra-fab .menu{left:0;transform:none}.ra-bar{padding:6px 6px 0}.ra-bar .in{gap:8px;padding-left:12px}.ra-brand{font-size:14px}}
+  html[data-embed] #themeBtn{display:none}
   @media (prefers-reduced-motion:reduce){.ra-pill,.ra-sch li{transition:none!important}}`;
   const st = document.createElement("style"); st.textContent = css; document.head.appendChild(st);
 
@@ -228,13 +229,20 @@
     b.onclick = () => { const t = cur() === "dark" ? "light" : "dark"; document.documentElement.dataset.theme = t; try { localStorage.setItem("ra-theme", t); } catch (e) {} paint(); };
     paint(); return b;
   }
-  try { const t = localStorage.getItem("ra-theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  // Embedded in another site's frame (MolAstria's /research-atlas/): the outer page owns light/dark and sets data-theme
+  // on this document after every load, so take its current value now and hide our own switch.
+  let embedded = false;
+  try { embedded = window.parent !== window && !!window.parent.document.body.dataset.section; } catch (e) {}
+  if (embedded) {
+    document.documentElement.dataset.embed = "1";
+    try { const t = window.parent.document.documentElement.dataset.theme; if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  } else try { const t = localStorage.getItem("ra-theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
   function mount() {
     const pop = schoolPanel();
     if (document.body.dataset.nav === "bar") {
       const bar = document.createElement("nav"); bar.className = "ra-bar"; bar.setAttribute("aria-label", "站点导航");
       bar.innerHTML = `<div class="in ra-glass"><a class="ra-brand" href="${R("./")}">中美<span>·</span>研究图谱</a><div class="ra-links">${pills()}</div></div>`;
-      bar.querySelector(".in").appendChild(themeBtn());
+      if (!embedded) bar.querySelector(".in").appendChild(themeBtn());
       document.body.prepend(bar); document.body.appendChild(pop);
       wireLinks(bar.querySelector(".ra-links"), pop, "bar");
     } else {
