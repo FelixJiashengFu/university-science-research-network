@@ -33,10 +33,10 @@
     ["ustc", "中国科学技术大学", "USTC", "CN", "schools/ustc/"],
     ["fudan", "复旦大学", "Fudan University", "CN", "schools/fudan/"],
     ["sjtu", "上海交通大学", "Shanghai Jiao Tong University", "CN", "schools/sjtu/"],
-    ["zju", "浙江大学", "Zhejiang University", "CN", null],
-    ["nju", "南京大学", "Nanjing University", "CN", null],
-    ["whu", "武汉大学", "Wuhan University", "CN", null],
-    ["sysu", "中山大学", "Sun Yat-sen University", "CN", null],
+    ["zju", "浙江大学", "Zhejiang University", "CN", "schools/zju/"],
+    ["nju", "南京大学", "Nanjing University", "CN", "schools/nju/"],
+    ["whu", "武汉大学", "Wuhan University", "CN", "schools/whu/"],
+    ["sysu", "中山大学", "Sun Yat-sen University", "CN", "schools/sysu/"],
   ];
   const FLAG = { US: "美", CA: "加", CN: "中" };
 

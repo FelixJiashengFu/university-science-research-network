@@ -1,0 +1,547 @@
+openalex_id,name,dept,company_id,company,country,joint_works
+A5018143125,Zhigang Zou,Chemistry,I4210144531,Zeus Entertainment (China),CN,4
+A5018143125,Zhigang Zou,Chemistry,I4210137853,Toyota Motor Corporation (Japan),JP,3
+A5018143125,Zhigang Zou,Chemistry,I17442442,State Grid Corporation of China (China),CN,1
+A5018143125,Zhigang Zou,Chemistry,I4405280778,State Grid Liaoning Electric Power Company (China),CN,1
+A5018143125,Zhigang Zou,Chemistry,I862669128,Xiaomi (China),CN,1
+A5018143125,Zhigang Zou,Chemistry,I4210111144,Tianneng Power (China),CN,1
+A5018143125,Zhigang Zou,Chemistry,I4210135685,Little Swan (China),CN,1
+A5018143125,Zhigang Zou,Chemistry,I106994412,Sinopec (China),CN,1
+A5017375525,Huangxian Ju,Chemistry,I4210132076,World Precision Instruments (United States),US,19
+A5017375525,Huangxian Ju,Chemistry,I4210089756,Bioscience (China),CN,1
+A5100389704,Bing Zhang,Physics,I2250653659,Tencent (China),CN,4
+A5100389704,Bing Zhang,Physics,I16362100,Rafael Advanced Defense Systems (Israel),IL,1
+A5100389704,Bing Zhang,Physics,I4210093662,SM&A (United States),US,1
+A5100389704,Bing Zhang,Physics,I4210121457,Moxtek (United States),US,1
+A5100389704,Bing Zhang,Physics,I5332623,ManTech International (United States),US,1
+A5100389704,Bing Zhang,Physics,I880619579,Teledyne Technologies (United States),US,1
+A5100389704,Bing Zhang,Physics,I4405277349,SINOPEC Geophysical Research Institute (China),CN,1
+A5100389704,Bing Zhang,Physics,I1295339012,Boeing (United States),US,1
+A5100389704,Bing Zhang,Physics,I4210140589,China Huadian Corporation (China),CN,1
+A5100389704,Bing Zhang,Physics,I4210129121,Argonide (United States),US,1
+A5050812850,Jing‐Juan Xu,Chemistry,I4210092117,Molecular Vista (United States),US,1
+A5100769994,Jia Zhu,Physics,I4210113551,Springer Nature (United States),US,1
+A5100769994,Jia Zhu,Physics,I188068037,Pohang Iron and Steel (South Korea),KR,1
+A5004925266,Xing‐Hua Xia,Chemistry,I4210092117,Molecular Vista (United States),US,3
+A5004925266,Xing‐Hua Xia,Chemistry,I1325886976,Siemens (Germany),DE,1
+A5004925266,Xing‐Hua Xia,Chemistry,I4405262974,"Contemporary Amperex Technology Co., Limited.",CN,1
+A5049331166,Zijian Guo,Chemistry,I106994412,Sinopec (China),CN,4
+A5049331166,Zijian Guo,Chemistry,I4210131230,Philips (United States),US,3
+A5049331166,Zijian Guo,Chemistry,I4210090137,Biortus (China),CN,1
+A5049331166,Zijian Guo,Chemistry,I1291425158,Google (United States),US,1
+A5049331166,Zijian Guo,Chemistry,I4210090411,Google DeepMind (United Kingdom),GB,1
+A5049331166,Zijian Guo,Chemistry,I4210119730,TomoWave Laboratories (United States),US,1
+A5023492350,Min Xiao,Physics,I4210112398,Mesolight (United States),US,3
+A5023492350,Min Xiao,Physics,I4210126327,Sivananthan Laboratories (United States),US,2
+A5023492350,Min Xiao,Physics,I4210135067,Baosteel (China),CN,1
+A5023492350,Min Xiao,Physics,I4210131320,LG (South Korea),KR,1
+A5023492350,Min Xiao,Physics,I4210156975,Ocean NanoTech (United States),US,1
+A5023492350,Min Xiao,Physics,I4210092117,Molecular Vista (United States),US,1
+A5023492350,Min Xiao,Physics,I4405274137,China Nuclear Power Technology Research Institute (China),CN,1
+A5023492350,Min Xiao,Physics,I4210130051,Nanomaterials & Nanofabrication Laboratories (United States),US,1
+A5058753442,Chunying Duan,Chemistry,I1296342797,Pharmaceutical Product Development (United States),US,1
+A5058753442,Chunying Duan,Chemistry,I4210094030,Ansteel (China),CN,1
+A5013458820,Shun Mao,Chemistry,I142262071,Johnson Controls (United States),US,5
+A5013458820,Shun Mao,Chemistry,I4210098437,NanoAffix Science (United States),US,4
+A5013458820,Shun Mao,Chemistry,I4210133312,Nano Hydrophobics (United States),US,1
+A5100672260,Shining N. Zhu,Physics,I2250955327,Huawei Technologies (China),CN,1
+A5100672260,Shining N. Zhu,Physics,I4210095923,Tongfu Microelectronics (China),CN,1
+A5100672260,Shining N. Zhu,Physics,I4405273985,"Photonic Lattice, Inc. (Japan)",JP,1
+A5100672260,Shining N. Zhu,Physics,I98301712,Baidu (China),CN,1
+A5100672260,Shining N. Zhu,Physics,I2800372957,China Electronics Technology Group Corporation,CN,1
+A5020666400,Yanqing Lu,Physics,I4210136246,China Telecom (China),CN,2
+A5020666400,Yanqing Lu,Physics,I4387153335,China Telecom,CN,2
+A5020666400,Yanqing Lu,Physics,I4405277481,AVIC Manufacturing Technology Institute (China),CN,2
+A5020666400,Yanqing Lu,Physics,I125732723,AU Optronics (Taiwan),TW,1
+A5020666400,Yanqing Lu,Physics,I4405273203,State Grid Shanghai Municipal Electric Power Company (China),CN,1
+A5020666400,Yanqing Lu,Physics,I17442442,State Grid Corporation of China (China),CN,1
+A5020666400,Yanqing Lu,Physics,I200576644,HRL Laboratories (United States),US,1
+A5020666400,Yanqing Lu,Physics,I4210102494,Inner Mongolia Electric Power Survey & Design Institute (China),CN,1
+A5020666400,Yanqing Lu,Physics,I4210137137,Tianma Microelectronics (China),CN,1
+A5057154243,Jing‐Lin Zuo,Chemistry,I4210165365,Guangzhou Research and Creativity Biotechnology (China),CN,2
+A5057154243,Jing‐Lin Zuo,Chemistry,I193170854,Bruker (United States),US,1
+A5057154243,Jing‐Lin Zuo,Chemistry,I4392738087,"TrinaSolar Co., Ltd. (China)",CN,1
+A5036287984,Wei‐Yin Sun,Chemistry,I4210118477,Shionogi (Japan),JP,4
+A5046170578,Guigen Li,Chemistry,I180857899,Pfizer (United States),US,1
+A5071573941,Xiqun Jiang,Chemistry,I4210150004,iThera Medical (Germany),DE,1
+A5088722533,Hongjun Xiang,Physics,I4405262974,"Contemporary Amperex Technology Co., Limited.",CN,1
+A5100376356,Hai‐Liang Zhu,Chemistry,I4405279148,Pharmaron (China),CN,1
+A5100376356,Hai‐Liang Zhu,Chemistry,I4210093612,Shanghai Tunnel Engineering (China),CN,1
+A5100376356,Hai‐Liang Zhu,Chemistry,I4210147685,Jiangsu Hengrui Medicine (China),CN,1
+A5109197757,Ren Xiang Tan,Chemistry,I4210134450,Nestlé (China),CN,2
+A5109197757,Ren Xiang Tan,Chemistry,I4210087094,Syngenta (United Kingdom),GB,1
+A5109197757,Ren Xiang Tan,Chemistry,I4210096870,Simcere Pharmaceutical (China),CN,1
+A5100412071,Zhen Liu,Chemistry,I4405272686,Shanghai Tobacco Group (China),CN,3
+A5100412071,Zhen Liu,Chemistry,I4210164253,Xilio Therapeutics (United States),US,3
+A5100412071,Zhen Liu,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,2
+A5100412071,Zhen Liu,Chemistry,I4210120660,Tesaro (United States),US,2
+A5100412071,Zhen Liu,Chemistry,I4210145902,Beijing Drainage Group (China),CN,1
+A5100412071,Zhen Liu,Chemistry,I4210157773,Shanghai Model Organisms (China),CN,1
+A5054907946,Fengting Li,Chemistry,I4405272686,Shanghai Tobacco Group (China),CN,1
+A5054907946,Fengting Li,Chemistry,I4210122838,SRA International (United States),US,1
+A5054907946,Fengting Li,Chemistry,I4210130035,China Communications Construction Company (China),CN,1
+A5100620909,Yi Pan,Chemistry,I1295346377,Monsanto (United States),US,3
+A5100620909,Yi Pan,Chemistry,I4210165365,Guangzhou Research and Creativity Biotechnology (China),CN,2
+A5100620909,Yi Pan,Chemistry,I98227222,China National Petroleum Corporation (China),CN,1
+A5100620909,Yi Pan,Chemistry,I127558574,DSM (Netherlands),NL,1
+A5100428808,Guihai Chen,Mathematics,I45928872,Alibaba Group (China),CN,41
+A5100428808,Guihai Chen,Mathematics,I2250955327,Huawei Technologies (China),CN,34
+A5100428808,Guihai Chen,Mathematics,I2250653659,Tencent (China),CN,26
+A5100428808,Guihai Chen,Mathematics,I98301712,Baidu (China),CN,16
+A5100428808,Guihai Chen,Mathematics,I4405270328,Ant Group (China),CN,13
+A5100428808,Guihai Chen,Mathematics,I4405256866,ByteDance (China),CN,12
+A5100428808,Guihai Chen,Mathematics,I180662265,China Mobile (China),CN,5
+A5100428808,Guihai Chen,Mathematics,I4387153335,China Telecom,CN,4
+A5100428808,Guihai Chen,Mathematics,I4401726870,Didi Chuxing (China),CN,4
+A5100428808,Guihai Chen,Mathematics,I2800372957,China Electronics Technology Group Corporation,CN,3
+A5100428808,Guihai Chen,Mathematics,I1290206253,Microsoft (United States),US,3
+A5100428808,Guihai Chen,Mathematics,I4401726856,Xiaohongshu (Little Red Book) (China),CN,3
+A5100428808,Guihai Chen,Mathematics,I4210136246,China Telecom (China),CN,3
+A5100428808,Guihai Chen,Mathematics,I4210098582,ZTE (China),CN,3
+A5100428808,Guihai Chen,Mathematics,I4405259410,Meituan (China),CN,2
+A5100428808,Guihai Chen,Mathematics,I4210131102,Intelligent Fusion Technology (United States),US,2
+A5100428808,Guihai Chen,Mathematics,I4405274904,China Mobile Research Institute,CN,2
+A5100428808,Guihai Chen,Mathematics,I1343180700,Intel (United States),US,2
+A5100428808,Guihai Chen,Mathematics,I36326968,InterDigital (United States),US,1
+A5100428808,Guihai Chen,Mathematics,I126452172,Aptiv (United States),US,1
+A5100428808,Guihai Chen,Mathematics,I4210113369,Microsoft Research Asia (China),CN,1
+A5100428808,Guihai Chen,Mathematics,I4401727009,Sensetime (China),CN,1
+A5100428808,Guihai Chen,Mathematics,I4210095624,Alibaba Group (United States),US,1
+A5100428808,Guihai Chen,Mathematics,I1291425158,Google (United States),US,1
+A5100428808,Guihai Chen,Mathematics,I4210114444,Meta (United States),US,1
+A5100428808,Guihai Chen,Mathematics,I4210144143,Inspur (China),CN,1
+A5100428808,Guihai Chen,Mathematics,I6507939,China United Network Communications Group (China),CN,1
+A5100428808,Guihai Chen,Mathematics,I1311688040,Amazon (United States),US,1
+A5100428808,Guihai Chen,Mathematics,I1341412227,IBM (United States),US,1
+A5100771560,Hai‐Hu Wen,Physics,I4210126590,General Research Institute for Nonferrous Metals (China),CN,1
+A5100399502,Yuping Sun,Physics,I4210126590,General Research Institute for Nonferrous Metals (China),CN,7
+A5033651799,Zhenda Lu,Chemistry,I4210126327,Sivananthan Laboratories (United States),US,1
+A5033651799,Zhenda Lu,Chemistry,I4210151703,China Coal Technology and Engineering Group Corp (China),CN,1
+A5033651799,Zhenda Lu,Chemistry,I4210107087,BASF (Germany),DE,1
+A5067735672,Hui‐Tian Wang,Physics,I180662265,China Mobile (China),CN,1
+A5067735672,Hui‐Tian Wang,Physics,I4405274904,China Mobile Research Institute,CN,1
+A5067735672,Hui‐Tian Wang,Physics,I4405282194,Aircraft Strength Research Institute (China),CN,1
+A5067735672,Hui‐Tian Wang,Physics,I1283155146,Panasonic (Japan),JP,1
+A5037794174,Jing Zhao,Chemistry,I4210090137,Biortus (China),CN,2
+A5037794174,Jing Zhao,Chemistry,I98227222,China National Petroleum Corporation (China),CN,1
+A5023445411,Jian Zi,Physics,I118347220,NEC (Japan),JP,1
+A5057281057,Xianhui Chen,Physics,I4405267292,"Hrain Biotechnology Co., Ltd. (China)",CN,1
+A5057281057,Xianhui Chen,Physics,I4210149561,Atara Biotherapeutics (United States),US,1
+A5057281057,Xianhui Chen,Physics,I2801631255,ALBA Synchrotron (Spain),ES,1
+A5057281057,Xianhui Chen,Physics,I4210156095,Aero Engine Corporation of China (China),CN,1
+A5045298175,Feng Miao,Physics,I1324840837,Hewlett-Packard (United States),US,18
+A5045298175,Feng Miao,Physics,I200576644,HRL Laboratories (United States),US,1
+A5045298175,Feng Miao,Physics,I862669128,Xiaomi (China),CN,1
+A5045298175,Feng Miao,Physics,I1341412227,IBM (United States),US,1
+A5046591861,Qiuling Song,Chemistry,I2799321762,WuXi AppTec (China),CN,1
+A5046591861,Qiuling Song,Chemistry,I4210094785,Lexicon Pharmaceuticals (United States),US,1
+A5046591861,Qiuling Song,Chemistry,I4405271797,XtalPi (China),CN,1
+A5000330302,Weiping Ding,Chemistry,I106994412,Sinopec (China),CN,11
+A5000330302,Weiping Ding,Chemistry,I118136607,General Motors (United States),US,2
+A5101966111,Yan‐Feng Chen,Physics,I4405254681,EURECAT Centre Tecnològic de Catalunya,ES,1
+A5101966111,Yan‐Feng Chen,Physics,I4401726823,Nio (China),CN,1
+A5101966111,Yan‐Feng Chen,Physics,I17442442,State Grid Corporation of China (China),CN,1
+A5101966111,Yan‐Feng Chen,Physics,I1327359573,Bio-Rad (United States),US,1
+A5101966111,Yan‐Feng Chen,Physics,I1324840837,Hewlett-Packard (United States),US,1
+A5100412713,Xiaojun Liu,Physics,I4210136246,China Telecom (China),CN,4
+A5100412713,Xiaojun Liu,Physics,I4387153335,China Telecom,CN,4
+A5100412713,Xiaojun Liu,Physics,I2800372957,China Electronics Technology Group Corporation,CN,2
+A5100412713,Xiaojun Liu,Physics,I98227222,China National Petroleum Corporation (China),CN,2
+A5100412713,Xiaojun Liu,Physics,I17442442,State Grid Corporation of China (China),CN,1
+A5100412713,Xiaojun Liu,Physics,I4405267237,Juventas Cell Therapy Ltd. (China),CN,1
+A5100412713,Xiaojun Liu,Physics,I4387153926,CSPC Pharmaceutical Group,CN,1
+A5100412713,Xiaojun Liu,Physics,I4210086647,Philips (China),CN,1
+A5100412713,Xiaojun Liu,Physics,I193427800,Applied Materials (United States),US,1
+A5100412713,Xiaojun Liu,Physics,I3017770710,China North Industries Group Corporation (China),CN,1
+A5100412713,Xiaojun Liu,Physics,I4392738072,CHN Energy (China),CN,1
+A5100342736,Yi Zheng,Physics,I4388891764,Raytheon (United States),US,8
+A5100342736,Yi Zheng,Physics,I2800372957,China Electronics Technology Group Corporation,CN,5
+A5100342736,Yi Zheng,Physics,I4405272962,State Grid Shandong Electric Power Company (China),CN,5
+A5100342736,Yi Zheng,Physics,I4210151518,Nanopolis Suzhou (China),CN,3
+A5100342736,Yi Zheng,Physics,I4210117616,SVT Associates (United States),US,2
+A5100342736,Yi Zheng,Physics,I4210137137,Tianma Microelectronics (China),CN,2
+A5100342736,Yi Zheng,Physics,I9217761,Westinghouse Electric (United States),US,2
+A5100342736,Yi Zheng,Physics,I17442442,State Grid Corporation of China (China),CN,1
+A5100342736,Yi Zheng,Physics,I4210141219,Neocera (United States),US,1
+A5100342736,Yi Zheng,Physics,I4210098182,Xingx (China),CN,1
+A5100342736,Yi Zheng,Physics,I135705104,Nippon Steel (Japan),JP,1
+A5100342736,Yi Zheng,Physics,I4392738087,"TrinaSolar Co., Ltd. (China)",CN,1
+A5022039557,Wei Hu,Physics,I4405271627,"State Grid Hubei Electric Power Co., Ltd. (China)",CN,2
+A5022039557,Wei Hu,Physics,I17442442,State Grid Corporation of China (China),CN,2
+A5022039557,Wei Hu,Physics,I125732723,AU Optronics (Taiwan),TW,1
+A5022039557,Wei Hu,Physics,I4210130035,China Communications Construction Company (China),CN,1
+A5022039557,Wei Hu,Physics,I4405259277,Samsung Electronics (South Korea),KR,1
+A5022039557,Wei Hu,Physics,I4210103501,Axela (Canada),CA,1
+A5022039557,Wei Hu,Physics,I74872605,China Southern Power Grid (China),CN,1
+A5022039557,Wei Hu,Physics,I4210165226,Thermo Fisher Scientific (China),CN,1
+A5022039557,Wei Hu,Physics,I4405270619,State Grid Zhejiang Electric Power Company (China),CN,1
+A5022039557,Wei Hu,Physics,I2250955327,Huawei Technologies (China),CN,1
+A5022039557,Wei Hu,Physics,I11912373,Micron (United States),US,1
+A5027187253,Youting Wu,Chemistry,I4210127978,Sinograin (China),CN,1
+A5027187253,Youting Wu,Chemistry,I106994412,Sinopec (China),CN,1
+A5100391983,Wei Wang,Chemistry,I4210100976,BOE Technology Group (China),CN,2
+A5100391983,Wei Wang,Chemistry,I4210126590,General Research Institute for Nonferrous Metals (China),CN,1
+A5100391983,Wei Wang,Chemistry,I875649924,Himax (Taiwan),TW,1
+A5100391983,Wei Wang,Chemistry,I4405280892,Southwest Technology and Engineering Research Institute (China),CN,1
+A5100391983,Wei Wang,Chemistry,I15089104,China Aerospace Science and Industry Corporation (China),CN,1
+A5100391983,Wei Wang,Chemistry,I4210097143,Tianjin Research Institute of Electric Science (China),CN,1
+A5100391983,Wei Wang,Chemistry,I4405277481,AVIC Manufacturing Technology Institute (China),CN,1
+A5100391983,Wei Wang,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,1
+A5100391983,Wei Wang,Chemistry,I1341358820,Nanosys (United States),US,1
+A5100391983,Wei Wang,Chemistry,I4405262974,"Contemporary Amperex Technology Co., Limited.",CN,1
+A5100391983,Wei Wang,Chemistry,I4210108547,EarthTech International (United States),US,1
+A5022858760,Li‐Min Zheng,Chemistry,I4210106541,Chengdu Organic Chemicals (China),CN,2
+A5022858760,Li‐Min Zheng,Chemistry,I4210119102,Hefei General Machinery Research Institute (China),CN,1
+A5022858760,Li‐Min Zheng,Chemistry,I4405272144,CNPC Chuanqing Drilling Engineering Company Limited (China),CN,1
+A5022858760,Li‐Min Zheng,Chemistry,I98227222,China National Petroleum Corporation (China),CN,1
+A5043126665,Jian‐Chun Cheng,Physics,I200576644,HRL Laboratories (United States),US,2
+A5043126665,Jian‐Chun Cheng,Physics,I4401726824,Horizon Robotics (China),CN,1
+A5043126665,Jian‐Chun Cheng,Physics,I4405282011,State Grid Jiangsu Electric Power (China),CN,1
+A5004528935,Guang‐Han Cao,Physics,I4210105136,Yangtze River Delta Physics Research Center (China),CN,1
+A5100650335,Hongtao Yuan,Physics,I65143321,Hitachi (Japan),JP,1
+A5100650335,Hongtao Yuan,Physics,I924388194,Murata (Japan),JP,1
+A5049889103,Luming Peng,Chemistry,I106994412,Sinopec (China),CN,6
+A5049889103,Luming Peng,Chemistry,I118136607,General Motors (United States),US,2
+A5049889103,Luming Peng,Chemistry,I193427800,Applied Materials (United States),US,2
+A5049889103,Luming Peng,Chemistry,I4210139090,Lam Research (United States),US,1
+A5100458466,Haijun Zhang,Physics,I4210100528,ENN (China),CN,1
+A5100455362,Tao Li,Physics,I4210087596,Qualcomm (United States),US,4
+A5100455362,Tao Li,Physics,I4405270619,State Grid Zhejiang Electric Power Company (China),CN,2
+A5100455362,Tao Li,Physics,I17442442,State Grid Corporation of China (China),CN,2
+A5100455362,Tao Li,Physics,I4392738110,State Grid Shanxi Electric Power Company (China),CN,2
+A5100455362,Tao Li,Physics,I4405272762,Guangdong Power Grid Company (China),CN,2
+A5100455362,Tao Li,Physics,I4405280778,State Grid Liaoning Electric Power Company (China),CN,1
+A5100455362,Tao Li,Physics,I4210097009,PicoCal (United States),US,1
+A5100455362,Tao Li,Physics,I147230869,China Shipbuilding Industry Corporation (China),CN,1
+A5100455362,Tao Li,Physics,I2800372957,China Electronics Technology Group Corporation,CN,1
+A5100455362,Tao Li,Physics,I4405280261,"Northwest Electric Power Design Institute Co., Ltd. (China)",CN,1
+A5100455362,Tao Li,Physics,I4405270234,"Yunnan Power Grid Co., Ltd. (China)",CN,1
+A5049079758,Ting Xu,Physics,I4405272962,State Grid Shandong Electric Power Company (China),CN,1
+A5049079758,Ting Xu,Physics,I1290206253,Microsoft (United States),US,1
+A5049079758,Ting Xu,Physics,I98227222,China National Petroleum Corporation (China),CN,1
+A5049079758,Ting Xu,Physics,I4210127843,First Automotive Works (China),CN,1
+A5049079758,Ting Xu,Physics,I4210133143,Dow Chemical (United States),US,1
+A5100671669,Jian Sun,Physics,I4405276746,Shanghai Nuclear Engineering Research and Design Institute (China),CN,2
+A5066544142,Daiqian Xie,Physics,I4210150405,Hongzhiwei Technology (China),CN,1
+A5077119268,Xuefeng Guo,Chemistry,I106994412,Sinopec (China),CN,7
+A5077119268,Xuefeng Guo,Chemistry,I4405263195,BeOne Medicines (Switzerland),CH,1
+A5039772963,Xingbang Hu,Chemistry,I4210127978,Sinograin (China),CN,1
+A5039772963,Xingbang Hu,Chemistry,I106994412,Sinopec (China),CN,1
+A5072436242,Peiheng Wu,Physics,I2800372957,China Electronics Technology Group Corporation,CN,2
+A5072436242,Peiheng Wu,Physics,I4210154645,NKT Holding (Denmark),DK,2
+A5072436242,Peiheng Wu,Physics,I1290206253,Microsoft (United States),US,1
+A5072436242,Peiheng Wu,Physics,I150993360,Hamamatsu Photonics (Japan),JP,1
+A5072436242,Peiheng Wu,Physics,I4210095923,Tongfu Microelectronics (China),CN,1
+A5072436242,Peiheng Wu,Physics,I4210126590,General Research Institute for Nonferrous Metals (China),CN,1
+A5048663075,Mu Wang,Physics,I4210126590,General Research Institute for Nonferrous Metals (China),CN,1
+A5011648245,Di Wu,Physics,I4210130035,China Communications Construction Company (China),CN,3
+A5011648245,Di Wu,Physics,I4405272962,State Grid Shandong Electric Power Company (China),CN,1
+A5011648245,Di Wu,Physics,I1333370159,Motorola (United States),US,1
+A5011648245,Di Wu,Physics,I4210155468,ZTT (China),CN,1
+A5011648245,Di Wu,Physics,I4403928295,"Jiangsu Frontier Electric Technology Co., Ltd. (China)",CN,1
+A5086197536,Jinsheng Wen,Physics,I4210156525,Spring-8 (Japan),JP,1
+A5086197536,Jinsheng Wen,Physics,I4210122878,Chongqing 2D Materials Institute (China),CN,1
+A5024353201,Fei Xu,Physics,I4405274904,China Mobile Research Institute,CN,3
+A5024353201,Fei Xu,Physics,I4210126257,CRRC (China),CN,2
+A5024353201,Fei Xu,Physics,I158108717,China National Offshore Oil Corporation (China),CN,2
+A5024353201,Fei Xu,Physics,I4405277481,AVIC Manufacturing Technology Institute (China),CN,1
+A5024353201,Fei Xu,Physics,I4210127379,Asahi Glass (Japan),JP,1
+A5024353201,Fei Xu,Physics,I4387155233,Shandong Electric Power Engineering Consulting Institute Corp,CN,1
+A5024353201,Fei Xu,Physics,I4210165302,STEAG (Germany),DE,1
+A5024353201,Fei Xu,Physics,I257179599,Baker Hughes (United States),US,1
+A5024353201,Fei Xu,Physics,I4210113369,Microsoft Research Asia (China),CN,1
+A5024353201,Fei Xu,Physics,I11838497,Aviation Industry Corporation of China (China),CN,1
+A5024353201,Fei Xu,Physics,I4210135067,Baosteel (China),CN,1
+A5024353201,Fei Xu,Physics,I2800372957,China Electronics Technology Group Corporation,CN,1
+A5024353201,Fei Xu,Physics,I160674187,China Three Gorges Corporation (China),CN,1
+A5024353201,Fei Xu,Physics,I17442442,State Grid Corporation of China (China),CN,1
+A5026426532,Weijiang He,Chemistry,I106994412,Sinopec (China),CN,4
+A5026426532,Weijiang He,Chemistry,I4210109619,National Institutes of Pharmaceutical Research and Development (China),CN,1
+A5026426532,Weijiang He,Chemistry,I4210119730,TomoWave Laboratories (United States),US,1
+A5015993517,Hai Lu,Physics,I4405272962,State Grid Shandong Electric Power Company (China),CN,5
+A5015993517,Hai Lu,Physics,I2800372957,China Electronics Technology Group Corporation,CN,3
+A5015993517,Hai Lu,Physics,I4210134512,GE Global Research (United States),US,2
+A5015993517,Hai Lu,Physics,I17442442,State Grid Corporation of China (China),CN,2
+A5015993517,Hai Lu,Physics,I4210098582,ZTE (China),CN,1
+A5015993517,Hai Lu,Physics,I4210098182,Xingx (China),CN,1
+A5060754365,Fengqiu Wang,Physics,I1343180700,Intel (United States),US,2
+A5060754365,Fengqiu Wang,Physics,I4210105136,Yangtze River Delta Physics Research Center (China),CN,1
+A5060754365,Fengqiu Wang,Physics,I4210145651,Advanced Research Center for Nanolithography (Netherlands),NL,1
+A5060754365,Fengqiu Wang,Physics,I2250955327,Huawei Technologies (China),CN,1
+A5060754365,Fengqiu Wang,Physics,I1291425158,Google (United States),US,1
+A5060754365,Fengqiu Wang,Physics,I11912373,Micron (United States),US,1
+A5060754365,Fengqiu Wang,Physics,I4210155268,Salesforce (United States),US,1
+A5060754365,Fengqiu Wang,Physics,I4210107823,Bruker (China),CN,1
+A5060754365,Fengqiu Wang,Physics,I4210120917,Taiwan Semiconductor Manufacturing Company (Taiwan),TW,1
+A5100707897,Xinping Wang,Chemistry,I4405274254,"Sinopec Beijing Research Institute of Chemical Industry Co., Ltd. (China)",CN,3
+A5100707897,Xinping Wang,Chemistry,I106994412,Sinopec (China),CN,2
+A5100707897,Xinping Wang,Chemistry,I4210116579,Beijing Chemical Industry Research Institute (China),CN,2
+A5100707897,Xinping Wang,Chemistry,I17442442,State Grid Corporation of China (China),CN,1
+A5100707897,Xinping Wang,Chemistry,I4403928295,"Jiangsu Frontier Electric Technology Co., Ltd. (China)",CN,1
+A5010207571,Xiao‐Ming Ren,Chemistry,I98227222,China National Petroleum Corporation (China),CN,2
+A5010207571,Xiao‐Ming Ren,Chemistry,I4405274904,China Mobile Research Institute,CN,1
+A5010207571,Xiao‐Ming Ren,Chemistry,I4405277351,CNPC Tubular Goods Research Institute (China),CN,1
+A5010207571,Xiao‐Ming Ren,Chemistry,I4401726980,Mininglamp (China),CN,1
+A5010207571,Xiao‐Ming Ren,Chemistry,I4405272144,CNPC Chuanqing Drilling Engineering Company Limited (China),CN,1
+A5055941645,Fengqi Song,Physics,I4210145825,China Academy Of Machinery Science & Technology (China),CN,1
+A5055941645,Fengqi Song,Physics,I38674515,Kanadevia (Japan),JP,1
+A5039251328,Yong Zhang,Physics,I2250653659,Tencent (China),CN,3
+A5039251328,Yong Zhang,Physics,I17442442,State Grid Corporation of China (China),CN,2
+A5039251328,Yong Zhang,Physics,I2250955327,Huawei Technologies (China),CN,2
+A5039251328,Yong Zhang,Physics,I4405271627,"State Grid Hubei Electric Power Co., Ltd. (China)",CN,1
+A5039251328,Yong Zhang,Physics,I180662265,China Mobile (China),CN,1
+A5039251328,Yong Zhang,Physics,I1343180700,Intel (United States),US,1
+A5039251328,Yong Zhang,Physics,I4405272831,State Grid Henan Electric Power Company (China),CN,1
+A5039251328,Yong Zhang,Physics,I4210112398,Mesolight (United States),US,1
+A5039251328,Yong Zhang,Physics,I4387152367,State Grid Nanjing Power Supply Company (China),CN,1
+A5039251328,Yong Zhang,Physics,I4405282011,State Grid Jiangsu Electric Power (China),CN,1
+A5039251328,Yong Zhang,Physics,I4210127816,San’an Optoelectronics (China),CN,1
+A5039251328,Yong Zhang,Physics,I4391767782,"China Energy Science and Technology Research Institute Co., Ltd. (China)",CN,1
+A5039251328,Yong Zhang,Physics,I4210115494,Baogang Group (China),CN,1
+A5039251328,Yong Zhang,Physics,I4210159083,APT Electronics (China),CN,1
+A5017399094,Yongbing Xu,Physics,I4210143477,Toshiba (United Kingdom),GB,4
+A5017399094,Yongbing Xu,Physics,I4210144714,Seagate (Ireland),IE,4
+A5017399094,Yongbing Xu,Physics,I4210142999,Seagate (United Kingdom),GB,3
+A5017399094,Yongbing Xu,Physics,I131787340,Seagate (United States),US,2
+A5017399094,Yongbing Xu,Physics,I4405272598,State Grid Tianjin Electric Power Company (China),CN,1
+A5017399094,Yongbing Xu,Physics,I4405265574,"Kojundo Chemical Laboratory Co., Ltd. (Japan)",JP,1
+A5031892138,Xu Cheng,Chemistry,I17442442,State Grid Corporation of China (China),CN,1
+A5031892138,Xu Cheng,Chemistry,I4210101469,China National Salt Industry Corporation (China),CN,1
+A5054803893,Yan Zhu,Chemistry,I106994412,Sinopec (China),CN,2
+A5054803893,Yan Zhu,Chemistry,I7923278,Shell (Netherlands),NL,1
+A5079944601,Chang Xu,Physics,I4387154057,Exploration and Development Research Institute of PetroChina Southwest Oil & Gas Field Company (China),CN,2
+A5079944601,Chang Xu,Physics,I4387156274,PetroChina Southwest Oil and Gas Field Company (China),CN,2
+A5059838371,Dong Qian,Physics,I2250955327,Huawei Technologies (China),CN,1
+A5010083364,Kecheng Jie,Chemistry,I106994412,Sinopec (China),CN,2
+A5011455054,Zhilin Wang,Chemistry,I106994412,Sinopec (China),CN,15
+A5011455054,Zhilin Wang,Chemistry,I160674187,China Three Gorges Corporation (China),CN,10
+A5011455054,Zhilin Wang,Chemistry,I98227222,China National Petroleum Corporation (China),CN,5
+A5011455054,Zhilin Wang,Chemistry,I4210106541,Chengdu Organic Chemicals (China),CN,3
+A5011455054,Zhilin Wang,Chemistry,I4387156274,PetroChina Southwest Oil and Gas Field Company (China),CN,2
+A5011455054,Zhilin Wang,Chemistry,I4210120238,PowerChina (China),CN,1
+A5011455054,Zhilin Wang,Chemistry,I158108717,China National Offshore Oil Corporation (China),CN,1
+A5011455054,Zhilin Wang,Chemistry,I4387154057,Exploration and Development Research Institute of PetroChina Southwest Oil & Gas Field Company (China),CN,1
+A5011455054,Zhilin Wang,Chemistry,I4210132569,Guizhou Winstar Hydraulic Transmission Machinery (China),CN,1
+A5011455054,Zhilin Wang,Chemistry,I4405272144,CNPC Chuanqing Drilling Engineering Company Limited (China),CN,1
+A5011455054,Zhilin Wang,Chemistry,I4392738174,"China Huaneng Group Co., Ltd. (China)",CN,1
+A5011455054,Zhilin Wang,Chemistry,I100135526,BGI Group (China),CN,1
+A5011455054,Zhilin Wang,Chemistry,I4210138335,Shimadzu (China),CN,1
+A5011455054,Zhilin Wang,Chemistry,I4387155657,Daqing Oilfield of CNPC,CN,1
+A5011455054,Zhilin Wang,Chemistry,I45928872,Alibaba Group (China),CN,1
+A5011455054,Zhilin Wang,Chemistry,I4210159083,APT Electronics (China),CN,1
+A5011455054,Zhilin Wang,Chemistry,I4405273687,"Sokkia Topcon Co., Ltd. (Japan)",JP,1
+A5011455054,Zhilin Wang,Chemistry,I4210104751,Bronkhorst (Netherlands),NL,1
+A5011455054,Zhilin Wang,Chemistry,I1296342797,Pharmaceutical Product Development (United States),US,1
+A5011455054,Zhilin Wang,Chemistry,I4210142192,Powerchina Huadong Engineering Corporation (China),CN,1
+A5011455054,Zhilin Wang,Chemistry,I4405281964,PetroChina Xinjiang Oilfield Company (China),CN,1
+A5058572381,Xun Cao,Physics,I2250653659,Tencent (China),CN,12
+A5058572381,Xun Cao,Physics,I4210113369,Microsoft Research Asia (China),CN,6
+A5058572381,Xun Cao,Physics,I2251713219,NTT (Japan),JP,4
+A5058572381,Xun Cao,Physics,I4401727009,Sensetime (China),CN,2
+A5058572381,Xun Cao,Physics,I98301712,Baidu (China),CN,2
+A5058572381,Xun Cao,Physics,I2250955327,Huawei Technologies (China),CN,2
+A5058572381,Xun Cao,Physics,I45928872,Alibaba Group (China),CN,2
+A5058572381,Xun Cao,Physics,I1290206253,Microsoft (United States),US,1
+A5058572381,Xun Cao,Physics,I4210098582,ZTE (China),CN,1
+A5058572381,Xun Cao,Physics,I4210153776,Apple (United States),US,1
+A5058572381,Xun Cao,Physics,I4210142583,Snap (United States),US,1
+A5058572381,Xun Cao,Physics,I4210115038,Huawei Technologies (Canada),CA,1
+A5058572381,Xun Cao,Physics,I4405279985,China Petroleum Pipeline Engineering (China),CN,1
+A5058572381,Xun Cao,Physics,I4210115040,iQIYI (China),CN,1
+A5058572381,Xun Cao,Physics,I1306409833,Adobe Systems (United States),US,1
+A5058572381,Xun Cao,Physics,I1343180700,Intel (United States),US,1
+A5058572381,Xun Cao,Physics,I4405270328,Ant Group (China),CN,1
+A5058572381,Xun Cao,Physics,I6507939,China United Network Communications Group (China),CN,1
+A5058572381,Xun Cao,Physics,I4405256866,ByteDance (China),CN,1
+A5008759277,Yu‐qiang Ma,Physics,I4210108607,Hitachi Maxell (Japan),JP,1
+A5008759277,Yu‐qiang Ma,Physics,I4387153688,Beijing Institute of Radio Metrology and Measurement,CN,1
+A5100364985,Yi Wang,Chemistry,I36344538,Albany Molecular Research (United States),US,4
+A5100364985,Yi Wang,Chemistry,I164928964,"Merck KGaA, Darmstadt (Germany)",DE,3
+A5100364985,Yi Wang,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,2
+A5100364985,Yi Wang,Chemistry,I4210091812,Bristol-Myers Squibb (United States),US,1
+A5100364985,Yi Wang,Chemistry,I2799321762,WuXi AppTec (China),CN,1
+A5100364985,Yi Wang,Chemistry,I4210153819,Kura Oncology (United States),US,1
+A5100364985,Yi Wang,Chemistry,I4210154990,Wellspring Biosciences (United States),US,1
+A5100364985,Yi Wang,Chemistry,I118019719,F. Hoffmann-La Roche AG,CH,1
+A5100364985,Yi Wang,Chemistry,I4210165365,Guangzhou Research and Creativity Biotechnology (China),CN,1
+A5100364985,Yi Wang,Chemistry,I106994412,Sinopec (China),CN,1
+A5100364985,Yi Wang,Chemistry,I4405260928,PowerChina Kunming Engineering Corporation Limited (China),CN,1
+A5101992678,Wei Huang,Chemistry,I98227222,China National Petroleum Corporation (China),CN,3
+A5101992678,Wei Huang,Chemistry,I17442442,State Grid Corporation of China (China),CN,2
+A5101992678,Wei Huang,Chemistry,I4210107823,Bruker (China),CN,1
+A5022517515,Lijian Zhang,Physics,I4210138335,Shimadzu (China),CN,3
+A5022517515,Lijian Zhang,Physics,I4210157708,Vestas (United Kingdom),GB,1
+A5022517515,Lijian Zhang,Physics,I15089104,China Aerospace Science and Industry Corporation (China),CN,1
+A5022517515,Lijian Zhang,Physics,I17442442,State Grid Corporation of China (China),CN,1
+A5069594358,F. Y. Wang,Physics,I2250653659,Tencent (China),CN,2
+A5100366062,Dong Zhang,Physics,I4387155657,Daqing Oilfield of CNPC,CN,4
+A5100366062,Dong Zhang,Physics,I158108717,China National Offshore Oil Corporation (China),CN,3
+A5100366062,Dong Zhang,Physics,I4405272598,State Grid Tianjin Electric Power Company (China),CN,3
+A5100366062,Dong Zhang,Physics,I17442442,State Grid Corporation of China (China),CN,3
+A5100366062,Dong Zhang,Physics,I98227222,China National Petroleum Corporation (China),CN,2
+A5100366062,Dong Zhang,Physics,I106994412,Sinopec (China),CN,2
+A5100366062,Dong Zhang,Physics,I4405280778,State Grid Liaoning Electric Power Company (China),CN,1
+A5100366062,Dong Zhang,Physics,I1341412227,IBM (United States),US,1
+A5100366062,Dong Zhang,Physics,I4210144143,Inspur (China),CN,1
+A5100366062,Dong Zhang,Physics,I11838497,Aviation Industry Corporation of China (China),CN,1
+A5100366062,Dong Zhang,Physics,I4405272762,Guangdong Power Grid Company (China),CN,1
+A5100366062,Dong Zhang,Physics,I4405267657,Keymed Biosciences Inc. (China),CN,1
+A5062604912,Liang He,Physics,I1290206253,Microsoft (United States),US,1
+A5026978305,Mengning Ding,Chemistry,I2948394018,Northrop Grumman (United States),US,2
+A5078884788,Hong‐zhen Lian,Chemistry,I4405271892,"China Tobacco Hunan Industrial Co., Ltd. (China)",CN,1
+A5078884788,Hong‐zhen Lian,Chemistry,I4210165226,Thermo Fisher Scientific (China),CN,1
+A5100752517,Lin Zhou,Physics,I17442442,State Grid Corporation of China (China),CN,1
+A5100752517,Lin Zhou,Physics,I4210119975,Beijing Institute of Power Machinery (China),CN,1
+A5100752517,Lin Zhou,Physics,I4405274904,China Mobile Research Institute,CN,1
+A5034069559,Zhao‐Xu Chen,Chemistry,I106994412,Sinopec (China),CN,2
+A5101603577,Xiaoping Yang,Mathematics,I4210098582,ZTE (China),CN,6
+A5101603577,Xiaoping Yang,Mathematics,I4210111607,InferVision (China),CN,4
+A5101603577,Xiaoping Yang,Mathematics,I4210120442,AVIC Optronics (China),CN,2
+A5101603577,Xiaoping Yang,Mathematics,I2250653659,Tencent (China),CN,1
+A5101603577,Xiaoping Yang,Mathematics,I4210121059,Canon (France),FR,1
+A5101603577,Xiaoping Yang,Mathematics,I4405281601,Pangang Group Panzhihua Iron and Steel Research Institute (China),CN,1
+A5101603577,Xiaoping Yang,Mathematics,I98227222,China National Petroleum Corporation (China),CN,1
+A5101603577,Xiaoping Yang,Mathematics,I4210104190,Fosun Pharma (China),CN,1
+A5101603577,Xiaoping Yang,Mathematics,I4210093653,Midea Group (China),CN,1
+A5101603577,Xiaoping Yang,Mathematics,I4392021150,"Sinoma Science & Technology Co., Ltd. (China)",CN,1
+A5014239844,Hui Liu,Physics,I4405272962,State Grid Shandong Electric Power Company (China),CN,2
+A5014239844,Hui Liu,Physics,I17442442,State Grid Corporation of China (China),CN,1
+A5014239844,Hui Liu,Physics,I4210117048,Harbin Electric Corporation (China),CN,1
+A5014239844,Hui Liu,Physics,I106994412,Sinopec (China),CN,1
+A5014239844,Hui Liu,Physics,I4210140549,Skyworth (China),CN,1
+A5076941049,Jian Shen,Physics,I131787340,Seagate (United States),US,4
+A5076941049,Jian Shen,Physics,I4210111804,Sanofi (United States),US,2
+A5076941049,Jian Shen,Physics,I4210101228,IHI Corporation (Japan),JP,2
+A5076941049,Jian Shen,Physics,I4210138838,Sanofi (Germany),DE,1
+A5060492935,Zeng‐Bing Chen,Physics,I180662265,China Mobile (China),CN,2
+A5060492935,Zeng‐Bing Chen,Physics,I4210161343,Beijing Zhongchuangwei Quantum Communication Technology (China),CN,2
+A5017830297,P. F. Chen,Physics,I4210159872,Predictive Science (United States),US,1
+A5017830297,P. F. Chen,Physics,I2800372957,China Electronics Technology Group Corporation,CN,1
+A5017830297,P. F. Chen,Physics,I4210120238,PowerChina (China),CN,1
+A5100702967,Zhuo Li,Chemistry,I4210130035,China Communications Construction Company (China),CN,1
+A5100415341,Lei Feng,Physics,I4210160868,Beijing Survey and Design Institute (China),CN,2
+A5100415341,Lei Feng,Physics,I4210127555,China Guodian Corporation (China),CN,2
+A5100415341,Lei Feng,Physics,I4392738072,CHN Energy (China),CN,2
+A5100415341,Lei Feng,Physics,I4405272762,Guangdong Power Grid Company (China),CN,1
+A5100625267,Jin Song Zhu,Chemistry,I4210106541,Chengdu Organic Chemicals (China),CN,9
+A5100625267,Jin Song Zhu,Chemistry,I1330063522,Johnson & Johnson (United States),US,1
+A5100625267,Jin Song Zhu,Chemistry,I4405282460,Janssen Research & Development (United States),US,1
+A5100625267,Jin Song Zhu,Chemistry,I70745867,KLA (United States),US,1
+A5100451953,Xuefeng Wang,Physics,I17442442,State Grid Corporation of China (China),CN,2
+A5100451953,Xuefeng Wang,Physics,I147230869,China Shipbuilding Industry Corporation (China),CN,1
+A5100451953,Xuefeng Wang,Physics,I4210145825,China Academy Of Machinery Science & Technology (China),CN,1
+A5100451953,Xuefeng Wang,Physics,I4401726805,Megvii (China),CN,1
+A5100451953,Xuefeng Wang,Physics,I4392738110,State Grid Shanxi Electric Power Company (China),CN,1
+A5078941771,Mingwei Zhu,Physics,I193427800,Applied Materials (United States),US,8
+A5078941771,Mingwei Zhu,Physics,I4210114044,American Xtal Technology (United States),US,2
+A5078941771,Mingwei Zhu,Physics,I4210096507,China First Heavy Industries (China),CN,1
+A5078941771,Mingwei Zhu,Physics,I4210108919,Foxconn (Taiwan),TW,1
+A5078941771,Mingwei Zhu,Physics,I4210147525,AviChina Industry & Technology (China),CN,1
+A5040109851,M. D. Ding,Physics,I4210159872,Predictive Science (United States),US,1
+A5040109851,M. D. Ding,Physics,I1287521167,Lockheed Martin (United States),US,1
+A5040109851,M. D. Ding,Physics,I4391767782,"China Energy Science and Technology Research Institute Co., Ltd. (China)",CN,1
+A5100744520,Xiao Wang,Chemistry,I1285764155,"Merck & Co., Inc., Rahway, NJ, USA (United States)",US,5
+A5100744520,Xiao Wang,Chemistry,I2799321762,WuXi AppTec (China),CN,2
+A5100744520,Xiao Wang,Chemistry,I106994412,Sinopec (China),CN,2
+A5100744520,Xiao Wang,Chemistry,I4405270619,State Grid Zhejiang Electric Power Company (China),CN,1
+A5100744520,Xiao Wang,Chemistry,I4405282011,State Grid Jiangsu Electric Power (China),CN,1
+A5100744520,Xiao Wang,Chemistry,I4392738184,Yankuang Energy Group Company Limited (China),CN,1
+A5100744520,Xiao Wang,Chemistry,I100135526,BGI Group (China),CN,1
+A5100744520,Xiao Wang,Chemistry,I4387152444,BGI Genomics,CN,1
+A5100744520,Xiao Wang,Chemistry,I4405274254,"Sinopec Beijing Research Institute of Chemical Industry Co., Ltd. (China)",CN,1
+A5100744520,Xiao Wang,Chemistry,I4405272660,Sinopec Northwest Oil Field Company (China),CN,1
+A5100744520,Xiao Wang,Chemistry,I93085520,Silicon Labs (United States),US,1
+A5101773916,Xinyuan Wu,Mathematics,I98227222,China National Petroleum Corporation (China),CN,2
+A5100360391,Qi Zhang,Physics,I4387153688,Beijing Institute of Radio Metrology and Measurement,CN,1
+A5076264555,Hong‐Bin Du,Chemistry,I98227222,China National Petroleum Corporation (China),CN,1
+A5100350432,Yang Chen,Physics,I4210156081,Tech-X Corporation (United States),US,2
+A5100350432,Yang Chen,Physics,I63533367,General Atomics (United States),US,2
+A5100350432,Yang Chen,Physics,I106994412,Sinopec (China),CN,1
+A5100350432,Yang Chen,Physics,I4387155180,Samsung SDS (South Korea),KR,1
+A5100350432,Yang Chen,Physics,I4210155232,Fiberhome Technology Group (China),CN,1
+A5100350432,Yang Chen,Physics,I4210100528,ENN (China),CN,1
+A5100350432,Yang Chen,Physics,I98227222,China National Petroleum Corporation (China),CN,1
+A5090821767,Haifeng Ding,Physics,I4210143841,Saudi Aramco (Saudi Arabia),SA,2
+A5090821767,Haifeng Ding,Physics,I62856769,Saudi Aramco (United States),US,2
+A5090821767,Haifeng Ding,Physics,I4210106541,Chengdu Organic Chemicals (China),CN,2
+A5090821767,Haifeng Ding,Physics,I4387154168,China Railway Eryuan Engineering Group Co.,CN,1
+A5090821767,Haifeng Ding,Physics,I98227222,China National Petroleum Corporation (China),CN,1
+A5090821767,Haifeng Ding,Physics,I4210147192,Theracos (United States),US,1
+A5090821767,Haifeng Ding,Physics,I4210158290,Brewer Science (United States),US,1
+A5090821767,Haifeng Ding,Physics,I4210121352,Western Digital (United States),US,1
+A5068381230,Zhenlin Wang,Physics,I4405281964,PetroChina Xinjiang Oilfield Company (China),CN,8
+A5068381230,Zhenlin Wang,Physics,I98227222,China National Petroleum Corporation (China),CN,4
+A5068381230,Zhenlin Wang,Physics,I4405270619,State Grid Zhejiang Electric Power Company (China),CN,1
+A5068381230,Zhenlin Wang,Physics,I4210141776,China XD Group (China),CN,1
+A5068381230,Zhenlin Wang,Physics,I2250955327,Huawei Technologies (China),CN,1
+A5068381230,Zhenlin Wang,Physics,I106994412,Sinopec (China),CN,1
+A5068381230,Zhenlin Wang,Physics,I4210136246,China Telecom (China),CN,1
+A5068381230,Zhenlin Wang,Physics,I4387153335,China Telecom,CN,1
+A5068381230,Zhenlin Wang,Physics,I4405280679,"Sinoma Synthetic Crystals Co., Ltd. (China)",CN,1
+A5068381230,Zhenlin Wang,Physics,I4210092117,Molecular Vista (United States),US,1
+A5063889963,Ronghua Liu,Physics,I4405272598,State Grid Tianjin Electric Power Company (China),CN,1
+A5002782118,Peng Zheng,Physics,I4210127843,First Automotive Works (China),CN,1
+A5002782118,Peng Zheng,Physics,I4210126590,General Research Institute for Nonferrous Metals (China),CN,1
+A5002782118,Peng Zheng,Physics,I4210103651,Oxford Instruments (United States),US,1
+A5002782118,Peng Zheng,Physics,I11838497,Aviation Industry Corporation of China (China),CN,1
+A5002782118,Peng Zheng,Physics,I4210100528,ENN (China),CN,1
+A5002782118,Peng Zheng,Physics,I4405277010,Fushun Research Institute of Petroleum and Petrochemicals (China),CN,1
+A5015616540,Wen‐Hua Zheng,Chemistry,I4210103140,CCCC Highway Consultants (China),CN,1
+A5012015478,Keyu Xia,Physics,I180662265,China Mobile (China),CN,1
+A5100416435,Xiang‐Dong Li,Physics,I2800372957,China Electronics Technology Group Corporation,CN,1
+A5082243346,Shao‐Chun Li,Physics,I4210126794,IBM Research (China),CN,12
+A5082243346,Shao‐Chun Li,Physics,I1341412227,IBM (United States),US,1
+A5082243346,Shao‐Chun Li,Physics,I2250653659,Tencent (China),CN,1
+A5022217475,Bo Zheng,Physics,I4210142480,Thermo Fisher Scientific (United States),US,1
+A5086320549,Shengmei Zhao,Physics,I4210121818,Sunwave Solutions (China),CN,3
+A5050915170,Xiaozhou Liu,Physics,I4210088967,TRS Technologies (United States),US,3
+A5050915170,Xiaozhou Liu,Physics,I4210120842,Shenyang Institute of Computing Technology (China),CN,3
+A5050915170,Xiaozhou Liu,Physics,I4405256866,ByteDance (China),CN,1
+A5050915170,Xiaozhou Liu,Physics,I4210098582,ZTE (China),CN,1
+A5050915170,Xiaozhou Liu,Physics,I4210091810,Medtronic (United States),US,1
+A5055425927,Zhu‐Jun Yao,Chemistry,I111552434,GenVec,US,1
+A5100608064,Yang Liu,Physics,I83308685,Canadian Light Source (Canada),CA,1
+A5100608064,Yang Liu,Physics,I4405272762,Guangdong Power Grid Company (China),CN,1
+A5100608064,Yang Liu,Physics,I147869694,Continental (Germany),DE,1
+A5005856762,Ji‐Lin Zhou,Physics,I4210124422,ABB (Canada),CA,1
+A5005856762,Ji‐Lin Zhou,Physics,I94706221,Airbus (United Kingdom),GB,1
+A5100345072,Zhuo Chen,Physics,I11912373,Micron (United States),US,2
+A5100345072,Zhuo Chen,Physics,I4210138502,Onto Innovation (United States),US,2
+A5100345072,Zhuo Chen,Physics,I4210163532,Micron (Singapore),SG,1
+A5100345072,Zhuo Chen,Physics,I4210160359,China Construction Eighth Engineering Division (China),CN,1
+A5049852063,Guojun Jin,Physics,I4210126590,General Research Institute for Nonferrous Metals (China),CN,3
+A5076407770,Qing‐Hu Chen,Physics,I98227222,China National Petroleum Corporation (China),CN,2
+A5042253260,Xiao‐Song Ma,Physics,I98301712,Baidu (China),CN,1
+A5081473487,Yang Yu,Physics,I4210144143,Inspur (China),CN,2
+A5081473487,Yang Yu,Physics,I180662265,China Mobile (China),CN,1
+A5068982090,Liangliang Lu,Physics,I2250955327,Huawei Technologies (China),CN,2
+A5068982090,Liangliang Lu,Physics,I98301712,Baidu (China),CN,1
+A5014904576,Xiangang Wan,Physics,I2801631255,ALBA Synchrotron (Spain),ES,1
+A5101513638,Yitong Yin,Mathematics,I4210113369,Microsoft Research Asia (China),CN,4
+A5044873694,Chungen Liu,Physics,I98301712,Baidu (China),CN,1
+A5044873694,Chungen Liu,Physics,I4210088495,Q Chem (United States),US,1
+A5059632088,Jing Zhou Lu,Physics,I4401726824,Horizon Robotics (China),CN,30
+A5059632088,Jing Zhou Lu,Physics,I4405256866,ByteDance (China),CN,3
+A5059632088,Jing Zhou Lu,Physics,I2250653659,Tencent (China),CN,2
+A5059632088,Jing Zhou Lu,Physics,I4210137691,Luye Pharma (China),CN,1
+A5081548302,Wei Cheng,Mathematics,I4210107353,NEC (United States),US,1
+A5100656305,Jiacheng Liu,Physics,I4210112997,State Power Investment Corporation (China),CN,1
+A5100755573,Meng Li,Mathematics,I45928872,Alibaba Group (China),CN,4
+A5100755573,Meng Li,Mathematics,I2250955327,Huawei Technologies (China),CN,2
+A5100755573,Meng Li,Mathematics,I4405270328,Ant Group (China),CN,1
+A5100755573,Meng Li,Mathematics,I4210136246,China Telecom (China),CN,1
+A5100755573,Meng Li,Mathematics,I4387153335,China Telecom,CN,1
+A5100755573,Meng Li,Mathematics,I4405287589,Honor Device (China),CN,1
+A5100755573,Meng Li,Mathematics,I6507939,China United Network Communications Group (China),CN,1
+A5100755573,Meng Li,Mathematics,I180662265,China Mobile (China),CN,1
+A5100459446,Liqiang Zhang,Physics,I4210093205,Foxconn (China),CN,2
+A5100459446,Liqiang Zhang,Physics,I4210145825,China Academy Of Machinery Science & Technology (China),CN,1
+A5100459446,Liqiang Zhang,Physics,I2800372957,China Electronics Technology Group Corporation,CN,1
+A5060655603,Yaojun Chen,Mathematics,I4405270619,State Grid Zhejiang Electric Power Company (China),CN,1
+A5060655603,Yaojun Chen,Mathematics,I4210146686,Kingdee (China),CN,1
+A5115592663,Xingwu Zheng,Physics,I4210122603,Kärcher (Germany),DE,1
+A5115592663,Xingwu Zheng,Physics,I4210134275,Beijing Institute of Architectural Design (China),CN,1
+A5091291476,Ke-ke Shang,Physics,I4210130308,Water Corporation of Western Australia (Australia),AU,1
+A5022043412,Penghui Yao,Physics,I4400600948,Microsoft Research New England (United States),US,1
+A5022043412,Penghui Yao,Physics,I1341412227,IBM (United States),US,1
+A5022043412,Penghui Yao,Physics,I2250653659,Tencent (China),CN,1
