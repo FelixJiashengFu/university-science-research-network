@@ -20,6 +20,7 @@
     ["uoft", "多伦多大学", "University of Toronto", "CA", "uoft/"],
     ["stanford", "斯坦福大学", "Stanford University", "US", "stanford/"],
     ["waterloo", "滑铁卢大学", "University of Waterloo", "CA", "waterloo/"],
+    ["uiuc", "伊利诺伊大学厄巴纳-香槟分校", "University of Illinois Urbana-Champaign", "US", "uiuc/"],
     ["udem", "蒙特利尔大学", "Université de Montréal", "CA", "udem/"],
     ["mcmaster", "麦克马斯特大学", "McMaster University", "CA", "mcmaster/"],
     ["ualberta", "阿尔伯塔大学", "University of Alberta", "CA", "ualberta/"],

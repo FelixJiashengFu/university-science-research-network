@@ -1,0 +1,77 @@
+Peter Abbamonte|Fox Family Professor in Engineering|Condensed Matter Physics (experimental); Quantum Information Science
+Aleksei Aksimentiev|Professor; Founder Professor in Physics|Biological Physics (theoretical)
+Katie Ansell|Teaching Assistant Professor|Physics Education
+Douglas H Beck|Professor and Director of NPL|Nuclear Physics (experimental); Quantum Information Science
+Alexey Bezryadin|Professor|Atomic, Molecular, and Optical Physics; Condensed Matter Physics (experimental); Quantum Information Science
+Barry Bradlyn|Associate Professor|Condensed Matter Physics (theoretical); Quantum Information Science
+Irina Burkova|Teaching Assistant Professor|Condensed Matter Physics; Physics Education
+Yann Chemla|Professor|Biological Physics (experimental)
+Lu Chen|Assistant Professor|Condensed Matter Physics (experimental)
+Bryan K Clark|Professor|Condensed Matter Physics; Quantum Information Science
+Eugene V Colla|Teaching Professor|Condensed Matter Physics (experimental)
+S Lance Cooper|Professor|Condensed Matter Physics (experimental)
+Karin A Dahmen|Professor|Condensed Matter Physics (theoretical)
+Brian Leeds DeMarco|Professor and IQUIST Director|Atomic, Molecular, and Optical Physics; Quantum Information Science
+Sharlene Denos|Teaching Assistant Professor|Biological Physics; Physics Education
+Patrick I Draper|Associate Professor|Astrophysics / Relativity / Cosmology; High Energy Physics (theoretical); Quantum Information Science
+Aida X El-Khadra|Professor|High Energy Physics (theoretical); Quantum Information Science
+Christian Farina|Teaching Assistant Professor|High Energy Physics (theoretical); Physics Education
+Thomas Faulkner|Associate Professor|Condensed Matter Physics (theoretical); High Energy Physics (theoretical); Quantum Information Science
+Rafael Fernandes|Anthony J. Leggett Professor in Physics|Condensed Matter Physics (theoretical)
+Jeffrey P Filippini|Associate Professor|Astrophysics / Relativity / Cosmology; High Energy Physics (experimental)
+Eduardo H Fradkin|Donald Biggar Willett Professor in Engineering and Director of ICMT|Condensed Matter Physics (theoretical); Quantum Information Science
+Charles Gammie|Professor; Stanley O. Ikenberry Endowed Chair|Astrophysics / Relativity / Cosmology
+Russ Giannetta|Professor|Condensed Matter Physics (experimental)
+Ido Golding|Professor|Biological Physics (experimental)
+Elizabeth Goldschmidt|Associate Professor|Atomic, Molecular, and Optical Physics; Quantum Information Science
+Matthias Grosse Perdekamp|Professor|Nuclear Physics (experimental)
+Gilbert Holder|Brand & Monica Fortner Endowed Chair in Theoretical Astrophysics|Astrophysics / Relativity / Cosmology
+Benjamin Hooberman|Associate Professor|High Energy Physics (experimental)
+Taylor L Hughes|Professor; Donald Biggar Willett Faculty Scholar|Condensed Matter Physics (theoretical); Quantum Information Science
+Sangjin Kim|Assistant Professor|Biological Physics
+Angela Kou|Associate Professor|Condensed Matter Physics (experimental); Quantum Information Science
+Eric Kuo|Associate Professor|Physics Education
+Paul G Kwiat|John Bardeen Chair in Electrical Engineering and Physics|Atomic, Molecular, and Optical Physics; Quantum Information Science
+Jong Yeon Lee|Assistant Professor|Condensed Matter Physics (theoretical); Quantum Information Science
+Chen-Yu Liu|Professor|Nuclear Physics (experimental)
+Josh Long|Professor|Nuclear Physics (experimental)
+Virginia Lorenz|Professor|Atomic, Molecular, and Optical Physics; Condensed Matter Physics (experimental); Quantum Information Science
+Morten Lundsgaard|Teaching Associate Professor|Physics Education
+Zan Luthey-Schulten|Murchison-Mallory Endowed Chair in Chemistry|Biological Physics
+Vidya Madhavan|Professor; Donald Biggar Willett Professor in Engineering|Condensed Matter Physics (experimental); Quantum Information Science
+Fahad Mahmood|Associate Professor|Condensed Matter Physics (experimental); Quantum Information Science
+Nancy Makri|Edward William and Jane Marr Gutgsell Professor in Chemistry|Atomic, Molecular, and Optical Physics; Condensed Matter Physics
+Telemachos Mouschovias|Professor|Astrophysics / Relativity / Cosmology
+Munir H Nayfeh|Professor|Atomic, Molecular, and Optical Physics; Condensed Matter Physics (experimental)
+Mark Neubauer|Professor|High Energy Physics (experimental)
+Jorge Noronha|Professor|Astrophysics / Relativity / Cosmology; High Energy Physics (theoretical); Nuclear Physics (theoretical)
+Jaki Noronha-Hostler|Associate Professor|Astrophysics / Relativity / Cosmology; Nuclear Physics (theoretical)
+Aaron Pearlman|Teaching Assistant Professor|
+Wolfgang Pfaff|Associate Professor|Atomic, Molecular, and Optical Physics; Condensed Matter Physics (experimental); Quantum Information Science
+Philip W Phillips|Professor; Bliss Faculty Scholar|Condensed Matter Physics (theoretical); Quantum Information Science
+Paul Selvin|Professor|Biological Physics (experimental)
+Stuart L. Shapiro|Professor|Astrophysics / Relativity / Cosmology
+Jessie Shelton|Professor|Astrophysics / Relativity / Cosmology; High Energy Physics (theoretical)
+Anne M Sickles|Professor|Nuclear Physics (experimental)
+Hector Silva|Assistant Professor|Astrophysics / Relativity / Cosmology
+Jun Song|Founder Professor in Physics|Biological Physics (theoretical)
+Tim Stelzer|Professor|Physics Education
+Michael Stone|Professor|Condensed Matter Physics (theoretical); Quantum Information Science
+Tanner Trickle|Assistant Professor|High Energy Physics (theoretical)
+Joaquin Vieira|Professor|Astrophysics / Relativity / Cosmology; High Energy Physics (experimental)
+Smitha Vishveshwara|Professor|Atomic, Molecular, and Optical Physics; Condensed Matter Physics (theoretical); Quantum Information Science
+Lucas K. Wagner|Associate Professor|Atomic, Molecular, and Optical Physics; Condensed Matter Physics (theoretical); Quantum Information Science
+Pengjie Wang|Assistant Professor|Condensed Matter Physics (experimental); Quantum Information Science
+Helvi Witek|Associate Professor|Astrophysics / Relativity / Cosmology
+Hyun Youk|Associate Professor|Biological Physics (experimental); Biological Physics (theoretical)
+Nicolas Yunes|Bob Uyetani Professor in Physics|Astrophysics / Relativity / Cosmology
+Gordon Baym|Research Professor|Nuclear Physics (theoretical); Astrophysics / Relativity / Cosmology; Condensed Matter Physics (theoretical)
+David Ceperley|Research Professor|Condensed Matter Physics (theoretical)
+Tai-Chang Chiang|Research Professor|Condensed Matter Physics (experimental)
+George Gollin|Research Professor|High Energy Physics (experimental)
+Frederick Lamb|Research Professor|Astrophysics / Relativity / Cosmology
+Gregory MacDougall|Research Professor|Condensed Matter Physics (experimental)
+Naomi Makins|Research Professor|Nuclear Physics (experimental)
+Jen-Chieh Peng|Research Professor|Nuclear Physics (experimental)
+Antonios Tsokaros|Research Professor|Astrophysics / Relativity / Cosmology
+Scott Willenbrock|Research Professor|High Energy Physics (theoretical)
