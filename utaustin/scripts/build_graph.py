@@ -10,7 +10,7 @@ import networkx as nx
 import numpy as np
 
 MIN_SCORE = 1.0          # minimum match score to trust an OpenAlex author match
-BIG_COLLAB = 100         # works with more authors are "large collaborations"
+BIG_COLLAB = 99           # OpenAlex caps authorships at 100, so n_authors >= 100 means a truncated large collaboration
 os.makedirs("site/data", exist_ok=True)
 
 DEPT_COLOR = {"Mathematics": "#3b82f6", "Physics": "#ef4444", "Chemistry": "#10b981"}
@@ -234,7 +234,7 @@ G = nx.Graph()
 for p in profs:
     if p in details and details[p]["n_works"]: prof_node(G, p)
 add_coauth(G); G.remove_nodes_from([n for n in list(G) if G.degree(n) == 0])
-index.append(export(G, "coauthor", "合作网", "只看教授之间真实合写的论文（≤100 作者的论文为深色边，大型合作论文为浅色边）。"))
+index.append(export(G, "coauthor", "合作网", "只看教授之间真实合写的论文（<100 作者的论文为深色边，大型合作论文为浅色边）。"))
 
 # 3. research similarity
 G = nx.Graph()

@@ -48,7 +48,10 @@ def name_score(roster, cand):
     return (0.6 if last_ok else 0) + (0.3 if first_ok else 0) + 0.1 * SequenceMatcher(None, " ".join(a), " ".join(b)).ratio()
 
 # manual fixes where OpenAlex splits a person and the search picks a tiny fragment (checked by hand)
-OVERRIDE = {}
+OVERRIDE = {"Thomas Chen": "A5100599756", "Nick Hunter-Jones": "A5002562516", "Jason Shear": "A5065207206",
+            "Peter Mueller": "A5112026688", "Dmitry Eremin": "A5091695676", "James A. M. Álvarez": "A5067519032"}
+# checked by hand 2026-11-10; no reliable OpenAlex profile found -> left unmatched
+SKIP = {"Oscar Gonzalez", "Griffin Wang"}
 SEL = "id,display_name,display_name_alternatives,works_count,cited_by_count,summary_stats,topics,last_known_institutions,orcid"
 
 def pool():
@@ -66,6 +69,7 @@ def pool():
     return [json.loads(l) for l in open(fn)]
 POOL = None
 def match(row, noaff=False, use_pool=True):
+    if row["name"] in SKIP: return None, 0
     if row["name"] in OVERRIDE:
         c = get("authors/" + OVERRIDE[row["name"]], select="id,display_name,works_count,summary_stats,orcid")
         if c: return dict(c, _manual=True), 9.0

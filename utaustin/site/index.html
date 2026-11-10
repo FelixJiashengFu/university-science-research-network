@@ -85,7 +85,7 @@ footer{height:34px;padding:8px 16px;font-size:11.5px;color:var(--muted);border-t
   <div id="graph"><div id="loading">加载中…</div><div id="hint">滚轮缩放 · 拖动平移 · 点击节点看详情 · 悬停高亮邻居</div></div>
   <aside class="right"><div id="detail" class="card"><p class="meta">点击任意节点查看详情。<br><br>
     <b>节点</b>：圆点颜色代表院系（教授）或学科领域（研究主题）；灰色小点是合作论文。<br>
-    <b>边</b>：深灰＝合写论文；浅灰＝大型合作（&gt;100 作者）；橙色＝研究主题相似；细灰＝教授↔主题 / 教授↔论文；浅橙＝与企业合写；红色＝教授创办的公司；粉红＝实验室衍生公司；浅蓝＝与校外研究机构合写。</p></div></aside>
+    <b>边</b>：深灰＝合写论文；浅灰＝大型合作（≥100 作者，OpenAlex 作者列表上限）；橙色＝研究主题相似；细灰＝教授↔主题 / 教授↔论文；浅橙＝与企业合写；红色＝教授创办的公司；粉红＝实验室衍生公司；浅蓝＝与校外研究机构合写。</p></div></aside>
 </main>
 <footer id="foot">数据来源：UT Austin 数学系、物理系、化学系官网教师目录（在职 tenure-track/tenured 教授，不含荣休）；论文数据 OpenAlex（CC0）；创业资料逐条附来源。作者匹配为自动完成，可能存在误差，详见仓库 README。</footer>
 
@@ -209,7 +209,7 @@ function showProf(id){
     <div>${p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener">院系主页</a> · ` : ""}<a href="${p.openalex}" target="_blank" rel="noopener">OpenAlex</a>${p.orcid ? ` · <a href="${esc(p.orcid)}" target="_blank" rel="noopener">ORCID</a>` : ""}</div>
     <h3>研究主题</h3>${p.topics.map(([t,n]) => `<span class="tag">${esc(t)} · ${n}</span>`).join("")}
     <h3>学科领域分布</h3>${p.fields.map(([f,n]) => `<span class="tag">${esc(f)} · ${n}</span>`).join("")}
-    <h3>UT Austin 网内合作者（合写篇数）</h3>${p.coauthors.length ? "<ul>" + p.coauthors.map(([q,n]) => `<li>${profLink(q)} · ${n}</li>`).join("") + "</ul>" : '<div class="meta">网内暂无（≤100 作者的）合写论文</div>'}
+    <h3>UT Austin 网内合作者（合写篇数）</h3>${p.coauthors.length ? "<ul>" + p.coauthors.map(([q,n]) => `<li>${profLink(q)} · ${n}</li>`).join("") + "</ul>" : '<div class="meta">网内暂无（<100 作者的）合写论文</div>'}
     ${p.collab.length ? "<h3>大型合作中的同事</h3><ul>" + p.collab.slice(0,10).map(([q,n]) => `<li>${profLink(q)} · ${n}</li>`).join("") + "</ul>" : ""}
     <h3>研究最相近的同行</h3><ul>${p.similar.map(([q,s]) => `<li>${profLink(q)} · ${s}</li>`).join("")}</ul>
     ${p.startups && p.startups.length ? "<h3>创办 / 实验室衍生的公司</h3><ul>" + p.startups.map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.company)}</a>${s.year ? " · " + esc(s.year) : ""} <span class="meta">${esc(s.role)}</span></li>`).join("") + "</ul>" : ""}
