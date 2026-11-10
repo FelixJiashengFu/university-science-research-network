@@ -1,0 +1,41 @@
+CH|Alison Butler|Distinguished Professor (Chair)|
+CH|Andrea S. Carlini|Assistant Professor|
+CH|Armen Zakarian|Professor|
+CH|Arnab Mukherjee|Associate Professor|Chemical Engineering (joint)
+CH|Bernard Kirtman|Distinguished Professor|
+CH|Brandon Greene|Associate Professor|
+CH|Bruce H. Lipshutz|Distinguished Professor|
+CH|Christopher Bates|Associate Professor|Materials (joint)
+CH|Craig Hawker|Distinguished Professor|
+CH|Darby Feldwinn|Professor of Teaching|
+CH|Dorit Hanein|Professor|
+CH|Frank L. Brown|Professor|
+CH|Grace Han|Associate Professor|
+CH|Horia Metiu|Distinguished Professor|
+CH|J. Herbert Waite|Distinguished Professor|
+CH|Javier Read de Alaniz|Professor|
+CH|Joan-Emma Shea|Distinguished Professor|
+CH|Justin Wilson|Professor|
+CH|Kalju Kahn|Professor of Teaching|
+CH|Kevin W. Plaxco|Distinguished Professor|
+CH|Leroy E. Laverman|Senior Professor of Teaching|
+CH|Liming Zhang|Professor|
+CH|Lior Sepunaru|Associate Professor|
+CH|Luc Jaeger|Professor|
+CH|Mahdi Abu-Omar|Professor|
+CH|Mattanjah S. de Vries|Distinguished Professor|
+CH|Michael T. Bowers|Distinguished Professor|
+CH|Morgan Gainer|Associate Professor of Teaching|
+CH|Nadia G. Leonard|Assistant Professor|
+CH|Norbert O. Reich|Distinguished Professor|
+CH|Rachel Segalman|Professor|Chemical Engineering (joint)
+CH|Ram Seshadri|Distinguished Professor|
+CH|Stephanie Pazos|Assistant Professor of Teaching|
+CH|Steven K. Buratto|Professor|
+CH|Susannah Scott|Distinguished Professor|
+CH|Thuc-Quyen Nguyen|Distinguished Professor|
+CH|Tom R. Pettus|Professor|
+CH|Trevor Hayton|Distinguished Professor|
+CH|Vojtech Vlcek|Associate Professor|
+CH|Yang Hai|Assistant Professor|
+CH|Yang Yang|Associate Professor|

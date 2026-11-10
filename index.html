@@ -136,7 +136,7 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 <script>
 addEventListener("DOMContentLoaded", () => fetch("schools/stats.json").then(r => r.json()).then(st => {
-  const all = Object.assign({ uoft: [298, 52000, 12], stanford: [136, 40000, 18], waterloo: [167, 19000, 24], uiuc: [189, 33500, 25], udem: [96, 17545, 22], mcmaster: [87, 10740, 23], ualberta: [119, 22548, 23], umich: [152, 29813, 23] }, st);
+  const all = Object.assign({ uoft: [298, 52000, 12], stanford: [136, 40000, 18], waterloo: [167, 19000, 24], uiuc: [189, 33500, 25], udem: [96, 17545, 22], mcmaster: [87, 10740, 23], ualberta: [119, 22548, 23], umich: [152, 29813, 23], ucsb: [131, 25961, 21] }, st);
   const live = Object.keys(all).filter(k => (window.RA_NAV?.SCHOOLS || []).some(s => s[0] === k && s[4]) || k === "uoft" || k === "stanford" || k === "waterloo" || k === "uiuc" || k === "udem" || k === "mcmaster" || k === "ualberta" || k === "umich");
   const sum = i => live.reduce((a, k) => a + all[k][i], 0);
   document.getElementById("sLive").textContent = live.length;
