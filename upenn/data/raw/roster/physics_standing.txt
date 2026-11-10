@@ -1,0 +1,41 @@
+PH|James Aguirre|Associate Professor|Astrophysics & Cosmology
+PH|Vijay Balasubramanian|Cathy and Marc Lasry Professor|High Energy Theory; Biological Physics
+PH|Mariangela Bernardi|Professor|Astrophysics & Cosmology
+PH|Gary Bernstein|Reese W. Flower Professor of Astronomy and Astrophysics|Astrophysics & Cosmology
+PH|Cullen Blake|Associate Professor|Astrophysics & Cosmology
+PH|Martin Claassen|Assistant Professor|Condensed Matter Theory
+PH|Mirjam Cvetic|Fay R. and Eugene L. Langberg Professor|High Energy Theory
+PH|Mark Devlin|Reese W. Flower Professor of Astronomy and Astrophysics|Astrophysics & Cosmology
+PH|Marija Drndic|Fay R. and Eugene L. Langberg Professor of Physics|Condensed Matter Experiment
+PH|Douglas Durian|Mary Amanda Wood Professor of Physics and Astronomy|Soft Matter
+PH|Mark Goulian|Charles and William L. Day Distinguished Professor in the Natural Sciences|Biological Physics
+PH|Jonathan Heckman|Professor|High Energy Theory
+PH|Bhuvnesh Jain|Walter H. and Leonore C. Annenberg Professor in the Natural Sciences|Astrophysics & Cosmology
+PH|A.T. Charlie Johnson|Rebecca W. Bushnell Professor of Physics and Astronomy|Condensed Matter Experiment
+PH|Randall Kamien|Vicki and William Abrams Professor in the Natural Sciences|Soft Matter
+PH|Charles Kane|Christopher H. Browne Distinguished Professor of Physics|Condensed Matter Theory
+PH|Eleni Katifori|Associate Professor|Soft Matter; Biological Physics
+PH|Justin Khoury|Edmund J. and Louise W. Kahn Term Professor of Physics and Astronomy|Astrophysics & Cosmology; High Energy Theory
+PH|Jay Kikkawa|Professor|Condensed Matter Experiment
+PH|Joshua R. Klein|Edmund J. and Louise W. Kahn Term Professor|High Energy Experiment
+PH|I. Joseph Kroll|Fay R. and Eugene L. Langberg Professor of Physics|High Energy Experiment
+PH|Hayden Lee|Assistant Professor|High Energy Theory; Astrophysics & Cosmology
+PH|Adam Lidz|Associate Professor|Astrophysics & Cosmology
+PH|Elliot Lipeles|Professor|High Energy Experiment
+PH|Andrea Liu|Hepburn Professor of Physics|Soft Matter; Biological Physics
+PH|Mathew Madhavacheril|Assistant Professor|Astrophysics & Cosmology
+PH|Arnold Mathijssen|Assistant Professor|Soft Matter; Biological Physics
+PH|Christopher M. Mauger|Associate Professor|High Energy Experiment
+PH|Eugene Mele|Christopher H. Browne Distinguished Professor of Physics|Condensed Matter Theory
+PH|Saurabh Nath|Assistant Professor|Soft Matter
+PH|Philip Nelson|Professor|Biological Physics
+PH|Dylan Rankin|Assistant Professor|High Energy Experiment
+PH|Masao Sako|Arifa Hasan Ahmad and Nada Al Shoaibi Presidential Professor of Physics and Astronomy|Astrophysics & Cosmology
+PH|Robyn Sanderson|Associate Professor|Astrophysics & Cosmology
+PH|Ravi K. Sheth|Professor|Astrophysics & Cosmology
+PH|Evelyn Thomson|Professor|High Energy Experiment
+PH|Mark Trodden|Thomas S. Gates Jr. Professor of Physics and Astronomy; Dean, School of Arts & Sciences|Astrophysics & Cosmology; High Energy Theory
+PH|Liang Wu|Associate Professor|Condensed Matter Experiment
+PH|Arjun Yodh|James M. Skinner Professor of Science and Department Chair|Soft Matter; Biological Physics
+PH|Bo Zhen|Jin K. Lee Presidential Professor|Condensed Matter Experiment; Photonics
+PHx|Ron Donagi|Professor of Mathematics (secondary appointment in Physics and Astronomy)|Mathematics

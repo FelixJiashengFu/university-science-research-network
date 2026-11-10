@@ -1,0 +1,28 @@
+MA|Jonathan Block|Professor of Mathematics & Department Chair|K-Theory, Differential Geometry and Index Theory, Operator Algebras
+MA|Ahmed Bou-Rabee|Assistant Professor of Mathematics|Probability and PDEs
+MA|Sarah Brauner|Assistant Professor of Mathematics|Algebraic combinatorics
+MA|Ted Chinburg|Professor of Mathematics|Number Theory, Algebraic and Hyperbolic Geometry
+MA|Dennis DeTurck|Professor of Mathematics|Partial Differential Equations and Differential Geometry
+MA|Ron Donagi|Professor of Mathematics|Mathematical Physics: Algebraic Geometry and String Theory
+MA|Andres Fernandez Herrero|Assistant Professor of Mathematics|Algebraic geometry
+MA|Nir Gadish|Assistant Professor of Mathematics|Geometric topology and group theory
+MA|Robert Ghrist|Professor of Mathematics|Topological Methods in Applied Mathematics
+MA|Angela Gibney|Professor of Mathematics|Algebraic geometry and representation theory
+MA|Herman Gluck|Professor of Mathematics|Differential Geometry, Dynamical Systems, Topology of Manifolds
+MA|Philip Gressman|Professor of Mathematics|Harmonic Analysis and PDE's, Geometric Combinatorics, Geometric Analysis
+MA|James Haglund|Professor of Mathematics|Algebraic Combinatorics, Computational Number Theory
+MA|David Harbater|Professor of Mathematics|Modern Galois theory and related areas of Algebra and Arithmetic Geometry
+MA|Julia Hartmann|Professor of Mathematics|Algebraic structures and their symmetries
+MA|Ryan Hynd|Professor of Mathematics|Analysis of partial differential equations arising in stochastic optimal control, continuum mechanics, and the calculus of variations
+MA|Daniel Krashen|Professor of Mathematics|Algebra and arithmetic geometry
+MA|Davi Maximo|Associate Professor of Mathematics|Nonlinear methods in differential geometry, partial differential equations, and geometric topology
+MA|Mona Merling|Associate Professor of Mathematics|Algebraic K-theory, its applications to number theory and manifold theory, and equivariant stable homotopy theory
+MA|Yoichiro Mori|Professor of Mathematics and Biology|Mathematical Biology and Biophysics, Applied and Numerical Analysis
+MA|Yumeng Ou|Associate Professor of Mathematics|Harmonic analysis, Geometric measure theory, Partial differential equations
+MA|Tony Pantev|Professor of Mathematics|Algebraic and differential geometry. Hodge theory and motives. Mathematical physics and string theory
+MA|Robin Pemantle|Professor of Mathematics|Modern Discrete Probability and Combinatorics
+MA|Florian Pop|Professor of Mathematics|Arithmetic Algebraic Geometry and Modern Galois Theory
+MA|Andre Scedrov|Professor of Mathematics|Logic, Information Assurance, Formal Grammars
+MA|Robert Strain|Professor of Mathematics|Nonlinear Partial Differential Equations, Applied Mathematics, Mathematical Physics
+MA|Shanyin Tong|Assistant Professor of Mathematics|Applied and computational mathematics; Inverse problems in physics, engineering and data science
+MA|Henry Towsner|Professor of Mathematics|Mathematical logic

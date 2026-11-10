@@ -1,0 +1,33 @@
+MA|Benjamin Antieau|Professor|Topology|antieau
+MA|Antonio Auffinger|Professor; Department Chair|Probability|tuca
+MA|Nir Avni|Professor|Lie groups|nir.avni
+MA|Aaron Brown|Professor|Dynamical systems and Ergodic Theory|awb
+MA|Keith Burns|Professor|Dynamical systems and Ergodic Theory|burns
+MA|Santiago Cañez|Professor of Instruction|Geometry and Mathematical Physics|scanez
+MA|Xiumin Du|Assistant Professor|Harmonic analysis|xdu
+MA|John Francis|Associate Professor|Topology|jnkf
+MA|Tsachik Gelander|Professor|Groups, Geometry and Dynamics|tsachik.gelander
+MA|Ezra Getzler|Professor|Mathematical Physics|getzler
+MA|Reza Gheissari|Assistant Professor|Probability|gheissari
+MA|Aaron Greicius|Professor of Instruction; Director of Calculus|Algebraic Number Theory and Arithmetic Geometry|greicius
+MA|Elton P. Hsu|Professor|Probability|xupei
+MA|Bryna Kra|Professor; Sarah Rebecca Roland Professor of Mathematics|Dynamical systems and Ergodic Theory|kra
+MA|?Kushnirsky|Associate Professor of Instruction|Harmonic Analysis|e-kushnirsky
+MA|Bao Le Hung|Associate Professor|Algebraic Number Theory|lhvietbao
+MA|Yuchen Liu|Associate Professor|Algebraic Geometry|yuchenl
+MA|?malt|Assistant Professor of Instruction||malt
+MA|Sonja Mapes|Associate Professor of Instruction|Computational Commutative Algebra and Algebraic Geometry|smapes
+MA|?Nastase|Associate Professor of Instruction|Analytic Number Theory|mnastase
+MA|Aaron Peterson|Associate Professor of Instruction; Associate Chair|Several Complex Variables|aaron
+MA|Ursula Porod|Professor of Instruction; Director of Undergraduate Studies|Probability|u-porod
+MA|Maksym Radziwiłł|Professor; Wayne and Elizabeth Jones Professor of Mathematics|Analytic Number Theory|maksym.radziwill
+MA|Gus Schrader|Assistant Professor|Representation Theory|gus.schrader
+MA|Ananth Shankar|Assistant Professor|Arithmetic Geometry, Number Theory|ananth
+MA|Gábor Székelyhidi|Professor; Director of MENU|Geometric Analysis|gaborsz
+MA|Dmitry Tamarkin|Professor|Algebra and Homological Algebra|d-tamarkin
+MA|Boris Tsygan|Professor|Noncommutative Algebraic Geometry|b-tsygan
+MA|Ben Weinkove|Professor|Partial Differential Equations, Geometric Analysis|weinkove
+MA|Jared Wunsch|Professor; Director of Graduate Studies|Microlocal Analysis, PDE|jwunsch
+MA|Zhihong Xia|Professor; Arthur and Gladys Pancoe Professor of Mathematics|Dynamical Systems|zxia
+MA|Sandy Zabell|Professor|Probability and Statistics|zabell
+MA|Eric Zaslow|Professor; Henry Sanborn Noyes Chair in Mathematics|Mathematical Physics|e-zaslow
