@@ -13,7 +13,7 @@
 
 | 网络 | 节点 | 边 | 内容 |
 |---|---|---|---|
-| **主网：教授 · 主题 · 学科 · 论文 · 全部关系** | 2068 | 6129 | 所有已匹配教授；每人主要研究主题及被多人共享的主题；主题→子领域→领域的学科层级；全部网内合作论文与每人被引最多的 5 篇论文；合写 ≥3 篇的企业与教授创办的公司；合写、大型合作、研究相似、产业合作、创办等全部关系。 |
+| **主网：教授 · 主题 · 学科 · 论文 · 全部关系** | 2069 | 6128 | 所有已匹配教授；每人主要研究主题及被多人共享的主题；主题→子领域→领域的学科层级；全部网内合作论文与每人被引最多的 5 篇论文；合写 ≥3 篇的企业与教授创办的公司；合写、大型合作、研究相似、产业合作、创办等全部关系。 |
 | 合作网 | 86 | 191 | 只看教授之间真实合写的论文（不足 100 作者的论文为深色边，≥100 作者的大型合作论文为浅色边）。 |
 | 研究相似网 | 98 | 261 | 按研究主题分布（TF-IDF 余弦相似度）连接每位教授最相近的同行，不要求合写过论文。 |
 | 交叉学科网 | 205 | 624 | 只保留跨系（数学×物理与天文×化学）的合作、相似关系，以及被至少两个系的教授共同研究的主题。 |
@@ -31,8 +31,8 @@
 | 方向子网：材料化学 · 能源 · 纳米 | 96 | 254 | 化学系官网 Focus Area 含 Materials Chemistry / Energy Research / Nanoscale Science 的教授（与 LRSM、Vagelos 能源研究所相关）。 |
 | 方向子网：数学：代数 · 数论 · 代数几何 · 拓扑 | 48 | 149 | 数学系官网研究方向含 algebra / number theory / Galois / geometry / topology / K-theory / combinatorics 的教授。 |
 | 方向子网：数学：分析 · 偏微分方程 · 概率 · 应用数学 | 33 | 65 | 数学系官网研究方向含 analysis / PDE / probability / applied / differential geometry 的教授。 |
-| 研究主题地图 | 237 | 1153 | 研究主题之间的关联：两个主题被同一位教授（≥2 篇论文）研究时相连，按学科领域着色。 |
-| 创新创业网 | 155 | 281 | 教授与企业的联系：① 与企业作者合写过 ≥2 篇论文的公司（OpenAlex 机构类型 = company）；② 教授创办/联合创办的公司（逐条附公开来源，见 data/manual/startups.csv）；③ 教授之间的合写关系。 |
+| 研究主题地图 | 236 | 1125 | 研究主题之间的关联：两个主题被同一位教授（≥2 篇论文）研究时相连，按学科领域着色。 |
+| 创新创业网 | 152 | 276 | 教授与企业的联系：① 与企业作者合写过 ≥2 篇论文的公司（OpenAlex 机构类型 = company）；② 教授创办/联合创办的公司（逐条附公开来源，见 data/manual/startups.csv）；③ 教授之间的合写关系。 |
 
 每张网都用 Louvain 算法划分研究社群，可在页面上切换"按研究社群"着色。
 
@@ -73,6 +73,6 @@ python3 scripts/build_graph.py
 
 - **名单来源**（2026-11-10 读取）：math.upenn.edu/people/standing-faculty、physics.upenn.edu/people/standing-faculty、chem.upenn.edu/people/faculty。upenn.edu 拒绝云端自动抓取（robots.txt 与代理），名单是在浏览器里读出后存成 `data/raw/roster/*.txt`。
 - **作者匹配**：先用一次列表查询取出"最近机构为宾大、论文 >15 篇、主题含数学/物理/化学"的 2029 个 OpenAlex 作者作为候选池，在本地按姓名、研究领域打分匹配；池里没有的再按姓名检索。OpenAlex 常把一个人拆成多个档案或匹配到同名者，5 位教授做了人工指定（`scripts/openalex_fetch.py` 的 `OVERRIDE`：Christianson、Aimin Liu、Hartmann、Tong、Jain；第一个 id 为主档案，其余碎片的论文合并进来）。
-- **大型合作**：OpenAlex 每篇论文最多返回 100 个作者，所以作者数 ≥100 的论文（ATLAS 等）一律算"大型合作"，只连浅色边，不计入合写网，避免高能实验组把网络撑成一团。
+- **大型合作**：OpenAlex 每篇论文最多返回 100 个作者，所以作者数 ≥100 的论文（ATLAS 等）一律算"大型合作"，只连浅色边，不计入合写网，避免高能实验组把网络撑成一团。这类论文也不计入产业合写：署名里出现某家公司（如 SDSS 论文里的 Microsoft）不等于教授和这家公司有合作项目。
 - **剔除的条目**：OpenAlex 里类型为 dataset（如美国能源部 PNNL 数据仓库的 EMSL 项目存档）、erratum、retraction、paratext、peer-review 的条目不算论文。不剔除时，921 条 PNNL 存档记录（每条列满 100 位"作者"，其中有 Christianson 和 Genentech 的人，UCLA 的 Eisenberg 名下也是同一批）会被算成 Christianson 与 Genentech 合写 921 篇。
 - **研究主题**：每篇论文的 OpenAlex primary topic；相似度为主题分布的 TF-IDF 余弦。
