@@ -85,6 +85,7 @@ def maps():
     run([PY, "analysis/build_atlas_data.py"])
     roster_works("uoft", industry=True)
     roster_works("stanford", industry=False)
+    roster_works("waterloo", industry=False)
 
 
 def schools(slugs):

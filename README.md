@@ -6,6 +6,7 @@
 |---|---|---|---|
 | 01 | 多伦多大学（三校区）数理化研究网络 | [`uoft/`](uoft/) | 298 位教授 · 12 张网络 |
 | 02 | 斯坦福大学数理化研究网络 | [`stanford/`](stanford/) | 136 位教授 · 18 张网络 |
+| 02b | 滑铁卢大学数理化研究网络 | [`waterloo/`](waterloo/) | 167 位教授 · 24 张网络 |
 | 03 | 北美量子化学 / 计算化学合作地图 | [`na-quantum-chem-map/`](na-quantum-chem-map/) | 1,044 位教授 · 277 所学校 · 4,244 条合作线 |
 | 04 | 北美 Top 20 学者深度档案 | [`top20/`](top20/) | 20 份档案 + 个人合作网络 |
 | 05 | 中国量子化学 / 计算化学合作地图 | [`cn-quantum-chem-map/`](cn-quantum-chem-map/) | 513 位教授 · 201 个单位 · 927 条合作线 |
@@ -23,4 +24,4 @@
 python3 -m http.server 8000 -d _site  # 打开 http://localhost:8000/
 ```
 
-两个子项目使用同一套方法：院系公开教师名单 → OpenAlex 作者匹配 → 论文、主题、合作者、企业合作 → networkx 构建网络并预计算布局 → sigma.js 交互页面。重跑步骤、方法与局限分别见 [`uoft/README.md`](uoft/README.md) 和 [`stanford/README.md`](stanford/README.md)。OpenAlex API key 只通过环境变量 `OPENALEX_API_KEY` 读取，仓库里不含任何密钥。
+两个子项目使用同一套方法：院系公开教师名单 → OpenAlex 作者匹配 → 论文、主题、合作者、企业合作 → networkx 构建网络并预计算布局 → sigma.js 交互页面。重跑步骤、方法与局限分别见 [`uoft/README.md`](uoft/README.md)、[`stanford/README.md`](stanford/README.md) 和 [`waterloo/README.md`](waterloo/README.md)。OpenAlex API key 只通过环境变量 `OPENALEX_API_KEY` 读取，仓库里不含任何密钥。

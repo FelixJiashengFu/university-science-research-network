@@ -19,6 +19,7 @@
   const SCHOOLS = [
     ["uoft", "多伦多大学", "University of Toronto", "CA", "uoft/"],
     ["stanford", "斯坦福大学", "Stanford University", "US", "stanford/"],
+    ["waterloo", "滑铁卢大学", "University of Waterloo", "CA", "waterloo/"],
     ["mit", "麻省理工学院", "MIT", "US", "schools/mit/"],
     ["harvard", "哈佛大学", "Harvard University", "US", "schools/harvard/"],
     ["caltech", "加州理工学院", "Caltech", "US", "schools/caltech/"],

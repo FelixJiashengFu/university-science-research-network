@@ -1,0 +1,104 @@
+CH|Jonathan Baugh|Professor, Quantum Information Graduate Program Director|Physical Chemistry
+CH|Duong Bui|Assistant Professor|
+CH|John Corrigan|Professor, Chair (Department of Chemistry)|
+CH|David Cory|Research Professor, Canada Excellence Research Chair Laureate in Quantum Information Processing|Physical Chemistry
+CH|Laura Deakin|Professor, Teaching Stream, Associate Dean of Science (Teaching and Learning)|
+CH|Thorsten Dieckmann|Associate Professor, Associate Chair (Undergraduate and Coop Programs)|Biochemistry
+CH|Jean Duhamel|Professor, Director (Institute for Polymer Research)|Polymer Chemistry
+CH|Eric Fillion|Professor|Organic Chemistry
+CH|Steven Forsey|Associate Professor, Teaching Stream|Organic Chemistry
+CH|Tadeusz Górecki|Professor|Analytical Chemistry
+CH|John Honek|Professor|Biochemistry
+CH|Scott Hopkins|Professor|Physical Chemistry
+CH|Laura Ingram|Associate Professor, Teaching Stream|
+CH|Subha Kalyaanamoorthy|Associate Professor|
+CH|Vassili Karanassios|Professor|Analytical Chemistry
+CH|Holger Kleinke|Professor|Inorganic Chemistry
+CH|Anna Klinkova|Associate Professor, University Research Chair|
+CH|Sonny Lee|Associate Professor, Associate Chair (Graduate Studies and Research)|Inorganic Chemistry
+CH|Bob Lemieux|Professor|
+CH|Kam Tong Leung|Professor|Physical Chemistry
+CH|Yangju Lin|Assistant Professor|Polymer Chemistry
+CH|Juewen Liu|Professor, Canada Research Chair in Biosensors and Bionanotechnology|Nanotechnology
+CH|Vivek Maheshwari|Associate Professor|Nanotechnology
+CH|Rick Marta|Associate Professor, Teaching Stream|Materials and Nanosciences
+CH|Elizabeth Meiering|Professor|Biochemistry
+CH|Kirsten Meyer|Assistant Professor|
+CH|Graham Murphy|Professor, Associate Dean of Science (External Affairs)|Organic Chemistry
+CH|Linda Nazar|Professor|Inorganic Chemistry; Nanotechnology; Materials Chemistry
+CH|Marcel Nooijen|Professor|Theoretical Chemistry
+CH|Evgeniy Panzhinskiy|Assistant Professor, Teaching Stream|Biochemistry
+CH|Bill Power|Associate Professor|Physical Chemistry
+CH|Pavle Radovanovic|Professor|Nanotechnology; Physical Chemistry; Inorganic Chemistry
+CH|Pierre-Nicholas Roy|Professor, Canada Research Chair in Quantum Molecular Dynamics|Physical Chemistry; Theoretical Chemistry
+CH|Derek Schipper|Associate Professor|Organic Chemistry
+CH|Germán Sciaini|Professor|Physical Chemistry
+CH|Rodney Smith|Associate Professor|Inorganic Chemistry
+CH|David Sychantha|Assistant Professor|Biochemistry
+CH|Shirley Tang|Professor|Nanotechnology
+CH|Scott Taylor|Professor|Organic Chemistry
+CH|Conrard Giresse Tetsassi Feugmo|Assistant Professor|
+CH|Adam Wei Tsen|Associate Professor|Physical Chemistry
+CH|Julia Turner|Assistant Professor|
+CH|Xiaosong Wang|Professor|Nanotechnology; Polymer Chemistry; Supramolecular Chemistry
+CH|Jung-Ho Yu|Assistant Professor|Bioanalytical Chemistry
+PH|Niayesh Afshordi|Professor|
+PH|Michael Balogh|Professor|
+PH|Avery Broderick|Professor|
+PH|Raffi Budakian|Professor|
+PH|Anton Burkov|Professor|
+PH|Jeff Chen|Professor|
+PH|Karen Cummings|Associate Professor, Teaching Stream|
+PH|Lisa Dang|Assistant Professor|
+PH|Richard Epp|Associate Professor, Teaching Stream|
+PH|Jamie Forrest|Professor|
+PH|Michel Gingras|Professor, University Research Chair|
+PH|Bae-Yeun Ha|Professor|
+PH|David Hawthorn|Professor, Department Chair|
+PH|Robert Hill|Associate Professor|
+PH|Mike Hudson|Professor|
+PH|Stefan Idziak|Associate Professor|
+PH|Rajibul Islam|Associate Professor|
+PH|Alan Jamison|Assistant Professor|
+PH|Jan Kycia|Professor|
+PH|Brenda Lee|Associate Professor, Teaching Stream|
+PH|Zoya Leonenko|Professor, University Research Chair|
+PH|Qing-Bin Lu|Professor|
+PH|Adrian Lupascu|Associate Professor|
+PH|Norbert Lutkenhaus|Professor|
+PH|Matteo Mariantoni|Associate Professor|
+
+PH|James Martin|Associate Professor|
+PH|Mark Matsen|Professor|
+PH|Brian McNamara|Professor|
+PH|Roger Melko|Professor|
+PH|Christine Muschik|Associate Professor, University Research Chair|
+PH|Chris O'Donovan|Associate Professor, Teaching Stream|
+PH|Will Percival|Professor, Distinguished Research Chair in Astrophysics|
+PH|Dmitry Pushin|Associate Professor|
+PH|Kevin Resch|Professor|
+PH|Joe Sanderson|Associate Professor|
+PH|Crystal Senko|Associate Professor, Canada Research Chair|
+PH|Fil Simovic|Assistant Professor, Teaching Stream|
+PH|Donna Strickland|Professor|
+PH|Pok Man Tam|Assistant Professor|
+PH|James Taylor|Associate Professor|
+PH|Russell Thompson|Associate Professor|
+PH|David Yevick|Professor|
+PH|Robert Mann|Professor|
+PHx|Jonathan Baugh|Cross Appointed Faculty, Department of Chemistry|
+PHx|David Cory|Cross Appointed Faculty, Department of Chemistry|
+PHx|Joseph Emerson|Cross Appointed Faculty, Department of Applied Mathematics|
+PHx|Florian Girelli|Cross Appointed Faculty, Department of Applied Mathematics|
+PHx|David Gosset|Cross Appointed Faculty, Department of Combinatorics and Optimization|
+PHx|Achim Kempf|Cross Appointed Faculty, Department of Applied Mathematics|
+PHx|Eduardo Martin-Martinez|Cross Appointed Faculty, Department of Applied Mathematics|
+PHx|Michele Mosca|Cross Appointed Faculty, Department of Combinatorics & Optimization; IQC|
+PHx|Francis J. Poulin|Cross Appointed Faculty, Department of Applied Mathematics|
+PHx|Pierre-Nicholas Roy|Cross Appointed Faculty, Department of Chemistry|
+PHx|German Sciaini|Cross Appointed Faculty, Department of Chemistry|
+PHx|Graeme Smith|Cross Appointed Faculty, Department Applied Math|
+PHx|Conrard Giresse Tetsassi Feugmo|Cross Appointed Faculty, Chemistry Department|
+PHx|Adam Wei Tsen|Cross Appointed Faculty, Department of Chemistry|
+PHx|Karen Yeats|Cross Appointed Faculty, Department of Combinatorics and Optimization|
+PHx|Rick Marta|Cross Appointed, Department of Chemistry|

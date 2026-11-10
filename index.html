@@ -136,8 +136,8 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 <script>
 addEventListener("DOMContentLoaded", () => fetch("schools/stats.json").then(r => r.json()).then(st => {
-  const all = Object.assign({ uoft: [298, 52000, 12], stanford: [136, 40000, 18] }, st);
-  const live = Object.keys(all).filter(k => (window.RA_NAV?.SCHOOLS || []).some(s => s[0] === k && s[4]) || k === "uoft" || k === "stanford");
+  const all = Object.assign({ uoft: [298, 52000, 12], stanford: [136, 40000, 18], waterloo: [167, 19000, 24] }, st);
+  const live = Object.keys(all).filter(k => (window.RA_NAV?.SCHOOLS || []).some(s => s[0] === k && s[4]) || k === "uoft" || k === "stanford" || k === "waterloo");
   const sum = i => live.reduce((a, k) => a + all[k][i], 0);
   document.getElementById("sLive").textContent = live.length;
   document.getElementById("sProf").textContent = sum(0).toLocaleString();

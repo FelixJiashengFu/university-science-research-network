@@ -1,0 +1,338 @@
+openalex_id,name,dept,company_id,company,country,joint_works
+A5056883446,Jason Bell,Pure Mathematics,I4210127050,Rogers Communications (Canada),CA,1
+A5083774969,Benoit Charbonneau,Pure Mathematics,I74680897,Procter & Gamble (United States),US,1
+A5077238894,Kevin Hare,Pure Mathematics,I95549939,BNP Paribas (France),FR,1
+A5035122893,Wentang Kuo,Pure Mathematics,I1305429384,JPMorgan Chase & Co (United States),US,1
+A5103278747,David McKinnon,Pure Mathematics,I1290206253,Microsoft (United States),US,1
+A5013741080,Chris Bauch,Applied Mathematics,I4210126541,GlaxoSmithKline (Canada),CA,12
+A5013741080,Chris Bauch,Applied Mathematics,I4210095529,GlaxoSmithKline (Belgium),BE,9
+A5013741080,Chris Bauch,Applied Mathematics,I4210114143,GlaxoSmithKline (United States),US,3
+A5013741080,Chris Bauch,Applied Mathematics,I1291425158,Google (United States),US,1
+A5013741080,Chris Bauch,Applied Mathematics,I4210104304,Sanofi (Canada),CA,1
+A5013741080,Chris Bauch,Applied Mathematics,I4210088555,Abbott (United States),US,1
+A5013741080,Chris Bauch,Applied Mathematics,I4402554038,Microsoft Research Montréal (Canada),CA,1
+A5013741080,Chris Bauch,Applied Mathematics,I4210139000,Amgen (Switzerland),CH,1
+A5013741080,Chris Bauch,Applied Mathematics,I4210140011,Amarin (United Kingdom),GB,1
+A5013741080,Chris Bauch,Applied Mathematics,I1290206253,Microsoft (United States),US,1
+A5013741080,Chris Bauch,Applied Mathematics,I4210133090,Medicago (Canada),CA,1
+A5023907914,Hans De Sterck,Applied Mathematics,I4210106506,Verafin (Canada),CA,1
+A5061716464,David Del Rey Fernández,Applied Mathematics,I4210159148,Ansys (Canada),CA,1
+A5061716464,David Del Rey Fernández,Applied Mathematics,I4405264642,ERC Inc. (Japan),JP,1
+A5112868557,Joseph Emerson,Applied Mathematics,I4210115805,Keysight Technologies (United States),US,5
+A5112868557,Joseph Emerson,Applied Mathematics,I4210137770,Alpine Quantum Technologies (Austria),AT,1
+A5112868557,Joseph Emerson,Applied Mathematics,I4396570658,Quantinuum (United States),US,1
+A5112868557,Joseph Emerson,Applied Mathematics,I2252096349,Fujitsu (Japan),JP,1
+A5112868557,Joseph Emerson,Applied Mathematics,I44896327,Mitre (United States),US,1
+A5112868557,Joseph Emerson,Applied Mathematics,I1341412227,IBM (United States),US,1
+A5112868557,Joseph Emerson,Applied Mathematics,I181679074,TDK (Japan),JP,1
+A5112868557,Joseph Emerson,Applied Mathematics,I4210098220,Keysight Technologies (Singapore),SG,1
+A5112868557,Joseph Emerson,Applied Mathematics,I4210129523,Keysight Technologies (Austria),AT,1
+A5112868557,Joseph Emerson,Applied Mathematics,I4210149610,Keysight Technologies (United Kingdom),GB,1
+A5112868557,Joseph Emerson,Applied Mathematics,I4210150960,Health and Education Research Management and Epidemiologic Services (United States),US,1
+A5053039276,Mohamed Hibat-Allah,Applied Mathematics,I1311688040,Amazon (United States),US,1
+A5053039276,Mohamed Hibat-Allah,Applied Mathematics,I1341412227,IBM (United States),US,1
+A5053039276,Mohamed Hibat-Allah,Applied Mathematics,I4210111877,Zapata (United States),US,1
+A5014787617,Brian Ingalls,Applied Mathematics,I1295339012,Boeing (United States),US,1
+A5087552186,Mohammad Kohandel,Applied Mathematics,I4210118696,Mitra Biotech (India),IN,3
+A5087552186,Mohammad Kohandel,Applied Mathematics,I4210134490,JSR (Japan),JP,3
+A5100678225,Jun Liu,Applied Mathematics,I17442442,State Grid Corporation of China (China),CN,8
+A5100678225,Jun Liu,Applied Mathematics,I4405273203,State Grid Shanghai Municipal Electric Power Company (China),CN,5
+A5100678225,Jun Liu,Applied Mathematics,I4210095258,Jinchuan (China),CN,1
+A5100678225,Jun Liu,Applied Mathematics,I4210126794,IBM Research (China),CN,1
+A5100678225,Jun Liu,Applied Mathematics,I4405280778,State Grid Liaoning Electric Power Company (China),CN,1
+A5100678225,Jun Liu,Applied Mathematics,I4405272762,Guangdong Power Grid Company (China),CN,1
+A5100678225,Jun Liu,Applied Mathematics,I74872605,China Southern Power Grid (China),CN,1
+A5100678225,Jun Liu,Applied Mathematics,I4210086503,ABB (Sweden),SE,1
+A5100678225,Jun Liu,Applied Mathematics,I133958730,Energinet (Denmark),DK,1
+A5100678225,Jun Liu,Applied Mathematics,I4210101959,Terna (Italy),IT,1
+A5100678225,Jun Liu,Applied Mathematics,I4210143116,Électricité de France (France),FR,1
+A5100678225,Jun Liu,Applied Mathematics,I4405270619,State Grid Zhejiang Electric Power Company (China),CN,1
+A5100678225,Jun Liu,Applied Mathematics,I4387155657,Daqing Oilfield of CNPC,CN,1
+A5100678225,Jun Liu,Applied Mathematics,I4405270698,State Grid Chongqing Electric Power Company (China),CN,1
+A5100678225,Jun Liu,Applied Mathematics,I4210127318,Clearpath Robotics (Canada),CA,1
+A5100678225,Jun Liu,Applied Mathematics,I4403928295,"Jiangsu Frontier Electric Technology Co., Ltd. (China)",CN,1
+A5100678225,Jun Liu,Applied Mathematics,I4210126065,Shanghai Electric (China),CN,1
+A5100678225,Jun Liu,Applied Mathematics,I158108717,China National Offshore Oil Corporation (China),CN,1
+A5100678225,Jun Liu,Applied Mathematics,I1311688040,Amazon (United States),US,1
+A5100678225,Jun Liu,Applied Mathematics,I4405272962,State Grid Shandong Electric Power Company (China),CN,1
+A5030849815,Xinzhi Liu,Applied Mathematics,I15009632,Fuji Xerox (Japan),JP,1
+A5030849815,Xinzhi Liu,Applied Mathematics,I4210159094,Xerox (Canada),CA,1
+A5030849815,Xinzhi Liu,Applied Mathematics,I4210098104,Hefei CAS Ion Medical and Technical Devices (China),CN,1
+A5038705915,Alexander Meiburg,Applied Mathematics,I1290206253,Microsoft (United States),US,1
+A5038705915,Alexander Meiburg,Applied Mathematics,I4210111877,Zapata (United States),US,1
+A5049638450,Kirsten Morris,Applied Mathematics,I1317029613,Air Canada,CA,2
+A5049638450,Kirsten Morris,Applied Mathematics,I137844521,Hatch (Canada),CA,1
+A5077325467,N Sri Namachchivaya,Applied Mathematics,I1295339012,Boeing (United States),US,3
+A5111460938,Graeme Smith,Applied Mathematics,I1341412227,IBM (United States),US,22
+A5111460938,Graeme Smith,Applied Mathematics,I4396570658,Quantinuum (United States),US,1
+A5022316710,Marek Stastna,Applied Mathematics,I4210166034,Ukrainian Center of Environmental and Water Projects (Ukraine),UA,1
+A5022316710,Marek Stastna,Applied Mathematics,I4210095365,Collecte Localisation Satellites (France),FR,1
+A5012029153,David Jao,Combinatorics & Optimization,I1290206253,Microsoft (United States),US,10
+A5012029153,David Jao,Combinatorics & Optimization,I74760111,Texas Instruments (United States),US,7
+A5012029153,David Jao,Combinatorics & Optimization,I4210124949,Microsoft Research (India),IN,3
+A5012029153,David Jao,Combinatorics & Optimization,I1311688040,Amazon (United States),US,1
+A5047700742,Steve Melczer,Combinatorics & Optimization,I1291425158,Google (United States),US,2
+A5061777786,Henry Wolkowicz,Combinatorics & Optimization,I176714629,Bell (Canada),CA,1
+A5046805470,Joseph Cheriyan,Combinatorics & Optimization,I1283103587,AT&T (United States),US,3
+A5046805470,Joseph Cheriyan,Combinatorics & Optimization,I1311688040,Amazon (United States),US,2
+A5046805470,Joseph Cheriyan,Combinatorics & Optimization,I1341412227,IBM (United States),US,1
+A5046805470,Joseph Cheriyan,Combinatorics & Optimization,I1290206253,Microsoft (United States),US,1
+A5046805470,Joseph Cheriyan,Combinatorics & Optimization,I153908563,Nortel (Canada),CA,1
+A5040209225,Ricardo Fukasawa,Combinatorics & Optimization,I1341412227,IBM (United States),US,4
+A5040209225,Ricardo Fukasawa,Combinatorics & Optimization,I1291425158,Google (United States),US,1
+A5103230798,Jane Gao,Combinatorics & Optimization,I4405257212,"China Construction Sixth Engineering Bureau Corp., Ltd (China)",CN,4
+A5103230798,Jane Gao,Combinatorics & Optimization,I3017770710,China North Industries Group Corporation (China),CN,3
+A5103230798,Jane Gao,Combinatorics & Optimization,I4210113138,Guangzhou Automobile Group (China),CN,1
+A5103230798,Jane Gao,Combinatorics & Optimization,I4210127843,First Automotive Works (China),CN,1
+A5103230798,Jane Gao,Combinatorics & Optimization,I4210131005,Chery Automobile (China),CN,1
+A5103184148,David Gosset,Combinatorics & Optimization,I1341412227,IBM (United States),US,8
+A5103184148,David Gosset,Combinatorics & Optimization,I1291425158,Google (United States),US,4
+A5103184148,David Gosset,Combinatorics & Optimization,I4210117425,Google (Israel),IL,3
+A5103184148,David Gosset,Combinatorics & Optimization,I1290206253,Microsoft (United States),US,1
+A5103184148,David Gosset,Combinatorics & Optimization,I4210115805,Keysight Technologies (United States),US,1
+A5003323565,Sam Jaques,Combinatorics & Optimization,I1290206253,Microsoft (United States),US,2
+A5003323565,Sam Jaques,Combinatorics & Optimization,I4210139986,Microsoft (Switzerland),CH,1
+A5003323565,Sam Jaques,Combinatorics & Optimization,I4210094759,Fujitsu (United States),US,1
+A5003323565,Sam Jaques,Combinatorics & Optimization,I1291425158,Google (United States),US,1
+A5064717635,Jochen Koenemann,Combinatorics & Optimization,I1311688040,Amazon (United States),US,4
+A5064717635,Jochen Koenemann,Combinatorics & Optimization,I1291425158,Google (United States),US,1
+A5057755410,Debbie Leung,Combinatorics & Optimization,I1341412227,IBM (United States),US,13
+A5057755410,Debbie Leung,Combinatorics & Optimization,I1283103587,AT&T (United States),US,3
+A5057755410,Debbie Leung,Combinatorics & Optimization,I4210093205,Foxconn (China),CN,1
+A5057755410,Debbie Leung,Combinatorics & Optimization,I4210108919,Foxconn (Taiwan),TW,1
+A5009567571,Michele Mosca,Combinatorics & Optimization,I1290206253,Microsoft (United States),US,4
+A5009567571,Michele Mosca,Combinatorics & Optimization,I2251713219,NTT (Japan),JP,1
+A5009567571,Michele Mosca,Combinatorics & Optimization,I4210099808,OTI Lumionics (Canada),CA,1
+A5017951192,Ashwin Nayak,Combinatorics & Optimization,I4210111877,Zapata (United States),US,1
+A5017951192,Ashwin Nayak,Combinatorics & Optimization,I1283103587,AT&T (United States),US,1
+A5034733246,Douglas Stebila,Combinatorics & Optimization,I1290206253,Microsoft (United States),US,6
+A5034733246,Douglas Stebila,Combinatorics & Optimization,I135428043,Cisco Systems (United States),US,2
+A5034733246,Douglas Stebila,Combinatorics & Optimization,I4387153498,SandboxAQ,US,1
+A5034733246,Douglas Stebila,Combinatorics & Optimization,I4210123704,NXP (Germany),DE,1
+A5034733246,Douglas Stebila,Combinatorics & Optimization,I2251713219,NTT (Japan),JP,1
+A5034733246,Douglas Stebila,Combinatorics & Optimization,I109147379,NXP (Netherlands),NL,1
+A5034733246,Douglas Stebila,Combinatorics & Optimization,I1291425158,Google (United States),US,1
+A5034733246,Douglas Stebila,Combinatorics & Optimization,I4210090320,Entrust (Canada),CA,1
+A5031968426,Chaitanya Swamy,Combinatorics & Optimization,I4210124949,Microsoft Research (India),IN,2
+A5031968426,Chaitanya Swamy,Combinatorics & Optimization,I1291425158,Google (United States),US,2
+A5062941227,Levent Tuncel,Combinatorics & Optimization,I1311688040,Amazon (United States),US,1
+A5018511273,Stephen Vavasis,Combinatorics & Optimization,I1327191685,deCODE Genetics (Iceland),IS,1
+A5040147498,Rowan Yeats,Combinatorics & Optimization,I4210087826,Ballard Power Systems (Canada),CA,1
+A5040147498,Rowan Yeats,Combinatorics & Optimization,I4210127050,Rogers Communications (Canada),CA,1
+A5020853148,Jonathan Baugh,Chemistry,I1343180700,Intel (United States),US,1
+A5020853148,Jonathan Baugh,Chemistry,I1309087048,D-Wave Systems (Canada),CA,1
+A5020853148,Jonathan Baugh,Chemistry,I83308685,Canadian Light Source (Canada),CA,1
+A5020853148,Jonathan Baugh,Chemistry,I1290206253,Microsoft (United States),US,1
+A5020853148,Jonathan Baugh,Chemistry,I4210092701,Quantum Motion Technologies (United Kingdom),GB,1
+A5020853148,Jonathan Baugh,Chemistry,I4210147375,Semi Conductor Devices (Israel),IL,1
+A5000018755,Duong Bui,Chemistry,I4210144192,Lectenz Bio (United States),US,1
+A5030828640,John Corrigan,Chemistry,I193170854,Bruker (United States),US,1
+A5033501753,David Cory,Chemistry,I193170854,Bruker (United States),US,30
+A5033501753,David Cory,Chemistry,I118347220,NEC (Japan),JP,4
+A5033501753,David Cory,Chemistry,I1290206253,Microsoft (United States),US,4
+A5033501753,David Cory,Chemistry,I4210090857,Schlumberger (United States),US,2
+A5033501753,David Cory,Chemistry,I44896327,Mitre (United States),US,1
+A5033501753,David Cory,Chemistry,I4405271632,"Cambridge Isotope Laboratories, Inc. (United States)",US,1
+A5033501753,David Cory,Chemistry,I2250650973,Samsung (South Korea),KR,1
+A5033501753,David Cory,Chemistry,I4405259277,Samsung Electronics (South Korea),KR,1
+A5033501753,David Cory,Chemistry,I1341412227,IBM (United States),US,1
+A5033501753,David Cory,Chemistry,I180857899,Pfizer (United States),US,1
+A5033501753,David Cory,Chemistry,I4210133462,Schlumberger (United Kingdom),GB,1
+A5002485249,Thorsten Dieckmann,Chemistry,I4210131534,Sciex (Canada),CA,2
+A5002485249,Thorsten Dieckmann,Chemistry,I180857899,Pfizer (United States),US,1
+A5002485249,Thorsten Dieckmann,Chemistry,I4210103301,Archemix (United States),US,1
+A5002485249,Thorsten Dieckmann,Chemistry,I1320553840,Amgen (United States),US,1
+A5085165441,Jean Duhamel,Chemistry,I4210133143,Dow Chemical (United States),US,3
+A5085165441,Jean Duhamel,Chemistry,I923382979,ExxonMobil (United States),US,2
+A5085165441,Jean Duhamel,Chemistry,I4210140030,Eastman Chemical Company (United States),US,2
+A5085165441,Jean Duhamel,Chemistry,I127558574,DSM (Netherlands),NL,1
+A5085165441,Jean Duhamel,Chemistry,I4210113790,DuPont (Canada),CA,1
+A5085165441,Jean Duhamel,Chemistry,I80578424,Imperial Oil (Canada),CA,1
+A5062196666,Tadeusz Górecki,Chemistry,I4210147249,Geosyntec Consultants (United States),US,6
+A5062196666,Tadeusz Górecki,Chemistry,I4210141716,Aerosol Dynamics (United States),US,3
+A5062196666,Tadeusz Górecki,Chemistry,I189718659,Pfizer (United Kingdom),GB,2
+A5062196666,Tadeusz Górecki,Chemistry,I4210149553,Systems & Processes Engineering Corporation (United States),US,2
+A5062196666,Tadeusz Górecki,Chemistry,I1340755506,3M (United States),US,1
+A5062196666,Tadeusz Górecki,Chemistry,I4210150258,Eurofins (United States),US,1
+A5062196666,Tadeusz Górecki,Chemistry,I4210140286,Eurofins (United Kingdom),GB,1
+A5043986924,John Honek,Chemistry,I4210131534,Sciex (Canada),CA,1
+A5051861613,Scott Hopkins,Chemistry,I4210131534,Sciex (Canada),CA,23
+A5051861613,Scott Hopkins,Chemistry,I180857899,Pfizer (United States),US,4
+A5051861613,Scott Hopkins,Chemistry,I4210140879,Brown and Caldwell (United States),US,3
+A5051861613,Scott Hopkins,Chemistry,I4210137457,Enveda Therapeutics (United States),US,2
+A5051861613,Scott Hopkins,Chemistry,I4210107143,USP Technologies (United Kingdom),GB,1
+A5051861613,Scott Hopkins,Chemistry,I4210091689,Thermo Fisher Scientific (Canada),CA,1
+A5051861613,Scott Hopkins,Chemistry,I4210159516,Medtronic (Canada),CA,1
+A5004613714,Subha Kalyaanamoorthy,Chemistry,I14181584,Cameco (Canada),CA,1
+A5111743500,Vassili Karanassios,Chemistry,I4210129753,Applied Spectra (United States),US,1
+A5111743500,Vassili Karanassios,Chemistry,I4210141675,Spetec (Germany),DE,1
+A5067943258,Holger Kleinke,Chemistry,I118136607,General Motors (United States),US,8
+A5067943258,Holger Kleinke,Chemistry,I4210099181,II-VI (United States),US,3
+A5067943258,Holger Kleinke,Chemistry,I1338503839,Corning (United States),US,2
+A5067943258,Holger Kleinke,Chemistry,I83308685,Canadian Light Source (Canada),CA,1
+A5028992497,Anna Klinkova,Chemistry,I4210105296,OZ Optics (Canada),CA,1
+A5038308913,Bob Lemieux,Chemistry,I4210127115,LC Vision (United States),US,2
+A5038308913,Bob Lemieux,Chemistry,I4210159094,Xerox (Canada),CA,1
+A5068939796,Kam Tong Leung,Chemistry,I4210133125,Mitsubishi Electric (Japan),JP,4
+A5027052238,Yangju Lin,Chemistry,I2250650973,Samsung (South Korea),KR,2
+A5027052238,Yangju Lin,Chemistry,I4399598381,Samsung Advanced Institute of Technology (South Korea),KR,2
+A5027052238,Yangju Lin,Chemistry,I4405259277,Samsung Electronics (South Korea),KR,2
+A5087037080,Juewen Liu,Chemistry,I4210127582,ANDalyze (United States),US,1
+A5087037080,Juewen Liu,Chemistry,I4210109348,Nicoya Lifesciences (Canada),CA,1
+A5087037080,Juewen Liu,Chemistry,I4210105296,OZ Optics (Canada),CA,1
+A5062827425,Vivek Maheshwari,Chemistry,I1343180700,Intel (United States),US,1
+A5067807269,Elizabeth Meiering,Chemistry,I4210091812,Bristol-Myers Squibb (United States),US,2
+A5067807269,Elizabeth Meiering,Chemistry,I203455613,Schrodinger (United States),US,1
+A5079626231,Linda Nazar,Chemistry,I4210107087,BASF (Germany),DE,26
+A5079626231,Linda Nazar,Chemistry,I83308685,Canadian Light Source (Canada),CA,6
+A5079626231,Linda Nazar,Chemistry,I4210107053,Core Competence,US,4
+A5079626231,Linda Nazar,Chemistry,I4405270225,SK Innovation (South Korea),KR,2
+A5079626231,Linda Nazar,Chemistry,I118347220,NEC (Japan),JP,2
+A5079626231,Linda Nazar,Chemistry,I32393484,Petrobras (Brazil),BR,2
+A5079626231,Linda Nazar,Chemistry,I1291425158,Google (United States),US,1
+A5079626231,Linda Nazar,Chemistry,I4210091503,Superconductor Technologies (United States),US,1
+A5079626231,Linda Nazar,Chemistry,I118136607,General Motors (United States),US,1
+A5079626231,Linda Nazar,Chemistry,I4210110524,Nissan (Japan),JP,1
+A5027217102,Marcel Nooijen,Chemistry,I1290206253,Microsoft (United States),US,1
+A5027217102,Marcel Nooijen,Chemistry,I4210131534,Sciex (Canada),CA,1
+A5090406239,Pavle Radovanovic,Chemistry,I83308685,Canadian Light Source (Canada),CA,1
+A5073568022,Derek Schipper,Chemistry,I4210138665,Boehringer Ingelheim (Canada),CA,1
+A5032679375,Germán Sciaini,Chemistry,I83308685,Canadian Light Source (Canada),CA,2
+A5032679375,Germán Sciaini,Chemistry,I2801287017,Aixtron (Germany),DE,1
+A5003731097,Rodney Smith,Chemistry,I83308685,Canadian Light Source (Canada),CA,3
+A5005909858,David Sychantha,Chemistry,I4210108931,Willow Biosciences (Canada),CA,1
+A5052775902,Shirley Tang,Chemistry,I138285227,Agilent Technologies (United States),US,2
+A5052775902,Shirley Tang,Chemistry,I4210129326,3M (Canada),CA,1
+A5052775902,Shirley Tang,Chemistry,I193170854,Bruker (United States),US,1
+A5052775902,Shirley Tang,Chemistry,I4210090857,Schlumberger (United States),US,1
+A5089226416,Scott Taylor,Chemistry,I4210095507,Merck Canada Inc. (Canada),CA,3
+A5089226416,Scott Taylor,Chemistry,I97187500,Cubist Pharmaceuticals (United States),US,2
+A5089226416,Scott Taylor,Chemistry,I61970326,Vertex Pharmaceuticals (United States),US,1
+A5038704910,Adam Wei Tsen,Chemistry,I1290206253,Microsoft (United States),US,1
+A5038704910,Adam Wei Tsen,Chemistry,I4210092701,Quantum Motion Technologies (United Kingdom),GB,1
+A5080867338,Julia Turner,Chemistry,I183934855,Genentech,US,1
+A5100724912,Xiaosong Wang,Chemistry,I17442442,State Grid Corporation of China (China),CN,5
+A5100724912,Xiaosong Wang,Chemistry,I3017770710,China North Industries Group Corporation (China),CN,1
+A5100724912,Xiaosong Wang,Chemistry,I4405272962,State Grid Shandong Electric Power Company (China),CN,1
+A5100724912,Xiaosong Wang,Chemistry,I4210151703,China Coal Technology and Engineering Group Corp (China),CN,1
+A5100724912,Xiaosong Wang,Chemistry,I4392738184,Yankuang Energy Group Company Limited (China),CN,1
+A5100724912,Xiaosong Wang,Chemistry,I1292974536,Ford Motor Company (United States),US,1
+A5065932599,Jung-Ho Yu,Chemistry,I4210155268,Salesforce (United States),US,1
+A5089090610,Niayesh Afshordi,Physics & Astronomy,I65760639,Wolfram Research (United States),US,1
+A5018993806,Michael Balogh,Physics & Astronomy,I2802010469,Magellan Aerospace (Canada),CA,2
+A5018993806,Michael Balogh,Physics & Astronomy,I4210124422,ABB (Canada),CA,2
+A5018993806,Michael Balogh,Physics & Astronomy,I4210098531,Teledyne e2v (United Kingdom),GB,1
+A5018993806,Michael Balogh,Physics & Astronomy,I4210154232,Honeywell (Canada),CA,1
+A5018993806,Michael Balogh,Physics & Astronomy,I82514191,Honeywell (United States),US,1
+A5018993806,Michael Balogh,Physics & Astronomy,I4210107917,Exact Sciences (United States),US,1
+A5018993806,Michael Balogh,Physics & Astronomy,I4210121266,Technicolor (France),FR,1
+A5018993806,Michael Balogh,Physics & Astronomy,I2800802429,COM DEV International,CA,1
+A5012792401,Avery Broderick,Physics & Astronomy,I1291425158,Google (United States),US,36
+A5012792401,Avery Broderick,Physics & Astronomy,I193427800,Applied Materials (United States),US,5
+A5012792401,Avery Broderick,Physics & Astronomy,I24262253,Subaru (Japan),JP,2
+A5012792401,Avery Broderick,Physics & Astronomy,I4405274803,Tokyo Electron Technology Solutions Limited (Japan),JP,1
+A5012792401,Avery Broderick,Physics & Astronomy,I1341412227,IBM (United States),US,1
+A5044506827,Raffi Budakian,Physics & Astronomy,I1341412227,IBM (United States),US,3
+A5044506827,Raffi Budakian,Physics & Astronomy,I115053289,Oxford Instruments (United Kingdom),GB,1
+A5043982182,Lisa Dang,Physics & Astronomy,I1287521167,Lockheed Martin (United States),US,1
+A5043982182,Lisa Dang,Physics & Astronomy,I4210124422,ABB (Canada),CA,1
+A5036714623,Jamie Forrest,Physics & Astronomy,I4210165351,Toyota Central Research and Development Laboratories (Japan),JP,1
+A5062531340,Michel Gingras,Physics & Astronomy,I83308685,Canadian Light Source (Canada),CA,1
+A5060373916,David Hawthorn,Physics & Astronomy,I83308685,Canadian Light Source (Canada),CA,30
+A5081637581,Robert Hill,Physics & Astronomy,I4210099333,TopGaN (Poland),PL,4
+A5081637581,Robert Hill,Physics & Astronomy,I105036370,AstraZeneca (United Kingdom),GB,4
+A5081637581,Robert Hill,Physics & Astronomy,I1291425158,Google (United States),US,3
+A5081637581,Robert Hill,Physics & Astronomy,I4210133143,Dow Chemical (United States),US,2
+A5081637581,Robert Hill,Physics & Astronomy,I4210087094,Syngenta (United Kingdom),GB,2
+A5081637581,Robert Hill,Physics & Astronomy,I4210095416,Toptica Photonics (Germany),DE,2
+A5081637581,Robert Hill,Physics & Astronomy,I4210164661,M Squared Lasers (United Kingdom),GB,1
+A5081637581,Robert Hill,Physics & Astronomy,I1315821353,Thorlabs (Germany),DE,1
+A5081637581,Robert Hill,Physics & Astronomy,I135218257,Swiss Center for Electronics and Microtechnology (Switzerland),CH,1
+A5081637581,Robert Hill,Physics & Astronomy,I4210099940,SpaceTech (Germany),DE,1
+A5081637581,Robert Hill,Physics & Astronomy,I4405257267,Airbus Defence and Space GmbH (Germany),DE,1
+A5136187948,Mike Hudson,Physics & Astronomy,I4210121266,Technicolor (France),FR,1
+A5005944899,Stefan Idziak,Physics & Astronomy,I923382979,ExxonMobil (United States),US,9
+A5005944899,Stefan Idziak,Physics & Astronomy,I83308685,Canadian Light Source (Canada),CA,1
+A5005944899,Stefan Idziak,Physics & Astronomy,I1316910977,DuPont (United States),US,1
+A5053336892,Rajibul Islam,Physics & Astronomy,I4387154962,1QBit,CA,1
+A5077645234,Jan Kycia,Physics & Astronomy,I1306686416,RTX (United States),US,1
+A5077645234,Jan Kycia,Physics & Astronomy,I4388891764,Raytheon (United States),US,1
+A5065551717,Zoya Leonenko,Physics & Astronomy,I138285227,Agilent Technologies (United States),US,1
+A5026342264,Adrian Lupascu,Physics & Astronomy,I2251713219,NTT (Japan),JP,5
+A5026342264,Adrian Lupascu,Physics & Astronomy,I2948394018,Northrop Grumman (United States),US,3
+A5026342264,Adrian Lupascu,Physics & Astronomy,I4210111145,QuEra Computing (United States),US,1
+A5026342264,Adrian Lupascu,Physics & Astronomy,I1290206253,Microsoft (United States),US,1
+A5076065879,Norbert Lutkenhaus,Physics & Astronomy,I2251713219,NTT (Japan),JP,3
+A5076065879,Norbert Lutkenhaus,Physics & Astronomy,I4210156325,Hewlett-Packard (United Kingdom),GB,2
+A5076065879,Norbert Lutkenhaus,Physics & Astronomy,I1306686416,RTX (United States),US,2
+A5076065879,Norbert Lutkenhaus,Physics & Astronomy,I1327226047,MagiQ Technologies (United States),US,2
+A5076065879,Norbert Lutkenhaus,Physics & Astronomy,I4387152956,Alcatel-Lucent (France),FR,1
+A5076065879,Norbert Lutkenhaus,Physics & Astronomy,I4210113033,SeQureNet (France),FR,1
+A5076065879,Norbert Lutkenhaus,Physics & Astronomy,I4210131832,ID Quantique (Switzerland),CH,1
+A5076065879,Norbert Lutkenhaus,Physics & Astronomy,I4210140930,Thales (France),FR,1
+A5076065879,Norbert Lutkenhaus,Physics & Astronomy,I1324840837,Hewlett-Packard (United States),US,1
+A5008314339,Matteo Mariantoni,Physics & Astronomy,I118347220,NEC (Japan),JP,10
+A5008314339,Matteo Mariantoni,Physics & Astronomy,I2251713219,NTT (Japan),JP,2
+A5008314339,Matteo Mariantoni,Physics & Astronomy,I4405273792,NTT Advanced Technology Corporation (Japan),JP,2
+A5008314339,Matteo Mariantoni,Physics & Astronomy,I1291425158,Google (United States),US,1
+A5008314339,Matteo Mariantoni,Physics & Astronomy,I200576644,HRL Laboratories (United States),US,1
+A5025387567,James Martin,Physics & Astronomy,I4210107153,Aurora Optics (United States),US,2
+A5025387567,James Martin,Physics & Astronomy,I4405261390,MegaWatt Lasers (United States),US,2
+A5048857282,Mark Matsen,Physics & Astronomy,I146461966,Becton Dickinson (United States),US,1
+A5048857282,Mark Matsen,Physics & Astronomy,I74680897,Procter & Gamble (United States),US,1
+A5073329735,Brian McNamara,Physics & Astronomy,I4210108155,SURFsara (Netherlands),NL,3
+A5073329735,Brian McNamara,Physics & Astronomy,I137594350,Infineon Technologies (Germany),DE,1
+A5073329735,Brian McNamara,Physics & Astronomy,I4210144190,Infineon Technologies (United States),US,1
+A5073329735,Brian McNamara,Physics & Astronomy,I4387152956,Alcatel-Lucent (France),FR,1
+A5073329735,Brian McNamara,Physics & Astronomy,I72090969,Nokia (United States),US,1
+A5073329735,Brian McNamara,Physics & Astronomy,I4210114911,Meiji (Japan),JP,1
+A5091069084,Roger Melko,Physics & Astronomy,I1290206253,Microsoft (United States),US,7
+A5091069084,Roger Melko,Physics & Astronomy,I1309087048,D-Wave Systems (Canada),CA,3
+A5091069084,Roger Melko,Physics & Astronomy,I4387154962,1QBit,CA,2
+A5091069084,Roger Melko,Physics & Astronomy,I4210121352,Western Digital (United States),US,1
+A5091069084,Roger Melko,Physics & Astronomy,I4210134018,Western Digital (China),CN,1
+A5091069084,Roger Melko,Physics & Astronomy,I1340210623,Volvo (Sweden),SE,1
+A5091069084,Roger Melko,Physics & Astronomy,I1311688040,Amazon (United States),US,1
+A5091069084,Roger Melko,Physics & Astronomy,I4210111877,Zapata (United States),US,1
+A5091069084,Roger Melko,Physics & Astronomy,I4210118495,Quandela (France),FR,1
+A5091069084,Roger Melko,Physics & Astronomy,I4210127875,Nvidia (United States),US,1
+A5091069084,Roger Melko,Physics & Astronomy,I4405262918,Qubit Pharmaceuticals,FR,1
+A5021091852,Christine Muschik,Physics & Astronomy,I4387154962,1QBit,CA,1
+A5021091852,Christine Muschik,Physics & Astronomy,I4210137770,Alpine Quantum Technologies (Austria),AT,1
+A5021091852,Christine Muschik,Physics & Astronomy,I4210095996,IBM (Germany),DE,1
+A5001753424,Will Percival,Physics & Astronomy,I4210134232,von Hoerner & Sulger (Germany),DE,31
+A5001753424,Will Percival,Physics & Astronomy,I4210162160,Esteve (Spain),ES,4
+A5001753424,Will Percival,Physics & Astronomy,I4210117222,BAE Systems (United States),US,2
+A5001753424,Will Percival,Physics & Astronomy,I4210098531,Teledyne e2v (United Kingdom),GB,2
+A5001753424,Will Percival,Physics & Astronomy,I4210122838,SRA International (United States),US,1
+A5001753424,Will Percival,Physics & Astronomy,I4210121266,Technicolor (France),FR,1
+A5001753424,Will Percival,Physics & Astronomy,I1283197605,Surrey Satellite Technology (United Kingdom),GB,1
+A5001753424,Will Percival,Physics & Astronomy,I4210107374,OHB (Italy),IT,1
+A5001753424,Will Percival,Physics & Astronomy,I4210140478,SpaceX (United States),US,1
+A5001753424,Will Percival,Physics & Astronomy,I2802010469,Magellan Aerospace (Canada),CA,1
+A5001753424,Will Percival,Physics & Astronomy,I4210124422,ABB (Canada),CA,1
+A5001753424,Will Percival,Physics & Astronomy,I4210154232,Honeywell (Canada),CA,1
+A5001753424,Will Percival,Physics & Astronomy,I82514191,Honeywell (United States),US,1
+A5001753424,Will Percival,Physics & Astronomy,I4210101692,Particle Beam Lasers (United States),US,1
+A5001753424,Will Percival,Physics & Astronomy,I112991645,Airbus (France),FR,1
+A5071074359,Dmitry Pushin,Physics & Astronomy,I4210144891,Science Systems and Applications (United States),US,1
+A5018142180,Kevin Resch,Physics & Astronomy,I4210127265,Micro Photon Devices,IT,4
+A5111730194,Joe Sanderson,Physics & Astronomy,I83308685,Canadian Light Source (Canada),CA,1
+A5019063503,Donna Strickland,Physics & Astronomy,I4210128823,O/E Land (Canada),CA,3
+A5019063503,Donna Strickland,Physics & Astronomy,I4388891901,Allied Corporation (United States),US,1
+A5019063503,Donna Strickland,Physics & Astronomy,I176714629,Bell (Canada),CA,1
+A5019063503,Donna Strickland,Physics & Astronomy,I4210111288,Meta (United Kingdom),GB,1
+A5019063503,Donna Strickland,Physics & Astronomy,I4210141047,Pd Ld (United States),US,1
+A5024396264,David Yevick,Physics & Astronomy,I153908563,Nortel (Canada),CA,13
+A5024396264,David Yevick,Physics & Astronomy,I176714629,Bell (Canada),CA,10
+A5024396264,David Yevick,Physics & Astronomy,I170053871,TeliaSonera (Sweden),SE,6
+A5024396264,David Yevick,Physics & Astronomy,I4210160469,Ciena (Canada),CA,3
+A5024396264,David Yevick,Physics & Astronomy,I4210147349,Advanced Optical Technologies (United States),US,1
+A5024396264,David Yevick,Physics & Astronomy,I1306339040,Ericsson (Sweden),SE,1
+A5024396264,David Yevick,Physics & Astronomy,I1338503839,Corning (United States),US,1
+A5024396264,David Yevick,Physics & Astronomy,I135428043,Cisco Systems (United States),US,1
+A5024396264,David Yevick,Physics & Astronomy,I4210135708,Sveriges Television (Sweden),SE,1
+A5024396264,David Yevick,Physics & Astronomy,I1302485747,Verizon (United States),US,1
+A5024396264,David Yevick,Physics & Astronomy,I44896327,Mitre (United States),US,1
+A5048807416,Robert Mann,Physics & Astronomy,I2251713219,NTT (Japan),JP,1
+A5048807416,Robert Mann,Physics & Astronomy,I4210105893,Global Science & Technology (United States),US,1
