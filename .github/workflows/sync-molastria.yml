@@ -2,7 +2,7 @@ name: Sync to MolAstria
 # Starts MolAstria's atlas-sync.yml (FelixJiashengFu/chem-research-molastria) right after main changes, so
 # molastria.com shows a merge within minutes instead of waiting for that workflow's own schedule.
 # Needs the repository secret MOLASTRIA_SYNC_TOKEN: a fine-grained token limited to chem-research-molastria with
-# "Actions: Read and write". Without it this workflow does nothing and MolAstria picks the change up on its schedule.
+# "Actions: Read and write". Without it (or when the token lacks that permission) this workflow only warns and MolAstria picks the change up on its schedule.
 # The monthly refresh pushes with GITHUB_TOKEN, which starts no push workflows, so it is caught by workflow_run instead.
 on:
   push:
@@ -25,5 +25,5 @@ jobs:
           GH_TOKEN: ${{ secrets.MOLASTRIA_SYNC_TOKEN }}
         run: |
           if [ -z "$GH_TOKEN" ]; then echo "::notice::MOLASTRIA_SYNC_TOKEN is not set; MolAstria will sync on its own schedule"; exit 0; fi
-          gh workflow run atlas-sync.yml -R FelixJiashengFu/chem-research-molastria --ref main
-          echo "MolAstria atlas sync started"
+          if gh workflow run atlas-sync.yml -R FelixJiashengFu/chem-research-molastria --ref main; then echo "MolAstria atlas sync started"
+          else echo "::warning::the token cannot start MolAstria's atlas-sync (it needs Actions: read and write on chem-research-molastria); MolAstria will sync on its own schedule"; fi
