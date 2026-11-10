@@ -47,8 +47,9 @@ def name_score(roster, cand):
 # Checked by hand. OpenAlex often splits one person into several author records; the first id is the main
 # record, the rest are fragments whose works are merged in. NONE: the only candidates are other people.
 OVERRIDE = {"Naoki Masuda": ["A5086073834", "A5106580628"], "Alexander Perry": ["A5108254938", "A5139443780"],
-            "Brian P. Coppola": ["A5024066557", "A5128088613"], "Alexandra Deal": ["A5088239798"]}
-NONE = {"Charlotte Chan"}  # no OpenAlex profile found for the U-M number theorist
+            "Brian P. Coppola": ["A5024066557", "A5128088613"], "Alexandra Deal": ["A5088239798"],
+            "Wenjing Wang": ["A5014177505"]}  # pool alias matched an ATLAS "Z. Wang" record
+NONE = {"Charlotte Chan", "Patrick Lutz"}  # no OpenAlex profile found (the only Lutz candidates are chemists/clinicians)
 POOL_FN = f"{OUT}/authors/_pool.json"
 def pool():
     if os.path.exists(POOL_FN): return json.load(open(POOL_FN))
