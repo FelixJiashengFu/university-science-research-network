@@ -1,0 +1,54 @@
+CH|Mark D. Aparece|Assistant Professor of Instruction
+CH|Veronica Berns|Associate Professor of Instruction, Co-Director of General Chemistry Laboratory
+CH|Ryan Bethel|Associate Professor of Instruction
+CH|Lin X. Chen|Professor
+CH|William Dichtel|Professor
+CH|Vinayak P. Dravid|Joint Professor with Materials Science and Engineering, Courtesy Appointment in Chemistry
+CH|Omar Farha|Chair and Professor
+CH|James D. Gaynor|Assistant Professor
+CH|Franz M. Geiger|Professor
+CH|Katie Gesmundo|Associate Professor of Instruction, Co-Director of General Chemistry Laboratory
+CH|Nathan Gianneschi|Professor
+CH|Todd Gingrich|Associate Professor
+CH|Jesse Gordon|Assistant Professor
+CH|Sossina Haile|Joint Professor with Materials Science and Engineering, Courtesy Appointment in Chemistry
+CH|Songi Han|Professor
+CH|Shelby L. Hatch|Associate Professor of Instruction; Weinberg College Advisor
+CH|Mark C. Hersam|Joint Professor with Materials Science and Engineering
+CH|Brian M. Hoffman|Professor
+CH|Bryan Hunter|Assistant Professor
+CH|Joseph T. Hupp|Professor
+CH|Julia Kalow|Associate Professor
+CH|Mercouri Kanatzidis|Professor
+CH|Neil Kelleher|Professor
+CH|Shana Kelley|Professor
+CH|Stephanie Knezz|Associate Professor of Instruction
+CH|Erik Luijten|Joint Professor with Materials Science and Engineering, Courtesy Appointment in Chemistry
+CH|Christian Malapit|Assistant Professor
+CH|Tobin J. Marks|Professor
+CH|Thomas J. Meade|Professor
+CH|Chad Mirkin|Professor
+CH|Milan Mrksich|Professor
+CH|Derek Nelson|Associate Professor of Instruction
+CH|Carine Nemr|Assistant Professor of Instruction
+CH|SonBinh T. Nguyen|Professor
+CH|Frederick Northrup|Professor of Instruction; Director of Undergraduate Studies
+CH|Teri W. Odom|Professor
+CH|Monica Olvera de la Cruz|Professor
+CH|Kenneth R. Poeppelmeier|Professor
+CH|John A. Rogers|Joint Professor with Materials Science and Engineering, Courtesy Appointment in Chemistry
+CH|Amy Rosenzweig|Professor, Courtesy Appointment in Chemistry
+CH|Ted Sargent|Professor
+CH|Richard Schaller|Professor
+CH|George C. Schatz|Professor
+CH|Karl A. Scheidt|Professor
+CH|Ali Shilatifard|Joint Professor with Feinberg School of Medicine, Courtesy Appointment in Chemistry
+CH|Richard B. Silverman|Professor
+CH|Samuel I. Stupp|Professor
+CH|Dayne Swearer|Assistant Professor
+CH|Igal Szleifer|Professor
+CH|Roel Tempelaar|Associate Professor
+CH|Regan J. Thomson|Professor
+CH|Michael R. Wasielewski|Professor
+CH|Hao Zhang|Joint Professor with Biomedical Engineering, Courtesy Appointment in Chemistry
+CH|Xiaoyu Zhang|Assistant Professor

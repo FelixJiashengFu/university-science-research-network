@@ -1,0 +1,46 @@
+PH|John Joseph Carrasco|Associate Professor
+PH|Venkat Chandrasekhar|Professor
+PH|Eric Dahl|Professor
+PH|Michelle Driscoll|Associate Professor
+PH|Pulak Dutta|Professor
+PH|André de Gouvêa|Department Chair, Professor
+PH|Claude-André Faucher-Giguère|Professor
+PH|Enectali Figueroa-Feliciano|Professor
+PH|Wen-fai Fong|Associate Professor
+PH|Gerald Gabrielse|Board of Trustees Professor in Physics/ Director of CFP
+PH|Anupam Garg|Professor
+PH|Andrew Geraci|Professor
+PH|Bennett Goldberg|Professor; Faculty Director of the Program Evaluation Core
+PH|Pallab Goswami|Assistant Professor
+PH|Kristian Hahn|Associate Professor
+PH|William Halperin|Orrington Lunt Professor
+PH|Vicky Kalogera|Daniel I. Linzer Distinguished University Professor/ Director of CIERA/Director of NSF-Simons AI Institute for the Sky
+PH|Archana Kamal|Associate Professor
+PH|John Ketterson|Fayerweather Professor / Joint with Electrical Engineering
+PH|Jens Koch|Professor
+PH|Tim Kovachy|Associate Professor
+PH|István Kovács|Associate Professor
+PH|Yoram Lithwick|Associate Professor
+PH|Ian Low|Professor / Joint with Argonne National Laboratory
+PH|John Marko|Professor / Joint with Molecular Biosciences
+PH|Adam Miller|Assistant Professor
+PH|Adilson Motter|Charles E. and Emma H. Morrison Professor/Director of CND
+PH|Lena Murchikova|Assistant Professor
+PH|Giles Novak|Professor, Faculty Director of Northwestern University Research Shop
+PH|Brian Odom|Professor
+PH|Frank Petriello|Professor
+PH|Frederic Rasio|Joseph Cummings Professor of Physics
+PH|Michael Schmitt|Professor
+PH|Nathaniel Stern|Professor
+PH|Allison Strom|Assistant Professor
+PH|Alexander Tchekhovskoy|Associate Professor
+PH|Melville Ulmer|Professor
+PH|Mayda Velasco|Professor / Director, COFI Institute
+PH|Pieter van Dokkum|Kimberly Querrey Professor of Astrophysics (arriving 1/1/27)
+PH|Jason Wang|Assistant Professor
+PH|Farhad Zadeh|Professor
+PH|Angela M. Barragán|Assistant Professor of Instruction
+PH|Gayle Ratliff|Assistant Professor of Instruction
+PH|Andrew Rivers|Professor of Instruction
+PH|Michael Smutko|Professor of Instruction/Director of Dearborn Observatory
+PH|Tianlong Zu|Assistant Professor of Instruction - Director of Introductory Physics Labs
