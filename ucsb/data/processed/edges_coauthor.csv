@@ -4,17 +4,17 @@ A5001208796,A5022867792,Zvonimir Dogic,Omar A. Saleh,3,0
 A5001208796,A5026224980,Zvonimir Dogic,Boris Shraiman,1,0
 A5001208796,A5026813119,Zvonimir Dogic,Mark Bowick,2,0
 A5001208796,A5065192814,Zvonimir Dogic,Sebastian Streichan,5,0
-A5001305555,A5001435522,Rachel Segalman,Christopher Bates,5,0
+A5001305555,A5001435522,Rachel Segalman,Christopher Bates,4,0
 A5001305555,A5003335751,Rachel Segalman,Ram Seshadri,12,0
 A5001305555,A5022867792,Rachel Segalman,Omar A. Saleh,1,0
 A5001305555,A5029871622,Rachel Segalman,Susannah Scott,2,0
 A5001305555,A5036216864,Rachel Segalman,Javier Read de Alaniz,16,0
 A5001305555,A5038604576,Rachel Segalman,Thuc-Quyen Nguyen,4,0
-A5001305555,A5064340656,Rachel Segalman,Craig Hawker,27,0
+A5001305555,A5064340656,Rachel Segalman,Craig Hawker,24,0
 A5001435522,A5036216864,Christopher Bates,Javier Read de Alaniz,29,0
 A5001435522,A5037874937,Christopher Bates,Mahdi Abu-Omar,2,0
 A5001435522,A5038604576,Christopher Bates,Thuc-Quyen Nguyen,4,0
-A5001435522,A5064340656,Christopher Bates,Craig Hawker,57,0
+A5001435522,A5064340656,Christopher Bates,Craig Hawker,56,0
 A5002727198,A5046876071,Bernard Kirtman,Horia Metiu,2,0
 A5002727198,A5072345483,Bernard Kirtman,Kalju Kahn,3,0
 A5003335751,A5014003147,Ram Seshadri,Leon Balents,3,0
@@ -25,7 +25,7 @@ A5003335751,A5064340656,Ram Seshadri,Craig Hawker,4,0
 A5003335751,A5075315520,Ram Seshadri,Ania Bleszynski Jayich,1,0
 A5003335751,A5077096576,Ram Seshadri,Vojtech Vlcek,1,0
 A5004049354,A5014003147,Cenke Xu,Leon Balents,8,0
-A5004049354,A5016268794,Cenke Xu,Matthew Fisher,8,0
+A5004049354,A5016268794,Cenke Xu,Matthew Fisher,6,0
 A5004049354,A5029692744,Cenke Xu,Andreas Ludwig,1,0
 A5004049354,A5039267360,Cenke Xu,Andrea Young,1,0
 A5004049354,A5078101594,Cenke Xu,Chenhao Jin,2,0
@@ -81,7 +81,7 @@ A5016268794,A5103270503,Matthew Fisher,Chetan Nayak,12,0
 A5016268794,A5107849308,Matthew Fisher,David Stuart,0,9
 A5016268794,A5107867625,Matthew Fisher,Jeffrey Richman,0,9
 A5016268794,A5110199680,Matthew Fisher,Anthony Zee,1,0
-A5016417542,A5031944460,Hector D. Ceniceros,Carlos Garcia-Cervera,20,0
+A5016417542,A5031944460,Hector D. Ceniceros,Carlos Garcia-Cervera,16,0
 A5016417542,A5058618644,Hector D. Ceniceros,Ruimeng Hu,3,0
 A5018266021,A5051114623,Joseph Hennawi,Caitlin Casey,2,0
 A5018833756,A5041552434,Paul Atzberger,Frank Brown,3,0
@@ -99,19 +99,19 @@ A5023606527,A5036216864,Lior Sepunaru,Javier Read de Alaniz,2,0
 A5023606527,A5038604576,Lior Sepunaru,Thuc-Quyen Nguyen,1,0
 A5023606527,A5053893566,Lior Sepunaru,Trevor Hayton,2,0
 A5023606527,A5064531954,Lior Sepunaru,Norbert O. Reich,1,0
-A5023606527,A5067240770,Lior Sepunaru,Kevin W. Plaxco,14,0
+A5023606527,A5067240770,Lior Sepunaru,Kevin W. Plaxco,13,0
 A5026224980,A5026813119,Boris Shraiman,Mark Bowick,4,0
 A5026224980,A5046754980,Boris Shraiman,Deborah Fygenson,3,0
 A5026224980,A5065192814,Boris Shraiman,Sebastian Streichan,8,0
-A5026784477,A5053893566,Armen Zakarian,Trevor Hayton,8,0
+A5026784477,A5053893566,Armen Zakarian,Trevor Hayton,3,0
 A5026813119,A5065192814,Mark Bowick,Sebastian Streichan,3,0
 A5026813119,A5070751928,Mark Bowick,Gary Horowitz,1,0
-A5027232517,A5037874937,Nadia G. Leonard,Mahdi Abu-Omar,6,0
+A5027232517,A5037874937,Nadia G. Leonard,Mahdi Abu-Omar,3,0
 A5027811456,A5090449534,Xi Dong,Donald Marolf,9,0
 A5028129170,A5085961340,Francesc Castella,Adebisi Agboola,1,0
 A5028129170,A5148905783,Francesc Castella,Zheng Liu,1,0
 A5029871622,A5037874937,Susannah Scott,Mahdi Abu-Omar,7,0
-A5029871622,A5053893566,Susannah Scott,Trevor Hayton,11,0
+A5029871622,A5053893566,Susannah Scott,Trevor Hayton,4,0
 A5031367243,A5100631809,David Berenstein,Claudio Campagnari,1,0
 A5031367243,A5106628035,David Berenstein,Harry Nelson,1,0
 A5031367243,A5107849308,David Berenstein,David Stuart,1,0
@@ -129,7 +129,7 @@ A5034511172,A5064340656,Joan-Emma Shea,Craig Hawker,1,0
 A5034511172,A5071703870,Joan-Emma Shea,Steven K. Buratto,10,0
 A5034511172,A5089736452,Joan-Emma Shea,Bruce H. Lipshutz,1,0
 A5036216864,A5038604576,Javier Read de Alaniz,Thuc-Quyen Nguyen,2,0
-A5036216864,A5064340656,Javier Read de Alaniz,Craig Hawker,74,0
+A5036216864,A5064340656,Javier Read de Alaniz,Craig Hawker,62,0
 A5037133668,A5053893566,Leroy E. Laverman,Trevor Hayton,2,0
 A5037133668,A5072345483,Leroy E. Laverman,Kalju Kahn,1,0
 A5037863643,A5071107298,Brendan Bowler,Benjamin Mazin,2,0
@@ -146,7 +146,7 @@ A5043106778,A5071107298,John Martinis,Benjamin Mazin,2,0
 A5043106778,A5083391104,John Martinis,David Weld,1,0
 A5043106778,A5089631322,John Martinis,Michel Devoret,35,0
 A5043106778,A5103270503,John Martinis,Chetan Nayak,2,0
-A5046662341,A5053893566,Justin Wilson,Trevor Hayton,6,0
+A5046662341,A5053893566,Justin Wilson,Trevor Hayton,1,0
 A5046754980,A5065192814,Deborah Fygenson,Sebastian Streichan,1,0
 A5046754980,A5075315520,Deborah Fygenson,Ania Bleszynski Jayich,1,0
 A5046754980,A5109992092,Deborah Fygenson,Dirk Bouwmeester,4,0
