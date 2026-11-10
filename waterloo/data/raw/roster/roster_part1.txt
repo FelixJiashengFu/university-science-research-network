@@ -1,0 +1,108 @@
+PM|Faisal Al-Faisal|Assistant Professor|Number theory, Representation theory
+PM|Jason Bell|Professor|Non-commutative algebra
+PM|Michael Brannan|Associate Professor|Operator algebras, representation theory
+PM|Benoit Charbonneau|Associate Professor|Differential geometry, gauge theory
+PM|Xuemiao Chen|Assistant Professor|Differential geometry, complex algebraic geometry, gauge theory
+PM|Barbara Csima|Professor|Mathematical logic, computability theory
+PM|Kevin Hare|Professor|Computational number theory
+PM|Elana Kalashnikov|Associate Professor|Algebraic geometry
+PM|Spiro Karigiannis|Professor|Differential geometry, geometric analysis
+PM|Matthew Kennedy|Professor|Operator algebras, functional analysis
+PM|Wentang Kuo|Professor|Representation theory, number theory, Lie groups
+PM|Yu-Ru Liu|Professor|Analytic number theory, number theory in function fields
+PM|Blake Madill|Professor & Associate Chair, Undergraduate Studies|Math education
+PM|David McKinnon|Professor|Arithmetic geometry, number theory, algebraic geometry
+PM|Rahim Moosa|Professor and Chair|Model theory, algebraic geometry
+PM|Ruxandra Moraru|Associate Professor|Complex geometry, applications to physics
+PM|Alexandru Nica|Professor|Non-commutative probability, operator algebras
+PM|Doug Park|Professor|Geometric topology, symplectic geometry
+PM|Jesse Peterson|Professor|Operator Algebras, Ergodic Theory
+PM|Michael Rubinstein|Professor|Number theory, computational mathematics
+PM|Matthew Satriano|Associate Professor|Algebraic geometry, arithmetic geometry
+PM|William Slofstra|Associate Professor|Lie theory, algebraic combinatorics, mathematics of quantum information
+PM|Nico Spronk|Professor|Harmonic analysis, operator spaces
+PM|Kateryna Tatarko|Associate Professor|Geometric functional analysis
+PM|Jerry Xiaoheng Wang|Associate Professor|Algebraic number theory, arithmetic geometry, diophantine approximation
+PM|Ben Webster|Professor & Associate Chair, Graduate Studies|Knot theory and representation theory via algebraic geometry
+PM|Andy Zucker|Assistant Professor|Dynamical systems, Ramsey theory, set theory
+AM|Shahla Aliakbari|Assistant Professor, Teaching Stream|
+AM|Chris Bauch|Professor|Mathematical Biology
+AM|Sue Ann Campbell|Professor, University Research Chair|Dynamical Systems, Neuro-Science
+AM|Hans De Sterck|Professor, Chair|Scientific Computing
+AM|David Del Rey Fernández|Associate Professor, Pratt & Whitney Canada Chair in Industrial Artificial Intelligence|Numerical Methods, Scientific Computing, PDEs
+AM|Joseph Emerson|Associate Professor|Mathematical Physics
+AM|Florian Girelli|Associate Professor, Associate Chair, Graduate Studies|Mathematical Physics
+AM|Roberto Guglielmi|Associate Professor|Control and Dynamical Systems
+AM|David Harmsworth|Assistant Dean of Students, Associate Professor, Teaching Stream|
+AM|Mohamed Hibat-Allah|Assistant Professor|Machine Learning, Many-Body Physics
+AM|Brian Ingalls|Professor|Mathematical Biology, Control Theory
+AM|Achim Kempf|Professor, Dieter Schwarz Chair in the Physics of Information and AI|Mathematical Physics
+AM|Mohammad Kohandel|Professor|Mathematical Biology/Medicine
+AM|Lilia Krivodonova|Professor|Scientific Computing
+AM|Anita Layton|Professor, Canada 150 Research Chair|Mathematical Biology/Medicine
+AM|Jun Liu|Professor, Canada Research Chair|Control and Dynamical Systems
+AM|Xinzhi Liu|Professor|Control and Dynamical Systems
+AM|Eduardo Martin-Martinez|Professor|Mathematical Physics
+AM|Alexander Meiburg|Assistant Professor|Quantum information, Artificial intelligence
+AM|Kirsten Morris|Professor|Control and Dynamical Systems, Computational Mathematics
+AM|N Sri Namachchivaya|Professor, University Research Chair|Control and Dynamical Systems, Scientific Computing
+AM|Francis Poulin|Professor|Fluid Mechanics
+AM|Sander Rhebergen|Professor|Numerical Analysis, Scientific Computing
+AM|Matthew Scott|Associate Professor|Mathematical Biology
+AM|Henry Shum|Associate Professor, Associate Chair, Undergraduate Studies|Fluid Mechanics, Computational Mathematics
+AM|Graeme Smith|Associate Professor|Quantum Information and Computing
+AM|Marek Stastna|Professor|Fluid Mechanics, Computational Mathematics
+AM|Giang Tran|Associate Professor|Scientific Computing, Convex Optimization
+AM|Michael Waite|Professor|Fluid Mechanics
+AM|Joe West|Associate Professor, Teaching Stream|
+AM|Barbara Zemskova|Assistant Professor|Fluid Mechanics, Climate Change
+AMx|David G. Cory||Chemistry
+AMx|Kim M.D. Cuddington||Biology
+AMx|Christine Dow||Geography & Env Management
+AMx|Christopher G. Fletcher||Geography & Env Management
+AMx|Aukosh Jagannath||Statistics and Actuarial Science
+AMx|Norbert Lutkenhaus||Physics & Astronomy
+AMx|Hamed Majedi||Electrical and Computer Engineering
+AMx|Robert Mann||Physics & Astronomy
+AMx|Michele Mosca||Combinatorics and Optimization
+AMx|Chrystopher Nehaniv||Systems Design Engineering
+AMx|Jeffery J. Orchard||Computer Science
+AMx|Andrea Scott||Systems Design Engineering
+AMx|William Slofstra||Pure Math
+AMx|Stephen A. Vavasis||Combinatorics and Optimization
+AMx|Justin W. L. Wan||Computer Science
+AMx|Henry Wolkowicz||Combinatorics and Optimization
+AMx|Alfred Yu||Electrical and Computer Engineering
+CO|David Jao|Faculty, Chair|
+CO|Steve Melczer|Faculty, Associate Chair, Undergraduate Studies|
+CO|Henry Wolkowicz|Faculty, Associate Chair, Graduate Studies|
+CO|Vijay Bhattiprolu|Faculty|
+CO|Joseph Cheriyan|Faculty|
+CO|Lila Crew|Faculty|
+CO|Ricardo Fukasawa|Faculty|
+CO|Jane Gao|Faculty|
+CO|James Geelen|Faculty|
+CO|David Gosset|Faculty|
+CO|Bertrand Guenin|Faculty|
+CO|Penny Haxell|Faculty|
+CO|Sam Jaques|Faculty|
+CO|Jochen Koenemann|Faculty|
+CO|Jonathan Leake|Faculty|
+CO|Debbie Leung|Faculty|
+CO|Olya Mandelshtam|Faculty|
+CO|Michele Mosca|Faculty|
+CO|Walaa Moursi|Faculty|
+CO|Ashwin Nayak|Faculty|
+CO|Peter Nelson|Faculty|
+CO|Kanstantsin Pashkovich|Faculty|
+CO|Oliver Pechenik|Faculty|
+CO|Martin Pei|Faculty|
+CO|Luke Postle|Faculty|
+CO|Kevin Purbhoo|Faculty|
+CO|Kevin Shu|Faculty|
+CO|Sophie Spirkl|Faculty|
+CO|Douglas Stebila|Faculty|
+CO|Chaitanya Swamy|Faculty|
+CO|Levent Tuncel|Faculty|
+CO|Stephen Vavasis|Faculty|
+CO|Rowan Yeats|Faculty|
