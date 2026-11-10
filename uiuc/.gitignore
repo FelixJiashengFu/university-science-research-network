@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.oa_key
+data/raw/openalex/authors/
+data/raw/openalex/candidates.json
