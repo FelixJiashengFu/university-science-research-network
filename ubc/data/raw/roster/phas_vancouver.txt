@@ -1,0 +1,68 @@
+# UBC Vancouver, Department of Physics & Astronomy: "Researchers & Instructors" page, "Faculty" table (https://phas.ubc.ca/researchers), read 2026-11-10.
+# first | last | position | profile slug (https://phas.ubc.ca/users/<slug>). Douglas Scott is listed twice (same phone, two profile records): kept once.
+Meigan|Aronson|Professor|meigan-aronson
+Simin|Bagheri Najmi|Lecturer|simin-bagheri-najmi
+Simon|Bates|Professor of Teaching|simon-bates
+Mona|Berciu|Professor|mona-berciu
+Aaron|Boley|Professor|aaron-boley
+Douglas|Bryman|Professor/Warren Chair|douglas-bryman
+Sarah|Burke|Professor|sarah-burke
+James|Charbonneau|Associate Professor - Teaching|james-charbonneau
+Matthew|Choptuik|Professor|matthew-choptuik
+Andrea|Damascelli|Professor|andrea-damascelli
+Steve|Dierker|Professor|steve-dierker
+Ismail|El Baggari|Assistant Professor|ismail-el-baggari
+Nicola|Fameli|Lecturer|nicola-fameli
+Joshua|Folk|Professor|joshua-folk
+Marcel|Franz|Professor|marcel-franz
+Colin|Gay|Professor|colin-gay
+Brett|Gladman|Professor|brett-gladman
+Alannah|Hallas|Associate Professor|alannah-hallas
+Michael|Hasinoff|Professor|michael-hasinoff
+Christopher|Hearty|Professor/IPP Scientist|christopher-hearty
+Jeremy|Heyl|Professor and Head|jeremy-heyl
+Gary|Hinshaw|Professor|gary-hinshaw
+Joss|Ives|Professor of Teaching|joss-ives
+Amali|Jambuge|Lecturer|amali-jambuge
+David|Jones|Professor|david-jones
+Joanna|Karczmarek|Associate Professor|joanna-karczmarek
+Andrzej|Kotlicki|Lecturer|andrzej-kotlicki
+Michelle|Kunimoto|Assistant Professor|michelle-kunimoto
+Sun|Kwok|Honorary Professor|sun-kwok
+Sabrina|Leslie|Associate Professor|sabrina-leslie
+Alison|Lister|Professor/Graduate Chair|alison-lister
+Marina|Litinskaya|Lecturer|marina-litinskaya
+Kirk|Madison|Associate Professor|kirk-madison
+Allison|Man|Associate Professor|allison-man
+Andre|Marziali|Professor|andre-marziali
+Jonathan|Massey-Allard|Lecturer|jonathan-massey-allard
+Thomas|Mattison|Associate Professor|thomas-mattison
+Max|McGinley|Assistant Professor|max-mcginley
+Jess|McIver|Associate Professor|jess-mciver
+Carl|Michal|Associate Professor|carl-michal
+Valery|Milner|Associate Professor|valery-milner
+Nivin|Nyström|Assistant Professor|nivin-nystrom
+Scott|Oser|Professor|scott-oser
+Steven|Plotkin|Professor|steven-plotkin
+Andrew|Potter|Associate Professor|andrew-potter
+Arman|Rahmim|Professor|arman-rahmim
+Stefan|Reinsberg|Associate Professor|stefan-reinsberg
+Georg|Rieger|Associate Professor - Teaching|georg-rieger
+Joerg|Rottler|Professor|joerg-rottler
+Moshe|Rozali|Professor|moshe-rozali
+Kristin|Schleich|Associate Professor|kristin-schleich
+Douglas|Scott|Professor|douglas-scott
+Gordon|Semenoff|Professor|gordon-semenoff
+Kris|Sigurdson|Associate Professor|kris-sigurdson
+Vesna|Sossi|Professor|vesna-sossi
+Ingrid|Stairs|Professor|ingrid-stairs
+Philip|Stamp|Professor|philip-stamp
+William|Unruh|Professor|william-unruh
+Mark|Van Raamsdonk|Professor|mark-van-raamsdonk
+Ludovic|Van Waerbeke|Professor|ludovic-van-waerbeke
+Lorne|Whitehead|Professor|lorne-whitehead
+Ziliang|Ye|Associate Professor|ziliang-ye
+Carolyn|Zhang|Assistant Professor|carolyn-zhang
+Ariel|Zhitnitsky|Professor|ariel-zhitnitsky
+Fei|Zhou|Professor|fei-zhou
+Ke|Zou|Associate Professor|ke-zou

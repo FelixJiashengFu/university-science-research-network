@@ -1,0 +1,15 @@
+# UBC Mathematics research-topic pages (https://www.math.ubc.ca/research/research-fields -> research-topics/<field>), "Faculty" table, read 2026-11-10. Surnames.
+Algebra and Algebraic Geometry|Behrend,Bryan,Cautis,Karu,Reichstein,Robeva
+Differential Geometry|Chau,Chen,Fraser,Kim,Picard,Tsai
+Discrete Mathematics|Angel,Marcus,Rechnitzer,Solymosi,van Willigenburg,Zahl
+Fluids|Balmforth,Feng,Frigaard,Wachs
+Harmonic Analysis|Laba,Pramanik,Shmerkin,Yavicoli,Yilmaz,Zahl
+Mathematical Biology|Coombs,Cytrynbaum,Dao Duc,Feng,Hauert,Holmes-Cerfon,Kenne,Levin,Li,Madzvamuse,Schiebinger
+Mathematical Physics|Bachmann,Gustafson,Kim,Madzvamuse,Tsai
+Nonlinear Dynamics and Applied PDEs|Holmes-Cerfon,Madzvamuse,Ortner,Peirce,Ward
+Number Theory|Bennett,Ghioca,Gordon,Ollivier,Ramdorai,Silberman,Solymosi,Vatsal,Walji
+Partial Differential Equations|Chen,Gustafson,Kenne,Kim,Madzvamuse,Picard,Tsai
+Probability|Angel,Hermon,Murugan
+Scientific Computing|Holmes-Cerfon,Levin,Loewen,Macdonald,Madzvamuse,Ortner,Wetton
+Mathematics of Information|Alacaoglu,Friedlander,Plan,Robeva,Schiebinger,Yilmaz
+Topology|Adem,Jankiewicz,Watson,Williams

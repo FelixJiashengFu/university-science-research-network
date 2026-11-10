@@ -1,0 +1,88 @@
+# UBC Vancouver, Department of Mathematics: Directory, "Faculty" tab (https://www.math.ubc.ca/about-our-department/directory), read 2026-11-10.
+# name | profile id (https://www.math.ubc.ca/user/<id>) | [AM] = Associate Member (appointed in another department; left out)
+Adem, Alejandro|2701
+Adem, Melania [AM]|2983
+Alacaoglu, Ahmet|3913
+Angel, Omer|2728
+Bachmann, Sven|2704
+Balmforth, Neil|2695
+Behrend, Kai|2693
+Bennett, Michael|2685
+Brandao, Rodolfo|4320
+Bryan, Jim|2694
+Cao, Yankai [AM]|3809
+Cautis, Sabin|2721
+Cembrowski, Mark [AM]|3639
+Chau, Albert|2443
+Chen, Jingyi|2727
+Cheng, Yu-Chen|4409
+Coombs, Daniel|2714
+Cytrynbaum, Eric|2425
+Daniels, Lindsey|3614
+Dao Duc, Khanh|2682
+Demirbas, Seckin|2568
+Elfring, Gwynn [AM]|3667
+Feng, James (Jimmy)|2444
+Foxall, Eric [AM]|4172
+Fraser, Ailana|2707
+Friedlander, Michael|2729
+Frigaard, Ian|2725
+Ghioca, Dragos|2730
+Gonzalez, Nicolle|4326
+Gordon, Julia|2690
+Gustafson, Stephen|2713
+Harvey, Nick [AM]|3666
+Hauert, Christoph|2680
+Hermon, Jonathan|2726
+Holmes-Cerfon, Miranda|3657
+Hormel, Michael|3958
+Jankiewicz, Kasia|4235
+Karu, Kalle|2718
+Kenne, Cyrille|3947
+Kim, Young-Heon|2699
+Laba, Izabella|2712
+Leung, Fok-Shuen|2569
+Levin, Ido|4257
+Li, Yue-Xian|2692
+Liu, Keqin|2573
+Loewen, Philip|2434
+Mac Lean, Mark|2445
+Macdonald, Colin|2415
+Madzvamuse, Anotida|3665
+Marcus, Brian|2687
+Murugan, Mathav|2717
+Needell, Deanna|4220
+Ollivier, Rachel|2731
+Ortner, Christoph|2913
+Paat, Joseph [AM]|4337
+Peirce, Anthony|2702
+Picard, Sebastien|2899
+Piccolo, Costanza|2570
+Plan, Yaniv|2720
+Pramanik, Malabika|2710
+Rahmani, Mona [AM]|2972
+Ramdorai, Sujatha|2698
+Rechnitzer, Andrew|2716
+Reichstein, Zinovy|2689
+Robeva, Elina|2677
+Saad-Roy, Chadi|4255
+Schiebinger, Geoffrey|2440
+Schoof, Christian [AM]|4016
+Shmerkin, Pablo|2919
+Silberman, Lior|2732
+Solymosi, Jozsef|2683
+Tsai, Tai-Peng|2688
+van Willigenburg, Stephanie|2696
+Vatsal, Vinayak|2691
+Viande, Rose|2982
+Wachs, Anthony|2678
+Walji, Nahid|2926
+Walls, Patrick|2572
+Ward, Michael|2708
+Watson, Liam|2681
+Wetton, Brian|2722
+Williams, Ben|2679
+Yavicoli, Alexia|2980
+Yeager, Elyse|2571
+Yilmaz, Ozgur|2709
+Zahl, Joshua|2684
