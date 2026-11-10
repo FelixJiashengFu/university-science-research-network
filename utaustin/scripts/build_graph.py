@@ -6,6 +6,9 @@ Outputs: site/data/<network>.json  (sigma/graphology format with precomputed x,y
          data/processed/{professors,edges_coauthor,edges_similarity,topics}.csv
 """
 import csv, json, math, os, collections, itertools, re
+import sys
+if os.environ.get("PYTHONHASHSEED") != "0":  # set iteration order decides ties (top topics, communities): make rebuilds reproducible
+    os.environ["PYTHONHASHSEED"] = "0"; os.execv(sys.executable, [sys.executable] + sys.argv)
 import networkx as nx
 import numpy as np
 
@@ -161,6 +164,7 @@ def add_sim(G, keep=lambda a, b: True):
 org_info = {}; prof_org = collections.defaultdict(collections.Counter); org_works = collections.defaultdict(set)
 for p in profs:
     for wid in prof_works[p]:
+        if works[wid]["n_authors"] > BIG_COLLAB: continue  # collider/LIGO author lists are not real company/institute ties
         for oid, oname, otype, cc in works[wid].get("orgs") or []:
             if otype != "company" or not oid: continue
             org_info[oid] = dict(name=oname, country=cc); prof_org[p][oid] += 1; org_works[oid].add(wid)
@@ -322,6 +326,7 @@ index.append(export(G, "topics", "研究主题地图", "研究主题之间的关
 inst_info = {}; prof_inst = collections.defaultdict(collections.Counter)
 for p in profs:
     for wid in prof_works[p]:
+        if works[wid]["n_authors"] > BIG_COLLAB: continue  # collider/LIGO author lists are not real company/institute ties
         for oid, oname, otype, cc in works[wid].get("orgs") or []:
             if otype == "company" or not oid: continue
             inst_info[oid] = dict(name=oname, type=otype, country=cc); prof_inst[p][oid] += 1
