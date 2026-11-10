@@ -7,7 +7,7 @@
 ## 规模
 
 - 名单：187 位在职教师（数学 42、物理与天文 57、化学与生物化学 88；不含荣休教授、讲师与博士后）。
-- OpenAlex 匹配 181 个作者档案，约 3.6 万篇论文（去掉 PDB 结构数据集等 dataset 记录后）。未匹配的 6 位（Maya Pathuri、Frank Ow、Johnny W. Pang、Hung V. Pham、Sining Wang、Richard L. Weiss）多为教学序列教师，OpenAlex 里没有可靠档案。
+- OpenAlex 匹配 181 个作者档案，约 3.6 万篇论文（去掉 dataset 类记录后）。未匹配的 6 位（Maya Pathuri、Frank Ow、Johnny W. Pang、Hung V. Pham、Sining Wang、Richard L. Weiss）多为教学序列教师，OpenAlex 里没有可靠档案。
 - 加州纳米系统研究所（CNSI）：按论文署名统计，34 位教授有 ≥5 篇论文同时署名 CNSI，单独成网。
 
 ## 网络一览
@@ -80,6 +80,6 @@ python3 scripts/build_graph.py     # 主网布局约 5 分钟
 
 - **名单来源**（2026-11-10 读取）：上面三个院系官网页面。云端无法直接访问 ucla.edu，名单经网页抓取工具读出后存成 `data/raw/roster/*.txt`。
 - **作者匹配**：OpenAlex 作者检索（限定 UCLA，I161318765），按姓名、研究领域、当前机构打分。12 位做了人工指定（见 `scripts/openalex_fetch.py` 的 `OVERRIDE`，第一个 id 为主档案，其余碎片的论文合并进来），例如 Bachtis、Stuart Brown 的检索结果只命中 1 篇的碎片档案，Yu Huang、Paul S. Weiss、Young Dae Yoon 被自动匹配到了同名或相近名字的其他人。Hung V. Pham、Sining Wang 的候选档案都是同名的其他人，不匹配。
-- **论文**：每人全部 OpenAlex works，去掉勘误、撤稿、同行评议记录与 dataset（Eisenberg 等人名下有大量 PDB 结构数据集，会把 Genentech 等误算成合作企业）。>60 作者的论文不记录作者名单；≥100 作者的算"大型合作"（OpenAlex 每篇最多返回 100 个作者，100 即表示被截断；CMS、IceCube 等），在合作网中用浅色边。
+- **论文**：每人全部 OpenAlex works，去掉勘误、撤稿、同行评议记录与 dataset。Eisenberg 名下有 1127 条 dataset 记录，其中 921 条是美国能源部 PNNL 数据库里的 "Data for EMSL Project …" 记录，每条都挂着 100 个作者，会把 Genentech 误算成合写 921 篇的合作企业；其余主要是 PDB 结构存档。>60 作者的论文不记录作者名单；≥100 作者的算"大型合作"（OpenAlex 每篇最多返回 100 个作者，100 即表示被截断；CMS、IceCube 等），在合作网中用浅色边。
 - **方向子网**：物理与化学按院系官网标注的研究组；数学系官网不列研究方向，数学的三张方向子网按每人论文最多的 OpenAlex 子领域划分，属近似。
 - 研究相似度：每人论文主题的 TF-IDF 余弦相似度，取最相近的 6 位（阈值 0.2）。
