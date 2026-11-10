@@ -89,6 +89,7 @@ def maps():
     roster_works("udem", industry=False)
     roster_works("mcmaster", industry=False)
     roster_works("ualberta", industry=False)
+    roster_works("umich", industry=False)
 
 
 def schools(slugs):

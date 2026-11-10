@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+.oa_key
+data/raw/openalex/authors/

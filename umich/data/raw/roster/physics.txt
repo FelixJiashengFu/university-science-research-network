@@ -1,0 +1,51 @@
+Fred Adams|P|Th Cosmo/Astro
+Christine Aidala|P|Exp Nuc; Exp HEP; Foundations of Physics
+Ratindranath Akhoury|P|Th HEP
+Dante Amidei|P|Exp HEP
+Camille Avestruz|AsstP|Th Cosmo/Astro
+Myron Campbell|P|Exp HEP
+Timothy Chupp|P|Exp Nuc; AMO
+Roy Clarke|P|Exp CMP
+Steven Cundiff|P|Exp CMP; AMO
+Robert Deegan|AssocP|Exp Complex Systems; Exp CMP
+Hui Deng|P|Exp CMP; AMO
+Henriette Elvang|P|Th HEP
+Gus Evrard|P|Th Cosmo/Astro
+Emanuel Gull|P|Th CMP
+Scott Haselschwardt|AsstP|Exp Cosmo/Astro; Exp HEP
+Christian Herwig|AsstP|Exp HEP
+Jordan Horowitz|AsstP|Th Biological Physics; Th Complex Systems; Th CMP
+Dragan Huterer|P|Th Cosmo/Astro
+Na Hyun Jo|AsstP|Exp CMP
+Cagliyan Kurdak|P|Exp CMP
+Alex Kuzmich|P|AMO
+Finn Larsen|P|Th HEP
+Lu Li|P|Exp CMP
+James Liu|P|Th HEP
+Wolfgang Lorenzon|P|Exp Cosmo/Astro; Exp Nuc; Exp HEP
+David Lubensky|P|Th CMP; Th Complex Systems; Th Biological Physics
+Xiaoming Mao|P|Th CMP; Th Complex Systems; Th Biological Physics
+Timothy A. McKay|P|Physics Education; Cosmo/Astro
+Jens-Christian Meiners|P|Exp Biological Physics; Exp CMP; Exp Complex Systems; AMO
+Roberto Merlin|P|Exp CMP
+Mark Newman|P|Th Complex Systems
+Bradford Orr|P|Exp CMP; Exp Biological Physics
+Leopoldo Pando Zayas|P|Th HEP
+Erik Peterson|AsstP|Exp Cosmo/Astro; Th Cosmo/Astro
+Aaron Pierce|P|Th Cosmo/Astro; Th HEP
+Sara Pozzi|P|Nuclear Engineering; Exp Nuc
+Jianming Qian|P|Exp HEP
+Georg Raithel|P|AMO
+Shankari Rajagopal|AsstP|Exp AMO
+Keith Riles|P|Exp Cosmo/Astro; Exp HEP
+Tom Schwarz|P|Exp HEP
+Suraj Shankar|AsstP|Th Biological Physics; Th Complex Systems; Th CMP
+Vanessa Sih|P|Exp CMP; AMO
+Joshua Spitz|P|Exp Cosmo/Astro; Exp HEP
+Kai Sun|P|Th CMP; Foundations of Physics
+Ctirad Uher|P|Exp CMP
+James Wells|P|Th HEP; Foundations of Physics
+Dominika Zgid|P|Th CMP; Th AMO (Chemistry)
+Liuyan Zhao|P|Exp CMP
+Junjie Zhu|P|Exp HEP
+Michal Zochowski|P|Exp Biological Physics
