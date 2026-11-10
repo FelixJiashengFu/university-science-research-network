@@ -7,7 +7,7 @@
 ## 规模
 
 - 名单：105 位在职教授（数学 28、物理与天文 40、化学 37）。Ron Donagi 是数学系教授、物理系兼聘，按一人计。
-- OpenAlex 匹配 103 个作者档案，约 2.3 万篇论文（不含 dataset 类条目，如 PDB 结构存档）。Kai Chen、Yuting Zhou 两位新任助理教授在 OpenAlex 里只有同名的其他人，暂不匹配。
+- OpenAlex 匹配 103 个作者档案，约 2.3 万篇论文（不含 dataset 类条目，如 PNNL 数据仓库的存档记录）。Kai Chen、Yuting Zhou 两位新任助理教授在 OpenAlex 里只有同名的其他人，暂不匹配。
 
 ## 网络一览
 
@@ -74,5 +74,5 @@ python3 scripts/build_graph.py
 - **名单来源**（2026-11-10 读取）：math.upenn.edu/people/standing-faculty、physics.upenn.edu/people/standing-faculty、chem.upenn.edu/people/faculty。upenn.edu 拒绝云端自动抓取（robots.txt 与代理），名单是在浏览器里读出后存成 `data/raw/roster/*.txt`。
 - **作者匹配**：先用一次列表查询取出"最近机构为宾大、论文 >15 篇、主题含数学/物理/化学"的 2029 个 OpenAlex 作者作为候选池，在本地按姓名、研究领域打分匹配；池里没有的再按姓名检索。OpenAlex 常把一个人拆成多个档案或匹配到同名者，5 位教授做了人工指定（`scripts/openalex_fetch.py` 的 `OVERRIDE`：Christianson、Aimin Liu、Hartmann、Tong、Jain；第一个 id 为主档案，其余碎片的论文合并进来）。
 - **大型合作**：OpenAlex 每篇论文最多返回 100 个作者，所以作者数 ≥100 的论文（ATLAS 等）一律算"大型合作"，只连浅色边，不计入合写网，避免高能实验组把网络撑成一团。
-- **剔除的条目**：OpenAlex 里类型为 dataset（如 PDB 结构存档）、erratum、retraction、paratext、peer-review 的条目不算论文。不剔除时 Christianson 名下 921 条 PDB 存档会被算成与 Genentech 合写 921 篇。
+- **剔除的条目**：OpenAlex 里类型为 dataset（如美国能源部 PNNL 数据仓库的 EMSL 项目存档）、erratum、retraction、paratext、peer-review 的条目不算论文。不剔除时，921 条 PNNL 存档记录（每条列满 100 位"作者"，其中有 Christianson 和 Genentech 的人，UCLA 的 Eisenberg 名下也是同一批）会被算成 Christianson 与 Genentech 合写 921 篇。
 - **研究主题**：每篇论文的 OpenAlex primary topic；相似度为主题分布的 TF-IDF 余弦。
