@@ -45,7 +45,7 @@ for aid in profs:
     if not os.path.exists(fn): continue
     for line in open(fn):
         w = json.loads(line)
-        if w.get("type") in ("erratum", "retraction", "paratext", "peer-review") or not keep_work(aid, w): continue
+        if w.get("type") in ("erratum", "retraction", "paratext", "peer-review", "dataset") or not keep_work(aid, w): continue
         works.setdefault(w["id"], w); prof_works[aid].add(w["id"])
 print("profs", len(profs), "works", len(works))
 
