@@ -1,0 +1,88 @@
+Aguilar-Romero, Jazmin|Chemical Education Research; Instructional|aguilar-romero-jazmin
+Alexandrova, Anastassia N.|Theory & Computation|alexandrova-anastassia-n
+Andrews, Anne M.|Analytical; Biophysics; Chemical Biology; Materials|andrews-anne-m
+Athavale, Soumitra|Biochemistry; Chemical Biology; Molecular and Structural Biology; Organic|athavale-soumitra
+Backus, Keriann M.|Analytical; Biochemistry; Chemical Biology; Molecular and Structural Biology; Organic|backus-keriann-m
+Barber, Victoria|Analytical; Physical|barber-victoria
+Bensimon, David B.|Physical Chemistry|bensimon-david-b
+Bouchard, Louis S.|Physical|bouchard-louis-s
+Caram, Justin R.|Biophysics; Materials; Physical|caram-justin-r
+Casas, Anneka|Analytical; Instructional; Materials; Nanoscience; Physical Chemistry|casas-anneka
+Chanfreau, Guillaume F.|Biochemistry; Molecular and Structural Biology|chanfreau-guillaume-f
+Chen, Irene A.|Biochemistry; Biophysics; Molecular and Structural Biology|chen-irene
+Clarke, Catherine F.|Biochemistry; Molecular and Structural Biology|clarke-catherine-f
+Clarke, Steven G.|Biochemistry; Chemical Biology; Molecular and Structural Biology|clarke-steven-g
+Clubb, Robert T.|Biochemistry; Biophysics; Chemical Biology; Molecular and Structural Biology|clubb-robert-t
+Conway, Stuart J.|Biochemistry; Chemical Biology; Molecular and Structural Biology; Organic|conway-stuart-j
+Deming, Timothy J.|Chemical Biology; Materials; Organic|deming-timothy-j
+DeWeese, Dory|Chemical Education Research; Instructional|deweese-dory
+Diaconescu, Paula L.|Inorganic|diaconescu-paula-l
+Doyle, Abigail|Inorganic; Organic; Theory and Computation|doyle-abigail
+Duan, Xiangfeng|Materials|duan-xiangfeng
+Eisenberg, David S.|Biochemistry; Bioenergy and the Environment; Biophysics; Chemical Biology; Proteomics and Bioinformatics; Structural and Computational Biology; Theory|eisenberg-david-s
+Fay, Thomas|Computation; Theory|fay-thomas
+Feigon, Juli|Biochemistry; Biophysics; Molecular and Structural Biology|feigon-juli
+Garcia-Garibay, Miguel A.|Materials; Organic; Physical|garcia-garibay-miguel
+Garg, Neil K.|Organic|garg-neil-k
+Gelbart, William M.|Biochemistry; Molecular and Structural Biology|gelbart-william-m
+Gimzewski, James K.|Analytical; Biophysics; Materials; Physical Chemistry; Structural Biology; Theory|gimzewski-james-k
+Gutierrez, Osvaldo|Organic|gutierrez-osvaldo
+Harran, Patrick G.|Chemical Biology; Organic|harran-patrick-g
+Henary, Maher M.|Instructional|henary-maher-m
+Hong-Hermesdorf, Anne|Instructional|hong-hermesdorfanne
+Houk, Kendall N.|Chemical Biology; Organic; Theory and Computation|houk-kendall-n
+Huang, Yu|Bioenergy and Environment; Heterogenous Catalysis; Materials; Molecular Biomimetics; Nanoscience; Physical Chemistry|huang-y
+Jung, Michael E.|Chemical Biology; Organic Chemistry; Synthesis|jung-michael-e
+Kaner, Richard B.|Inorganic; Materials|kaner-richard-b
+Kappel, Kalli|Biochemistry; Biophysics; Chemical Biology; Molecular and Structural Biology; Theory and Computation|kappel-kalli
+Kavner, Abby|Analytical; Inorganic; Physical|kavner-abby
+Xia, Kay|Inorganic Chemistry; Organic Chemistry; Physical Chemistry; Theory & Computation|kay-xia
+Koehler, Carla M.|Biochemistry; Chemical Biology; Molecular and Structural Biology|koehler-carla-m
+Kwon, Ohyun|Organic|kwon-ohyun
+Lannan, Ryan|Instructional|lannan-ryan
+Lavelle, Laurence|Biochemistry; Biophysics and Structural Biology; Instructional; Physical Chemistry|lavelle-laurence
+Lawson, Michael Robert|Biochemistry; Biophysics; Chemical Biology; Molecular and Structural Biology|lawson-michael-robert
+Levine, Raphael D.|Biophysics; Physical Chemistry; Theory|levine-raphael-d
+Lindert, Steffen|Biochemistry; Biophysics; Chemical Biology; Molecular and Structural Biology; Physical; Theory and Computation|lindert-steffen
+Liu, Chong|Chemical Biology; Inorganic; Materials|liu-chong
+Loo, Joseph A.|Analytical; Biochemistry; Molecular and Structural Biology|loo-joseph
+Mason, Thomas G.|Lithography; Materials; Nanoscience; Physical Chemistry|mason-thomas-g
+Pathuri, Maya|Inorganic Chemistry; Instructional; Materials; Nanoscience; Physical Chemistry|maya-pathuri
+Maynard, Heather D.|Chemical Biology; Materials; Organic|maynard-heather-d
+Merlic, Craig A.|Chemical Biology; Organic Chemistry; Synthesis|merlic-craig
+Nakamoto, Stacie S.|Instructional|nakamoto-stacie-s
+Narang, Prineha|Materials and Nanoscience; Physical Chemistry; Theory & Computation|narang-prineha
+Nava, Matthew|Chemical Biology; Inorganic; Materials; Organic|nava-matthew
+Neuhauser, Daniel|Theory and Computation|neuhauser-daniel
+Ngo, Chau|Chemical Biology; Organic Chemistry|ngo-chau
+Ow, Frank|Instructional|ow-frank
+Pang, Johnny W.|Instructional|pang-johnny-w
+Petrovic, Stefan|Biochemistry; Molecular and Structural Biology|petrovic-stefan
+Pham, Hung V.|Instructional; Organic Chemistry|pham-hung
+Quinlan, Margot E.|Biochemistry; Biophysics; Molecular and Structural Biology|quinlan-margot-e
+Reisler, Emil|Biochemistry; Biophysics; Molecular and Structural Biology|reisler-emil
+Riu, Martin-Louis|Inorganic Chemistry; Instructional|riu-martin-louis
+Rodriguez, Jose A.|Biochemistry; Biophysics; Molecular and Structural Biology|rodriguez-jose
+Rubin, Yves F.|Organic|rubin-yves-f
+Russell, Arlene A.|Instructional|russell-arlene
+Sautet, Philippe|Theory and Computation|sautet-philippe
+Scerri, Eric R.|Instructional|scerri-eric-r
+Schmitt, Danielle L.|Biochemistry; Chemical Biology; Molecular and Structural Biology|schmitt-danielle-l
+Schwartz, Benjamin J.|Materials; Physical; Theory and Computation|schwartz-benjamin-j
+Shafaat, Hannah S.|Biochemistry; Biophysics; Chemical Biology; Inorganic Chemistry; Molecular and Structural Biology; Physical Chemistry|shafaat-hannah-s
+Sletten, Ellen M.|Analytical; Biophysics; Chemical Biology; Materials and Nanoscience; Organic Chemistry|sletten-ellen-m
+Spokoyny, Alexander M.|Inorganic|spokoyny-alexander-m
+Tang, Yi|Chemical Biology; Organic|tang-yi
+Tinoco Valencia, Antonio|Biochemistry; Chemical Biology; Molecular and Structural Biology; Organic|tinoco-valencia-antonio
+Tolbert, Sarah H.|Inorganic; Materials; Physical|tolbert-sarah-h
+Torres, Jorge Z.|Biochemistry; Chemical Biology; Molecular and Structural Biology|torres-jorge-z
+Urwin, Derek|Biophysics and Structural Biology; Physical Chemistry; Structural and Computational Biology; Theory & Computation|28702
+Wang, Sining (Cindy)|Biochemistry; Instructional; Metabolism Aging and Development; Systems Biology and Biological Regulation|wang-sining-cindy
+Weiss, Paul S.|Analytical; Biophysics; Chemical Biology; Inorganic; Materials; Physical|weiss-paul-s
+Weiss, Richard L.|Aging and Development; Biochemistry; Chemical Biology; Metabolism; Systems Biology and Biological Regulation|weiss-richard-l
+Weiss, Shimon|Analytical; Biophysics; Chemical Biology; Physical Chemistry; Structural Biology|weiss-shimon
+Wilson, Patrick|Instructional|wilson-patrick
+Wollman, Roy|Biochemistry; Molecular and Structural Biology|wollman-roy
+Wong, Gerard C. L.|Bacterial communities; Biomedical Engineering; Innate immunity; Physical Chemistry; Soft matter physics|wong-gerard-c-l
+Wu, Eric|Instructional; Physical Chemistry|wu-eric
+Zink, Jeffrey I.|Inorganic Chemistry; Materials; Nanoscience; Physical Chemistry|zink-jeffrey-i

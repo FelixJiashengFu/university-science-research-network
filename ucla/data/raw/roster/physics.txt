@@ -1,0 +1,57 @@
+PA|Paulo Alves|Associate Professor|Plasma|https://picksc.physics.ucla.edu/index.html
+PA|Katsushi Arisaka|Distinguished Professor|High Energy, Astroparticle, and Neurophysics|http://home.physics.ucla.edu/~arisaka/home/
+PA|Michalis Bachtis|Professor|Experimental Particle Physics|http://www.pa.ucla.edu/faculty-websites/bachtis.html
+PA|Zvi Bern|Distinguished Professor; Director, Mani L. Bhaumik Institute for Theoretical Physics|Theoretical Elementary Particles|http://bhaumik-institute.physics.ucla.edu/
+PA|Dolores Bozovic|Professor|Biophysics|http://bozoviclab.physics.ucla.edu/
+PA|Stuart Brown|Distinguished Professor, Chair|Condensed Matter|https://www.pa.ucla.edu/faculty-websites/brown.html
+PA|Wes Campbell|Professor|AMO|http://campbellgroup.physics.ucla.edu/
+PA|Eric D'Hoker|Distinguished Research Professor|Theoretical and Mathematical Physics|https://www.pa.ucla.edu/faculty-websites/dhoker.html
+PA|Tuan Do|Associate Professor|Astronomy|http://astro.ucla.edu/~tdo/
+PA|Thomas Dumitrescu|Associate Professor|Theoretical Elementary Particles|https://www.pa.ucla.edu/faculty-websites/dumitrescu.html
+PA|Michael Fitzgerald|Professor|Astronomy|http://www.astro.ucla.edu/~fitz/
+PA|Steven Furlanetto|Professor; Vice Chair for Astronomy and Astrophysics|Astronomy|https://cosmicdawn.astro.ucla.edu
+PA|Pradip Gatkine|Assistant Professor|Astronomy|https://gatkine.astro.ucla.edu
+PA|Graciela Gelmini|Distinguished Professor|Theoretical Elementary Particles; Astroparticle|https://www.pa.ucla.edu/faculty-websites/gelmini.html
+PA|Andrea Ghez|Distinguished Professor; Leichtman-Levine Astrophysics Endowed Chair|Astronomy|http://www.astro.ucla.edu/~ghez
+PA|Christopher Gutiérrez|Assistant Professor|Condensed Matter|https://sites.google.com/g.ucla.edu/quantum
+PA|Michael Gutperle|Professor|Theoretical Elementary Particles|https://sites.google.com/g.ucla.edu/michael-gutperle/
+PA|Paul Hamilton|Associate Professor|AMO|http://hamiltonlab.physics.ucla.edu/
+PA|Brad Hansen|Professor|Astronomy|http://www.astro.ucla.edu/~hansen
+PA|Karoly Holczer|Professor|Condensed Matter|https://www.pa.ucla.edu/faculty-websites/holczer.html
+PA|Huan Huang|Professor|Experimental QCD and Neutrino Physics|https://www.pa.ucla.edu/faculty-websites/huang.html
+PA|Eric Hudson|Professor; David Saxon Presidential Term Chair in Physics|AMO|http://hudsongroup.physics.ucla.edu/
+PA|Hongwen Jiang|Distinguished Professor|Condensed Matter|http://www.physics.ucla.edu/~jiangh/
+PA|Alvine Kamaha|Associate Professor|Experimental Particle Physics|https://www.pa.ucla.edu/faculty-websites/kamaha.html
+PA|Zhongbo Kang|Professor|QCD and Nuclear Theory|https://kang-research-group.physics.ucla.edu/
+PA|Anshul Kogar|Associate Professor|Condensed Matter|https://kogargroup.physics.ucla.edu
+PA|Per Kraus|Professor; Vice Chair of Academic Affairs|Theoretical Elementary Particles|https://www.pa.ucla.edu/faculty-websites/kraus.html
+PA|Alexander Kusenko|Distinguished Professor|Theoretical Elementary Particles; Astroparticle|https://kusenko.physics.ucla.edu/
+PA|James Larkin|Professor|Astronomy|http://www.astro.ucla.edu/~larkin
+PA|David Leibrandt|Professor|AMO|https://leibrandtgroup.physics.ucla.edu
+PA|Matthew Malkan|Distinguished Professor|Astronomy|http://www.astro.ucla.edu/~malkan
+PA|Mayank Mehta|Professor|Neurophysics; Biophysics|https://mayank.pa.ucla.edu
+PA|Jianwei Miao|Professor|Coherent Imaging; Condensed Matter|https://www.pa.ucla.edu/faculty-websites/miao.html
+PA|Pietro Musumeci|Professor; Vice Chair of Resources|Accelerator Physics|https://www.pa.ucla.edu/faculty-websites/musumeci.html
+PA|Smadar Naoz|Professor; Howard and Astrid Preston Chair in Astrophysics|Astronomy|https://snaoz.astro.ucla.edu/index.html
+PA|Ni Ni|Professor|Condensed Matter|http://nilab.physics.ucla.edu/
+PA|Christoph Niemann|Professor|Plasma|http://hedp.physics.ucla.edu/
+PA|Rene Ong|Distinguished Professor|Astronomy; Experimental Particle Physics|https://rene-ong-homepage.astro.ucla.edu
+PA|Erik Petigura|Associate Professor|Astronomy|https://www.pa.ucla.edu/faculty-websites/petigura.html
+PA|Jason Petta|Distinguished Professor|Condensed Matter|https://www.pa.ucla.edu/faculty.html
+PA|Seth Putterman|Distinguished Professor|Condensed Matter; Acoustics|http://acoustics-research.physics.ucla.edu/
+PA|B.C. Regan|Professor|Condensed Matter|http://regangroup.physics.ucla.edu/
+PA|James Rosenzweig|Distinguished Professor|Accelerator Physics|http://pbpl.physics.ucla.edu/
+PA|Rahul Roy|Professor|Condensed Matter|https://cmt-roy.physics.ucla.edu/
+PA|David Saltzberg|Distinguished Professor|Experimental Particle Physics|http://www.physics.ucla.edu/~saltzberg/index.html
+PA|Joshua Samani|Associate Teaching Professor||http://www.joshphysics.com/
+PA|Derek Schaeffer|Associate Professor|Plasma|https://www.physics.ucla.edu/~dschaeffer
+PA|Alice Shapley|Professor|Astronomy|http://www.astro.ucla.edu/~aes/
+PA|Qianhui Shi|Assistant Professor|Condensed Matter|https://www.pa.ucla.edu/faculty.html
+PA|Mikhail Solon|Associate Professor|Theoretical Elementary Particles|https://www.pa.ucla.edu/faculty-websites/solon.html
+PA|Ryan Thorngren|Assistant Professor; Mani L. Bhaumik Presidential Endowed Chair in Theoretical Physics|Condensed Matter|https://www.pa.ucla.edu/faculty.html
+PA|Tommaso Treu|Distinguished Professor|Astronomy|http://www.astro.ucla.edu/~tt/Welcome.html
+PA|Yaroslav Tserkovnyak|Professor|Condensed Matter|https://sites.google.com/site/tserkovnyak
+PA|Vladimir Vassiliev|Professor|Astronomy|http://www.astro.ucla.edu/~vvv
+PA|Shenshen Wang|Associate Professor|Biophysics; Soft Condensed Matter|http://shenshen-wang-group.physics.ucla.edu/
+PA|Young Dae Yoon|Assistant Professor|Plasma|https://yoonplasmagroup.com/
+PA|Giovanni Zocchi|Professor|Biophysics|http://zocchi.physics.ucla.edu/index.html

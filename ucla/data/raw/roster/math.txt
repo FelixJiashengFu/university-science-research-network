@@ -1,0 +1,42 @@
+MA|Paul Balmer|Professor|
+MA|Jacob Bedrossian|Professor & Administrative Vice Chair|
+MA|Anton Bernshteyn|Associate Professor|
+MA|Andrea Bertozzi|Distinguished Professor, Mathematics/Mechanical & Aerospace Engineering|
+MA|Marek Biskup|Professor & Undergraduate Vice Chair|
+MA|Don Blasius|Distinguished Professor|
+MA|Mario Bonk|Distinguished Professor|
+MA|Yifan Chen|Assistant Professor|
+MA|Tom Chou|Professor, Computational Medicine/Math|
+MA|William Conley|Professor of Teaching|
+MA|Mihai Cucuringu|Professor|
+MA|Gurbir Dhillon|Assistant Professor|
+MA|Wilfrid Gangbo|Distinguished Professor|
+MA|Ziyang Gao|Professor|
+MA|Robert Greene|Professor|
+MA|Michael Hitrik|Professor|
+MA|Ko Honda|Professor|
+MA|Chenfanfu Jiang|Professor|
+MA|Chandrashekhar Khare|Distinguished Professor|
+MA|Inwon Kim|Professor|
+MA|Dominique Maldague|Assistant Professor|
+MA|Georg Menz|Associate Professor|
+MA|Alexander Merkurjev|Distinguished Professor|
+MA|Guido Montufar|Professor, Mathematics & Statistics|
+MA|Joaquin Moraga|Assistant Professor|
+MA|Deanna Needell|Professor, Dunn Family Endowed Chair in Data Theory; Executive Director of IDRE|
+MA|Itay Neeman|Professor|
+MA|Igor Pak|Professor & Chair|
+MA|Sorin Popa|Distinguished Professor & Takesaki Endowed Chair in Operator Algebras|
+MA|Mason Porter|Professor, Mathematics and Sociology|
+MA|Marcus Roper|Professor, Mathematics/Computational Medicine|
+MA|Raphael Rouquier|Distinguished Professor & Graduate Vice Chair|
+MA|Ernest Ryu|Assistant Professor|
+MA|Sucharit Sarkar|Professor|
+MA|Hayden Schaeffer|Professor & Director of Applied Mathematics|
+MA|Romyar Sharifi|Professor|
+MA|Dimitri Shlyakhtenko|Distinguished Professor & IPAM Director|
+MA|Terence Tao|Distinguished Professor & James and Carol Collins Chair|
+MA|Burt Totaro|Distinguished Professor|
+MA|Luminita Vese|Professor|
+MA|Zhouli Xu|Professor|
+MA|Jun Yin|Professor|
