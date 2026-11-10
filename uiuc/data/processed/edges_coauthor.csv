@@ -60,11 +60,11 @@ A5007986677,A5040320137,Joaquín Rodríguez-López,Paul V. Braun,2,0
 A5007986677,A5052747722,Joaquín Rodríguez-López,Steven C. Zimmerman,3,0
 A5007986677,A5057603203,Joaquín Rodríguez-López,Josh Vura-Weis,3,0
 A5007986677,A5077678900,Joaquín Rodríguez-López,Mei Shen,7,0
-A5007986677,A5082797451,Joaquín Rodríguez-López,Jeffrey S. Moore,31,0
+A5007986677,A5082797451,Joaquín Rodríguez-López,Jeffrey S. Moore,30,0
 A5007986677,A5100428457,Joaquín Rodríguez-López,Qian Chen,2,0
 A5011485947,A5034103745,David Ceperley,Brian Leeds DeMarco,4,0
 A5011485947,A5039385849,David Ceperley,Philip W Phillips,2,0
-A5011485947,A5083579335,David Ceperley,Lucas K. Wagner,4,0
+A5011485947,A5083579335,David Ceperley,Lucas K. Wagner,2,0
 A5013454096,A5048920469,S Lance Cooper,Eduardo H Fradkin,10,0
 A5013454096,A5079392778,S Lance Cooper,Peter Abbamonte,22,0
 A5013454096,A5087550926,S Lance Cooper,Gregory MacDougall,12,0
@@ -85,8 +85,8 @@ A5019528716,A5034590981,Jessie Shelton,Stuart L. Shapiro,4,0
 A5019528716,A5079059209,Jessie Shelton,Patrick I Draper,5,5
 A5019548544,A5036154777,Vidya Madhavan,Fahad Mahmood,2,0
 A5019548544,A5039385849,Vidya Madhavan,Philip W Phillips,2,0
-A5019548544,A5046529785,Vidya Madhavan,Taylor L Hughes,14,0
-A5019548544,A5048920469,Vidya Madhavan,Eduardo H Fradkin,9,0
+A5019548544,A5046529785,Vidya Madhavan,Taylor L Hughes,13,0
+A5019548544,A5048920469,Vidya Madhavan,Eduardo H Fradkin,8,0
 A5019548544,A5064275485,Vidya Madhavan,Barry Bradlyn,1,0
 A5019548544,A5071265683,Vidya Madhavan,Rafael Fernandes,4,0
 A5019548544,A5079392778,Vidya Madhavan,Peter Abbamonte,4,0
@@ -101,13 +101,13 @@ A5020952681,A5053248556,Gordon Baym,Frederick Lamb,3,0
 A5020952681,A5081312605,Gordon Baym,Jorge Noronha,1,0
 A5020952681,A5111913129,Gordon Baym,Paul Selvin,1,0
 A5021468171,A5039385849,Gabriele La Nave,Philip W Phillips,16,0
-A5021486550,A5057603203,Liviu M. Mirica,Josh Vura-Weis,7,0
+A5021486550,A5057603203,Liviu M. Mirica,Josh Vura-Weis,6,0
 A5021486550,A5073201453,Liviu M. Mirica,Jefferson Chan,2,0
 A5022830262,A5024923287,Jaki Noronha-Hostler,Helvi Witek,1,0
 A5022830262,A5034257635,Jaki Noronha-Hostler,Nicolas Yunes,22,0
 A5022830262,A5034590981,Jaki Noronha-Hostler,Stuart L. Shapiro,1,0
 A5022830262,A5034973044,Jaki Noronha-Hostler,Anne M Sickles,2,3
-A5022830262,A5081312605,Jaki Noronha-Hostler,Jorge Noronha,48,1
+A5022830262,A5081312605,Jaki Noronha-Hostler,Jorge Noronha,47,1
 A5022867429,A5024800825,Shuming Nie,Stephan Link,4,0
 A5022867429,A5030076676,Shuming Nie,Catherine J. Murphy,1,0
 A5024392988,A5040320137,Ralph G. Nuzzo,Paul V. Braun,12,0
@@ -121,8 +121,8 @@ A5024672065,A5067967131,Nicholas E. Jackson,Martin D. Burke,2,0
 A5024672065,A5082797451,Nicholas E. Jackson,Jeffrey S. Moore,7,0
 A5024672065,A5100428457,Nicholas E. Jackson,Qian Chen,1,0
 A5024800825,A5030076676,Stephan Link,Catherine J. Murphy,7,0
-A5024800825,A5030902865,Stephan Link,Prashant Jain,3,0
-A5024800825,A5079840104,Stephan Link,Christy F. Landes,73,0
+A5024800825,A5030902865,Stephan Link,Prashant Jain,2,0
+A5024800825,A5079840104,Stephan Link,Christy F. Landes,72,0
 A5024800825,A5100428457,Stephan Link,Qian Chen,1,0
 A5024923287,A5026832649,Helvi Witek,Antonios Tsokaros,0,1
 A5024923287,A5034257635,Helvi Witek,Nicolas Yunes,9,2
@@ -136,7 +136,7 @@ A5026832649,A5114374383,Antonios Tsokaros,Mark Neubauer,2,0
 A5027681082,A5044571663,Douglas H Beck,Josh Long,4,1
 A5027681082,A5063877587,Douglas H Beck,Chen-Yu Liu,3,2
 A5027681082,A5110447894,Douglas H Beck,Naomi Makins,2,0
-A5027687866,A5057603203,Lisa Olshansky,Josh Vura-Weis,6,0
+A5027687866,A5057603203,Lisa Olshansky,Josh Vura-Weis,1,0
 A5027687866,A5076175038,Lisa Olshansky,Aleksei Aksimentiev,1,0
 A5027996458,A5052747722,Paul J. Hergenrother,Steven C. Zimmerman,2,0
 A5027996458,A5054090841,Paul J. Hergenrother,John A. Katzenellenbogen,1,0
@@ -185,7 +185,7 @@ A5036154777,A5046529785,Fahad Mahmood,Taylor L Hughes,1,0
 A5036154777,A5064275485,Fahad Mahmood,Barry Bradlyn,5,0
 A5036154777,A5069246310,Fahad Mahmood,Elizabeth Goldschmidt,2,0
 A5036154777,A5071265683,Fahad Mahmood,Rafael Fernandes,2,0
-A5036154777,A5079392778,Fahad Mahmood,Peter Abbamonte,16,0
+A5036154777,A5079392778,Fahad Mahmood,Peter Abbamonte,14,0
 A5036154777,A5081312605,Fahad Mahmood,Jorge Noronha,2,0
 A5036154777,A5087550926,Fahad Mahmood,Gregory MacDougall,1,0
 A5036684590,A5057603203,Ying Diao,Josh Vura-Weis,1,0
@@ -205,10 +205,10 @@ A5039385849,A5064275485,Philip W Phillips,Barry Bradlyn,4,0
 A5039385849,A5071265683,Philip W Phillips,Rafael Fernandes,2,0
 A5039385849,A5079392778,Philip W Phillips,Peter Abbamonte,7,0
 A5039385849,A5109902567,Philip W Phillips,Thomas Faulkner,1,0
-A5039473431,A5045600273,Angela Kou,Wolfgang Pfaff,7,0
+A5039473431,A5045600273,Angela Kou,Wolfgang Pfaff,6,0
 A5039473431,A5048920469,Angela Kou,Eduardo H Fradkin,2,0
 A5039473431,A5073233049,Angela Kou,Bryan K Clark,1,0
-A5040059428,A5042189570,Joaquin Vieira,Gilbert Holder,78,26
+A5040059428,A5042189570,Joaquin Vieira,Gilbert Holder,78,25
 A5040059428,A5105818618,Joaquin Vieira,Jeffrey P Filippini,3,0
 A5040320137,A5045572539,Paul V. Braun,Kenneth S. Schweizer,7,0
 A5040320137,A5052747722,Paul V. Braun,Steven C. Zimmerman,1,0
@@ -256,7 +256,7 @@ A5055475308,A5058132724,Eugene Lerman,Daniel Berwick-Evans,1,0
 A5057303748,A5068744294,Ido Golding,Yann Chemla,13,0
 A5057303748,A5111913129,Ido Golding,Paul Selvin,3,0
 A5057603203,A5071024897,Josh Vura-Weis,Gregory S. Girolami,11,0
-A5059916655,A5079840104,Mikael Backlund,Christy F. Landes,2,0
+A5059916655,A5079840104,Mikael Backlund,Christy F. Landes,1,0
 A5060673018,A5067967131,Scott E. Denmark,Martin D. Burke,2,0
 A5063877587,A5110447894,Chen-Yu Liu,Naomi Makins,0,1
 A5064275485,A5079392778,Barry Bradlyn,Peter Abbamonte,5,0
