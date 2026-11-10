@@ -1,0 +1,47 @@
+PH|Abigail Azari||Space physics; planetary magnetospheres; machine learning
+PH|Igor Boettcher||Condensed matter theory; quantum field theory
+PH|Massimo Boninsegni||Theoretical condensed matter; quantum Monte Carlo; superfluidity
+PH|Nassim Bozorgnia||Dark matter theory; stellar streams
+PH|Daniel Charlebois||Biophysics; mathematical and synthetic biology; gene regulatory networks
+PH|Claire Currie||Geodynamics; lithosphere; mantle dynamics; tectonics
+PH|Andrzej Czarnecki||Particle phenomenology; gauge interactions; new physics searches
+PH|John P. Davis||Low-temperature physics; cavity optomechanics; superfluids
+PH|Mathieu Dumberry||Planetary magnetic fields; dynamo theory; Earth rotation
+PH|Rodrigo Fernández||Theoretical astrophysics; transients; compact objects
+PH|Mark Freeman||Nanomagnetism; nanomechanics; ultrafast optical microscopy
+PH|Valeri Frolov||Gravity; black holes; quantum field theory in curved spacetime
+PH|Doug Gingrich||Experimental particle physics; quantum gravity phenomenology
+PH|Jeff Gu||Seismology; crust and mantle structure; induced earthquakes
+PH|Aksel Hallin||Dark matter; neutrino physics; solar and geoneutrinos
+PH|Frank Hegmann||Condensed matter; ultrafast terahertz spectroscopy; nanomaterials
+PH|Moritz Heimpel||Planetary interiors; fluid dynamics; magnetohydrodynamics
+PH|Craig Heinke||Astronomy; black holes; neutron stars; X-ray binaries
+PH|Natalia Ivanova||Interacting binaries; stellar evolution
+PH|Carsten Krauss||Dark matter detection; neutrino physics; low-background radioactivity
+PH|Vadim Kravchinsky||Geophysics; paleomagnetism; environmental magnetism
+PH|Lindsay LeBlanc||Ultracold quantum gases; quantum memory; quantum computing
+PH|Joseph Maciejko||Quantum condensed matter theory; topology; quantum criticality
+PH|Ian Mann||Space plasma physics; space weather; magnetometry
+PH|Frank Marsiglio||Superconductivity theory; polarons
+PH|Al Meldrum||Condensed matter physics; photonics
+PH|Sharon Morsink||Neutron stars; relativistic astrophysics
+PH|Don Page||Cosmology; theoretical gravitational physics
+PH|Alexander Penin||Perturbative quantum field theory; particle physics
+PH|James Pinfold||Experimental particle physics
+PH|Marie-Cécile Piro||Dark matter; detector R&D; coherent neutrino scattering
+PH|Dmitri Pogosyan||Cosmology; astrophysics
+PH|David Potter||Geophysics
+PH|Steven Robertson||Experimental particle physics
+PH|Saeed Rastgoo||Gravity; black holes; cosmology; gravitational waves
+PH|Erik Rosolowsky||Astrophysics; galaxy evolution; star formation; radio astronomy
+PH|Wojciech Rozmus||Theoretical and computational plasma physics
+PH|Mauricio Sacchi||Geophysics; seismic imaging and inversion; deep learning
+PH|Yangyang Shen||Space weather; magnetosphere-ionosphere coupling; aurora|starts 2026
+PH|Gregory Sivakoff||Multi-wavelength astronomy; relativistic jets; time-domain astronomy
+PH|Bruce Sutherland||Geophysical fluid dynamics; stratified flows
+PH|Rick Sydora||Plasma physics; magnetic reconnection
+PH|Martyn Unsworth||Electromagnetic geophysics; tectonics; geothermal
+PH|Mirko van der Baan||Seismic signal processing; microseismicity
+PH|Robert Wolkow||Atom-scale fabrication; nanotechnology; quantum computing
+PH|Michael Woodside||Single-molecule biophysics; protein and RNA folding; optical tweezers
+PH|Juan Pablo Yáñez||Experimental neutrino physics; neutrino oscillations

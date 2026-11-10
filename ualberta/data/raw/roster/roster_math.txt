@@ -1,0 +1,39 @@
+MA|Arno Berger|Professor|Dynamical systems; probability theory
+MA|Vincent Bouchard|Professor|String theory; geometry; mathematical physics
+MA|Xi Chen|Professor|Algebraic geometry
+MA|Vladimir Chernousov|Professor|Algebraic groups; Galois cohomology
+MA|Tahir Choulli|Professor|Mathematical finance; stochastic analysis
+MA|Feng Dai|Professor|Analysis; approximation theory
+MA|Engel John Dela Vega|Assistant Professor|Mathematical finance; insurance mathematics; stochastic control
+MA|Charles Doran|Professor|Algebraic geometry; mathematical physics
+MA|Christoph Frei|Professor|Mathematical finance; mathematical economics; stochastic analysis
+MA|Terry Gannon|Professor|Conformal field theory; algebra; mathematical physics
+MA|Stefan Gille|Professor|Quadratic forms; algebra
+MA|Nicolas Guay|Professor|Algebra; representation theory
+MA|Bin Han|Professor|Wavelet and framelet analysis; approximation theory; computational harmonic analysis
+MA|Thomas Hillen|Professor|Mathematical biology; partial differential equations
+MA|Yaozhong Hu|Centennial Professor|Probability; stochastic control; mathematical finance
+MA|Nikita Karpenko|Centennial Professor|Algebra; algebraic geometry
+MA|Rouslan Krechetnikov|Professor|Applied mathematics; fluid dynamics; partial differential equations
+MA|Jochen Kuttler|Associate Professor|Algebraic transformation groups
+MA|Michael Yi Li|Professor|Ordinary differential equations; dynamical systems; mathematical epidemiology
+MA|Alexander Litvak|Professor|Asymptotic geometric analysis
+MA|Michelle Michelle|Assistant Professor|Computational mathematics; numerical PDEs; wavelets; scientific machine learning
+MA|Alexander Melnikov|Professor|Mathematical finance
+MA|Jay Newby|Associate Professor|Stochastic models of molecular motion; biomechanics; mathematical biology
+MA|Brendan Pass|Professor|Optimal transport; geometry; mathematical economics; mathematical physics
+MA|Manish Patnaik|Professor|Automorphic forms; loop groups; number theory
+MA|Arturo Pianzola|Professor|Galois cohomology; infinite-dimensional Lie theory
+MA|Volker Runde|Professor|Functional analysis; abstract harmonic analysis
+MA|Zhongwei Shen|Associate Professor|Differential equations; dynamical systems
+MA|Adam Topaz|Associate Professor|Arithmetic and algebraic geometry; Galois theory; anabelian geometry
+MA|Vladimir Troitsky|Professor|Functional analysis; operator theory
+MA|Beatrice-Helen Vritsiou|Associate Professor|Asymptotic geometric analysis
+MA|Hao Wang|Professor|Mathematical biology; differential equations
+MA|Shirou Wang|Assistant Professor|Complex dynamics; data science
+MA|Eric Woolgar|Professor|Mathematical physics; relativity theory
+MA|Vladyslav Yaskin|Professor|Convex geometry; geometric functional analysis
+MA|Yingfei Yi|Professor|Dynamical systems; differential equations
+MA|Xinwei Yu|Professor|Partial differential equations; fluid mechanics
+MA|Michael Kouritzin|Professor|Stochastic analysis; filtering; probability|research-areas page only
+MA|Gerda de Vries|Professor|Mathematical biology; differential equations|research-areas page only

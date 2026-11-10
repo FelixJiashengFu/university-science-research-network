@@ -136,8 +136,8 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 <script>
 addEventListener("DOMContentLoaded", () => fetch("schools/stats.json").then(r => r.json()).then(st => {
-  const all = Object.assign({ uoft: [298, 52000, 12], stanford: [136, 40000, 18], waterloo: [167, 19000, 24], udem: [96, 17545, 22], mcmaster: [87, 10740, 23] }, st);
-  const live = Object.keys(all).filter(k => (window.RA_NAV?.SCHOOLS || []).some(s => s[0] === k && s[4]) || k === "uoft" || k === "stanford" || k === "waterloo" || k === "udem" || k === "mcmaster");
+  const all = Object.assign({ uoft: [298, 52000, 12], stanford: [136, 40000, 18], waterloo: [167, 19000, 24], udem: [96, 17545, 22], mcmaster: [87, 10740, 23], ualberta: [119, 22548, 23] }, st);
+  const live = Object.keys(all).filter(k => (window.RA_NAV?.SCHOOLS || []).some(s => s[0] === k && s[4]) || k === "uoft" || k === "stanford" || k === "waterloo" || k === "udem" || k === "mcmaster" || k === "ualberta");
   const sum = i => live.reduce((a, k) => a + all[k][i], 0);
   document.getElementById("sLive").textContent = live.length;
   const ns = document.getElementById("nSchools"); if (ns && window.RA_NAV) ns.textContent = `${window.RA_NAV.SCHOOLS.length} 所学校 · 交互网络`;
