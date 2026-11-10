@@ -40,7 +40,7 @@ for aid in profs:
     if not os.path.exists(fn): continue
     for line in open(fn):
         w = json.loads(line)
-        if w.get("type") in ("erratum", "retraction", "paratext", "peer-review"): continue
+        if w.get("type") in ("erratum", "retraction", "paratext", "peer-review", "dataset"): continue  # datasets: CSD/PDB depositions
         works.setdefault(w["id"], w); prof_works[aid].add(w["id"])
 print("profs", len(profs), "works", len(works))
 
