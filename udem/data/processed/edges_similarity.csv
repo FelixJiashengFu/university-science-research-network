@@ -1,0 +1,168 @@
+a,b,a_name,b_name,cosine
+A5059602798,A5090500739,Laurence Perreault-Levasseur,Yashar Hezaveh,0.8937
+A5006065369,A5034714891,René Doyon,David Lafrenière,0.8759
+A5062139920,A5110110267,Egor Shelukhin,Octavian Cornea,0.8407
+A5056567141,A5090500739,Julie Hlavacek-Larrondo,Yashar Hezaveh,0.8229
+A5034714891,A5070793994,David Lafrenière,Björn Benneke,0.8099
+A5026261263,A5053654843,André Charette,Hélène Lebel,0.79
+A5056567141,A5059602798,Julie Hlavacek-Larrondo,Laurence Perreault-Levasseur,0.7685
+A5008644041,A5070793994,Patrick Dufour,Björn Benneke,0.7537
+A5009112657,A5070793994,Nicole St-Louis,Björn Benneke,0.7333
+A5009720385,A5053016770,Dominic Rochefort,Olivier Fontaine,0.7235
+A5009112657,A5034714891,Nicole St-Louis,David Lafrenière,0.715
+A5039688504,A5062139920,Dylan Cant,Egor Shelukhin,0.6927
+A5006065369,A5070793994,René Doyon,Björn Benneke,0.6908
+A5006065369,A5009112657,René Doyon,Nicole St-Louis,0.6902
+A5008644041,A5009112657,Patrick Dufour,Nicole St-Louis,0.6868
+A5019254200,A5077110258,Jean-François Carrier,Hugo Bouchard,0.6693
+A5050671055,A5089037553,Manu Paranjape,Richard MacKenzie,0.6575
+A5033992741,A5101868545,Florian Maire,Philippe Gagnon,0.6506
+A5039688504,A5110110267,Dylan Cant,Octavian Cornea,0.626
+A5039688504,A5058812451,Dylan Cant,Maxime Fortier Bourque,0.6237
+A5005486840,A5008611010,Mylène Bédard,Maciej Augustyniak,0.6091
+A5071159726,A5074228134,Sjoerd Roorda,François Schiettekatte,0.6043
+A5019320081,A5089556545,Andrew Granville,Dimitrios Koukoulopoulos,0.6025
+A5050671055,A5055133133,Manu Paranjape,Juan Margalef Bentabol,0.5805
+A5019320081,A5069225013,Andrew Granville,Matilde Lalin,0.5689
+A5008644041,A5034714891,Patrick Dufour,David Lafrenière,0.5589
+A5069225013,A5089556545,Matilde Lalin,Dimitrios Koukoulopoulos,0.5575
+A5045725542,A5069851710,Luc Stafford,Joëlle Margot,0.5395
+A5006065369,A5090500739,René Doyon,Yashar Hezaveh,0.5349
+A5045637236,A5103196997,David London,Jean-François Arguin,0.5347
+A5026261263,A5070036659,André Charette,Stephen Hanessian,0.5119
+A5053654843,A5070036659,Hélène Lebel,Stephen Hanessian,0.5109
+A5006065369,A5008644041,René Doyon,Patrick Dufour,0.5102
+A5036319366,A5069851710,Ahmad Hamdan,Joëlle Margot,0.5022
+A5034714891,A5090500739,David Lafrenière,Yashar Hezaveh,0.4854
+A5080468380,A5107599274,Pierre Duchesne,Martin Bilodeau,0.4768
+A5036319366,A5045725542,Ahmad Hamdan,Luc Stafford,0.4626
+A5014474329,A5058812451,Iosif Polterovich,Maxime Fortier Bourque,0.4625
+A5006065369,A5056567141,René Doyon,Julie Hlavacek-Larrondo,0.4623
+A5058812451,A5062139920,Maxime Fortier Bourque,Egor Shelukhin,0.4619
+A5006065369,A5059602798,René Doyon,Laurence Perreault-Levasseur,0.4589
+A5009998553,A5013189455,Delphine Bouilly,Richard Martel,0.4584
+A5050671055,A5066370290,Manu Paranjape,Luc Vinet,0.4479
+A5043575731,A5070036659,Yvan Guindon,Stephen Hanessian,0.4423
+A5043575731,A5053654843,Yvan Guindon,Hélène Lebel,0.4418
+A5082911667,A5107599274,Louis Doray,Martin Bilodeau,0.4404
+A5026261263,A5045192476,André Charette,Shawn Collins,0.4378
+A5071159726,A5075886021,Sjoerd Roorda,Laurent J. Lewis,0.4331
+A5017012270,A5028427743,Garry Hanan,William Skene,0.433
+A5009998553,A5040405132,Delphine Bouilly,Alexis Vallée-Bélisle,0.4271
+A5058812451,A5110110267,Maxime Fortier Bourque,Octavian Cornea,0.4175
+A5034714891,A5059602798,David Lafrenière,Laurence Perreault-Levasseur,0.4144
+A5016488881,A5050671055,William Witczak-Krempa,Manu Paranjape,0.4143
+A5026261263,A5043575731,André Charette,Yvan Guindon,0.4116
+A5045192476,A5053654843,Shawn Collins,Hélène Lebel,0.4076
+A5058237265,A5066370290,Leonid Rybnikov,Luc Vinet,0.4021
+A5074228134,A5075886021,François Schiettekatte,Laurent J. Lewis,0.4006
+A5019320081,A5028074975,Andrew Granville,Jake Levinson,0.3961
+A5045637236,A5089037553,David London,Richard MacKenzie,0.3934
+A5028074975,A5069225013,Jake Levinson,Matilde Lalin,0.3891
+A5002341558,A5016488881,Andrea Bianchi,William Witczak-Krempa,0.3885
+A5002341558,A5076632634,Andrea Bianchi,Michel Côté,0.3841
+A5009720385,A5027187986,Dominic Rochefort,Mickaël Dollé,0.3836
+A5022137374,A5075886021,Normand Mousseau,Laurent J. Lewis,0.3806
+A5052166021,A5070036659,William Lubell,Stephen Hanessian,0.3787
+A5005486840,A5101868545,Mylène Bédard,Philippe Gagnon,0.3767
+A5051657374,A5101868545,Kirill Neklyudov,Philippe Gagnon,0.375
+A5026261263,A5052166021,André Charette,William Lubell,0.3718
+A5009112657,A5090500739,Nicole St-Louis,Yashar Hezaveh,0.369
+A5077510531,A5082911667,Manuel Morales,Louis Doray,0.3686
+A5079440576,A5084579525,James D. Wuest,Frank Schaper,0.3663
+A5055133133,A5089037553,Juan Margalef Bentabol,Richard MacKenzie,0.3655
+A5014474329,A5041011192,Iosif Polterovich,Dmitry Faifman,0.3564
+A5027187986,A5053016770,Mickaël Dollé,Olivier Fontaine,0.3559
+A5017012270,A5079440576,Garry Hanan,James D. Wuest,0.3547
+A5052166021,A5053654843,William Lubell,Hélène Lebel,0.3535
+A5007659077,A5053648717,Radu Ion Iftimie,Matthias Ernzerhof,0.3529
+A5045192476,A5070036659,Shawn Collins,Stephen Hanessian,0.3504
+A5013189455,A5076632634,Richard Martel,Michel Côté,0.3465
+A5016488881,A5066370290,William Witczak-Krempa,Luc Vinet,0.3458
+A5066370290,A5089037553,Luc Vinet,Richard MacKenzie,0.3455
+A5016488881,A5089037553,William Witczak-Krempa,Richard MacKenzie,0.3453
+A5077764215,A5084680707,Sébastien Sauvé,Kevin James Wilkinson,0.3445
+A5017996250,A5079440576,Ehsan Hamzehpoor,James D. Wuest,0.3438
+A5005117825,A5043037494,Guy Wolf,Guillaume Lajoie,0.3426
+A5023407804,A5024277895,Jean-François Masson,Joelle Pelletier,0.3419
+A5034714891,A5056567141,David Lafrenière,Julie Hlavacek-Larrondo,0.3384
+A5033992741,A5051657374,Florian Maire,Kirill Neklyudov,0.3319
+A5004912735,A5027347179,Christian Pellerin,Audrey Laventure,0.3222
+A5045637236,A5050671055,David London,Manu Paranjape,0.3219
+A5006672097,A5045192476,Andreea-Ruxandra Schmitzer,Shawn Collins,0.3164
+A5014474329,A5039688504,Iosif Polterovich,Dylan Cant,0.3099
+A5045192476,A5052166021,Shawn Collins,William Lubell,0.306
+A5043575731,A5045192476,Yvan Guindon,Shawn Collins,0.306
+A5017996250,A5028427743,Ehsan Hamzehpoor,William Skene,0.3039
+A5017012270,A5084579525,Garry Hanan,Frank Schaper,0.3039
+A5027347179,A5079440576,Audrey Laventure,James D. Wuest,0.3038
+A5053654843,A5079440576,Hélène Lebel,James D. Wuest,0.3032
+A5028427743,A5100417531,William Skene,Carlos Silva,0.3021
+A5017012270,A5017996250,Garry Hanan,Ehsan Hamzehpoor,0.3003
+A5000818628,A5027347179,Madison Mooney,Audrey Laventure,0.2953
+A5055133133,A5066370290,Juan Margalef Bentabol,Luc Vinet,0.2869
+A5053648717,A5076632634,Matthias Ernzerhof,Michel Côté,0.2838
+A5007659077,A5079440576,Radu Ion Iftimie,James D. Wuest,0.2824
+A5008611010,A5077510531,Maciej Augustyniak,Manuel Morales,0.2777
+A5050671055,A5103196997,Manu Paranjape,Jean-François Arguin,0.271
+A5009112657,A5059602798,Nicole St-Louis,Laurence Perreault-Levasseur,0.2706
+A5017012270,A5045192476,Garry Hanan,Shawn Collins,0.2704
+A5051657374,A5059602798,Kirill Neklyudov,Laurence Perreault-Levasseur,0.2689
+A5005486840,A5033992741,Mylène Bédard,Florian Maire,0.2681
+A5022137374,A5071159726,Normand Mousseau,Sjoerd Roorda,0.2673
+A5007659077,A5100417531,Radu Ion Iftimie,Carlos Silva,0.2668
+A5070793994,A5090500739,Björn Benneke,Yashar Hezaveh,0.264
+A5027347179,A5028427743,Audrey Laventure,William Skene,0.2639
+A5089037553,A5103196997,Richard MacKenzie,Jean-François Arguin,0.2637
+A5000818628,A5100417531,Madison Mooney,Carlos Silva,0.2581
+A5002074317,A5070036659,Samy Cecioni,Stephen Hanessian,0.2568
+A5026261263,A5079440576,André Charette,James D. Wuest,0.2565
+A5101868545,A5107599274,Philippe Gagnon,Martin Bilodeau,0.2558
+A5016488881,A5076632634,William Witczak-Krempa,Michel Côté,0.2544
+A5002074317,A5043575731,Samy Cecioni,Yvan Guindon,0.2525
+A5014474329,A5062139920,Iosif Polterovich,Egor Shelukhin,0.2525
+A5043575731,A5052166021,Yvan Guindon,William Lubell,0.2518
+A5027187986,A5027347179,Mickaël Dollé,Audrey Laventure,0.2498
+A5028074975,A5089556545,Jake Levinson,Dimitrios Koukoulopoulos,0.2487
+A5059602798,A5070793994,Laurence Perreault-Levasseur,Björn Benneke,0.2476
+A5008611010,A5019320081,Maciej Augustyniak,Andrew Granville,0.2473
+A5076632634,A5100417531,Michel Côté,Carlos Silva,0.2463
+A5005486840,A5089556545,Mylène Bédard,Dimitrios Koukoulopoulos,0.2428
+A5077510531,A5107599274,Manuel Morales,Martin Bilodeau,0.2397
+A5045192476,A5084579525,Shawn Collins,Frank Schaper,0.2382
+A5014474329,A5110110267,Iosif Polterovich,Octavian Cornea,0.2369
+A5004912735,A5085413898,Christian Pellerin,Antonella Badia,0.2361
+A5009112657,A5056567141,Nicole St-Louis,Julie Hlavacek-Larrondo,0.2358
+A5017012270,A5100417531,Garry Hanan,Carlos Silva,0.2343
+A5043031001,A5085413898,Xavier Banquy,Antonella Badia,0.2341
+A5008644041,A5090500739,Patrick Dufour,Yashar Hezaveh,0.2335
+A5006672097,A5084579525,Andreea-Ruxandra Schmitzer,Frank Schaper,0.232
+A5007134530,A5082911667,Dirk Douwes-Schultz,Louis Doray,0.2319
+A5009720385,A5027347179,Dominic Rochefort,Audrey Laventure,0.2315
+A5028074975,A5083022273,Jake Levinson,Lucas Benigni,0.2304
+A5022137374,A5074228134,Normand Mousseau,François Schiettekatte,0.2302
+A5028427743,A5079440576,William Skene,James D. Wuest,0.2282
+A5006672097,A5070036659,Andreea-Ruxandra Schmitzer,Stephen Hanessian,0.2246
+A5083022273,A5107893043,Lucas Benigni,Alexander Fribergh,0.2233
+A5062139920,A5069225013,Egor Shelukhin,Matilde Lalin,0.2216
+A5045725542,A5074228134,Luc Stafford,François Schiettekatte,0.2201
+A5051657374,A5090500739,Kirill Neklyudov,Yashar Hezaveh,0.2192
+A5014226146,A5033992741,Alejandro Murua,Florian Maire,0.2191
+A5023407804,A5040405132,Jean-François Masson,Alexis Vallée-Bélisle,0.2187
+A5006672097,A5079440576,Andreea-Ruxandra Schmitzer,James D. Wuest,0.2172
+A5048754539,A5070793994,Paul Charbonneau,Björn Benneke,0.2162
+A5013189455,A5045725542,Richard Martel,Luc Stafford,0.2133
+A5008611010,A5089556545,Maciej Augustyniak,Dimitrios Koukoulopoulos,0.2113
+A5053648717,A5085413898,Matthias Ernzerhof,Antonella Badia,0.2107
+A5041011192,A5089556545,Dmitry Faifman,Dimitrios Koukoulopoulos,0.2106
+A5014474329,A5019320081,Iosif Polterovich,Andrew Granville,0.2094
+A5008611010,A5080468380,Maciej Augustyniak,Pierre Duchesne,0.2093
+A5009187210,A5038314260,Pierre Thibault,Pierre Chaurand,0.2086
+A5055133133,A5058237265,Juan Margalef Bentabol,Leonid Rybnikov,0.2085
+A5009998553,A5076632634,Delphine Bouilly,Michel Côté,0.2063
+A5007659077,A5084579525,Radu Ion Iftimie,Frank Schaper,0.2056
+A5009998553,A5053648717,Delphine Bouilly,Matthias Ernzerhof,0.2043
+A5007659077,A5076632634,Radu Ion Iftimie,Michel Côté,0.2022
+A5023407804,A5043031001,Jean-François Masson,Xavier Banquy,0.202
+A5002074317,A5009187210,Samy Cecioni,Pierre Thibault,0.2018
+A5027347179,A5085413898,Audrey Laventure,Antonella Badia,0.2016
