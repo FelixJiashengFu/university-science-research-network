@@ -161,6 +161,7 @@ def add_sim(G, keep=lambda a, b: True):
 org_info = {}; prof_org = collections.defaultdict(collections.Counter); org_works = collections.defaultdict(set)
 for p in profs:
     for wid in prof_works[p]:
+        if works[wid]["n_authors"] > BIG_COLLAB: continue  # collaboration papers list every member institution
         for oid, oname, otype, cc in works[wid].get("orgs") or []:
             if otype != "company" or not oid: continue
             org_info[oid] = dict(name=oname, country=cc); prof_org[p][oid] += 1; org_works[oid].add(wid)
@@ -348,6 +349,7 @@ index.append(export(G, "topics", "研究主题地图", "研究主题之间的关
 inst_info = {}; prof_inst = collections.defaultdict(collections.Counter)
 for p in profs:
     for wid in prof_works[p]:
+        if works[wid]["n_authors"] > BIG_COLLAB: continue
         for oid, oname, otype, cc in works[wid].get("orgs") or []:
             if otype == "company" or not oid: continue
             inst_info[oid] = dict(name=oname, type=otype, country=cc); prof_inst[p][oid] += 1
