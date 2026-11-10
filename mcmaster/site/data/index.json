@@ -3,8 +3,8 @@
   "id": "main",
   "title": "主网：教授 · 主题 · 学科 · 论文 · 全部关系",
   "description": "所有已匹配教授；每人主要研究主题及被多人共享的主题；主题→子领域→领域的学科层级；全部网内合作论文与每人被引最多的 5 篇论文；合写 ≥3 篇的企业与教授创办的公司；合写、大型合作、研究相似、产业合作、创办等全部关系。",
-  "nodes": 1289,
-  "edges": 3030
+  "nodes": 1294,
+  "edges": 3038
  },
  {
   "id": "coauthor",
@@ -122,8 +122,8 @@
   "id": "area-math-pure",
   "title": "方向子网：数学：代数 · 几何 · 拓扑 · 数理逻辑",
   "description": "数学系中主要子领域为 Geometry and Topology 或 Algebra and Number Theory 的教授（含模型论与 o-极小结构）。",
-  "nodes": 22,
-  "edges": 44
+  "nodes": 19,
+  "edges": 32
  },
  {
   "id": "area-math-analysis",
@@ -150,8 +150,8 @@
   "id": "topics",
   "title": "研究主题地图",
   "description": "研究主题之间的关联：两个主题被同一位教授（≥2 篇论文）研究时相连，按学科领域着色。",
-  "nodes": 135,
-  "edges": 276
+  "nodes": 136,
+  "edges": 286
  },
  {
   "id": "innovation",
