@@ -1,0 +1,49 @@
+Louigi Addario-Berry|Prof CRC Tier 1|Applied Mathematics, Discrete Mathematics, Probability, Statistics|louigi-addario-berry
+Patrick Allen|Assoc Prof|Number Theory|patrick-allen
+Masoud Asgharian|Prof|Statistics|masoud-asgharian
+Rosalie Bélanger-Rioux|Senior Faculty Lecturer||rosalie-belanger-rioux
+Linan Chen|Assoc Prof|Analysis, Probability|linan-chen
+Rustum Choksi|Prof|Applied Mathematics|rustum-choksi
+Jose Andres Correa|Senior Faculty Lecturer|Statistics|jose-andres-correa
+Mehdi Dagdoug|Asst Prof|Statistics|mehdi-dagdoug
+Henri Darmon|Distinguished James McGill Prof|Number Theory|henri-darmon
+Ameer Dharamshi|Asst Prof|Statistics|ameer-dharamshi
+Jérôme Fortier|Senior Faculty Lecturer||jerome-fortier
+Christian Genest|Distinguished James McGill Prof|Statistics|christian-genest
+Eyal Z Goren|Prof|Number Theory|eyal-z-goren
+Pengfei Guan|Distinguished James McGill Prof|Analysis, Geometry, Partial Differential Equations|pengfei-guan
+Tim Hoheisel|Assoc Prof||tim-hoheisel
+Tony Humphries|Assoc Prof|Analysis, Applied Mathematics, Mathematical Biology, Numerical Analysis|tony-humphries
+Axel W Hundemer|Assoc Prof (Teaching)||axel-w-hundemer
+Dmitry Jakobson|Prof|Analysis|dmitry-jakobson
+Joel Kamnitzer|James McGill Prof|Algebra, Algebraic Geometry|joel-kamnitzer
+Niky Kamran|Distinguished James McGill Prof|Analysis, Geometry, Mathematical Physics|niky-kamran
+Armel Kelome|Assoc Prof (Teaching)||armel-kelome
+Abbas Khalili|Prof|Statistics|abbas-khalili
+Eric D. Kolaczyk|Prof CRC Tier 1|Statistics|eric-d-kolaczyk
+Kiwon Lee|Faculty Lecturer|Probability|kiwon-lee
+Jean-Philippe Lessard|Prof|Applied Mathematics, Numerical Analysis, Partial Differential Equations|jean-philippe-lessard
+Jessica Lin|Assoc Prof CRC Tier 2|Partial Differential Equations, Probability|jessica-lin
+Jeremy Macdonald|Senior Faculty Lecturer||jeremy-macdonald
+Jean Pierre Mutanguha|Asst Prof|Geometry and Topology, Geometric Group Theory|jean-pierre-mutanguha
+Tharshanna Nadarajah|Faculty Lecturer|Statistics|tharshanna-nadarajah
+Jean-Christophe Nave|Assoc Prof|Applied Mathematics, Numerical Analysis, Partial Differential Equations|jean-christophe-nave
+Johanna Nešlehová|Prof|Statistics|johanna-neslehova
+Sergey Norin|Prof|Discrete Mathematics|sergey-norin
+Adam Oberman|Prof Canada CIFAR AI Chair|Applied Mathematics, Partial Differential Equations|adam-oberman
+Courtney Paquette|Assoc Prof Canada CIFAR AI Chair||courtney-paquette
+Elliot Paquette|Assoc Prof||elliot-paquette
+Mikael Pichot|Assoc Prof|Analysis, Geometric Group Theory|mikael-pichot
+Piotr Przytycki|Prof|Geometry and Topology, Geometric Group Theory|piotr-przytycki
+Brent Pym|Assoc Prof|Algebra, Geometry, Mathematical Physics|brent-pym
+Marcin Sabok|Assoc Prof|Geometric Group Theory, Logic|marcin-sabok
+Alia Sajjad|Senior Faculty Lecturer|Statistics|alia-sajjad
+Russell Steele|Assoc Prof|Statistics|russell-steele
+David A. Stephens|Prof|Statistics|david-stephens
+John A Toth|Prof||john-toth
+Sidney Trudeau|Senior Faculty Lecturer||sidney-trudeau
+Anush Tserunyan|Assoc Prof||anush-tserunyan
+Gantumur Tsogtgerel|Assoc Prof|Applied Mathematics|gantumur-tsogtgerel
+Adrian Roshan Vetta|Prof (joint with Computer Science)|Discrete Mathematics|adrian-roshan-vetta
+Jérôme Vétois|Assoc Prof|Analysis, Partial Differential Equations|jerome-vetois
+Archer Y. Yang|Assoc Prof|Statistics|archer-y-yang

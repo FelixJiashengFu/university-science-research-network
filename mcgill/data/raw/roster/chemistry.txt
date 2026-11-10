@@ -1,0 +1,38 @@
+Mark Andrews|Prof
+Parisa Ariya|Prof
+Bruce Arndtsen|Prof
+Karine Auclair|Prof
+Amy Blum|Assoc Prof
+Scott Bohle|Prof
+Lucas Caire da Silva|Asst Prof
+Gonzalo Cosa|Prof
+Masad Damha|Prof
+James Gleason|Prof
+Matthew Harrington|Prof
+Ashok Kakkar|Prof
+Pat Kambhampati|Prof
+Rustam Khaliullin|Assoc Prof
+Marc-André Légaré|Asst Prof
+Bruce Lennox|Prof
+Chao-Jun Li|Prof
+Nathan Luedtke|Prof
+Jean-Philip Lumb|Assoc Prof
+Janine Mauzeroll|Prof
+Eric McCalla|Assoc Prof
+Maureen McKeague|Assoc Prof
+Tony Mittermaier|Prof
+Nicolas Moitessier|Prof
+Audrey Moores|Prof
+Dima Perepichka|Prof
+Thomas Preston|Assoc Prof
+Linda Reven|Assoc Prof
+Lena Simine|Assoc Prof
+Brad Siwick|Assoc Prof
+Hanadi Sleiman|Prof
+Christopher Thibodeaux|Assoc Prof
+Youla Tsantrizos|Prof
+Theo van de Ven|Prof
+Paul Wiseman|Prof
+Laura Pavelka|Faculty Lecturer
+Sam Sewall|Faculty Lecturer
+Pallavi Sirjoosingh|Faculty Lecturer

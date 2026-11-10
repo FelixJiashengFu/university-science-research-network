@@ -1,0 +1,38 @@
+Robert Brandenberger|Distinguished James McGill Prof|Theoretical High Energy
+Thomas Brunner|Prof CRC Tier 2|Experimental Nuclear
+Simon Caron-Huot|Assoc Prof CRC Tier 2|Theoretical High Energy
+Cynthia Chiang|Assoc Prof|Astrophysics
+Lily Childress|Assoc Prof|Experimental Condensed Matter
+Jim Cline|Prof|Theoretical High Energy
+Bill Coish|Prof|Theoretical Condensed Matter
+David Cooke|Prof|Experimental Condensed Matter
+François Corriveau|Prof|Experimental High Energy
+Nicolas Cowan|Prof CRC Tier 2|Astrophysics
+Andrew Cumming|Assoc Prof|Astrophysics
+Keshav Dasgupta|Prof|Theoretical High Energy
+Matt Dobbs|Prof CRC Tier 1|Astrophysics
+Charles Gale|Distinguished James McGill Prof|Theoretical Nuclear
+Guillaume Gervais|Prof|Experimental Condensed Matter
+Peter Grütter|Distinguished James McGill Prof|Experimental Condensed Matter
+Hong Guo|James McGill Prof|Theoretical Condensed Matter
+Daryl Haggard|Prof CRC Tier 2|Astrophysics
+Jason Hessels|Prof Canada Excellence Research Chair|Astrophysics
+Michael Hilke|Assoc Prof|Experimental Condensed Matter
+Sangyong Jeon|Prof Macdonald Chair|Theoretical Nuclear
+Victoria M. Kaspi|Distinguished James McGill Prof|Astrophysics
+Adrian Liu|Assoc Prof|Astrophysics
+Shaun Lovejoy|Prof|Non Linear Dynamics
+Tami Pereg-Barnea|Prof|Theoretical Condensed Matter
+Nikolas Provatas|Distinguished James McGill Prof|Theoretical Condensed Matter
+Kenneth Ragan|Chair / Prof|Particle Astrophysics
+Walter Reisner|Prof|Biophysics
+Robert E. Rutledge|Assoc Prof|Astrophysics
+Jack Sankey|Assoc Prof Macdonald Chair|Experimental Condensed Matter
+Katelin Schutz|Asst Prof CRC Tier 2|Theoretical High Energy
+Jonathan Sievers|Assoc Prof Canada 150 Research Chair|Astrophysics
+Bradley Siwick|Assoc Prof CRC Tier 1|Experimental Condensed Matter
+Brigitte Vachon|Prof CRC Tier 1|Experimental High Energy
+Kai Wang|Asst Prof CRC Tier 2|Experimental Condensed Matter
+Andreas Warburton|Prof|Experimental High Energy
+Tracy Webb|Assoc Prof|Astrophysics
+Paul Wiseman|Prof (joint with Chemistry)|Biophysics
