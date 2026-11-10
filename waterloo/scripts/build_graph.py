@@ -370,3 +370,9 @@ with open("data/processed/topics.csv", "w", newline="") as f:
     w = csv.writer(f); w.writerow(["topic_id", "topic", "subfield", "field", "n_profs", "depts"])
     for t, ps in sorted(topic_profs.items(), key=lambda x: -len(x[1])):
         ti = topic_info[t]; w.writerow([t, ti["name"], ti["subfield"], ti["field"], len(ps), "/".join(sorted({dept(p) for p in ps}))])
+
+# OpenAlex titles occasionally carry U+FFFD (undecodable characters); drop them from the published data
+import glob
+for fn in glob.glob("site/data/*.json"):
+    s = open(fn, encoding="utf-8").read()
+    if "�" in s: open(fn, "w", encoding="utf-8").write(s.replace("�", ""))
