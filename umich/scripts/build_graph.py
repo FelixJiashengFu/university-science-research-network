@@ -6,6 +6,9 @@ Outputs: site/data/<network>.json  (sigma/graphology format with precomputed x,y
          data/processed/{professors,edges_coauthor,edges_similarity,topics}.csv
 """
 import csv, json, math, os, collections, itertools, re
+import sys
+if os.environ.get("PYTHONHASHSEED") != "0":  # set iteration order decides ties (top subfield, top topics): make rebuilds reproducible
+    os.environ["PYTHONHASHSEED"] = "0"; os.execv(sys.executable, [sys.executable] + sys.argv)
 import networkx as nx
 import numpy as np
 
@@ -37,7 +40,7 @@ for aid in profs:
     if not os.path.exists(fn): continue
     for line in open(fn):
         w = json.loads(line)
-        if w.get("type") in ("erratum", "retraction", "paratext", "peer-review"): continue
+        if w.get("type") in ("erratum", "retraction", "paratext", "peer-review", "dataset", "supplementary-materials"): continue  # datasets: e.g. PDB depositions, hundreds per person
         works.setdefault(w["id"], w); prof_works[aid].add(w["id"])
 print("profs", len(profs), "works", len(works))
 
@@ -161,6 +164,7 @@ def add_sim(G, keep=lambda a, b: True):
 org_info = {}; prof_org = collections.defaultdict(collections.Counter); org_works = collections.defaultdict(set)
 for p in profs:
     for wid in prof_works[p]:
+        if works[wid]["n_authors"] > BIG_COLLAB: continue  # a company on a 100+-author collaboration paper is not an industry tie
         for oid, oname, otype, cc in works[wid].get("orgs") or []:
             if otype != "company" or not oid: continue
             org_info[oid] = dict(name=oname, country=cc); prof_org[p][oid] += 1; org_works[oid].add(wid)
@@ -316,6 +320,7 @@ index.append(export(G, "topics", "研究主题地图", "研究主题之间的关
 inst_info = {}; prof_inst = collections.defaultdict(collections.Counter)
 for p in profs:
     for wid in prof_works[p]:
+        if works[wid]["n_authors"] > BIG_COLLAB: continue
         for oid, oname, otype, cc in works[wid].get("orgs") or []:
             if otype == "company" or not oid: continue
             inst_info[oid] = dict(name=oname, type=otype, country=cc); prof_inst[p][oid] += 1

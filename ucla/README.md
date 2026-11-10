@@ -7,14 +7,14 @@
 ## 规模
 
 - 名单：187 位在职教师（数学 42、物理与天文 57、化学与生物化学 88；不含荣休教授、讲师与博士后）。
-- OpenAlex 匹配 181 个作者档案，约 3.6 万篇论文（去掉 PDB 结构数据集等 dataset 记录后）。未匹配的 6 位（Maya Pathuri、Frank Ow、Johnny W. Pang、Hung V. Pham、Sining Wang、Richard L. Weiss）多为教学序列教师，OpenAlex 里没有可靠档案。
+- OpenAlex 匹配 181 个作者档案，约 3.6 万篇论文（去掉 dataset 类记录后）。未匹配的 6 位（Maya Pathuri、Frank Ow、Johnny W. Pang、Hung V. Pham、Sining Wang、Richard L. Weiss）多为教学序列教师，OpenAlex 里没有可靠档案。
 - 加州纳米系统研究所（CNSI）：按论文署名统计，34 位教授有 ≥5 篇论文同时署名 CNSI，单独成网。
 
 ## 网络一览
 
 | 网络 | 节点 | 边 | 内容 |
 |---|---|---|---|
-| **主网：教授 · 主题 · 学科 · 论文 · 全部关系** | 3899 | 11951 | 所有已匹配教授；每人主要研究主题及被多人共享的主题；主题→子领域→领域的学科层级；全部网内合作论文与每人被引最多的 5 篇论文；合写 ≥3 篇的企业与教授创办的公司；合写、大型合作、研究相似、产业合作、创办等全部关系。 |
+| **主网：教授 · 主题 · 学科 · 论文 · 全部关系** | 3898 | 11952 | 所有已匹配教授；每人主要研究主题及被多人共享的主题；主题→子领域→领域的学科层级；全部网内合作论文与每人被引最多的 5 篇论文；合写 ≥3 篇的企业与教授创办的公司；合写、大型合作、研究相似、产业合作、创办等全部关系。 |
 | 合作网 | 144 | 398 | 只看教授之间真实合写的论文（≤100 作者的论文为深色边，大型合作论文为浅色边）。 |
 | 研究相似网 | 172 | 449 | 按研究主题分布（TF-IDF 余弦相似度）连接每位教授最相近的同行，不要求合写过论文。 |
 | 交叉学科网 | 309 | 995 | 只保留跨系（数学×物理与天文×化学与生物化学）的合作、相似关系，以及被至少两个系的教授共同研究的主题。 |
@@ -37,8 +37,8 @@
 | 方向子网：数学：代数 · 数论 · 几何 · 拓扑 · 组合 · 逻辑 | 35 | 111 | 数学系中，主要研究子领域（OpenAlex）为代数与数论、几何与拓扑、离散数学与组合或计算理论的教授。 |
 | 方向子网：数学：分析 · 偏微分方程 · 概率 · 数学物理 | 35 | 71 | 数学系中，主要研究子领域（OpenAlex）为数学物理、应用数学（多为偏微分方程与分析）或统计与概率的教授。 |
 | 方向子网：数学：应用与计算数学 · 数据科学 · 图像与网络 | 49 | 116 | 数学系中，主要研究子领域（OpenAlex）属于计算力学、人工智能、计算机视觉、信号处理、金融、非线性物理、生物等应用方向的教授。 |
-| 研究主题地图 | 341 | 1911 | 研究主题之间的关联：两个主题被同一位教授（≥2 篇论文）研究时相连，按学科领域着色。 |
-| **创新创业网** | 284 | 589 | 教授与企业的联系：① 与企业作者合写过 ≥2 篇论文的公司（OpenAlex 机构类型 = company）；② 教授创办/联合创办的公司（逐条附公开来源，见 data/manual/startups.csv）；③ 教授之间的合写关系。 |
+| 研究主题地图 | 344 | 1924 | 研究主题之间的关联：两个主题被同一位教授（≥2 篇论文）研究时相连，按学科领域着色。 |
+| **创新创业网** | 280 | 582 | 教授与企业的联系：① 与企业作者合写过 ≥2 篇论文的公司（OpenAlex 机构类型 = company）；② 教授创办/联合创办的公司（逐条附公开来源，见 data/manual/startups.csv）；③ 教授之间的合写关系。 |
 
 每张网都用 Louvain 算法划分研究社群，可在页面上切换"按研究社群"着色。
 
@@ -52,7 +52,7 @@
 
 ## 创新创业板块
 
-- **产业合写**：论文作者机构中 OpenAlex 类型为 `company` 的单位，按教授统计合写篇数（`data/processed/industry_links.csv`）。创新创业网保留 ≥2 篇的联系，主网保留 ≥3 篇的。合作最多的企业有 RadiaBeam、Merck、ExxonMobil、Amgen、Pfizer、HRL、Northrop Grumman 等。
+- **产业合写**：论文作者机构中 OpenAlex 类型为 `company` 的单位，按教授统计合写篇数（`data/processed/industry_links.csv`）。创新创业网保留 ≥2 篇的联系，主网保留 ≥3 篇的；≥100 作者的大型合作论文不计入（否则 Kusenko、Gelmini 会因天体粒子合作论文显示与瑞士 CSEM 合写十几篇）。合作最多的企业有 RadiaBeam、Merck、ExxonMobil、Amgen、Pfizer、HRL、Northrop Grumman 等。
 - **教授创办的公司**：`data/manual/startups.csv`，14 条，每条都附公开来源与原文摘录：Kaner（Nanotech Energy、SuperMetalix、Polycera、Hydrophilix/SILQ）、Jung（Aragon Pharmaceuticals、Pelage、Athos Therapeutics）、Yi Tang（Hexagon Bio）、Narang（Aliro Quantum）、Rosenzweig（RadiaBeam）、Duan（Nanosys，科学联合创始人）、Andrews（FemSync）、Garg（ElectraTect）、Deming（Amicrobe）。只收明确写着 founder / co-founder 的条目；Eisenberg（ADRx）、Putterman（Tribogenics）等找不到明确"创办"表述的没有收录。这份名单**并不完整**，欢迎按同样格式补充。
 - **专利**：暂未纳入。
 
@@ -80,6 +80,6 @@ python3 scripts/build_graph.py     # 主网布局约 5 分钟
 
 - **名单来源**（2026-11-10 读取）：上面三个院系官网页面。云端无法直接访问 ucla.edu，名单经网页抓取工具读出后存成 `data/raw/roster/*.txt`。
 - **作者匹配**：OpenAlex 作者检索（限定 UCLA，I161318765），按姓名、研究领域、当前机构打分。12 位做了人工指定（见 `scripts/openalex_fetch.py` 的 `OVERRIDE`，第一个 id 为主档案，其余碎片的论文合并进来），例如 Bachtis、Stuart Brown 的检索结果只命中 1 篇的碎片档案，Yu Huang、Paul S. Weiss、Young Dae Yoon 被自动匹配到了同名或相近名字的其他人。Hung V. Pham、Sining Wang 的候选档案都是同名的其他人，不匹配。
-- **论文**：每人全部 OpenAlex works，去掉勘误、撤稿、同行评议记录与 dataset（Eisenberg 等人名下有大量 PDB 结构数据集，会把 Genentech 等误算成合作企业）。>60 作者的论文不记录作者名单；≥100 作者的算"大型合作"（OpenAlex 每篇最多返回 100 个作者，100 即表示被截断；CMS、IceCube 等），在合作网中用浅色边。
+- **论文**：每人全部 OpenAlex works，去掉勘误、撤稿、同行评议记录与 dataset。Eisenberg 名下有 1127 条 dataset 记录，其中 921 条是美国能源部 PNNL 数据库里的 "Data for EMSL Project …" 记录，每条都挂着 100 个作者，会把 Genentech 误算成合写 921 篇的合作企业；其余主要是 PDB 结构存档。>60 作者的论文不记录作者名单；≥100 作者的算"大型合作"（OpenAlex 每篇最多返回 100 个作者，100 即表示被截断；CMS、IceCube 等），在合作网中用浅色边。
 - **方向子网**：物理与化学按院系官网标注的研究组；数学系官网不列研究方向，数学的三张方向子网按每人论文最多的 OpenAlex 子领域划分，属近似。
 - 研究相似度：每人论文主题的 TF-IDF 余弦相似度，取最相近的 6 位（阈值 0.2）。

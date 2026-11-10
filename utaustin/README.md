@@ -47,6 +47,6 @@ python3 scripts/build_graph.py     # → site/data/*.json, data/processed/*.csv�
 ## 方法与局限
 
 - **作者匹配**：按姓名、研究领域、当前机构打分。6 人在 `scripts/openalex_fetch.py` 的 OVERRIDE 中手工指定（自动结果错配或缺失：James A. M. Álvarez、Thomas Chen、Nick Hunter-Jones、Jason Shear、Peter Mueller、Dmitry Eremin）。Oscar Gonzalez、Griffin Wang 在 OpenAlex 里找不到可靠档案，暂未纳入网络。
-- **大型合作**：OpenAlex 每篇论文最多返回 100 位作者，因此作者数 ≥100 的论文（ATLAS、LIGO、ALICE 等）一律记为"大型合作"浅色边，不计入合写强度。Andeen、Onyisi、Christina Markert、Deepa Thomas、Hsin-Yu Chen 的论文多为此类。
+- **大型合作**：OpenAlex 每篇论文最多返回 100 位作者，因此作者数 ≥100 的论文（ATLAS、LIGO、ALICE 等）一律记为"大型合作"浅色边，不计入合写强度，也不计入企业合作和校外研究机构合作（否则 ATLAS 一篇论文就会带进上百个机构）。Andeen、Onyisi、Christina Markert、Deepa Thomas、Hsin-Yu Chen 的论文多为此类。
 - **研究主题**：OpenAlex Topic 体系，每篇论文取 primary topic；研究相似 = 主题分布的 TF-IDF 余弦相似度。
 - 数据均来自公开来源；OpenAlex 数据为 CC0。

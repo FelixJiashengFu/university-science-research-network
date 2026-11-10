@@ -1,5 +1,4 @@
 topic_id,topic,subfield,field,n_profs,depts
-T10464,Crystal structures of chemical compounds,Inorganic Chemistry,Chemistry,17,Chemistry
 T10026,"Galaxies: Formation, Evolution, Phenomena",Astronomy and Astrophysics,Physics and Astronomy,13,Physics
 T10207,Advanced biosensing and bioanalysis techniques,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",12,Chemistry/Physics
 T10818,Astrophysics and Cosmic Phenomena,Nuclear and High Energy Physics,Physics and Astronomy,11,Mathematics/Physics
@@ -16,8 +15,8 @@ T10095,Cosmology and Gravitation Theories,Astronomy and Astrophysics,Physics and
 T10013,Asymmetric Synthesis and Catalysis,Organic Chemistry,Chemistry,9,Chemistry
 T10304,Geometric and Algebraic Topology,Geometry and Topology,Mathematics,8,Mathematics/Physics
 T10527,High-Energy Particle Collisions Research,Nuclear and High Energy Physics,Physics and Astronomy,8,Physics
-T12917,Astronomy and Astrophysical Research,Instrumentation,Physics and Astronomy,8,Physics
 T12450,Radio Astronomy Observations and Technology,Astronomy and Astrophysics,Physics and Astronomy,8,Physics
+T12917,Astronomy and Astrophysical Research,Instrumentation,Physics and Astronomy,8,Physics
 T11323,Gamma-ray bursts and supernovae,Astronomy and Astrophysics,Physics and Astronomy,8,Physics
 T10835,Carbohydrate Chemistry and Synthesis,Organic Chemistry,Chemistry,8,Chemistry
 T11680,Advanced Algebra and Geometry,Algebra and Number Theory,Mathematics,7,Mathematics
@@ -59,14 +58,14 @@ T10002,Advanced Chemical Physics Studies,"Atomic and Molecular Physics, and Opti
 T11129,Photochemistry and Electron Transfer Studies,Physical and Theoretical Chemistry,Chemistry,5,Chemistry/Physics
 T10407,Lipid Membrane Structure and Behavior,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",5,Chemistry/Physics
 T11746,Inorganic and Organometallic Chemistry,Inorganic Chemistry,Chemistry,5,Chemistry
-T10871,Catalytic Alkyne Reactions,Organic Chemistry,Chemistry,5,Chemistry
 T11989,Oxidative Organic Chemistry Reactions,Organic Chemistry,Chemistry,5,Chemistry
+T10871,Catalytic Alkyne Reactions,Organic Chemistry,Chemistry,5,Chemistry
 T10911,Chemical Synthesis and Analysis,Organic Chemistry,Chemistry,5,Chemistry
 T11441,Organoboron and organosilicon chemistry,Organic Chemistry,Chemistry,5,Chemistry
 T11419,Supramolecular Self-Assembly in Materials,Biomaterials,Materials Science,5,Chemistry
-T10948,Advanced Combinatorial Mathematics,Discrete Mathematics and Combinatorics,Mathematics,4,Mathematics
 T11152,Stochastic processes and statistical mechanics,Mathematical Physics,Mathematics,4,Mathematics
 T10374,Advanced Graph Theory Research,Computational Theory and Mathematics,Computer Science,4,Mathematics
+T10948,Advanced Combinatorial Mathematics,Discrete Mathematics and Combinatorics,Mathematics,4,Mathematics
 T11303,Bayesian Modeling and Causal Inference,Artificial Intelligence,Computer Science,4,Mathematics
 T11471,Block Copolymer Self-Assembly,Materials Chemistry,Materials Science,4,Chemistry/Mathematics
 T10968,Statistical Distribution Estimation and Applications,Statistics and Probability,Mathematics,4,Mathematics
@@ -87,17 +86,17 @@ T10275,2D Materials and Applications,Materials Chemistry,Materials Science,4,Phy
 T10030,Electrocatalysts for Energy Conversion,"Renewable Energy, Sustainability and the Environment",Energy,4,Chemistry/Physics
 T10077,Neuroscience and Neuropharmacology Research,Cellular and Molecular Neuroscience,Neuroscience,4,Chemistry/Physics
 T10018,Advancements in Battery Materials,Electrical and Electronic Engineering,Engineering,4,Chemistry/Physics
-T10078,Advanced Photocatalysis Techniques,"Renewable Energy, Sustainability and the Environment",Energy,4,Chemistry/Physics
 T10721,Surfactants and Colloidal Systems,Physical and Theoretical Chemistry,Chemistry,4,Chemistry/Physics
+T10078,Advanced Photocatalysis Techniques,"Renewable Energy, Sustainability and the Environment",Energy,4,Chemistry/Physics
 T12274,Electrostatics and Colloid Interactions,Physical and Theoretical Chemistry,Chemistry,4,Chemistry/Physics
 T11177,Spectroscopy and Quantum Chemical Studies,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,4,Chemistry/Physics
 T11611,Cyclopropane Reaction Mechanisms,Organic Chemistry,Chemistry,4,Chemistry
-T12327,Various Chemistry Research Topics,Education,Social Sciences,4,Chemistry
 T10252,Microbial Natural Products and Biosynthesis,Applied Microbiology and Biotechnology,Immunology and Microbiology,4,Chemistry
+T12327,Various Chemistry Research Topics,Education,Social Sciences,4,Chemistry
 T13649,Advanced Synthetic Organic Chemistry,Organic Chemistry,Chemistry,4,Chemistry
-T12191,Physical Organic Chemistry and Reaction Kinetics,Organic Chemistry,Chemistry,4,Chemistry
-T10798,Crystallography and molecular interactions,Physical and Theoretical Chemistry,Chemistry,4,Chemistry
 T10903,Porphyrin and Phthalocyanine Chemistry,Materials Chemistry,Materials Science,4,Chemistry
+T10798,Crystallography and molecular interactions,Physical and Theoretical Chemistry,Chemistry,4,Chemistry
+T12191,Physical Organic Chemistry and Reaction Kinetics,Organic Chemistry,Chemistry,4,Chemistry
 T11240,Luminescence and Fluorescent Materials,Materials Chemistry,Materials Science,4,Chemistry
 T10725,RNA Interference and Gene Delivery,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",4,Chemistry
 T11831,Chemical Synthesis and Reactions,Organic Chemistry,Chemistry,4,Chemistry
@@ -106,8 +105,8 @@ T10163,Metal complexes synthesis and properties,Oncology,Medicine,4,Chemistry
 T13500,Probability and Statistical Research,Statistics and Probability,Mathematics,3,Mathematics
 T10064,Complex Network Analysis Techniques,Statistical and Nonlinear Physics,Physics and Astronomy,3,Mathematics
 T12056,Markov Chains and Monte Carlo Methods,Statistics and Probability,Mathematics,3,Mathematics
-T11901,Bayesian Methods and Mixture Models,Artificial Intelligence,Computer Science,3,Mathematics
 T10883,Ethics and Social Impacts of AI,Artificial Intelligence,Computer Science,3,Mathematics
+T11901,Bayesian Methods and Mixture Models,Artificial Intelligence,Computer Science,3,Mathematics
 T11087,Solidification and crystal growth phenomena,Materials Chemistry,Materials Science,3,Mathematics/Physics
 T11205,Numerical methods in inverse problems,Mathematical Physics,Mathematics,3,Mathematics
 T13030,Survey Sampling and Estimation Techniques,Statistics and Probability,Mathematics,3,Mathematics
@@ -117,13 +116,13 @@ T12351,Geometry and complex manifolds,Geometry and Topology,Mathematics,3,Mathem
 T10963,Advanced Optimization Algorithms Research,Numerical Analysis,Mathematics,3,Mathematics
 T11416,Numerical Solvers for Ordinary Differential Equations,Numerical Analysis,Mathematics,3,Mathematics
 T12396,Advanced Differential Equations and Dynamical Systems,Geometry and Topology,Mathematics,3,Mathematics
-T11187,Nonlinear Dynamics and Pattern Formation,Statistical and Nonlinear Physics,Physics and Astronomy,3,Mathematics/Physics
 T11683,Quantum and Classical Electrodynamics,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,3,Mathematics/Physics
+T11187,Nonlinear Dynamics and Pattern Formation,Statistical and Nonlinear Physics,Physics and Astronomy,3,Mathematics/Physics
 T11262,Quantum Mechanics and Non-Hermitian Physics,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,3,Mathematics/Physics
-T10887,Bioinformatics and Genomic Networks,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",3,Mathematics
 T10764,Privacy-Preserving Technologies in Data,Artificial Intelligence,Computer Science,3,Mathematics
-T11875,Statistics Education and Methodologies,Statistics and Probability,Mathematics,3,Mathematics/Physics
 T10261,Genetic Associations and Epidemiology,Genetics,"Biochemistry, Genetics and Molecular Biology",3,Mathematics
+T10887,Bioinformatics and Genomic Networks,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",3,Mathematics
+T11875,Statistics Education and Methodologies,Statistics and Probability,Mathematics,3,Mathematics/Physics
 T10360,Fluid Dynamics and Turbulent Flows,Computational Mechanics,Engineering,3,Mathematics/Physics
 T10921,Neutrino Physics Research,Nuclear and High Energy Physics,Physics and Astronomy,3,Physics
 T11367,Particle accelerators and beam dynamics,Nuclear and High Energy Physics,Physics and Astronomy,3,Chemistry/Physics
@@ -133,10 +132,10 @@ T11803,Superconducting and THz Device Technology,Electrical and Electronic Engin
 T11449,Mechanical and Optical Resonators,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,3,Physics
 T12612,Strong Light-Matter Interactions,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,3,Chemistry/Physics
 T10566,Laser-Matter Interactions and Applications,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,3,Chemistry/Physics
-T10923,Force Microscopy Techniques and Applications,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,3,Chemistry/Physics
 T10049,Magnetic properties of thin films,Condensed Matter Physics,Physics and Astronomy,3,Physics
-T10474,Material Dynamics and Properties,Materials Chemistry,Materials Science,3,Chemistry/Physics
+T10923,Force Microscopy Techniques and Applications,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,3,Chemistry/Physics
 T10074,Carbon Nanotubes in Composites,Materials Chemistry,Materials Science,3,Chemistry/Physics
+T10474,Material Dynamics and Properties,Materials Chemistry,Materials Science,3,Chemistry/Physics
 T11277,Thermal properties of materials,Materials Chemistry,Materials Science,3,Physics
 T10347,Atmospheric aerosols and clouds,Global and Planetary Change,Environmental Science,3,Chemistry/Physics
 T10666,Photonic Crystals and Applications,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,3,Chemistry/Physics
@@ -149,12 +148,12 @@ T11593,Carbon dioxide utilization in catalysis,Process Chemistry and Technology,
 T10024,TiO2 Photocatalysis and Solar Cells,"Renewable Energy, Sustainability and the Environment",Energy,3,Chemistry
 T10817,Multicomponent Synthesis of Heterocycles,Organic Chemistry,Chemistry,3,Chemistry
 T13489,Synthesis of β-Lactam Compounds,Organic Chemistry,Chemistry,3,Chemistry
-T13539,thermodynamics and calorimetric analyses,Physical and Theoretical Chemistry,Chemistry,3,Chemistry
-T11748,Organophosphorus compounds synthesis,Organic Chemistry,Chemistry,3,Chemistry
 T11747,Metal-Catalyzed Oxygenation Mechanisms,Inorganic Chemistry,Chemistry,3,Chemistry
+T11748,Organophosphorus compounds synthesis,Organic Chemistry,Chemistry,3,Chemistry
+T13539,thermodynamics and calorimetric analyses,Physical and Theoretical Chemistry,Chemistry,3,Chemistry
 T11445,Origins and Evolution of Life,Astronomy and Astrophysics,Physics and Astronomy,3,Chemistry
-T12038,Covalent Organic Framework Applications,Materials Chemistry,Materials Science,3,Chemistry
 T11809,Advanced NMR Techniques and Applications,Spectroscopy,Chemistry,3,Chemistry
+T12038,Covalent Organic Framework Applications,Materials Chemistry,Materials Science,3,Chemistry
 T10532,Molecular Sensors and Ion Detection,Spectroscopy,Chemistry,3,Chemistry
 T11434,Electrochemical Analysis and Applications,Electrochemistry,Chemistry,3,Chemistry
 T11686,Dendrimers and Hyperbranched Polymers,Polymers and Plastics,Materials Science,3,Chemistry
@@ -168,24 +167,24 @@ T10735,Mesoporous Materials and Catalysis,Materials Chemistry,Materials Science,
 T10118,SARS-CoV-2 and COVID-19 Research,Infectious Diseases,Medicine,3,Chemistry
 T10015,Genomics and Phylogenetic Studies,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",2,Mathematics
 T10720,Complexity and Algorithms in Graphs,Computational Theory and Mathematics,Computer Science,2,Mathematics
+T10009,Dementia and Cognitive Impairment Research,Psychiatry and Mental health,Medicine,2,Mathematics
 T10036,Advanced Neural Network Applications,Computer Vision and Pattern Recognition,Computer Science,2,Mathematics
 T14374,Statistical Methods in Epidemiology,Statistics and Probability,Mathematics,2,Mathematics
-T10009,Dementia and Cognitive Impairment Research,Psychiatry and Mental health,Medicine,2,Mathematics
+T10996,Computational Geometry and Mesh Generation,Computer Graphics and Computer-Aided Design,Computer Science,2,Mathematics
 T10688,Image and Signal Denoising Methods,Computer Vision and Pattern Recognition,Computer Science,2,Mathematics
 T11500,Evacuation and Crowd Dynamics,Safety Research,Social Sciences,2,Mathematics
-T10996,Computational Geometry and Mesh Generation,Computer Graphics and Computer-Aided Design,Computer Science,2,Mathematics
 T11105,Advanced Image Processing Techniques,Computer Vision and Pattern Recognition,Computer Science,2,Mathematics
 T10416,Traumatic Brain Injury Research,Clinical Neurology,Medicine,2,Mathematics
 T10630,Orthopedic Surgery and Rehabilitation,Surgery,Medicine,2,Mathematics
 T10282,Financial Risk and Volatility Modeling,Finance,"Economics, Econometrics and Finance",2,Mathematics
 T12170,History and Theory of Mathematics,History and Philosophy of Science,Arts and Humanities,2,Mathematics
-T13141,Statistical Methods and Applications,Statistics and Probability,Mathematics,2,Mathematics
-T11716,Random Matrices and Applications,Statistics and Probability,Mathematics,2,Mathematics
 T11270,Complex Systems and Time Series Analysis,Economics and Econometrics,"Economics, Econometrics and Finance",2,Mathematics/Physics
+T13141,Statistical Methods and Applications,Statistics and Probability,Mathematics,2,Mathematics
 T10067,Stochastic processes and financial applications,Finance,"Economics, Econometrics and Finance",2,Mathematics
+T11716,Random Matrices and Applications,Statistics and Probability,Mathematics,2,Mathematics
 T10545,Optimization and Variational Analysis,Computational Theory and Mathematics,Computer Science,2,Mathematics
-T10541,Nonlinear Differential Equations Analysis,Applied Mathematics,Mathematics,2,Mathematics
 T10482,Mathematical and Theoretical Epidemiology and Ecology Models,Applied Mathematics,Mathematics,2,Mathematics
+T10541,Nonlinear Differential Equations Analysis,Applied Mathematics,Mathematics,2,Mathematics
 T11960,Relativity and Gravitational Theory,Astronomy and Astrophysics,Physics and Astronomy,2,Mathematics/Physics
 T10885,Gene expression and cancer classification,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",2,Mathematics
 T11654,Advanced Mathematical Physics Problems,Mathematical Physics,Mathematics,2,Mathematics
@@ -196,15 +195,15 @@ T11031,Game Theory and Applications,Management Science and Operations Research,D
 T10991,Game Theory and Voting Systems,Economics and Econometrics,"Economics, Econometrics and Finance",2,Mathematics
 T12814,Gaussian Processes and Bayesian Inference,Artificial Intelligence,Computer Science,2,Mathematics
 T10288,Fractional Differential Equations Solutions,Modeling and Simulation,Mathematics,2,Mathematics/Physics
-T11841,Nuclear Structure and Function,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",2,Chemistry/Mathematics
 T12859,Cell Image Analysis Techniques,Biophysics,"Biochemistry, Genetics and Molecular Biology",2,Mathematics/Physics
+T11841,Nuclear Structure and Function,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",2,Chemistry/Mathematics
 T11415,Noncommutative and Quantum Gravity Theories,Nuclear and High Energy Physics,Physics and Astronomy,2,Physics
 T12941,Embedded Systems and FPGA Design,Control and Systems Engineering,Engineering,2,Physics
+T10358,Advanced Radiotherapy Techniques,Radiation,Physics and Astronomy,2,Physics
 T10478,Diamond and Carbon-based Materials Research,Materials Chemistry,Materials Science,2,Physics
+T11176,Radiation Therapy and Dosimetry,Radiation,Physics and Astronomy,2,Physics
 T11414,Quantum optics and atomic interactions,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,2,Physics
 T11682,Advanced Condensed Matter Physics,Condensed Matter Physics,Physics and Astronomy,2,Physics
-T11176,Radiation Therapy and Dosimetry,Radiation,Physics and Astronomy,2,Physics
-T10358,Advanced Radiotherapy Techniques,Radiation,Physics and Astronomy,2,Physics
 T11111,Spectroscopy and Laser Applications,Spectroscopy,Chemistry,2,Physics
 T10622,Quantum Mechanics and Applications,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,2,Chemistry/Physics
 T10682,Quantum Computing Algorithms and Architecture,Artificial Intelligence,Computer Science,2,Physics
@@ -213,14 +212,14 @@ T10245,Metamaterials and Metasurfaces Applications,"Electronic, Optical and Magn
 T10726,Career Development and Diversity,Applied Psychology,Psychology,2,Physics
 T11520,Advanced Thermodynamics and Statistical Mechanics,Statistical and Nonlinear Physics,Physics and Astronomy,2,Physics
 T10440,Advanced Thermoelectric Materials and Devices,Materials Chemistry,Materials Science,2,Physics
-T11582,Nanopore and Nanochannel Transport Studies,Biomedical Engineering,Engineering,2,Physics
 T13531,Surface and Thin Film Phenomena,Condensed Matter Physics,Physics and Astronomy,2,Physics
 T10379,Cellular Mechanics and Interactions,Cell Biology,"Biochemistry, Genetics and Molecular Biology",2,Physics
+T11582,Nanopore and Nanochannel Transport Studies,Biomedical Engineering,Engineering,2,Physics
 T10472,Semiconductor materials and devices,Electrical and Electronic Engineering,Engineering,2,Physics
 T12112,Ammonia Synthesis and Nitrogen Reduction,Catalysis,Chemical Engineering,2,Chemistry/Physics
 T11661,Copper Interconnects and Reliability,"Electronic, Optical and Magnetic Materials",Materials Science,2,Physics
-T10251,Solar and Space Plasma Dynamics,Astronomy and Astrophysics,Physics and Astronomy,2,Physics
 T10054,Parallel Computing and Optimization Techniques,Hardware and Architecture,Computer Science,2,Physics
+T10251,Solar and Space Plasma Dynamics,Astronomy and Astrophysics,Physics and Astronomy,2,Physics
 T11996,Random lasers and scattering media,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,2,Physics
 T10032,Marine Plankton and Biogeochemistry,Oceanography,Earth and Planetary Sciences,2,Chemistry/Physics
 T12971,Material Properties and Processing,Industrial and Manufacturing Engineering,Engineering,2,Chemistry/Physics
@@ -233,24 +232,25 @@ T11733,X-ray Spectroscopy and Fluorescence Analysis,Radiation,Physics and Astron
 T10075,Atmospheric chemistry and aerosols,Atmospheric Science,Earth and Planetary Sciences,2,Chemistry
 T10753,Microplastics and Plastic Pollution,Pollution,Environmental Science,2,Chemistry
 T12078,Environmental remediation with nanomaterials,Environmental Engineering,Environmental Science,2,Chemistry
-T12562,Synthesis and Characterization of Pyrroles,Organic Chemistry,Chemistry,2,Chemistry
 T13239,Phosphorus compounds and reactions,Organic Chemistry,Chemistry,2,Chemistry
+T12562,Synthesis and Characterization of Pyrroles,Organic Chemistry,Chemistry,2,Chemistry
 T12893,Organic Chemistry Cycloaddition Reactions,Organic Chemistry,Chemistry,2,Chemistry
 T10404,Enzyme Catalysis and Immobilization,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",2,Chemistry
+T11009,Catalysis for Biomass Conversion,Catalysis,Chemical Engineering,2,Chemistry
+T10044,Protein Structure and Dynamics,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",2,Chemistry
 T10375,Pharmacogenetics and Drug Metabolism,Pharmacology,"Pharmacology, Toxicology and Pharmaceutics",2,Chemistry
 T10389,Polymer crystallization and properties,Polymers and Plastics,Materials Science,2,Chemistry
-T10044,Protein Structure and Dynamics,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",2,Chemistry
-T11009,Catalysis for Biomass Conversion,Catalysis,Chemical Engineering,2,Chemistry
-T13253,Photolysis and Reactive Intermediates,Physical and Theoretical Chemistry,Chemistry,2,Chemistry
+T10464,Crystal structures of chemical compounds,Inorganic Chemistry,Chemistry,2,Chemistry
 T11884,Redox biology and oxidative stress,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",2,Chemistry
-T10274,Heterocyclic Compound Synthesis and Bioactivity,Organic Chemistry,Chemistry,2,Chemistry
+T13253,Photolysis and Reactive Intermediates,Physical and Theoretical Chemistry,Chemistry,2,Chemistry
 T12748,Molecular spectroscopy and chirality,Spectroscopy,Chemistry,2,Chemistry
+T10274,Heterocyclic Compound Synthesis and Bioactivity,Organic Chemistry,Chemistry,2,Chemistry
 T11549,Synthetic Organic Chemistry Methods,Organic Chemistry,Chemistry,2,Chemistry
 T10151,Hepatitis C virus research,Hepatology,Medicine,2,Chemistry
 T10526,HIV/AIDS drug development and treatment,Infectious Diseases,Medicine,2,Chemistry
+T10947,Fluorine in Organic Chemistry,Organic Chemistry,Chemistry,2,Chemistry
 T13859,Organic Chemistry Synthesis Methods,Organic Chemistry,Chemistry,2,Chemistry
 T13304,Synthesis and Reactivity of Sulfur-Containing Compounds,Organic Chemistry,Chemistry,2,Chemistry
-T10947,Fluorine in Organic Chemistry,Organic Chemistry,Chemistry,2,Chemistry
 T10059,Bone Tissue Engineering Materials,Biomedical Engineering,Engineering,2,Chemistry
 T10611,Organic Light-Emitting Diodes Research,Electrical and Electronic Engineering,Engineering,2,Chemistry
 T10281,Advanced Battery Materials and Technologies,Electrical and Electronic Engineering,Engineering,2,Chemistry
@@ -258,42 +258,40 @@ T11825,Catalysis and Oxidation Reactions,Catalysis,Chemical Engineering,2,Chemis
 T10212,Electrochemical sensors and biosensors,Analytical Chemistry,Chemistry,2,Chemistry
 T11395,Radiopharmaceutical Chemistry and Applications,"Radiology, Nuclear Medicine and Imaging",Medicine,2,Chemistry
 T13180,Chemistry and Chemical Engineering,Environmental Chemistry,Environmental Science,2,Chemistry
-T13115,Axial and Atropisomeric Chirality Synthesis,Organic Chemistry,Chemistry,2,Chemistry
-T13971,Isoquinoline Alkaloid Synthesis,Organic Chemistry,Chemistry,2,Chemistry
-T11790,N-Heterocyclic Carbenes in Organic and Inorganic Chemistry,Organic Chemistry,Chemistry,2,Chemistry
-T11298,Synthesis and Properties of Aromatic Compounds,Organic Chemistry,Chemistry,2,Chemistry
 T11208,Lignin and Wood Chemistry,Process Chemistry and Technology,Chemical Engineering,2,Chemistry
-T10811,Hydrogen Storage and Materials,Materials Chemistry,Materials Science,2,Chemistry
-T10480,Ionic liquids properties and applications,Physical and Theoretical Chemistry,Chemistry,2,Chemistry
 T12973,Synthesis of Indole Derivatives,Organic Chemistry,Chemistry,2,Chemistry
+T11790,N-Heterocyclic Carbenes in Organic and Inorganic Chemistry,Organic Chemistry,Chemistry,2,Chemistry
+T10480,Ionic liquids properties and applications,Physical and Theoretical Chemistry,Chemistry,2,Chemistry
+T11298,Synthesis and Properties of Aromatic Compounds,Organic Chemistry,Chemistry,2,Chemistry
+T10811,Hydrogen Storage and Materials,Materials Chemistry,Materials Science,2,Chemistry
+T13971,Isoquinoline Alkaloid Synthesis,Organic Chemistry,Chemistry,2,Chemistry
+T13115,Axial and Atropisomeric Chirality Synthesis,Organic Chemistry,Chemistry,2,Chemistry
 T10309,Acute Myeloid Leukemia Research,Hematology,Medicine,2,Chemistry
 T12505,Peptidase Inhibition and Analysis,Biochemistry,"Biochemistry, Genetics and Molecular Biology",2,Chemistry
-T10086,Alzheimer's disease research and treatments,Cellular and Molecular Neuroscience,Neuroscience,2,Chemistry
 T10488,Nanocomposite Films for Food Packaging,Biomaterials,Materials Science,2,Chemistry
 T12044,Advanced Physical and Chemical Molecular Interactions,Physical and Theoretical Chemistry,Chemistry,2,Chemistry
-T11162,Enzyme Structure and Function,Structural Biology,"Biochemistry, Genetics and Molecular Biology",2,Chemistry
 T11882,Plant biochemistry and biosynthesis,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",2,Chemistry
 T12541,Graph Labeling and Dimension Problems,Computational Theory and Mathematics,Computer Science,1,Mathematics
-T11366,Elasticity and Material Modeling,Biomedical Engineering,Engineering,1,Mathematics
 T11646,Nonlocal and gradient elasticity in micro/nano structures,Mechanics of Materials,Engineering,1,Mathematics
+T11366,Elasticity and Material Modeling,Biomedical Engineering,Engineering,1,Mathematics
+T10916,Surgical Simulation and Training,Surgery,Medicine,1,Mathematics
+T11172,Dermatologic Treatments and Research,Dermatology,Medicine,1,Mathematics
+T13199,Digestive system and related health,Gastroenterology,Medicine,1,Mathematics
+T10300,Congenital Heart Disease Studies,Cardiology and Cardiovascular Medicine,Medicine,1,Mathematics
+T10706,Traumatic Brain Injury and Neurovascular Disturbances,Clinical Neurology,Medicine,1,Mathematics
+T11260,Tracheal and airway disorders,Pulmonary and Respiratory Medicine,Medicine,1,Mathematics
+T10830,Airway Management and Intubation Techniques,Anesthesiology and Pain Medicine,Medicine,1,Mathematics
+T11296,COVID-19 and healthcare impacts,Oncology,Medicine,1,Mathematics
+T10189,Anesthesia and Pain Management,Anesthesiology and Pain Medicine,Medicine,1,Mathematics
 T12174,Hospital Admissions and Outcomes,Leadership and Management,Nursing,1,Mathematics
 T10419,Pharmaceutical and Antibiotic Environmental Impacts,Pollution,Environmental Science,1,Mathematics
-T10300,Congenital Heart Disease Studies,Cardiology and Cardiovascular Medicine,Medicine,1,Mathematics
-T11172,Dermatologic Treatments and Research,Dermatology,Medicine,1,Mathematics
-T10706,Traumatic Brain Injury and Neurovascular Disturbances,Clinical Neurology,Medicine,1,Mathematics
-T10830,Airway Management and Intubation Techniques,Anesthesiology and Pain Medicine,Medicine,1,Mathematics
-T10189,Anesthesia and Pain Management,Anesthesiology and Pain Medicine,Medicine,1,Mathematics
-T10916,Surgical Simulation and Training,Surgery,Medicine,1,Mathematics
-T11260,Tracheal and airway disorders,Pulmonary and Respiratory Medicine,Medicine,1,Mathematics
-T11296,COVID-19 and healthcare impacts,Oncology,Medicine,1,Mathematics
-T13199,Digestive system and related health,Gastroenterology,Medicine,1,Mathematics
 T11428,Advanced Mathematical Identities,Algebra and Number Theory,Mathematics,1,Mathematics
-T10050,Multi-Criteria Decision Making,Management Science and Operations Research,Decision Sciences,1,Mathematics
 T14406,Multidisciplinary Science and Engineering Research,"Statistics, Probability and Uncertainty",Decision Sciences,1,Mathematics
+T10050,Multi-Criteria Decision Making,Management Science and Operations Research,Decision Sciences,1,Mathematics
 T13495,Biographical and Historical Analysis,History,Arts and Humanities,1,Mathematics
 T10102,scientometrics and bibliometrics research,Library and Information Sciences,Social Sciences,1,Mathematics
-T10047,Financial Markets and Investment Strategies,Finance,"Economics, Econometrics and Finance",1,Mathematics
 T11918,Forecasting Techniques and Applications,Management Science and Operations Research,Decision Sciences,1,Mathematics
+T10047,Financial Markets and Investment Strategies,Finance,"Economics, Econometrics and Finance",1,Mathematics
 T10237,Cryptography and Data Security,Computer Networks and Communications,Computer Science,1,Mathematics
 T10500,Sparse and Compressive Sensing Techniques,Signal Processing,Computer Science,1,Mathematics
 T11829,Mathematical Biology Tumor Growth,Modeling and Simulation,Mathematics,1,Mathematics
@@ -301,79 +299,79 @@ T12172,Neutropenia and Cancer Infections,Oncology,Medicine,1,Mathematics
 T11476,Graph theory and applications,Discrete Mathematics and Combinatorics,Mathematics,1,Mathematics
 T11166,Analytic Number Theory Research,Algebra and Number Theory,Mathematics,1,Mathematics
 T10287,Algebraic structures and combinatorial models,Geometry and Topology,Mathematics,1,Mathematics
+T13234,p-Adic Analysis and Mathematical Physics,Mathematical Physics,Mathematics,1,Mathematics
+T10248,Nonlinear Waves and Solitons,Statistical and Nonlinear Physics,Physics and Astronomy,1,Mathematics
+T13080,Advanced Differential Geometry Research,Geometry and Topology,Mathematics,1,Mathematics
 T11673,Advanced Topics in Algebra,Algebra and Number Theory,Mathematics,1,Mathematics
 T11191,Mathematical functions and polynomials,Applied Mathematics,Mathematics,1,Mathematics
-T13080,Advanced Differential Geometry Research,Geometry and Topology,Mathematics,1,Mathematics
-T10248,Nonlinear Waves and Solitons,Statistical and Nonlinear Physics,Physics and Astronomy,1,Mathematics
-T13234,p-Adic Analysis and Mathematical Physics,Mathematical Physics,Mathematics,1,Mathematics
 T12589,Differential Equations and Boundary Problems,Applied Mathematics,Mathematics,1,Mathematics
 T11725,Immunodeficiency and Autoimmune Disorders,Immunology,Immunology and Microbiology,1,Mathematics
 T12438,Urticaria and Related Conditions,Dermatology,Medicine,1,Mathematics
 T10634,Food Allergy and Anaphylaxis Research,Immunology and Allergy,Medicine,1,Mathematics
 T10241,Functional Brain Connectivity Studies,Cognitive Neuroscience,Neuroscience,1,Mathematics
-T10410,COVID-19 epidemiological studies,Modeling and Simulation,Mathematics,1,Mathematics
-T10094,Epilepsy research and treatment,Clinical Neurology,Medicine,1,Mathematics
-T11911,Spatial and Panel Data Analysis,Economics and Econometrics,"Economics, Econometrics and Finance",1,Mathematics
-T10138,Network Traffic and Congestion Control,Computer Networks and Communications,Computer Science,1,Mathematics
-T11512,Anomaly Detection Techniques and Applications,Artificial Intelligence,Computer Science,1,Mathematics
 T10689,Remote-Sensing Image Classification,Computer Vision and Pattern Recognition,Computer Science,1,Mathematics
-T10799,Data Visualization and Analytics,Computer Graphics and Computer-Aided Design,Computer Science,1,Mathematics
-T10400,Network Security and Intrusion Detection,Computer Networks and Communications,Computer Science,1,Mathematics
 T11514,Disability Education and Employment,Education,Social Sciences,1,Mathematics
-T12592,Opinion Dynamics and Social Influence,Statistical and Nonlinear Physics,Physics and Astronomy,1,Mathematics
+T10138,Network Traffic and Congestion Control,Computer Networks and Communications,Computer Science,1,Mathematics
+T10799,Data Visualization and Analytics,Computer Graphics and Computer-Aided Design,Computer Science,1,Mathematics
+T11911,Spatial and Panel Data Analysis,Economics and Econometrics,"Economics, Econometrics and Finance",1,Mathematics
+T10410,COVID-19 epidemiological studies,Modeling and Simulation,Mathematics,1,Mathematics
 T10522,Medical Imaging Techniques and Applications,"Radiology, Nuclear Medicine and Imaging",Medicine,1,Mathematics
-T11110,Stability and Controllability of Differential Equations,Control and Systems Engineering,Engineering,1,Mathematics
+T10400,Network Security and Intrusion Detection,Computer Networks and Communications,Computer Science,1,Mathematics
+T12592,Opinion Dynamics and Social Influence,Statistical and Nonlinear Physics,Physics and Astronomy,1,Mathematics
+T10094,Epilepsy research and treatment,Clinical Neurology,Medicine,1,Mathematics
+T11512,Anomaly Detection Techniques and Applications,Artificial Intelligence,Computer Science,1,Mathematics
 T11697,Numerical Methods and Algorithms,Computational Theory and Mathematics,Computer Science,1,Mathematics
+T11110,Stability and Controllability of Differential Equations,Control and Systems Engineering,Engineering,1,Mathematics
 T12661,Iterative Methods for Nonlinear Equations,Numerical Analysis,Mathematics,1,Mathematics
-T10849,Finite Group Theory Research,Discrete Mathematics and Combinatorics,Mathematics,1,Mathematics
 T11567,semigroups and automata theory,Computational Theory and Mathematics,Computer Science,1,Mathematics
+T10849,Finite Group Theory Research,Discrete Mathematics and Combinatorics,Mathematics,1,Mathematics
 T10173,Computational Fluid Dynamics and Aerodynamics,Computational Mechanics,Engineering,1,Mathematics
+T11012,Gas Dynamics and Kinetic Theory,Applied Mathematics,Mathematics,1,Mathematics
 T11170,Biomimetic flight and propulsion mechanisms,Aerospace Engineering,Engineering,1,Mathematics
 T11263,Electromagnetic Simulation and Numerical Methods,Electrical and Electronic Engineering,Engineering,1,Mathematics
-T11012,Gas Dynamics and Kinetic Theory,Applied Mathematics,Mathematics,1,Mathematics
-T13806,Mathematical and Computational Methods,Modeling and Simulation,Mathematics,1,Mathematics
-T12522,Mathematics Education and Pedagogy,Education,Social Sciences,1,Mathematics
-T11435,Polynomial and algebraic computation,Computational Theory and Mathematics,Computer Science,1,Mathematics
-T11564,Mathematical Inequalities and Applications,Applied Mathematics,Mathematics,1,Mathematics
-T10130,Mathematics Education and Teaching Techniques,Education,Social Sciences,1,Mathematics
 T14079,Mathematics Education and Programs,Education,Social Sciences,1,Mathematics
+T11564,Mathematical Inequalities and Applications,Applied Mathematics,Mathematics,1,Mathematics
+T13806,Mathematical and Computational Methods,Modeling and Simulation,Mathematics,1,Mathematics
+T11435,Polynomial and algebraic computation,Computational Theory and Mathematics,Computer Science,1,Mathematics
+T10130,Mathematics Education and Teaching Techniques,Education,Social Sciences,1,Mathematics
 T13400,Mathematical and Theoretical Analysis,Mathematical Physics,Mathematics,1,Mathematics
+T12522,Mathematics Education and Pedagogy,Education,Social Sciences,1,Mathematics
+T11307,Domain Adaptation and Few-Shot Learning,Artificial Intelligence,Computer Science,1,Mathematics
 T11689,Adversarial Robustness in Machine Learning,Artificial Intelligence,Computer Science,1,Mathematics
 T11448,Face recognition and analysis,Computer Vision and Pattern Recognition,Computer Science,1,Mathematics
 T10462,Reinforcement Learning in Robotics,Artificial Intelligence,Computer Science,1,Mathematics
-T11307,Domain Adaptation and Few-Shot Learning,Artificial Intelligence,Computer Science,1,Mathematics
 T10775,Generative Adversarial Networks and Image Synthesis,Computer Vision and Pattern Recognition,Computer Science,1,Mathematics
 T12504,Mathematics and Applications,Geometry and Topology,Mathematics,1,Mathematics
 T10896,Homotopy and Cohomology in Algebraic Topology,Mathematical Physics,Mathematics,1,Mathematics
-T11330,Systemic Sclerosis and Related Diseases,Rheumatology,Medicine,1,Mathematics
-T12339,Medical Malpractice and Liability Issues,Law,Social Sciences,1,Mathematics
-T11246,Sports injuries and prevention,Orthopedics and Sports Medicine,Medicine,1,Mathematics
 T10206,Meta-analysis and systematic reviews,"Statistics, Probability and Uncertainty",Decision Sciences,1,Mathematics
-T10010,"Obesity, Physical Activity, Diet","Public Health, Environmental and Occupational Health",Medicine,1,Mathematics
-T10821,Cardiovascular Function and Risk Factors,Cardiology and Cardiovascular Medicine,Medicine,1,Mathematics
-T11083,Cardiac Health and Mental Health,Cardiology and Cardiovascular Medicine,Medicine,1,Mathematics
-T11819,Data-Driven Disease Surveillance,Epidemiology,Medicine,1,Mathematics
+T11330,Systemic Sclerosis and Related Diseases,Rheumatology,Medicine,1,Mathematics
+T11246,Sports injuries and prevention,Orthopedics and Sports Medicine,Medicine,1,Mathematics
 T11060,Infant Development and Preterm Care,"Pediatrics, Perinatology and Child Health",Medicine,1,Mathematics
 T10335,Colorectal Cancer Surgical Treatments,Oncology,Medicine,1,Mathematics
-T11467,Trauma and Emergency Care Studies,Emergency Medicine,Medicine,1,Mathematics
 T10853,"Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",Experimental and Cognitive Psychology,Psychology,1,Mathematics
+T11819,Data-Driven Disease Surveillance,Epidemiology,Medicine,1,Mathematics
+T10010,"Obesity, Physical Activity, Diet","Public Health, Environmental and Occupational Health",Medicine,1,Mathematics
+T12339,Medical Malpractice and Liability Issues,Law,Social Sciences,1,Mathematics
+T11467,Trauma and Emergency Care Studies,Emergency Medicine,Medicine,1,Mathematics
 T10467,Psychometric Methodologies and Testing,Management Science and Operations Research,Decision Sciences,1,Mathematics
+T10821,Cardiovascular Function and Risk Factors,Cardiology and Cardiovascular Medicine,Medicine,1,Mathematics
+T11083,Cardiac Health and Mental Health,Cardiology and Cardiovascular Medicine,Medicine,1,Mathematics
+T11235,Statistical Methods in Clinical Trials,Statistics and Probability,Mathematics,1,Mathematics
 T10381,Ophthalmology and Visual Impairment Studies,Ophthalmology,Medicine,1,Mathematics
 T12205,Time Series Analysis and Forecasting,Signal Processing,Computer Science,1,Mathematics
-T10082,HIV/AIDS Research and Interventions,Infectious Diseases,Medicine,1,Mathematics
-T10815,Parasite Biology and Host Interactions,Parasitology,Immunology and Microbiology,1,Mathematics
-T10373,Renal Transplantation Outcomes and Treatments,Transplantation,Medicine,1,Mathematics
-T11235,Statistical Methods in Clinical Trials,Statistics and Probability,Mathematics,1,Mathematics
-T11468,Genetic Mapping and Diversity in Plants and Animals,Genetics,"Biochemistry, Genetics and Molecular Biology",1,Mathematics
-T12549,Image and Object Detection Techniques,Computer Vision and Pattern Recognition,Computer Science,1,Mathematics
-T10836,Metabolomics and Mass Spectrometry Studies,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Mathematics
-T10489,Regulation of Appetite and Obesity,Endocrine and Autonomic Systems,Neuroscience,1,Mathematics
-T10143,Chronic Obstructive Pulmonary Disease (COPD) Research,Pulmonary and Respiratory Medicine,Medicine,1,Mathematics
 T10269,Epigenetics and DNA Methylation,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Mathematics
-T10940,Navier-Stokes equation solutions,Applied Mathematics,Mathematics,1,Mathematics
+T10143,Chronic Obstructive Pulmonary Disease (COPD) Research,Pulmonary and Respiratory Medicine,Medicine,1,Mathematics
+T11468,Genetic Mapping and Diversity in Plants and Animals,Genetics,"Biochemistry, Genetics and Molecular Biology",1,Mathematics
+T10815,Parasite Biology and Host Interactions,Parasitology,Immunology and Microbiology,1,Mathematics
+T10082,HIV/AIDS Research and Interventions,Infectious Diseases,Medicine,1,Mathematics
+T10836,Metabolomics and Mass Spectrometry Studies,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Mathematics
+T10373,Renal Transplantation Outcomes and Treatments,Transplantation,Medicine,1,Mathematics
+T12549,Image and Object Detection Techniques,Computer Vision and Pattern Recognition,Computer Science,1,Mathematics
+T10489,Regulation of Appetite and Obesity,Endocrine and Autonomic Systems,Neuroscience,1,Mathematics
 T10514,Numerical methods in engineering,Mechanics of Materials,Engineering,1,Mathematics
-T11182,Auction Theory and Applications,Management Science and Operations Research,Decision Sciences,1,Mathematics
+T10940,Navier-Stokes equation solutions,Applied Mathematics,Mathematics,1,Mathematics
 T11043,Merger and Competition Analysis,Economics and Econometrics,"Economics, Econometrics and Finance",1,Mathematics
+T11182,Auction Theory and Applications,Management Science and Operations Research,Decision Sciences,1,Mathematics
 T10328,Supply Chain and Inventory Management,Management Science and Operations Research,Decision Sciences,1,Mathematics
 T13702,Machine Learning in Healthcare,Artificial Intelligence,Computer Science,1,Mathematics
 T12535,Machine Learning and Data Classification,Artificial Intelligence,Computer Science,1,Mathematics
@@ -382,149 +380,148 @@ T13458,Astronomical and nuclear sciences,Nuclear and High Energy Physics,Physics
 T12579,Muon and positron interactions and applications,Condensed Matter Physics,Physics and Astronomy,1,Physics
 T13414,Radioactive Decay and Measurement Techniques,Radiation,Physics and Astronomy,1,Physics
 T13200,Spacecraft and Cryogenic Technologies,Aerospace Engineering,Engineering,1,Physics
+T11169,Silicon Nanostructures and Photoluminescence,Materials Chemistry,Materials Science,1,Physics
 T11315,Phase-change materials and chalcogenides,Materials Chemistry,Materials Science,1,Physics
 T11272,Nanowire Synthesis and Applications,"Electronic, Optical and Magnetic Materials",Materials Science,1,Physics
-T11169,Silicon Nanostructures and Photoluminescence,Materials Chemistry,Materials Science,1,Physics
 T11484,Adaptive optics and wavefront sensing,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Physics
 T14117,Integrated Circuits and Semiconductor Failure Analysis,Electrical and Electronic Engineering,Engineering,1,Physics
-T10217,Cardiac electrophysiology and arrhythmias,Cardiology and Cardiovascular Medicine,Medicine,1,Physics
 T11283,Experimental Learning in Engineering,Education,Social Sciences,1,Physics
 T12261,Statistical Mechanics and Entropy,Statistical and Nonlinear Physics,Physics and Astronomy,1,Physics
 T11965,"Quantum, superfluid, helium dynamics","Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Physics
-T10051,Asthma and respiratory diseases,Pulmonary and Respiratory Medicine,Medicine,1,Physics
 T10369,Advanced MEMS and NEMS Technologies,Electrical and Electronic Engineering,Engineering,1,Physics
-T13552,Advanced Materials Characterization Techniques,General Materials Science,Materials Science,1,Physics
-T11601,Neuroscience and Neural Engineering,Cellular and Molecular Neuroscience,Neuroscience,1,Physics
-T10377,Metal and Thin Film Mechanics,Mechanics of Materials,Engineering,1,Physics
-T12466,Near-Field Optical Microscopy,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Physics
-T11608,Dielectric materials and actuators,"Electronic, Optical and Magnetic Materials",Materials Science,1,Physics
 T11887,Quasicrystal Structures and Properties,Materials Chemistry,Materials Science,1,Physics
+T11601,Neuroscience and Neural Engineering,Cellular and Molecular Neuroscience,Neuroscience,1,Physics
+T13552,Advanced Materials Characterization Techniques,General Materials Science,Materials Science,1,Physics
+T11608,Dielectric materials and actuators,"Electronic, Optical and Magnetic Materials",Materials Science,1,Physics
+T10377,Metal and Thin Film Mechanics,Mechanics of Materials,Engineering,1,Physics
+T10051,Asthma and respiratory diseases,Pulmonary and Respiratory Medicine,Medicine,1,Physics
+T12466,Near-Field Optical Microscopy,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Physics
 T10558,Advancements in Semiconductor Devices and Circuit Design,Electrical and Electronic Engineering,Engineering,1,Physics
-T11261,Quantum chaos and dynamical systems,Statistical and Nonlinear Physics,Physics and Astronomy,1,Physics
 T10886,Multiferroics and related materials,"Electronic, Optical and Magnetic Materials",Materials Science,1,Physics
+T11261,Quantum chaos and dynamical systems,Statistical and Nonlinear Physics,Physics and Astronomy,1,Physics
 T10806,Energetic Materials and Combustion,Materials Chemistry,Materials Science,1,Physics
-T11853,Semiconductor materials and interfaces,"Electronic, Optical and Magnetic Materials",Materials Science,1,Physics
 T12808,Ferroelectric and Negative Capacitance Devices,Electrical and Electronic Engineering,Engineering,1,Physics
+T11853,Semiconductor materials and interfaces,"Electronic, Optical and Magnetic Materials",Materials Science,1,Physics
 T13928,Advanced Sensor Technologies Research,Instrumentation,Physics and Astronomy,1,Physics
 T10159,Ionosphere and magnetosphere dynamics,Space and Planetary Science,Earth and Planetary Sciences,1,Physics
 T10787,Lightning and Electromagnetic Phenomena,Atmospheric Science,Earth and Planetary Sciences,1,Physics
 T11675,Open Source Software Innovations,Computer Science Applications,Computer Science,1,Physics
 T12836,History and Developments in Astronomy,Astronomy and Astrophysics,Physics and Astronomy,1,Physics
-T10330,Hydrology and Watershed Management Studies,Water Science and Technology,Environmental Science,1,Physics
-T10466,Meteorological Phenomena and Simulations,Atmospheric Science,Earth and Planetary Sciences,1,Physics
-T10017,Geology and Paleoclimatology Research,Atmospheric Science,Earth and Planetary Sciences,1,Physics
-T11234,Precipitation Measurement and Analysis,Atmospheric Science,Earth and Planetary Sciences,1,Physics
-T10029,Climate variability and models,Global and Planetary Change,Environmental Science,1,Physics
-T11061,Ocean Waves and Remote Sensing,Oceanography,Earth and Planetary Sciences,1,Physics
-T14299,Complex Systems and Dynamics,Statistical and Nonlinear Physics,Physics and Astronomy,1,Physics
-T11354,Evolution and Paleontology Studies,Paleontology,Earth and Planetary Sciences,1,Physics
-T10255,Oceanographic and Atmospheric Processes,Oceanography,Earth and Planetary Sciences,1,Physics
-T13890,Remote Sensing and Land Use,"Geography, Planning and Development",Social Sciences,1,Physics
 T10406,Planetary Science and Exploration,Space and Planetary Science,Earth and Planetary Sciences,1,Physics
+T10029,Climate variability and models,Global and Planetary Change,Environmental Science,1,Physics
 T10680,Wind Energy Research and Development,"Renewable Energy, Sustainability and the Environment",Energy,1,Physics
-T13049,Surface Roughness and Optical Measurements,Instrumentation,Physics and Astronomy,1,Physics
-T10244,Chaos control and synchronization,Statistical and Nonlinear Physics,Physics and Astronomy,1,Physics
-T11405,Geophysics and Gravity Measurements,Geophysics,Earth and Planetary Sciences,1,Physics
+T11234,Precipitation Measurement and Analysis,Atmospheric Science,Earth and Planetary Sciences,1,Physics
+T10466,Meteorological Phenomena and Simulations,Atmospheric Science,Earth and Planetary Sciences,1,Physics
+T10330,Hydrology and Watershed Management Studies,Water Science and Technology,Environmental Science,1,Physics
 T13177,Geological and Geophysical Studies,Geology,Earth and Planetary Sciences,1,Physics
-T11119,Urban Stormwater Management Solutions,Environmental Engineering,Environmental Science,1,Physics
-T11786,Geomagnetism and Paleomagnetism Studies,Geophysics,Earth and Planetary Sciences,1,Physics
-T10930,Flood Risk Assessment and Management,Global and Planetary Change,Environmental Science,1,Physics
-T10001,Geological and Geochemical Analysis,Geochemistry and Petrology,Earth and Planetary Sciences,1,Physics
+T13890,Remote Sensing and Land Use,"Geography, Planning and Development",Social Sciences,1,Physics
+T13049,Surface Roughness and Optical Measurements,Instrumentation,Physics and Astronomy,1,Physics
 T13811,Earth Systems and Cosmic Evolution,Global and Planetary Change,Environmental Science,1,Physics
+T11061,Ocean Waves and Remote Sensing,Oceanography,Earth and Planetary Sciences,1,Physics
+T11786,Geomagnetism and Paleomagnetism Studies,Geophysics,Earth and Planetary Sciences,1,Physics
+T11119,Urban Stormwater Management Solutions,Environmental Engineering,Environmental Science,1,Physics
+T11354,Evolution and Paleontology Studies,Paleontology,Earth and Planetary Sciences,1,Physics
 T11488,Climate Change Communication and Perception,Sociology and Political Science,Social Sciences,1,Physics
+T10017,Geology and Paleoclimatology Research,Atmospheric Science,Earth and Planetary Sciences,1,Physics
 T12304,Radiative Heat Transfer Studies,Computational Mechanics,Engineering,1,Physics
+T10930,Flood Risk Assessment and Management,Global and Planetary Change,Environmental Science,1,Physics
+T10244,Chaos control and synchronization,Statistical and Nonlinear Physics,Physics and Astronomy,1,Physics
+T10255,Oceanographic and Atmospheric Processes,Oceanography,Earth and Planetary Sciences,1,Physics
+T10001,Geological and Geochemical Analysis,Geochemistry and Petrology,Earth and Planetary Sciences,1,Physics
+T14299,Complex Systems and Dynamics,Statistical and Nonlinear Physics,Physics and Astronomy,1,Physics
+T11405,Geophysics and Gravity Measurements,Geophysics,Earth and Planetary Sciences,1,Physics
 T12588,Electronic and Structural Properties of Oxides,Materials Chemistry,Materials Science,1,Physics
-T10705,Additive Manufacturing Materials and Processes,Mechanical Engineering,Engineering,1,Physics
 T10204,Microstructure and mechanical properties,Metals and Alloys,Materials Science,1,Physics
-T10670,Aluminum Alloy Microstructure Properties,Metals and Alloys,Materials Science,1,Physics
 T11126,Metallurgical Processes and Thermodynamics,Metals and Alloys,Materials Science,1,Physics
+T10705,Additive Manufacturing Materials and Processes,Mechanical Engineering,Engineering,1,Physics
 T10553,Combustion and flame dynamics,Computational Mechanics,Engineering,1,Physics
+T10670,Aluminum Alloy Microstructure Properties,Metals and Alloys,Materials Science,1,Physics
 T12788,Space Science and Extraterrestrial Life,Astronomy and Astrophysics,Physics and Astronomy,1,Physics
-T12452,Electrowetting and Microfluidic Technologies,Electrical and Electronic Engineering,Engineering,1,Physics
-T10773,Extracellular vesicles in disease,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Physics
-T10412,Microfluidic and Capillary Electrophoresis Applications,Biomedical Engineering,Engineering,1,Physics
-T13187,Diffusion and Search Dynamics,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Physics
 T11255,Microfluidic and Bio-sensing Technologies,Biomedical Engineering,Engineering,1,Physics
+T10412,Microfluidic and Capillary Electrophoresis Applications,Biomedical Engineering,Engineering,1,Physics
+T12452,Electrowetting and Microfluidic Technologies,Electrical and Electronic Engineering,Engineering,1,Physics
+T13187,Diffusion and Search Dynamics,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Physics
+T10773,Extracellular vesicles in disease,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Physics
+T12613,X-ray Diffraction in Crystallography,Materials Chemistry,Materials Science,1,Physics
 T10559,Particle Accelerators and Free-Electron Lasers,Electrical and Electronic Engineering,Engineering,1,Physics
+T11175,Gyrotron and Vacuum Electronics Research,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Physics
+T11788,Nonlinear Optical Materials Studies,"Electronic, Optical and Magnetic Materials",Materials Science,1,Physics
 T10623,Thin-Film Transistor Technologies,Electrical and Electronic Engineering,Engineering,1,Physics
 T11128,Transition Metal Oxide Nanomaterials,"Electronic, Optical and Magnetic Materials",Materials Science,1,Physics
-T11788,Nonlinear Optical Materials Studies,"Electronic, Optical and Magnetic Materials",Materials Science,1,Physics
-T12613,X-ray Diffraction in Crystallography,Materials Chemistry,Materials Science,1,Physics
-T11175,Gyrotron and Vacuum Electronics Research,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Physics
+T10988,Advanced Fiber Laser Technologies,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Physics
 T12611,Neural Networks and Reservoir Computing,Artificial Intelligence,Computer Science,1,Physics
 T11575,Nonlinear Photonic Systems,Statistical and Nonlinear Physics,Physics and Astronomy,1,Physics
-T10988,Advanced Fiber Laser Technologies,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Physics
-T10724,Ion Transport and Channel Regulation,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Physics
-T10617,Cellular transport and secretion,Cell Biology,"Biochemistry, Genetics and Molecular Biology",1,Physics
-T10196,Pain Mechanisms and Treatments,Physiology (medical),Medicine,1,Physics
+T10167,Influenza Virus Research Studies,Epidemiology,Medicine,1,Physics
+T10863,Voice and Speech Disorders,Speech and Hearing,Health Professions,1,Physics
 T10665,Cystic Fibrosis Research Advances,Pulmonary and Respiratory Medicine,Medicine,1,Physics
 T12061,Axon Guidance and Neuronal Signaling,Cellular and Molecular Neuroscience,Neuroscience,1,Physics
-T10167,Influenza Virus Research Studies,Epidemiology,Medicine,1,Physics
-T11204,Ion Channels and Receptors,Sensory Systems,Neuroscience,1,Physics
-T10863,Voice and Speech Disorders,Speech and Hearing,Health Professions,1,Physics
-T11985,Marine Toxins and Detection Methods,Environmental Chemistry,Environmental Science,1,Physics
 T11178,Receptor Mechanisms and Signaling,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Physics
-T10299,Photonic and Optical Devices,Electrical and Electronic Engineering,Engineering,1,Chemistry
-T12012,Diatoms and Algae Research,"Ecology, Evolution, Behavior and Systematics",Agricultural and Biological Sciences,1,Chemistry
+T10196,Pain Mechanisms and Treatments,Physiology (medical),Medicine,1,Physics
+T10617,Cellular transport and secretion,Cell Biology,"Biochemistry, Genetics and Molecular Biology",1,Physics
+T10724,Ion Transport and Channel Regulation,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Physics
+T11985,Marine Toxins and Detection Methods,Environmental Chemistry,Environmental Science,1,Physics
+T11204,Ion Channels and Receptors,Sensory Systems,Neuroscience,1,Physics
 T10544,Glass properties and applications,Ceramics and Composites,Materials Science,1,Chemistry
-T11723,Optical Coatings and Gratings,"Surfaces, Coatings and Films",Materials Science,1,Chemistry
-T10690,Vibration Control and Rheological Fluids,Civil and Structural Engineering,Engineering,1,Chemistry
-T12149,Nanocluster Synthesis and Applications,Materials Chemistry,Materials Science,1,Chemistry
-T12420,Silicone and Siloxane Chemistry,Materials Chemistry,Materials Science,1,Chemistry
+T10299,Photonic and Optical Devices,Electrical and Electronic Engineering,Engineering,1,Chemistry
 T12416,Polymer Nanocomposite Synthesis and Irradiation,Polymers and Plastics,Materials Science,1,Chemistry
+T12149,Nanocluster Synthesis and Applications,Materials Chemistry,Materials Science,1,Chemistry
+T10690,Vibration Control and Rheological Fluids,Civil and Structural Engineering,Engineering,1,Chemistry
+T12012,Diatoms and Algae Research,"Ecology, Evolution, Behavior and Systematics",Agricultural and Biological Sciences,1,Chemistry
+T11723,Optical Coatings and Gratings,"Surfaces, Coatings and Films",Materials Science,1,Chemistry
+T12420,Silicone and Siloxane Chemistry,Materials Chemistry,Materials Science,1,Chemistry
 T10819,Mercury impact and mitigation studies,"Health, Toxicology and Mutagenesis",Environmental Science,1,Chemistry
-T11897,Digital Holography and Microscopy,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Chemistry
+T12202,nanoparticles nucleation surface interactions,Physical and Theoretical Chemistry,Chemistry,1,Chemistry
+T11877,Iron oxide chemistry and applications,Materials Chemistry,Materials Science,1,Chemistry
+T10180,Analytical chemistry methods development,Analytical Chemistry,Chemistry,1,Chemistry
 T11002,Indoor Air Quality and Microbial Exposure,"Health, Toxicology and Mutagenesis",Environmental Science,1,Chemistry
 T12180,Polar Research and Ecology,Ecology,Environmental Science,1,Chemistry
-T12017,Recycling and Waste Management Techniques,Waste Management and Disposal,Environmental Science,1,Chemistry
-T10190,Air Quality and Health Impacts,"Health, Toxicology and Mutagenesis",Environmental Science,1,Chemistry
-T11877,Iron oxide chemistry and applications,Materials Chemistry,Materials Science,1,Chemistry
-T12202,nanoparticles nucleation surface interactions,Physical and Theoretical Chemistry,Chemistry,1,Chemistry
 T11320,Atmospheric Ozone and Climate,Atmospheric Science,Earth and Planetary Sciences,1,Chemistry
+T10190,Air Quality and Health Impacts,"Health, Toxicology and Mutagenesis",Environmental Science,1,Chemistry
 T12425,Industrial Gas Emission Control,Environmental Engineering,Environmental Science,1,Chemistry
-T10180,Analytical chemistry methods development,Analytical Chemistry,Chemistry,1,Chemistry
+T11897,Digital Holography and Microscopy,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Chemistry
+T12017,Recycling and Waste Management Techniques,Waste Management and Disposal,Environmental Science,1,Chemistry
 T11091,Extraction and Separation Processes,Metals and Alloys,Materials Science,1,Chemistry
 T13230,Synthesis and Reactivity of Heterocycles,Organic Chemistry,Chemistry,1,Chemistry
-T10120,Bacterial Genetics and Biotechnology,Genetics,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T10147,Antibiotic Resistance in Bacteria,Microbiology (medical),Medicine,1,Chemistry
 T11848,Heme Oxygenase-1 and Carbon Monoxide,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
+T10120,Bacterial Genetics and Biotechnology,Genetics,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T10171,Biofuel production and bioconversion,Biomedical Engineering,Engineering,1,Chemistry
-T12683,Studies on Chitinases and Chitosanases,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T11313,Immune cells in cancer,Immunology,Immunology and Microbiology,1,Chemistry
 T13481,Neurological diseases and metabolism,Neurology,Neuroscience,1,Chemistry
-T10494,Plant Virus Research Studies,Plant Science,Agricultural and Biological Sciences,1,Chemistry
+T12683,Studies on Chitinases and Chitosanases,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T12867,Advanced Biosensing Techniques and Applications,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T12468,Radiation Effects and Dosimetry,Food Science,Agricultural and Biological Sciences,1,Chemistry
-T11559,Retinoids in leukemia and cellular processes,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
-T12410,Structural and Chemical Analysis of Organic and Inorganic Compounds,Organic Chemistry,Chemistry,1,Chemistry
-T12094,Hemoglobin structure and function,Biochemistry,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
-T11708,Photochromic and Fluorescence Chemistry,Materials Chemistry,Materials Science,1,Chemistry
+T10494,Plant Virus Research Studies,Plant Science,Agricultural and Biological Sciences,1,Chemistry
 T10090,ZnO doping and properties,Materials Chemistry,Materials Science,1,Chemistry
+T12410,Structural and Chemical Analysis of Organic and Inorganic Compounds,Organic Chemistry,Chemistry,1,Chemistry
+T11559,Retinoids in leukemia and cellular processes,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T10155,Nitric Oxide and Endothelin Effects,Physiology (medical),Medicine,1,Chemistry
 T10710,Arsenic contamination and mitigation,Environmental Chemistry,Environmental Science,1,Chemistry
-T13876,Chemical synthesis and pharmacological studies,Organic Chemistry,Chemistry,1,Chemistry
-T11078,Inflammasome and immune disorders,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
-T12381,Electron Spin Resonance Studies,Spectroscopy,Chemistry,1,Chemistry
-T10790,Heavy Metal Exposure and Toxicity,"Health, Toxicology and Mutagenesis",Environmental Science,1,Chemistry
 T12967,Molecular Spectroscopy and Structure,Spectroscopy,Chemistry,1,Chemistry
-T11297,Ferroptosis and cancer prognosis,Cancer Research,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
+T12381,Electron Spin Resonance Studies,Spectroscopy,Chemistry,1,Chemistry
+T13876,Chemical synthesis and pharmacological studies,Organic Chemistry,Chemistry,1,Chemistry
+T11708,Photochromic and Fluorescence Chemistry,Materials Chemistry,Materials Science,1,Chemistry
+T12094,Hemoglobin structure and function,Biochemistry,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
+T10790,Heavy Metal Exposure and Toxicity,"Health, Toxicology and Mutagenesis",Environmental Science,1,Chemistry
+T11078,Inflammasome and immune disorders,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T13013,Free Radicals and Antioxidants,Organic Chemistry,Chemistry,1,Chemistry
-T10445,Antioxidant Activity and Oxidative Stress,Biochemistry (medical),Medicine,1,Chemistry
-T10353,Zeolite Catalysis and Synthesis,Inorganic Chemistry,Chemistry,1,Chemistry
 T10957,Photodynamic Therapy Research Studies,Cancer Research,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
+T10445,Antioxidant Activity and Oxidative Stress,Biochemistry (medical),Medicine,1,Chemistry
+T11297,Ferroptosis and cancer prognosis,Cancer Research,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T10112,HIV Research and Treatment,Virology,Immunology and Microbiology,1,Chemistry
+T10353,Zeolite Catalysis and Synthesis,Inorganic Chemistry,Chemistry,1,Chemistry
 T10855,Amyotrophic Lateral Sclerosis Research,Clinical Neurology,Medicine,1,Chemistry
-T10878,CRISPR and Genetic Engineering,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
-T10604,RNA Research and Splicing,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
-T10949,Genetic Neurodegenerative Diseases,Cellular and Molecular Neuroscience,Neuroscience,1,Chemistry
 T11668,interferon and immune responses,Immunology,Immunology and Microbiology,1,Chemistry
+T10604,RNA Research and Splicing,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
+T10878,CRISPR and Genetic Engineering,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
+T10949,Genetic Neurodegenerative Diseases,Cellular and Molecular Neuroscience,Neuroscience,1,Chemistry
+T10756,Estrogen and related hormone effects,Endocrinology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T11736,Histone Deacetylase Inhibitors Research,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T10277,Vitamin D Research Studies,"Endocrinology, Diabetes and Metabolism",Medicine,1,Chemistry
-T10756,Estrogen and related hormone effects,Endocrinology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
-T10810,Polymer composites and self-healing,Polymers and Plastics,Materials Science,1,Chemistry
 T11966,Silk-based biomaterials and applications,Biomaterials,Materials Science,1,Chemistry
-T11737,Advanced Materials and Mechanics,Mechanical Engineering,Engineering,1,Chemistry
 T12071,Marine Biology and Environmental Chemistry,Ocean Engineering,Engineering,1,Chemistry
+T10810,Polymer composites and self-healing,Polymers and Plastics,Materials Science,1,Chemistry
+T11737,Advanced Materials and Mechanics,Mechanical Engineering,Engineering,1,Chemistry
 T12841,Echinoderm biology and ecology,Aquatic Science,Agricultural and Biological Sciences,1,Chemistry
 T12085,Collagen: Extraction and Characterization,Biomaterials,Materials Science,1,Chemistry
 T10977,Optical Imaging and Spectroscopy Techniques,"Radiology, Nuclear Medicine and Imaging",Medicine,1,Chemistry
@@ -532,64 +529,65 @@ T12136,Vanadium and Halogenation Chemistry,Inorganic Chemistry,Chemistry,1,Chemi
 T14318,Polydiacetylene-based materials and applications,Organic Chemistry,Chemistry,1,Chemistry
 T10096,Metal-Organic Frameworks: Synthesis and Applications,Inorganic Chemistry,Chemistry,1,Chemistry
 T11907,Copper-based nanomaterials and applications,Materials Chemistry,Materials Science,1,Chemistry
-T12189,Sulfur-Based Synthesis Techniques,Organic Chemistry,Chemistry,1,Chemistry
 T12228,Coordination Chemistry and Organometallics,Organic Chemistry,Chemistry,1,Chemistry
-T14068,Organic and Inorganic Chemical Reactions,Organic Chemistry,Chemistry,1,Chemistry
-T12270,Microwave-Assisted Synthesis and Applications,Organic Chemistry,Chemistry,1,Chemistry
-T12084,Synthesis and properties of polymers,Polymers and Plastics,Materials Science,1,Chemistry
+T12189,Sulfur-Based Synthesis Techniques,Organic Chemistry,Chemistry,1,Chemistry
 T12458,Organometallic Compounds Synthesis and Characterization,Organic Chemistry,Chemistry,1,Chemistry
 T13561,Chemical Reactions and Isotopes,Pharmaceutical Science,"Pharmacology, Toxicology and Pharmaceutics",1,Chemistry
 T11931,Organoselenium and organotellurium chemistry,Organic Chemistry,Chemistry,1,Chemistry
+T14068,Organic and Inorganic Chemical Reactions,Organic Chemistry,Chemistry,1,Chemistry
+T12270,Microwave-Assisted Synthesis and Applications,Organic Chemistry,Chemistry,1,Chemistry
+T12084,Synthesis and properties of polymers,Polymers and Plastics,Materials Science,1,Chemistry
 T12251,Synthesis and Catalytic Reactions,Organic Chemistry,Chemistry,1,Chemistry
-T10169,Protein Kinase Regulation and GTPase Signaling,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T12360,Plant-derived Lignans Synthesis and Bioactivity,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T11144,melanin and skin pigmentation,Cell Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
+T10169,Protein Kinase Regulation and GTPase Signaling,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T12653,Cyclization and Aryne Chemistry,Organic Chemistry,Chemistry,1,Chemistry
 T10310,Corrosion Behavior and Inhibition,Materials Chemistry,Materials Science,1,Chemistry
-T11690,Aqueous and Flow Batteries,Electrical and Electronic Engineering,Engineering,1,Chemistry
 T10736,Hydrogen embrittlement and corrosion behaviors in metals,Metals and Alloys,Materials Science,1,Chemistry
-T11784,CO2 Reduction Techniques and Catalysts,"Renewable Energy, Sustainability and the Environment",Energy,1,Chemistry
-T10626,High-Temperature Coating Behaviors,"Surfaces, Coatings and Films",Materials Science,1,Chemistry
-T12362,Tribology and Wear Analysis,Mechanics of Materials,Engineering,1,Chemistry
-T10530,Magnesium Alloys: Properties and Applications,Biomaterials,Materials Science,1,Chemistry
 T11472,Analytical Chemistry and Sensors,Analytical Chemistry,Chemistry,1,Chemistry
+T10530,Magnesium Alloys: Properties and Applications,Biomaterials,Materials Science,1,Chemistry
+T10626,High-Temperature Coating Behaviors,"Surfaces, Coatings and Films",Materials Science,1,Chemistry
+T11690,Aqueous and Flow Batteries,Electrical and Electronic Engineering,Engineering,1,Chemistry
+T11784,CO2 Reduction Techniques and Catalysts,"Renewable Energy, Sustainability and the Environment",Energy,1,Chemistry
+T12362,Tribology and Wear Analysis,Mechanics of Materials,Engineering,1,Chemistry
 T10570,Drug Transport and Resistance Mechanisms,Oncology,Medicine,1,Chemistry
 T11878,Solid-state spectroscopy and crystallography,Materials Chemistry,Materials Science,1,Chemistry
 T10607,Magnetic and transport properties of perovskites and related materials,"Electronic, Optical and Magnetic Materials",Materials Science,1,Chemistry
-T10433,Carcinogens and Genotoxicity Assessment,Cancer Research,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T10123,DNA Repair Mechanisms,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
+T10433,Carcinogens and Genotoxicity Assessment,Cancer Research,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T10041,COVID-19 Clinical Research Studies,Infectious Diseases,Medicine,1,Chemistry
 T10085,Parkinson's Disease Mechanisms and Treatments,Clinical Neurology,Medicine,1,Chemistry
 T10620,Protease and Inhibitor Mechanisms,Cancer Research,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
 T12648,Academic Writing and Publishing,Library and Information Sciences,Social Sciences,1,Chemistry
+T11869,Per- and polyfluoroalkyl substances research,Environmental Chemistry,Environmental Science,1,Chemistry
 T13516,Publishing and Scholarly Communication,Library and Information Sciences,Social Sciences,1,Chemistry
 T11286,Polyoxometalates: Synthesis and Applications,Materials Chemistry,Materials Science,1,Chemistry
-T11869,Per- and polyfluoroalkyl substances research,Environmental Chemistry,Environmental Science,1,Chemistry
-T13904,Artificial Intelligence Applications,Artificial Intelligence,Computer Science,1,Chemistry
-T10192,Catalytic Processes in Materials Science,Materials Chemistry,Materials Science,1,Chemistry
 T10079,Nanoparticles: synthesis and applications,Materials Chemistry,Materials Science,1,Chemistry
+T10192,Catalytic Processes in Materials Science,Materials Chemistry,Materials Science,1,Chemistry
 T13607,Academic Publishing and Open Access,Library and Information Sciences,Social Sciences,1,Chemistry
 T13104,Chemical and Physical Properties of Materials,Materials Chemistry,Materials Science,1,Chemistry
+T13904,Artificial Intelligence Applications,Artificial Intelligence,Computer Science,1,Chemistry
 T10097,Luminescence Properties of Advanced Materials,Materials Chemistry,Materials Science,1,Chemistry
 T10490,Orbital Angular Momentum in Optics,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Chemistry
 T10295,Plasmonic and Surface Plasmon Research,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Chemistry
 T10739,Electromagnetic Scattering and Analysis,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,1,Chemistry
 T12615,Climate Change and Geoengineering,Global and Planetary Change,Environmental Science,1,Chemistry
 T11881,Crystallization and Solubility Studies,Materials Chemistry,Materials Science,1,Chemistry
-T12827,Biochemical and Molecular Research,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
-T11221,Bone health and treatments,Oncology,Medicine,1,Chemistry
+T11162,Enzyme Structure and Function,Structural Biology,"Biochemistry, Genetics and Molecular Biology",1,Chemistry
+T10086,Alzheimer's disease research and treatments,Cellular and Molecular Neuroscience,Neuroscience,1,Chemistry
 T13736,Steroid Chemistry and Biochemistry,Organic Chemistry,Chemistry,1,Chemistry
-T11379,Rheology and Fluid Dynamics Studies,Fluid Flow and Transfer Processes,Chemical Engineering,1,Chemistry
-T13604,"Adsorption, diffusion, and thermodynamic properties of materials",Physical and Theoretical Chemistry,Chemistry,1,Chemistry
-T10313,Surface Modification and Superhydrophobicity,"Surfaces, Coatings and Films",Materials Science,1,Chemistry
-T12350,Particle Dynamics in Fluid Flows,Fluid Flow and Transfer Processes,Chemical Engineering,1,Chemistry
-T11915,Pickering emulsions and particle stabilization,Materials Chemistry,Materials Science,1,Chemistry
+T11221,Bone health and treatments,Oncology,Medicine,1,Chemistry
 T11188,Coagulation and Flocculation Studies,Water Science and Technology,Environmental Science,1,Chemistry
+T11379,Rheology and Fluid Dynamics Studies,Fluid Flow and Transfer Processes,Chemical Engineering,1,Chemistry
+T12350,Particle Dynamics in Fluid Flows,Fluid Flow and Transfer Processes,Chemical Engineering,1,Chemistry
 T12526,Antimicrobial agents and applications,Applied Microbiology and Biotechnology,Immunology and Microbiology,1,Chemistry
-T10661,biodegradable polymer synthesis and properties,Biomaterials,Materials Science,1,Chemistry
+T10920,Advanced Drug Delivery Systems,Pharmaceutical Science,"Pharmacology, Toxicology and Pharmaceutics",1,Chemistry
+T11048,Bacteriophages and microbial interactions,Virology,Immunology and Microbiology,1,Chemistry
+T11915,Pickering emulsions and particle stabilization,Materials Chemistry,Materials Science,1,Chemistry
+T12192,Polysaccharides Composition and Applications,Food Science,Agricultural and Biological Sciences,1,Chemistry
 T10016,Adsorption and biosorption for pollutant removal,Water Science and Technology,Environmental Science,1,Chemistry
 T10197,Membrane Separation Technologies,Water Science and Technology,Environmental Science,1,Chemistry
-T12192,Polysaccharides Composition and Applications,Food Science,Agricultural and Biological Sciences,1,Chemistry
-T11048,Bacteriophages and microbial interactions,Virology,Immunology and Microbiology,1,Chemistry
+T13604,"Adsorption, diffusion, and thermodynamic properties of materials",Physical and Theoretical Chemistry,Chemistry,1,Chemistry
+T10313,Surface Modification and Superhydrophobicity,"Surfaces, Coatings and Films",Materials Science,1,Chemistry
 T11401,Minerals Flotation and Separation Techniques,Filtration and Separation,Chemical Engineering,1,Chemistry
-T10920,Advanced Drug Delivery Systems,Pharmaceutical Science,"Pharmacology, Toxicology and Pharmaceutics",1,Chemistry
+T10661,biodegradable polymer synthesis and properties,Biomaterials,Materials Science,1,Chemistry
