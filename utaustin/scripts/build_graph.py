@@ -6,6 +6,9 @@ Outputs: site/data/<network>.json  (sigma/graphology format with precomputed x,y
          data/processed/{professors,edges_coauthor,edges_similarity,topics}.csv
 """
 import csv, json, math, os, collections, itertools, re
+import sys
+if os.environ.get("PYTHONHASHSEED") != "0":  # set iteration order decides ties (top topics, communities): make rebuilds reproducible
+    os.environ["PYTHONHASHSEED"] = "0"; os.execv(sys.executable, [sys.executable] + sys.argv)
 import networkx as nx
 import numpy as np
 
