@@ -1,0 +1,55 @@
+Silas Alben|Professor|Applied Mathematics,Mathematical Biology
+Jinho Baik|Professor|Analysis,Probability Theory,Mathematical Physics
+David Barrett|Professor|Analysis
+Alexander Barvinok|Professor|Combinatorics
+Hyman Bass|Professor|Algebra and Algebraic Geometry,Mathematics Education
+Erhan Bayraktar|Professor|Financial and Actuarial,Probability Theory
+Lydia Bieri|Professor|Geometry and Topology,Analysis,Applied Mathematics
+Anthony Bloch|Professor|Analysis,Applied Mathematics,Differential Equations
+Victoria Booth|Professor|Applied Mathematics,Mathematical Biology
+Richard Canary|Professor|Geometry and Topology
+Charlotte Chan|Assistant Professor|Number Theory
+Dmitry Chelkak|Professor|Analysis,Mathematical Physics,Probability Theory
+Asaf Cohen|Associate Professor|Financial and Actuarial
+Stephen DeBacker|Professor|Algebra and Algebraic Geometry
+Zhiyan Ding|Assistant Professor|Applied Mathematics
+Ibrahim Ekren|Associate Professor|Applied Mathematics,Financial and Actuarial
+Selim Esedoglu|Professor|Applied Mathematics,Scientific Computing
+Sergey Fomin|Professor|Combinatorics,Algebra and Algebraic Geometry
+Daniel Forger|Professor|Mathematical Biology,Applied Mathematics
+Robert Griess|Professor|Algebra and Algebraic Geometry
+Zaher Hani|Professor|Differential Equations
+Wei Ho|Professor|Algebra and Algebraic Geometry,Number Theory
+Trachette Jackson|Professor|Applied Mathematics,Mathematical Biology
+Lizhen Ji|Professor|Geometry and Topology,Analysis
+Mattias Jonsson|Professor|Algebra and Algebraic Geometry,Analysis
+Sarah Koch|Professor|Analysis,Geometry and Topology
+Robert Krasny|Professor|Applied Mathematics,Scientific Computing
+Igor Kriz|Professor|Geometry and Topology
+Jeffrey Lagarias|Professor|Number Theory,Geometry and Topology,Mathematical Physics
+Thomas Lam|Professor|Combinatorics,Algebra and Algebraic Geometry
+Patrick Lutz|Assistant Professor|Logic and Foundations
+Naoki Masuda|Professor|Applied Mathematics,Mathematical Biology
+Peter Miller|Professor|Applied Mathematics
+Kristen Moore|Associate Professor|Applied Mathematics,Financial and Actuarial
+Mircea Mustata|Professor|Algebra and Algebraic Geometry
+Sam Payne|Professor|Algebra and Algebraic Geometry
+Alexander Perry|Associate Professor|Algebra and Algebraic Geometry
+Aaron Pixton|Associate Professor|Algebra and Algebraic Geometry
+Kartik Prasanna|Professor|Number Theory
+Mark Rudelson|Professor|Analysis,Probability Theory
+Karen Smith|Professor|Algebra and Algebraic Geometry
+Andrew Snowden|Professor|Algebra and Algebraic Geometry,Number Theory
+Ralf Spatzier|Professor|Geometry and Topology,Analysis
+David Speyer|Professor|Algebra and Algebraic Geometry,Combinatorics
+Martin Strauss|Professor|Computer Science
+Ian Tobasco|Associate Professor|Applied Mathematics
+Linh Truong|Assistant Professor|Geometry and Topology
+Alejandro Uribe|Professor|Analysis,Geometry and Topology,Mathematical Physics
+Shravan Veerapaneni|Professor|Applied Mathematics,Scientific Computing
+Divakar Viswanath|Professor|Applied Mathematics,Scientific Computing
+Jennifer Wilson|Associate Professor|Geometry and Topology
+Alex Wright|Professor|Geometry and Topology
+Sijue Wu|Professor|Differential Equations
+Virginia Young|Professor|Financial and Actuarial
+Michael Zieve|Professor|Algebra and Algebraic Geometry,Number Theory
