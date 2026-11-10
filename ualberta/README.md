@@ -14,7 +14,7 @@
 
 | 网络 | 节点 | 边 | 内容 |
 |---|---|---|---|
-| **主网：教授 · 主题 · 学科 · 论文 · 全部关系** | 2132 | 5751 | 所有已匹配教授；每人主要研究主题及被多人共享的主题；主题→子领域→领域的学科层级；全部网内合作论文与每人被引最多的 5 篇论文；合写 ≥3 篇的企业与教授创办的公司；合写、大型合作、研究相似、产业合作、创办等全部关系。 |
+| **主网：教授 · 主题 · 学科 · 论文 · 全部关系** | 2129 | 5741 | 所有已匹配教授；每人主要研究主题及被多人共享的主题；主题→子领域→领域的学科层级；全部网内合作论文与每人被引最多的 5 篇论文；合写 ≥3 篇的企业与教授创办的公司；合写、大型合作、研究相似、产业合作、创办等全部关系。 |
 | 合作网 | 93 | 169 | 只看教授之间真实合写的论文（≤100 作者的论文为深色边，大型合作论文为浅色边）。 |
 | 研究相似网 | 111 | 257 | 按研究主题分布（TF-IDF 余弦相似度）连接每位教授最相近的同行，不要求合写过论文。 |
 | 交叉学科网 | 169 | 329 | 只保留跨系（数学×物理×化学）的合作、相似关系，以及被至少两个系的教授共同研究的主题。 |
@@ -35,8 +35,8 @@
 | 方向子网：数学：分析 · 几何分析 · 最优传输 · 逼近 | 17 | 32 | 数学系官网研究方向含 analysis / functional / operator / convex geometry / harmonic / approximation / wavelet / optimal transport 的教授。 |
 | 方向子网：数学：微分方程 · 动力系统 · 数学生物 · 流体 | 23 | 49 | 数学系官网研究方向含 differential equations / dynamical systems / mathematical biology / epidemiology / fluid 的教授。 |
 | 方向子网：数学：概率 · 随机分析 · 数理金融 | 18 | 42 | 数学系官网研究方向含 probability / stochastic / mathematical finance / filtering 的教授。 |
-| 研究主题地图 | 197 | 771 | 研究主题之间的关联：两个主题被同一位教授（≥2 篇论文）研究时相连，按学科领域着色。 |
-| 创新创业网 | 183 | 268 | 教授与企业的联系：① 与企业作者合写过 ≥2 篇论文的公司（OpenAlex 机构类型 = company）；② 教授创办/联合创办的公司（逐条附公开来源，见 data/manual/startups.csv）；③ 教授之间的合写关系。 |
+| 研究主题地图 | 200 | 754 | 研究主题之间的关联：两个主题被同一位教授（≥2 篇论文）研究时相连，按学科领域着色。 |
+| 创新创业网 | 180 | 262 | 教授与企业的联系：① 与企业作者合写过 ≥2 篇论文的公司（OpenAlex 机构类型 = company）；② 教授创办/联合创办的公司（逐条附公开来源，见 data/manual/startups.csv）；③ 教授之间的合写关系。 |
 
 每张网都用 Louvain 算法划分研究社群，可在页面上切换"按研究社群"着色。
 
@@ -49,7 +49,7 @@
 
 ## 创新创业板块
 
-- **产业合写**：论文作者机构中 OpenAlex 类型为 `company` 的单位，按教授统计合写篇数（`data/processed/industry_links.csv`）。创新创业网保留 ≥2 篇的联系，主网保留 ≥3 篇的。合写最多的是 Atomic Energy of Canada、DSM、Amgen、IBM、Canadian Light Source 等。
+- **产业合写**：论文作者机构中 OpenAlex 类型为 `company` 的单位，按教授统计合写篇数（`data/processed/industry_links.csv`）。创新创业网保留 ≥2 篇的联系，主网保留 ≥3 篇的。合写最多的是 Atomic Energy of Canada、Amgen、IBM、Canadian Light Source 等。100 位及以上作者的大型合作论文不计入产业合作（否则 ATLAS、Belle II 论文里的企业署名会被算成教授本人的产业伙伴，例如 DSM）。
 - **教授创办的公司**：`data/manual/startups.csv`，每条附公开来源与原文摘录：Applied Quantum Materials（Veinot，联合创始人）、48Hour Discovery（Derda，创始人）。只收来源里明确写着 founder / co-founder 的条目：例如 Quantum Silicon 是 Wolkow 团队的校办衍生公司，但读到的来源只写他担任 CTO，没有写"创始人"，因此未收录。这份名单**并不完整**，欢迎按同样格式补充。
 - **专利**：暂未纳入。
 
