@@ -1,0 +1,37 @@
+CH|Tobias Baumgart|Professor of Chemistry|Biological, Biomolecular Engineering, Biophysical Chemistry, Chemical Biology, Chemical Physics and Physical Chemistry, Laser Chemistry and Spectroscopy, Theory Simulation and Modeling
+CH|Squire J. Booker|Penn Integrates Knowledge University Professor; HHMI Investigator|Biological, Chemical Biology
+CH|Kai Chen|Assistant Professor of Chemistry|Biological, Biomolecular Engineering, Biophysical Chemistry, Chemical Biology, Nanoscale Science and Engineering, Organic
+CH|David M. Chenoweth|Professor of Chemistry|Biological, Biophysical Chemistry, Chemical Biology, Materials Chemistry, Organic
+CH|David W. Christianson|Roy and Diana Vagelos Professor in Chemistry and Chemical Biology|Biological, Biophysical Chemistry, Chemical Biology
+CH|César de la Fuente|Presidential Associate Professor|Biological, Biomolecular Engineering, Chemical Biology, Organic, Theory Simulation and Modeling
+CH|Ivan J. Dmochowski|Alan MacDiarmid Term Professor of Chemistry|Biological, Biophysical Chemistry, Chemical Biology, Chemical Physics and Physical Chemistry, Inorganic, Materials Chemistry
+CH|Zahra Fakhraai|Professor of Chemistry|Biophysical Chemistry, Chemical Physics and Physical Chemistry, Materials Chemistry, Nanoscale Science and Engineering
+CH|Kathy Fange Liu|Associate Professor of Biochemistry and Biophysics; Associate Professor of Chemistry|Biological, Biophysical Chemistry, Chemical Biology
+CH|Joseph S. Francisco|President's Distinguished Professor; Professor of Chemistry, Professor of Earth & Environmental Sciences|Chemical Physics and Physical Chemistry
+CH|Karen I. Goldberg|Vagelos Professor of Energy Research|Energy Research, Inorganic, Materials Chemistry
+CH|Donna Huryn|Professor of Practice|Organic
+CH|Cherie Kagan|Stephen J. Angello Professor; Professor of Electrical and Systems Engineering, Materials Science and Engineering|Materials Chemistry, Nanoscale Science and Engineering
+CH|Marisa C. Kozlowski|Ponzy Lu Endowed Professor of Chemistry|Chemical Catalysis, Organic
+CH|Marsha I. Lester|Christopher H. Browne Distinguished Professor|Chemical Physics and Physical Chemistry, Laser Chemistry and Spectroscopy
+CH|Tianquan Lian|John H. and Margaret B. Fassitt Professor of Chemistry|Chemical Physics and Physical Chemistry, Energy Research, Laser Chemistry and Spectroscopy, Materials Chemistry, Nanoscale Science and Engineering
+CH|Aimin Liu|Johnson Foundation Professor of Chemical Enzymology|Biological, Biophysical Chemistry, Chemical Biology
+CH|Thomas E. Mallouk|Vagelos Professor in Energy Research; Department Chair|Energy Research, Inorganic, Materials Chemistry, Nanoscale Science and Engineering
+CH|Megan L. Matthews|Assistant Professor of Chemistry|Biological, Chemical Biology, Organic
+CH|Monica E. McCallum|Assistant Professor of Chemistry|Biological, Chemical Biology, Chemical Catalysis, Organic
+CH|Daniel J. Mindiola|Brush Family Professor of Chemistry|Chemical Catalysis, Inorganic, Materials Chemistry
+CH|Christopher B. Murray|Richard Perry University Professor of Chemistry and Materials Science and Engineering|Inorganic, Materials Chemistry, Nanoscale Science and Engineering
+CH|Abraham Nitzan|Donner Professor of Physical Sciences; Professor of Chemistry|Chemical Physics and Physical Chemistry, Theory Simulation and Modeling
+CH|Virgil Percec|P. Roy Vagelos Professor of Chemistry|Chemical Catalysis, Materials Chemistry, Nanoscale Science and Engineering, Organic
+CH|E. James Petersson|Professor of Chemistry; Professor of Biochemistry & Biophysics|Biological, Chemical Biology, Organic
+CH|Yifan Quan|Assistant Professor of Chemistry|Biophysical Chemistry, Chemical Physics and Physical Chemistry, Materials Chemistry, Nanoscale Science and Engineering
+CH|Andrew M. Rappe|Blanchard Professor of Chemistry; Professor of Materials Science and Engineering|Chemical Catalysis, Chemical Physics and Physical Chemistry, Energy Research, Materials Chemistry, Theory Simulation and Modeling
+CH|Elizabeth Rhoades|Professor of Chemistry|Biological, Biophysical Chemistry, Chemical Physics and Physical Chemistry
+CH|Jeffery G. Saven|Professor of Chemistry|Biological, Biophysical Chemistry, Chemical Physics and Physical Chemistry, Theory Simulation and Modeling
+CH|Eric J. Schelter|Hirschmann-Makineni Professor of Chemistry|Chemical Catalysis, Energy Research, Inorganic, Materials Chemistry
+CH|Neil C. Tomson|Associate Professor of Chemistry|Chemical Catalysis, Energy Research, Inorganic, Materials Chemistry
+CH|Dirk Trauner|Penn Integrates Knowledge Professor of Chemistry & Pharmacology|Biological, Chemical Biology, Chemical Catalysis, Organic
+CH|Sergei Vinogradov|Professor of Biochemistry and Biophysics|Biophysical Chemistry, Chemical Physics and Physical Chemistry, Laser Chemistry and Spectroscopy
+CH|Patrick J. Walsh|Rhodes-Thompson Professor of Chemistry|Chemical Catalysis, Inorganic, Organic
+CH|Jeffrey D. Winkler|Merriam Professor of Chemistry|Organic
+CH|Andrew Zahrt|Assistant Professor of Chemistry|Chemical Catalysis, Organic, Theory Simulation and Modeling
+CH|Yuting Zhou|Assistant Professor of Chemistry|Energy Research, Materials Chemistry, Organic

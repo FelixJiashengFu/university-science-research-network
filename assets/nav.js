@@ -29,6 +29,7 @@
     ["mcgill", "麦吉尔大学", "McGill University", "CA", "mcgill/"],
     ["ucla", "加州大学洛杉矶分校", "UCLA", "US", "ucla/"],
     ["utaustin", "得克萨斯大学奥斯汀分校", "UT Austin", "US", "utaustin/"],
+    ["upenn", "宾夕法尼亚大学", "University of Pennsylvania", "US", "upenn/"],
     ["mit", "麻省理工学院", "MIT", "US", "schools/mit/"],
     ["harvard", "哈佛大学", "Harvard University", "US", "schools/harvard/"],
     ["caltech", "加州理工学院", "Caltech", "US", "schools/caltech/"],
