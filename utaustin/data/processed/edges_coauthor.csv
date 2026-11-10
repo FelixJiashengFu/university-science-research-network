@@ -1,11 +1,11 @@
 a,b,a_name,b_name,shared_works,large_collab_works
 A5000215293,A5001186757,Jonathan Sessler,Brent Iverson,23,0
-A5000215293,A5015417245,Jonathan Sessler,Zachariah Page,12,0
+A5000215293,A5015417245,Jonathan Sessler,Zachariah Page,10,0
 A5000215293,A5047676104,Jonathan Sessler,Graeme Henkelman,7,0
 A5000215293,A5052628663,Jonathan Sessler,Jennifer Brodbelt,4,0
-A5000215293,A5066428999,Jonathan Sessler,Eric Anslyn,17,0
-A5000215293,A5069958200,Jonathan Sessler,Simon Humphrey,8,0
-A5000215293,A5075554711,Jonathan Sessler,John Markert,11,0
+A5000215293,A5066428999,Jonathan Sessler,Eric Anslyn,13,0
+A5000215293,A5069958200,Jonathan Sessler,Simon Humphrey,6,0
+A5000215293,A5075554711,Jonathan Sessler,John Markert,4,0
 A5000215293,A5103490747,Jonathan Sessler,Zhen Yao,3,0
 A5000381341,A5062311433,Ken Hsu,Yi-Chih Lin,3,0
 A5001186757,A5052628663,Brent Iverson,Jennifer Brodbelt,1,0
@@ -41,12 +41,12 @@ A5014752121,A5050572384,Mark Raizen,Lauren Webb,1,0
 A5014752121,A5084550902,Mark Raizen,Daniel Heinzen,7,0
 A5015417245,A5047676104,Zachariah Page,Graeme Henkelman,3,0
 A5015417245,A5069958200,Zachariah Page,Simon Humphrey,2,0
-A5015417245,A5086540870,Zachariah Page,Sean Roberts,13,0
+A5015417245,A5086540870,Zachariah Page,Sean Roberts,12,0
 A5015417245,A5100661754,Zachariah Page,Yi Lu,2,0
 A5016935465,A5022064172,Maxim Tsoi,Allan MacDonald,3,0
 A5016935465,A5080915325,Maxim Tsoi,Alexander Demkov,7,0
 A5016935465,A5100707516,Maxim Tsoi,Xiaoqin (Elaine) Li,7,0
-A5017929585,A5047676104,Michael Rose,Graeme Henkelman,6,0
+A5017929585,A5047676104,Michael Rose,Graeme Henkelman,1,0
 A5017929585,A5053697725,Michael Rose,Kami Hull,1,0
 A5017929585,A5086540870,Michael Rose,Sean Roberts,5,0
 A5022064172,A5023788522,Allan MacDonald,Keji Lai,5,0
@@ -65,10 +65,10 @@ A5023788522,A5100707516,Keji Lai,Xiaoqin (Elaine) Li,16,0
 A5024260804,A5066353838,Anthony Conway,Maggie Miller,1,0
 A5024260804,A5073468168,Anthony Conway,Irving Dai,1,0
 A5027832603,A5053697725,Cassandra Callmann,Kami Hull,1,0
-A5029755238,A5107899687,Deepa Thomas,Christina Markert,0,655
+A5029755238,A5107899687,Deepa Thomas,Christina Markert,0,649
 A5031917542,A5039320034,Kimberly Boddy,Katherine Freese,2,0
-A5032328778,A5047676104,Emily Que,Graeme Henkelman,5,0
-A5032328778,A5069958200,Emily Que,Simon Humphrey,5,0
+A5032328778,A5047676104,Emily Que,Graeme Henkelman,1,0
+A5032328778,A5069958200,Emily Que,Simon Humphrey,1,0
 A5032328778,A5100661754,Emily Que,Yi Lu,1,0
 A5033336385,A5052239059,Alexis Vasseur,Maria Pia Gualdani,1,0
 A5033336385,A5087543049,Alexis Vasseur,Irene Gamba,2,0
@@ -76,7 +76,7 @@ A5035113400,A5040543665,Joseph Kileel,Rachel Ward,1,0
 A5036592854,A5048685691,Vadim Kaplunovsky,Willy Fischler,1,0
 A5036592854,A5077239223,Vadim Kaplunovsky,Elena Caceres,1,0
 A5036725653,A5058605984,Devarajan Thirumalai,Dmitrii Makarov,2,0
-A5037012854,A5037928713,Bjorn Manuel Hegelich,Todd Ditmire,33,0
+A5037012854,A5037928713,Bjorn Manuel Hegelich,Todd Ditmire,32,0
 A5037012854,A5064579156,Bjorn Manuel Hegelich,Michael Downer,6,0
 A5037418435,A5047676104,Hang Ren,Graeme Henkelman,1,0
 A5037418435,A5069958200,Hang Ren,Simon Humphrey,1,0
@@ -86,9 +86,9 @@ A5037928713,A5083192440,Todd Ditmire,Richard Fitzpatrick,1,0
 A5040543665,A5082259087,Rachel Ward,Arie Israel,1,0
 A5040543665,A5108397658,Rachel Ward,Yen-Hsi Tsai,2,0
 A5042906448,A5109175628,Joshua Burby,Philip Morrison,1,0
-A5042928999,A5052628663,Michael Krische,Jennifer Brodbelt,4,0
+A5042928999,A5052628663,Michael Krische,Jennifer Brodbelt,3,0
 A5042928999,A5066428999,Michael Krische,Eric Anslyn,1,0
-A5042928999,A5086540870,Michael Krische,Sean Roberts,11,0
+A5042928999,A5086540870,Michael Krische,Sean Roberts,4,0
 A5044743646,A5052265146,Lorenzo Sadun,Lewis Bowen,2,0
 A5044743646,A5066144062,Lorenzo Sadun,Charles Radin,39,0
 A5044743646,A5090322626,Lorenzo Sadun,Thibaud Taillefumier,2,0
@@ -96,7 +96,7 @@ A5047510494,A5100661754,Devleena Samanta,Yi Lu,1,0
 A5047676104,A5052628663,Graeme Henkelman,Jennifer Brodbelt,1,0
 A5047676104,A5058605984,Graeme Henkelman,Dmitrii Makarov,2,0
 A5047676104,A5064579156,Graeme Henkelman,Michael Downer,1,0
-A5047676104,A5069958200,Graeme Henkelman,Simon Humphrey,36,0
+A5047676104,A5069958200,Graeme Henkelman,Simon Humphrey,22,0
 A5047676104,A5086540870,Graeme Henkelman,Sean Roberts,1,0
 A5048685691,A5077239223,Willy Fischler,Elena Caceres,1,0
 A5049269282,A5054319884,Can Kilic,Jacques Distler,1,0
@@ -131,7 +131,7 @@ A5065207206,A5077679004,Jason Shear,David Vanden Bout,2,0
 A5066116626,A5088025648,Thaleia Zariphopoulou,Gordan Zitkovic,3,0
 A5066353838,A5073468168,Maggie Miller,Irving Dai,2,0
 A5066428999,A5077612584,Eric Anslyn,Robert Newberry,1,0
-A5066428999,A5077679004,Eric Anslyn,David Vanden Bout,2,0
+A5066428999,A5077679004,Eric Anslyn,David Vanden Bout,1,0
 A5066428999,A5086540870,Eric Anslyn,Sean Roberts,2,0
 A5073866517,A5075554711,Chih-Kang (Ken) Shih,John Markert,3,0
 A5073866517,A5079067984,Chih-Kang (Ken) Shih,Edoardo Baldini,1,0
