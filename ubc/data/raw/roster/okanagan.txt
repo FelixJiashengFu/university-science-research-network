@@ -1,0 +1,43 @@
+# UBC Okanagan, Irving K. Barber Faculty of Science, "Contact & People" directories, read 2026-11-10:
+#   Department of Mathematics, Physics and Statistics  https://mps.ok.ubc.ca/about/contact/   (profile: https://mps.ok.ubc.ca/about/contact/<slug>/)
+#   Department of Chemistry                            https://chemistry.ok.ubc.ca/about/contact/ (profile: https://chemistry.ok.ubc.ca/about/contact/<slug>/)
+# dept | name | title as shown | research interests (short form of the directory text) | slug
+# Left out: statisticians and data scientists (Jeff Andrews, W. John Braun, Xiaoping Shi, John R.J. Thompson, Irene Vrbik, Lengyi Han),
+# emeriti, adjunct professors, honourary affiliates, sessional lecturers, postdocs and staff.
+Mathematics|Heinz Bauschke|Professor|Convex analysis; optimization; monotone operator theory|heinz-bauschke
+Mathematics|Wayne Broughton|Associate Dean, Associate Professor|Combinatorial design theory; graph theory|wayne-broughton
+Mathematics|Edward Butz|Associate Professor|Risk management (neuroscience, finance)|ed-butz
+Mathematics|Chad Davis|Lecturer|Arithmetic geometry; number theory; elliptic curves|chad-davis
+Mathematics|Sylvie Desjardins|Associate Professor|Mathematical ecology; insect dispersal|sylvie-desjardins
+Mathematics|Eric Foxall|Assistant Professor|Stochastic processes; mathematical biology|eric-foxall
+Mathematics|Warren Hare|Professor|Derivative-free optimization; nonconvex analysis|warren-hare
+Mathematics|Paul Tsopméné|Associate Professor of Teaching|Algebraic topology; manifold calculus; mathematics education|paul-tsopmene
+Mathematics|Rebecca Tyson|Professor|Mathematical biology; spatial ecology|rebecca-tyson
+Mathematics|Shawn Xianfu Wang|Professor|Variational and convex analysis; optimization|shawn-xianfu-wang
+Mathematics|Amy Wiebe|Assistant Professor|Combinatorics; discrete geometry|amy-wiebe
+Physics|Jake Bobowski|Professor of Teaching|Microwave properties of materials; unconventional superconductors|jake-bobowski
+Physics|Rebecca Feldman|Associate Professor|Medical physics; MRI|rebecca-feldman
+Physics|Christina Haston|Department Head (Pro Tem), Professor|Medical physics; radiation biophysics|christina-haston
+Physics|Alex Hill|Assistant Professor|Astrophysics; radio astronomy; interstellar medium|alex-hill
+Physics|John Hopkinson|Associate Professor of Teaching|Condensed matter theory; physics education|john-hopkinson
+Physics|Andrew Jirasek|Professor|Medical physics; radiation dosimetry; Raman spectroscopy|andrew-jirasek
+Physics|Peter Simpson|Professor||peter-simpson
+Physics|Dan Vollick|Associate Professor|General relativity; black holes; cosmology|dan-vollick
+Physics|Yas Yamin|Lecturer|Heterogeneous catalysis; photocatalysis; nanoscience|yas-yamin
+Chemistry|Thu-Thuy Dang|Associate Professor|Biosynthetic enzymes; specialized metabolites; synthetic biology|thu-thuy-dang
+Chemistry|Gino DiLabio|Professor|Computational chemistry; radicals; noncovalent interactions|gino-dilabio
+Chemistry|Tamara Freeman|Associate Professor of Teaching||tamara-freeman
+Chemistry|Robert Godin|Associate Professor|Transient absorption spectroscopy; photocatalysis|robert-godin
+Chemistry|David Jack|Associate Professor|Surfaces; heterogeneous catalysis; molecular simulation|david-jack
+Chemistry|Isaac Li|Associate Professor|Single-molecule biophysics; molecular devices|isaac-li
+Chemistry|Summer Li|Lecturer|Exosome detection; drug delivery|summer-li
+Chemistry|W. Stephen McNeil|Professor|Chemistry education|w-stephen-mcneil
+Chemistry|Frederic Menard|Associate Professor|Chemical biology; small-molecule probes|frederic-menard
+Chemistry|Susan Murch|Professor|Plant metabolites; mass spectrometry; metabolomics|susan-murch
+Chemistry|Conor Pranckevicius|Assistant Professor|Main-group chemistry; catalysis|conor-pranckevicius
+Chemistry|Alireza Sadeghifar|Lecturer||alireza-sadeghifar
+Chemistry|Paul Shipley|Dean Pro Tem, Associate Professor|Natural product biosynthesis; NMR|paul-shipley
+Chemistry|Kevin Smith|Professor|Organometallic chemistry; catalysis|kevin-smith
+Chemistry|Robert Szilagyi|Associate Professor|Computational bioinorganic chemistry; carbon materials|robert-szilagyi
+Chemistry|Kirsten Wolthers|Department Head, Associate Professor|Mechanistic enzymology|kirsten-wolthers
+Chemistry|Wesley Zandberg|Associate Professor|Analytical glycobiology|wesley-zandberg

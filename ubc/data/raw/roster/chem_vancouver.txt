@@ -1,0 +1,55 @@
+# UBC Vancouver, Department of Chemistry: "Research & Teaching Faculty" (https://www.chem.ubc.ca/faculty), read 2026-11-10.
+# group | Last, First | profile slug (https://www.chem.ubc.ca/<slug>). Sessional, emeritus and adjunct/affiliate/associate groups are left out.
+Research Faculty|Algar, Russ|russ-algar
+Research Faculty|Berlinguette, Curtis|curtis-berlinguette
+Research Faculty|Bertram, Allan|allan-bertram
+Research Faculty|Bizzotto, Dan|dan-bizzotto
+Research Faculty|Borduas-Dedekind, Nadine|nadine-borduas-dedekind
+Research Faculty|Brumer, Harry|harry-brumer
+Research Faculty|Burke, Sarah|sarah-burke
+Research Faculty|Chen, David|david-chen
+Research Faculty|Cooke, Ilsa|ilsa-cooke
+Research Faculty|Dake, Gregory|gregory-dake
+Research Faculty|Gates, Derek|derek-gates
+Research Faculty|Grant, Ed|ed-grant
+Research Faculty|Hariri, Amani|amani-hariri
+Research Faculty|Hein, Jason|jason-hein
+Research Faculty|Huan, Tao|tao-huan
+Research Faculty|Hudson, Zachary|zachary-hudson
+Research Faculty|Jetter, Reinhard|reinhard-jetter
+Research Faculty|Krems, Roman|roman-krems
+Research Faculty|Levin, Ido|ido-levin
+Research Faculty|Li, Hongbin|hongbin-li
+Research Faculty|MacFarlane, Andrew|andrew-macfarlane
+Research Faculty|MacLachlan, Mark|mark-maclachlan
+Research Faculty|Mehrkhodavandi, Parisa|parisa-mehrkhodavandi
+Research Faculty|Momose, Takamasa|takamasa-momose
+Research Faculty|Nichols, Eva|eva-nichols
+Research Faculty|Patey, Gren|gren-patey
+Research Faculty|Perrin, David|david-perrin
+Research Faculty|Reid, Jolene|jolene-reid
+Research Faculty|Rojas, Orlando|orlando-rojas
+Research Faculty|Ryan, Katherine|katherine-ryan
+Research Faculty|Sammis, Glenn|glenn-sammis
+Research Faculty|Schafer, Laurel|laurel-schafer
+Research Faculty|Schindler, Corinna|corinna-schindler
+Research Faculty|Sherman, John|john-sherman
+Research Faculty|Stephenson, Corey|corey-stephenson
+Research Faculty|Straus, Suzana|suzana-straus
+Research Faculty|Thachuk, Mark|mark-thachuk
+Research Faculty|Wang, Yan Alexander|yan-alexander-wang
+Research Faculty|Wolf, Michael|michael-wolf
+Teaching Faculty|Addison, Chris|chris-addison
+Teaching Faculty|Bussiere, Guillaume|guillaume-bussiere
+Teaching Faculty|Johnson, Kayli|kayli-johnson
+Teaching Faculty|Kil, Richard|richard-kil
+Teaching Faculty|Lekhi, Anka|anka-lekhi
+Teaching Faculty|Monga, Vishakha|vishakha-monga
+Teaching Faculty|Rodríguez Núñez, José|jos-rodr-guez-n-ez
+Teaching Faculty|Rueda-Becerril, Montserrat|montserrat-rueda-becerril
+Teaching Faculty|Rygus, Jason|jason-rygus
+Teaching Faculty|Stewart, Jaclyn (Jackie)|jaclyn-jackie-stewart
+Teaching Faculty|Stirchak, Laura|laura-stirchak
+Teaching Faculty|Stoodley, Robin|robin-stoodley
+Teaching Faculty|Terpstra, Andrea|andrea-terpstra
+Teaching Faculty|Wickenden, Jay|jay-wickenden

@@ -1,0 +1,11 @@
+# UBC PHAS research-area pages (https://phas.ubc.ca/research-areas -> /<area>), faculty named on each page, read 2026-11-10. Surnames.
+Applied Physics|Jones,Kotlicki,Leslie,Marziali,Mattison,Whitehead,Zou
+Astronomy & Astrophysics|Boley,Gladman,Heyl,Hinshaw,Kunimoto,Kwok,Man,McIver,Scott,Sigurdson,Stairs,Van Waerbeke
+Atomic, Molecular & Optical Physics|Jones,Leslie,Madison,Milner,Potter,Ye,Zhou
+Biophysics|Leslie,Marziali,Michal,Plotkin,Rottler
+Condensed Matter|Aronson,Berciu,Burke,Damascelli,Folk,Franz,Hallas,Jones,Kotlicki,Madison,McGinley,Potter,Rottler,Stamp,Ye,Zhou,Zou
+Medical Physics|Nyström,Rahmim,Reinsberg,Sossi
+Particle & Nuclear Physics|Bryman,Gay,Hasinoff,Hearty,Karczmarek,Lister,Mattison,Oser,Rozali,Semenoff,Sigurdson,Van Raamsdonk,Zhitnitsky
+Physics & Astronomy Education|Bates,Charbonneau,Ives,Kotlicki,Rieger
+Quantum Information|McGinley,Potter
+Theoretical Physics|Berciu,Choptuik,Franz,Heyl,Karczmarek,McGinley,Plotkin,Rottler,Rozali,Schleich,Scott,Semenoff,Sigurdson,Stamp,Unruh,Van Raamsdonk,Zhitnitsky,Zhou

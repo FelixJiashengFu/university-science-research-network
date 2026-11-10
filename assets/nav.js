@@ -31,6 +31,7 @@
     ["utaustin", "得克萨斯大学奥斯汀分校", "UT Austin", "US", "utaustin/"],
     ["upenn", "宾夕法尼亚大学", "University of Pennsylvania", "US", "upenn/"],
     ["northwestern", "西北大学", "Northwestern University", "US", "northwestern/"],
+    ["ubc", "不列颠哥伦比亚大学", "University of British Columbia", "CA", "ubc/"],
     ["mit", "麻省理工学院", "MIT", "US", "schools/mit/"],
     ["harvard", "哈佛大学", "Harvard University", "US", "schools/harvard/"],
     ["caltech", "加州理工学院", "Caltech", "US", "schools/caltech/"],

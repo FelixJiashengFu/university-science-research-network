@@ -1,0 +1,14 @@
+# UBC Chemistry faculty directory filtered by research area (https://www.chem.ubc.ca/faculty?field_research_area_target_id=<id>), read 2026-11-10. Surnames (research + teaching faculty).
+Analytical Chemistry|Algar,Bertram,Bizzotto,Borduas-Dedekind,Chen,Grant,Huan,Jetter
+Biological & Medicinal Chemistry|Algar,Brumer,Hariri,Huan,Jetter,Levin,Li,Perrin,Ryan,Sammis,Sherman,Straus
+Catalytic Processes|Berlinguette,Gates,Hein,Mehrkhodavandi,Nichols,Perrin,Reid,Schafer
+Chemical Physics|Burke,Grant,Krems,MacFarlane,Momose,Thachuk,Wang
+Chemical Synthesis|Gates,Hein,Hudson,Mehrkhodavandi,Perrin,Reid,Sammis,Schafer,Wolf
+Environmental Chemistry|Bertram,Borduas-Dedekind,Grant,Huan
+Inorganic Chemistry|Berlinguette,Gates,MacLachlan,Mehrkhodavandi,Nichols,Schafer,Wolf
+Interfacial and Surface Chemistry|Algar,Berlinguette,Bizzotto,Burke,Jetter,MacFarlane,Nichols,Rojas
+Materials & Polymer Chemistry|Algar,Berlinguette,Burke,Gates,Hudson,Levin,Li,MacFarlane,MacLachlan,Mehrkhodavandi,Rojas,Wolf
+Molecular Spectroscopy|Algar,Grant,Hudson,Momose,Nichols,Straus
+Nuclear and Radiochemistry|MacFarlane,Perrin
+Organic Chemistry|Brumer,Dake,Gates,Hein,Hudson,MacLachlan,Perrin,Reid,Sammis,Schafer,Schindler,Sherman,Stephenson,Wolf,Johnson,Rueda-Becerril,Wickenden
+Physical & Theoretical Chemistry|Algar,Bertram,Bizzotto,Borduas-Dedekind,Burke,Cooke,Grant,Hariri,Huan,Krems,Levin,Li,Momose,Patey,Reid,Straus,Thachuk,Wang
