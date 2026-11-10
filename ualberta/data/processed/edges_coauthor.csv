@@ -48,10 +48,10 @@ A5013933568,A5018432146,Lingzi Sang,Vladimir K. Michaelis,2,0
 A5013933568,A5062702326,Lingzi Sang,Eric Rivard,4,0
 A5013933568,A5074696645,Lingzi Sang,Arthur Mar,19,0
 A5014802776,A5088789618,Michael Meanwell,Lara Mahal,3,0
-A5015264623,A5050575994,Steven Robertson,Doug Gingrich,1547,0
+A5015264623,A5050575994,Steven Robertson,Doug Gingrich,0,1547
 A5015264623,A5085319167,Steven Robertson,Carsten Krauss,2,0
-A5015264623,A5106485073,Steven Robertson,Juan Pablo Yáñez,16,0
-A5015264623,A5107851779,Steven Robertson,James Pinfold,1349,0
+A5015264623,A5106485073,Steven Robertson,Juan Pablo Yáñez,2,14
+A5015264623,A5107851779,Steven Robertson,James Pinfold,0,1349
 A5018325534,A5028138921,Michael J. Serpe,John Klassen,1,0
 A5018325534,A5075675477,Michael J. Serpe,Al Meldrum,1,0
 A5018432146,A5031739512,Vladimir K. Michaelis,Jonathan G. C. Veinot,10,0
@@ -64,7 +64,7 @@ A5018475416,A5066678888,Michael Yi Li,Hao Wang,6,0
 A5018523724,A5076172916,Nassim Bozorgnia,Marie-Cécile Piro,2,0
 A5019556881,A5050624252,Valeri Frolov,Don Page,2,0
 A5021911720,A5030396105,Erik Rosolowsky,Rodrigo Fernández,1,0
-A5021911720,A5040131259,Erik Rosolowsky,Gregory Sivakoff,11,0
+A5021911720,A5040131259,Erik Rosolowsky,Gregory Sivakoff,10,1
 A5021911720,A5052249537,Erik Rosolowsky,Natalia Ivanova,1,0
 A5022440583,A5050122860,Yingfei Yi,Thomas Hillen,1,0
 A5022440583,A5051910105,Yingfei Yi,Shirou Wang,4,0
@@ -121,7 +121,7 @@ A5049602108,A5088373639,Rik Tykwinski,Wesley Chalifoux,56,0
 A5049602108,A5136191573,Rik Tykwinski,Jacob Terence Blaskovits,2,0
 A5050122860,A5112022055,Thomas Hillen,Gerda de Vries,15,0
 A5050575994,A5080679859,Doug Gingrich,Saeed Rastgoo,2,0
-A5050575994,A5107851779,Doug Gingrich,James Pinfold,1528,0
+A5050575994,A5107851779,Doug Gingrich,James Pinfold,3,1525
 A5051910105,A5111798155,Shirou Wang,Arno Berger,1,0
 A5052069738,A5068376099,Ian Mann,Rick Sydora,10,0
 A5055601989,A5058045281,Ratmir Derda,Christopher W. Cairo,5,0
@@ -129,7 +129,7 @@ A5055601989,A5062660227,Ratmir Derda,Rylan Lundgren,1,0
 A5055601989,A5087354201,Ratmir Derda,Matthew Macauley,15,0
 A5055601989,A5088789618,Ratmir Derda,Lara Mahal,7,0
 A5058045281,A5087354201,Christopher W. Cairo,Matthew Macauley,2,0
-A5058045281,A5088789618,Christopher W. Cairo,Lara Mahal,1,0
+A5058045281,A5088789618,Christopher W. Cairo,Lara Mahal,0,1
 A5058045281,A5112022055,Christopher W. Cairo,Gerda de Vries,1,0
 A5058900956,A5064056778,Joseph Maciejko,John P. Davis,5,0
 A5058900956,A5082472170,Joseph Maciejko,Igor Boettcher,3,0
@@ -158,13 +158,13 @@ A5074696645,A5075675477,Arthur Mar,Al Meldrum,13,0
 A5074696645,A5087565924,Arthur Mar,Frank Marsiglio,2,0
 A5075675477,A5087565924,Al Meldrum,Frank Marsiglio,8,0
 A5076172916,A5085319167,Marie-Cécile Piro,Carsten Krauss,16,0
-A5076172916,A5113574403,Marie-Cécile Piro,Aksel Hallin,4,0
+A5076172916,A5113574403,Marie-Cécile Piro,Aksel Hallin,1,3
 A5082472170,A5087565924,Igor Boettcher,Frank Marsiglio,1,0
-A5085319167,A5106485073,Carsten Krauss,Juan Pablo Yáñez,32,0
-A5085319167,A5107851779,Carsten Krauss,James Pinfold,21,0
-A5085319167,A5113574403,Carsten Krauss,Aksel Hallin,34,0
+A5085319167,A5106485073,Carsten Krauss,Juan Pablo Yáñez,13,19
+A5085319167,A5107851779,Carsten Krauss,James Pinfold,0,21
+A5085319167,A5113574403,Carsten Krauss,Aksel Hallin,8,26
 A5087354201,A5088789618,Matthew Macauley,Lara Mahal,12,0
 A5089213434,A5102734561,Vadim Kravchinsky,Andrzej Czarnecki,1,0
 A5102734561,A5107851779,Andrzej Czarnecki,James Pinfold,1,0
-A5106485073,A5107851779,Juan Pablo Yáñez,James Pinfold,20,0
+A5106485073,A5107851779,Juan Pablo Yáñez,James Pinfold,0,20
 A5106485073,A5113574403,Juan Pablo Yáñez,Aksel Hallin,1,0
