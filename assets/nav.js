@@ -27,6 +27,7 @@
     ["umich", "密歇根大学", "University of Michigan", "US", "umich/"],
     ["ucsb", "加州大学圣塔芭芭拉分校", "UC Santa Barbara", "US", "ucsb/"],
     ["mcgill", "麦吉尔大学", "McGill University", "CA", "mcgill/"],
+    ["ucla", "加州大学洛杉矶分校", "UCLA", "US", "ucla/"],
     ["mit", "麻省理工学院", "MIT", "US", "schools/mit/"],
     ["harvard", "哈佛大学", "Harvard University", "US", "schools/harvard/"],
     ["caltech", "加州理工学院", "Caltech", "US", "schools/caltech/"],
