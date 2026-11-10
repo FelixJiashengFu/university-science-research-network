@@ -86,6 +86,7 @@ def maps():
     roster_works("uoft", industry=True)
     roster_works("stanford", industry=False)
     roster_works("waterloo", industry=False)
+    roster_works("uiuc", industry=False)
     roster_works("udem", industry=False)
     roster_works("mcmaster", industry=False)
     roster_works("ualberta", industry=False)
