@@ -1,0 +1,32 @@
+MA|Adebisi Agboola|Professor|
+MA|Amalendu Krishna|Professor|
+MA|Bjorn Birnir|Professor (Chair)|
+MA|Carlos Garcia-Cervera|Professor|
+MA|Christopher Ograin|Teaching Professor|
+MA|David Morrison|Professor|
+MA|Davit Harutyunyan|Associate Professor|
+MA|Denis Labutin|Professor|
+MA|Francesc Castella|Professor|
+MA|Guofang Wei|Professor|
+MA|Gustavo Ponce|Professor|
+MA|Hanming Zhou|Professor|
+MA|Hector D. Ceniceros|Professor|
+MA|Jon McCammond|Professor|
+MA|Karel Casteels|Teaching Professor|
+MA|Katy Craig|Professor|
+MA|Maria Isabel Bueno Cachadina|Professor|
+MA|Matt Jacobs|Professor|
+MA|Matthias Wink|Professor|
+MA|Mihai Putinar|Professor|
+MA|Paul Atzberger|Professor|
+MA|Peter Garfield|Teaching Professor|
+MA|Rugang Ye|Professor|
+MA|Ruimeng Hu|Professor|
+MA|Stephen Bigelow|Professor|
+MA|Sui Tang|Professor|
+MA|Xianzhe Dai|Professor|
+MA|Xiaolei Zhao|Professor|
+MA|Xu Yang|Professor|
+MA|Zheng Liu|Professor|
+MA|Zhenghan Wang|Professor|
+MA|Zijian Yao|Professor|
