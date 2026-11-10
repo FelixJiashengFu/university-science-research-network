@@ -10,7 +10,7 @@ import networkx as nx
 import numpy as np
 
 MIN_SCORE = 1.0          # minimum match score to trust an OpenAlex author match
-BIG_COLLAB = 100         # works with more authors are "large collaborations"
+BIG_COLLAB = 99          # works with more authors are "large collaborations" (OpenAlex lists at most 100 authorships, so 100 means truncated)
 os.makedirs("site/data", exist_ok=True)
 
 DEPT_COLOR = {"Mathematics": "#3b82f6", "Physics": "#ef4444", "Chemistry": "#10b981"}

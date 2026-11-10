@@ -1,0 +1,204 @@
+a,b,a_name,b_name,shared_works,large_collab_works
+A5000608751,A5004824330,Tim Hoheisel,Adam Oberman,2,0
+A5000608751,A5041511721,Tim Hoheisel,Elliot Paquette,1,0
+A5000608751,A5058698689,Tim Hoheisel,Rustum Choksi,5,0
+A5001821266,A5050136071,Christian Genest,Johanna Nešlehová,40,0
+A5001821266,A5085069223,Christian Genest,David A. Stephens,1,0
+A5002143962,A5013493171,Jonathan Sievers,Adrian Liu,13,0
+A5002143962,A5040720897,Jonathan Sievers,Victoria M. Kaspi,3,0
+A5002143962,A5069227312,Jonathan Sievers,Jason Hessels,2,0
+A5002143962,A5074282005,Jonathan Sievers,Matt Dobbs,7,2
+A5002143962,A5076627495,Jonathan Sievers,Daryl Haggard,1,0
+A5002143962,A5105085154,Jonathan Sievers,Cynthia Chiang,30,0
+A5002326870,A5031639997,Piotr Przytycki,Sergey Norin,1,0
+A5002326870,A5037357028,Piotr Przytycki,Joel Kamnitzer,1,0
+A5002326870,A5040694509,Piotr Przytycki,Marcin Sabok,1,0
+A5002765072,A5031639997,Dmitry Jakobson,Sergey Norin,1,0
+A5002765072,A5039883597,Dmitry Jakobson,Niky Kamran,2,0
+A5002765072,A5103358633,Dmitry Jakobson,John A Toth,5,0
+A5004824330,A5058698689,Adam Oberman,Rustum Choksi,1,0
+A5004824330,A5101678747,Adam Oberman,Masoud Asgharian,1,0
+A5006219355,A5007864314,Scott Bohle,Youla Tsantrizos,1,0
+A5006219355,A5012095609,Scott Bohle,Chao-Jun Li,11,0
+A5006219355,A5036484954,Scott Bohle,Gonzalo Cosa,1,0
+A5006219355,A5041593378,Scott Bohle,Rustam Khaliullin,1,0
+A5006219355,A5046829770,Scott Bohle,Paul Wiseman,2,0
+A5006219355,A5052306927,Scott Bohle,Ashok Kakkar,1,0
+A5006219355,A5056069483,Scott Bohle,Masad Damha,4,0
+A5006219355,A5076449071,Scott Bohle,Matthew Harrington,2,0
+A5006573975,A5056069483,Nathan Luedtke,Masad Damha,1,0
+A5006573975,A5075042199,Nathan Luedtke,Maureen McKeague,6,0
+A5007864314,A5041593378,Youla Tsantrizos,Rustam Khaliullin,1,0
+A5008304313,A5040146766,David Cooke,Michael Hilke,9,0
+A5008304313,A5056209155,David Cooke,Bradley Siwick,4,0
+A5008304313,A5081818835,David Cooke,Peter Grütter,1,0
+A5008304313,A5102784326,David Cooke,Hong Guo,2,0
+A5008535258,A5035012955,Karine Auclair,Nicolas Moitessier,6,0
+A5008535258,A5036484954,Karine Auclair,Gonzalo Cosa,1,0
+A5008535258,A5036506871,Karine Auclair,Tony Mittermaier,10,0
+A5008535258,A5082224096,Karine Auclair,Christopher Thibodeaux,2,0
+A5010664127,A5058698689,Jean-Philippe Lessard,Rustum Choksi,1,0
+A5010664127,A5059988433,Jean-Philippe Lessard,Jean-Christophe Nave,1,0
+A5012051817,A5057793883,Jim Cline,Sangyong Jeon,1,0
+A5012091034,A5054025832,Archer Y. Yang,Abbas Khalili,2,0
+A5012091034,A5085069223,Archer Y. Yang,David A. Stephens,2,0
+A5012091034,A5101678747,Archer Y. Yang,Masoud Asgharian,2,0
+A5012095609,A5034303836,Chao-Jun Li,Dima Perepichka,4,0
+A5012095609,A5035012955,Chao-Jun Li,Nicolas Moitessier,1,0
+A5012095609,A5036484954,Chao-Jun Li,Gonzalo Cosa,4,0
+A5012095609,A5041593378,Chao-Jun Li,Rustam Khaliullin,13,0
+A5012095609,A5052306927,Chao-Jun Li,Ashok Kakkar,1,0
+A5012095609,A5073735260,Chao-Jun Li,Thomas Preston,3,0
+A5012095609,A5074970768,Chao-Jun Li,Bruce Lennox,1,0
+A5012095609,A5078466046,Chao-Jun Li,Audrey Moores,23,0
+A5012095609,A5102784326,Chao-Jun Li,Hong Guo,5,0
+A5013493171,A5018233846,Adrian Liu,Robert Brandenberger,1,0
+A5013493171,A5040720897,Adrian Liu,Victoria M. Kaspi,1,0
+A5013493171,A5057537951,Adrian Liu,Katelin Schutz,6,0
+A5013493171,A5069227312,Adrian Liu,Jason Hessels,3,0
+A5013493171,A5074282005,Adrian Liu,Matt Dobbs,1,0
+A5013493171,A5105085154,Adrian Liu,Cynthia Chiang,15,0
+A5014290819,A5035012955,James Gleason,Nicolas Moitessier,3,0
+A5015974181,A5040229398,Charles Gale,Andrew Cumming,2,0
+A5015974181,A5057793883,Charles Gale,Sangyong Jeon,187,1
+A5015974181,A5059648574,Charles Gale,Keshav Dasgupta,11,0
+A5015974181,A5063048070,Charles Gale,Simon Caron-Huot,1,0
+A5015974181,A5079234880,Charles Gale,Brigitte Vachon,1,0
+A5015974181,A5084243101,Charles Gale,François Corriveau,1,0
+A5015974181,A5106511527,Charles Gale,Andreas Warburton,5,0
+A5015982549,A5032796381,Pat Kambhampati,Mark Andrews,2,0
+A5015982549,A5041358091,Pat Kambhampati,Lena Simine,1,0
+A5015982549,A5082653254,Pat Kambhampati,Linda Reven,1,0
+A5018233846,A5059648574,Robert Brandenberger,Keshav Dasgupta,5,0
+A5019280696,A5036484954,Amy Blum,Gonzalo Cosa,2,0
+A5019280696,A5041358091,Amy Blum,Lena Simine,1,0
+A5019280696,A5045883957,Amy Blum,Eric McCalla,1,0
+A5019280696,A5070725375,Amy Blum,Janine Mauzeroll,5,0
+A5019280696,A5074970768,Amy Blum,Bruce Lennox,1,0
+A5019280696,A5076449071,Amy Blum,Matthew Harrington,1,0
+A5020281698,A5027839635,Jack Sankey,Lily Childress,18,0
+A5020281698,A5061723548,Jack Sankey,Thomas Brunner,1,0
+A5022485637,A5041511721,Eric D. Kolaczyk,Elliot Paquette,2,0
+A5022896469,A5056879022,Jose Andres Correa,Alia Sajjad,2,0
+A5025707096,A5058698689,Jessica Lin,Rustum Choksi,1,0
+A5025707096,A5085128089,Jessica Lin,Louigi Addario-Berry,4,0
+A5027727214,A5031639997,Adrian Roshan Vetta,Sergey Norin,5,0
+A5027727214,A5085128089,Adrian Roshan Vetta,Louigi Addario-Berry,1,0
+A5027839635,A5038778166,Lily Childress,Bill Coish,1,0
+A5028882478,A5069262298,Laura Pavelka,Pallavi Sirjoosingh,1,0
+A5028882478,A5075042199,Laura Pavelka,Maureen McKeague,1,0
+A5032796381,A5074970768,Mark Andrews,Bruce Lennox,2,0
+A5032796381,A5082653254,Mark Andrews,Linda Reven,1,0
+A5034303836,A5036484954,Dima Perepichka,Gonzalo Cosa,4,0
+A5034303836,A5041358091,Dima Perepichka,Lena Simine,1,0
+A5034303836,A5041593378,Dima Perepichka,Rustam Khaliullin,5,0
+A5034303836,A5045883957,Dima Perepichka,Eric McCalla,1,0
+A5034303836,A5073800682,Dima Perepichka,Hanadi Sleiman,4,0
+A5034303836,A5074970768,Dima Perepichka,Bruce Lennox,5,0
+A5035012955,A5036506871,Nicolas Moitessier,Tony Mittermaier,32,0
+A5035012955,A5056069483,Nicolas Moitessier,Masad Damha,7,0
+A5035012955,A5073800682,Nicolas Moitessier,Hanadi Sleiman,6,0
+A5035012955,A5075042199,Nicolas Moitessier,Maureen McKeague,2,0
+A5035012955,A5082224096,Nicolas Moitessier,Christopher Thibodeaux,3,0
+A5036484954,A5041593378,Gonzalo Cosa,Rustam Khaliullin,1,0
+A5036484954,A5046829770,Gonzalo Cosa,Paul Wiseman,5,0
+A5036484954,A5073800682,Gonzalo Cosa,Hanadi Sleiman,19,0
+A5036506871,A5056069483,Tony Mittermaier,Masad Damha,3,0
+A5036506871,A5070725375,Tony Mittermaier,Janine Mauzeroll,1,0
+A5036506871,A5073800682,Tony Mittermaier,Hanadi Sleiman,12,0
+A5036506871,A5075042199,Tony Mittermaier,Maureen McKeague,3,0
+A5036506871,A5076449071,Tony Mittermaier,Matthew Harrington,1,0
+A5036506871,A5082224096,Tony Mittermaier,Christopher Thibodeaux,2,0
+A5038778166,A5040146766,Bill Coish,Michael Hilke,2,0
+A5038778166,A5088354784,Bill Coish,Tami Pereg-Barnea,7,0
+A5039507175,A5040229398,Nicolas Cowan,Andrew Cumming,1,0
+A5039507175,A5076627495,Nicolas Cowan,Daryl Haggard,5,0
+A5039507175,A5079121745,Nicolas Cowan,Tracy Webb,1,0
+A5039883597,A5059648574,Niky Kamran,Keshav Dasgupta,1,0
+A5040146766,A5081818835,Michael Hilke,Peter Grütter,1,0
+A5040146766,A5083108362,Michael Hilke,Guillaume Gervais,2,0
+A5040229398,A5040720897,Andrew Cumming,Victoria M. Kaspi,160,0
+A5040229398,A5058000104,Andrew Cumming,Robert E. Rutledge,1,0
+A5040229398,A5069227312,Andrew Cumming,Jason Hessels,5,0
+A5040229398,A5076627495,Andrew Cumming,Daryl Haggard,3,0
+A5040229398,A5079234880,Andrew Cumming,Brigitte Vachon,1,0
+A5040720897,A5058000104,Victoria M. Kaspi,Robert E. Rutledge,1,0
+A5040720897,A5061723548,Victoria M. Kaspi,Thomas Brunner,1,0
+A5040720897,A5069227312,Victoria M. Kaspi,Jason Hessels,154,1
+A5040720897,A5074282005,Victoria M. Kaspi,Matt Dobbs,34,0
+A5040720897,A5076627495,Victoria M. Kaspi,Daryl Haggard,3,0
+A5040720897,A5079234880,Victoria M. Kaspi,Brigitte Vachon,1,0
+A5040720897,A5105085154,Victoria M. Kaspi,Cynthia Chiang,1,0
+A5041358091,A5070725375,Lena Simine,Janine Mauzeroll,1,0
+A5041511721,A5073457791,Elliot Paquette,Courtney Paquette,12,0
+A5041593378,A5045883957,Rustam Khaliullin,Eric McCalla,6,0
+A5041593378,A5070725375,Rustam Khaliullin,Janine Mauzeroll,2,0
+A5045883957,A5070725375,Eric McCalla,Janine Mauzeroll,2,0
+A5046135600,A5052306927,Theo van de Ven,Ashok Kakkar,15,0
+A5046135600,A5074970768,Theo van de Ven,Bruce Lennox,1,0
+A5046135600,A5076449071,Theo van de Ven,Matthew Harrington,1,0
+A5046135600,A5078466046,Theo van de Ven,Audrey Moores,1,0
+A5046829770,A5073800682,Paul Wiseman,Hanadi Sleiman,3,0
+A5046829770,A5076449071,Paul Wiseman,Matthew Harrington,1,0
+A5046829770,A5081818835,Paul Wiseman,Peter Grütter,4,0
+A5050136071,A5054025832,Johanna Nešlehová,Abbas Khalili,1,0
+A5050136071,A5066706866,Johanna Nešlehová,Russell Steele,1,0
+A5050136071,A5085069223,Johanna Nešlehová,David A. Stephens,1,0
+A5052306927,A5060235544,Ashok Kakkar,Bruce Arndtsen,1,0
+A5053230806,A5058698689,Gantumur Tsogtgerel,Rustum Choksi,1,0
+A5054025832,A5066706866,Abbas Khalili,Russell Steele,1,0
+A5054025832,A5085069223,Abbas Khalili,David A. Stephens,4,0
+A5054025832,A5101678747,Abbas Khalili,Masoud Asgharian,2,0
+A5056069483,A5073800682,Masad Damha,Hanadi Sleiman,4,0
+A5056069483,A5075042199,Masad Damha,Maureen McKeague,1,0
+A5056069483,A5076449071,Masad Damha,Matthew Harrington,1,0
+A5056489921,A5081818835,Walter Reisner,Peter Grütter,8,0
+A5056489921,A5083108362,Walter Reisner,Guillaume Gervais,1,0
+A5057793883,A5059648574,Sangyong Jeon,Keshav Dasgupta,8,0
+A5057793883,A5063048070,Sangyong Jeon,Simon Caron-Huot,1,0
+A5057793883,A5079234880,Sangyong Jeon,Brigitte Vachon,1,0
+A5057793883,A5084243101,Sangyong Jeon,François Corriveau,1,0
+A5057793883,A5106511527,Sangyong Jeon,Andreas Warburton,1,0
+A5058000104,A5069227312,Robert E. Rutledge,Jason Hessels,2,0
+A5058300825,A5060235544,Jean-Philip Lumb,Bruce Arndtsen,6,0
+A5058698689,A5059988433,Rustum Choksi,Jean-Christophe Nave,6,0
+A5059648574,A5078104869,Keshav Dasgupta,Brent Pym,1,0
+A5059988433,A5082414734,Jean-Christophe Nave,Linan Chen,2,0
+A5060235544,A5073800682,Bruce Arndtsen,Hanadi Sleiman,4,0
+A5061723548,A5076627495,Thomas Brunner,Daryl Haggard,2,0
+A5061880834,A5073735260,Parisa Ariya,Thomas Preston,1,0
+A5069227312,A5074282005,Jason Hessels,Matt Dobbs,6,0
+A5069227312,A5105085154,Jason Hessels,Cynthia Chiang,2,0
+A5069262298,A5075042199,Pallavi Sirjoosingh,Maureen McKeague,1,0
+A5070725375,A5073735260,Janine Mauzeroll,Thomas Preston,1,0
+A5070725375,A5073800682,Janine Mauzeroll,Hanadi Sleiman,8,0
+A5070725375,A5074970768,Janine Mauzeroll,Bruce Lennox,1,0
+A5070725375,A5076449071,Janine Mauzeroll,Matthew Harrington,1,0
+A5070725375,A5082224096,Janine Mauzeroll,Christopher Thibodeaux,2,0
+A5073800682,A5074970768,Hanadi Sleiman,Bruce Lennox,3,0
+A5073800682,A5075042199,Hanadi Sleiman,Maureen McKeague,2,0
+A5073800682,A5076449071,Hanadi Sleiman,Matthew Harrington,1,0
+A5073800682,A5081818835,Hanadi Sleiman,Peter Grütter,1,0
+A5074282005,A5076627495,Matt Dobbs,Daryl Haggard,1,0
+A5074282005,A5079234880,Matt Dobbs,Brigitte Vachon,0,262
+A5074282005,A5084243101,Matt Dobbs,François Corriveau,0,267
+A5074282005,A5105085154,Matt Dobbs,Cynthia Chiang,23,9
+A5074282005,A5106511527,Matt Dobbs,Andreas Warburton,0,257
+A5074970768,A5081818835,Bruce Lennox,Peter Grütter,12,0
+A5074970768,A5082653254,Bruce Lennox,Linda Reven,12,0
+A5074970768,A5102784326,Bruce Lennox,Hong Guo,1,0
+A5075042199,A5078466046,Maureen McKeague,Audrey Moores,1,0
+A5076449071,A5082224096,Matthew Harrington,Christopher Thibodeaux,2,0
+A5076627495,A5077292694,Daryl Haggard,Kenneth Ragan,0,1
+A5076627495,A5079121745,Daryl Haggard,Tracy Webb,1,0
+A5078466046,A5103961124,Audrey Moores,Nikolas Provatas,3,0
+A5079234880,A5084243101,Brigitte Vachon,François Corriveau,2,1447
+A5079234880,A5106511527,Brigitte Vachon,Andreas Warburton,3,1446
+A5081818835,A5083108362,Peter Grütter,Guillaume Gervais,1,0
+A5081818835,A5102784326,Peter Grütter,Hong Guo,6,0
+A5082653254,A5103961124,Linda Reven,Nikolas Provatas,1,0
+A5083108362,A5088354784,Guillaume Gervais,Tami Pereg-Barnea,1,0
+A5084243101,A5106511527,François Corriveau,Andreas Warburton,2,1668
+A5085069223,A5101678747,David A. Stephens,Masoud Asgharian,3,0
+A5088354784,A5100437068,Tami Pereg-Barnea,Kai Wang,3,0
+A5102784326,A5103961124,Hong Guo,Nikolas Provatas,1,0
