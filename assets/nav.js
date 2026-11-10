@@ -22,6 +22,7 @@
     ["waterloo", "滑铁卢大学", "University of Waterloo", "CA", "waterloo/"],
     ["udem", "蒙特利尔大学", "Université de Montréal", "CA", "udem/"],
     ["mcmaster", "麦克马斯特大学", "McMaster University", "CA", "mcmaster/"],
+    ["ualberta", "阿尔伯塔大学", "University of Alberta", "CA", "ualberta/"],
     ["mit", "麻省理工学院", "MIT", "US", "schools/mit/"],
     ["harvard", "哈佛大学", "Harvard University", "US", "schools/harvard/"],
     ["caltech", "加州理工学院", "Caltech", "US", "schools/caltech/"],

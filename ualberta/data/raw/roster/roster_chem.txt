@@ -1,0 +1,34 @@
+CH|Diogo Alves Galico||Inorganic; lanthanide materials; luminescence; single-molecule magnets
+CH|Steven H. Bergens||Inorganic; catalysis; electrocatalysis; fuel cells
+CH|Jacob Terence Blaskovits||Computational; machine learning; organic electronics
+CH|Alexander Brown||Physical; theoretical; molecular photodissociation dynamics
+CH|Christopher W. Cairo||Chemical biology; glycolipids; fluorescence microscopy
+CH|Wesley Chalifoux||Organic; carbon-rich materials; nanographenes
+CH|Derrick L. J. Clive||Organic; natural product synthesis
+CH|Ratmir Derda||Chemical biology; genetically encoded libraries; phage display
+CH|Julianne M. Gibbs||Physical; interfaces; nonlinear optical spectroscopy
+CH|Dennis Hall||Organic; organoboron chemistry; chemical biology
+CH|Gabriel Hanna||Physical; theoretical; mixed quantum-classical dynamics
+CH|James Harynuk||Analytical; multidimensional gas chromatography; chemometrics
+CH|Wolfgang Jäger||Physical; molecular beam spectroscopy
+CH|Shira Joudan||Analytical; environmental; PFAS; mass spectrometry
+CH|John Klassen||Analytical; mass spectrometry; glycomics
+CH|Mariusz Klobukowski||Physical; theoretical; electronic structure; relativistic effects
+CH|Liang Li||Analytical; mass spectrometry; proteomics; metabolomics
+CH|Rylan Lundgren||Organic; inorganic; homogeneous catalysis; organometallic
+CH|Matthew Macauley||Chemical biology; glycoimmunology
+CH|Lara Mahal||Chemical biology; glycomics
+CH|Arthur Mar||Inorganic; solid-state chemistry; intermetallics; materials
+CH|Mark T. McDermott||Analytical; electroanalysis; surface modification; microarrays
+CH|Michael Meanwell||Organic; electrochemical synthesis; photoredox catalysis
+CH|Vladimir K. Michaelis||Physical; inorganic; solid-state NMR; materials
+CH|Eric Rivard||Inorganic; main-group chemistry; polymers; materials
+CH|Lingzi Sang||Analytical; electrochemistry; batteries; in-situ spectroscopy
+CH|Michael J. Serpe||Analytical; materials; responsive polymers; sensors
+CH|Jeffrey M. Stryker||Inorganic; catalysis; C-H activation
+CH|Rik Tykwinski||Organic; physical organic; carbon-rich molecules; organic electronics
+CH|John C. Vederas||Organic; chemical biology; peptide antibiotics; enzyme mechanisms
+CH|Jonathan G. C. Veinot||Inorganic; materials; nanomaterials
+CH|Frederick G. West||Organic; natural product synthesis; asymmetric catalysis
+CH|Yunjie Xu||Physical; chirality; vibrational circular dichroism; spectroscopy
+CH|Ran Zhao||Analytical; atmospheric chemistry; environmental
