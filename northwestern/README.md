@@ -68,7 +68,7 @@ python3 scripts/build_graph.py
 - **名单来源**（2026-11-10 读取）：physics.northwestern.edu core-faculty 与 instructional-faculty、chemistry.northwestern.edu people/faculty（core faculty）、mccormick.northwestern.edu applied-math people/faculty、math.northwestern.edu people/faculty。northwestern.edu 拒绝云端自动抓取，物理、化学名单在浏览器里读出；数学系页面浏览器打不开，只拿到文字版（职称、方向、邮箱，没有姓名），**姓名按邮箱补全，未在院系官网核对**。不含荣休、兼职（adjunct）、博士后，数学系 Boas 助理教授（博士后性质）与讲师不含。ESAM 只收本系教授与上述数理化教授，其他院系的礼节性聘任不含。Pieter van Dokkum 2027 年 1 月到任，已列入并标注。
 - **作者匹配**：先用一次列表调用取回最近机构为西北大学、论文 ≥10 篇的全部 OpenAlex 作者（约 1.3 万），按姓名、研究领域、当前机构本地打分，未命中再检索（比逐个检索省约九成调用）。7 位教授做了人工指定（见 `scripts/openalex_fetch.py` 的 `OVERRIDE`：同名错配或档案被拆分，第一个 id 为主档案，其余碎片的论文合并进来）。
 - **大型合作**：OpenAlex 每篇论文最多返回 100 位作者，因此作者数 ≥100 的论文都记为"大型合作"浅色边，不计入合写强度（CMS 等实验合作论文不会被当成普通合写）。
-- **数据集条目**：OpenAlex 把 PDB 结构等数据集也算作作品，个别生化教授名下有数百条，会把论文数和企业合写数撑大（例如被误记为与 Genentech 合写 921 篇），因此 `type = dataset` 一律剔除。
+- **数据集条目**：OpenAlex 把 PDB、PNNL 数据仓库等的数据集也算作作品，个别生化教授名下有数百条，会把论文数和企业合写数撑大（例如被误记为与 Genentech 合写 921 篇），因此 `type = dataset` 一律剔除。
 - **研究主题**：OpenAlex Topic 体系（Topic → Subfield → Field → Domain），每篇论文取 primary topic。
 - **方向子网**：数学按院系官网标注的研究方向；物理、化学、ESAM 官网没有逐人方向标注，按每位教授论文的主要 OpenAlex 子领域分组；CIERA、NICO、IIN 只是对应关系的说明，不是这些研究所的官方名单。
 - 数据均来自公开来源；OpenAlex 数据为 CC0。
