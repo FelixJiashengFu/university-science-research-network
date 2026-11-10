@@ -1,0 +1,100 @@
+MA|Anas Abdallah|Associate Professor|Actuarial and Financial Mathematics
+MA|N. Balakrishnan|Distinguished University Professor|Probability and Statistics
+MA|Hans U. Boden|Professor|Geometry and Topology
+MA|Ben Bolker|Professor|Mathematical Biology
+MA|Blaise Bourdin|Professor, Canada Research Chair|
+MA|Lia Bronsard|Professor|Analysis; Applied Mathematics
+MA|Angelo Canty|Associate Professor|Probability and Statistics
+MA|Aaron Childs|Associate Professor|Probability and Statistics
+MA|Erin Clements|Assistant Professor|
+MA|Gregory Cousins|Assistant Professor|
+MA|Katherine Davies|Associate Professor|Probability and Statistics
+MA|David Earn|Professor|Applied Mathematics; Mathematical Biology
+MA|Shui Feng|Professor|Probability and Statistics
+MA|Noah Forman|Associate Professor|
+MA|Cameron Franc|Associate Professor|
+MA|Matheus Grasselli|Professor and Deputy Provost|Financial Mathematics
+MA|Megumi Harada|Professor|Geometry and Topology
+MA|Bradd Hart|Professor|Mathematical Logic
+MA|Deirdre Haskell|Professor|Mathematical Logic
+MA|Pratheepa Jeganathan|Assistant Professor|Statistics and data mining
+MA|Caroline Junkins|Associate Professor|
+MA|Nicholas Kevlahan|Professor|Applied Mathematics; Fluids and Turbulence
+MA|Anastasis Kratsios|Assistant Professor|
+MA|Hari Kunduri|Professor|Geometry and Topology; Mathematical Physics
+MA|Miroslav Lovric|Professor|Geometry and Topology; Mathematics Education
+MA|Siyuan Lu|Associate Professor|
+MA|Christopher McLean|Lecturer|
+MA|Paul McNicholas|Professor, Canada Research Chair|Computational Statistics
+MA|Evan Mitchell|Assistant Professor|
+MA|Patrick Naylor|Assistant Professor|
+MA|J. E. Paguyo|Assistant Professor|
+MA|Dmitry Pelinovsky|Professor|Applied Mathematics
+MA|Traian Pirvu|Associate Professor|Financial Mathematics
+MA|Bartosz Protas|Professor and Department Chair|Applied Mathematics; Fluids and Turbulence
+MA|Jenna Rajchgot|Associate Professor|
+MA|Eric T. Sawyer|McKay Chair in Mathematics, Professor|Analysis
+MA|Pavel Shuldiner|Assistant Professor|
+MA|Patrick Speissegger|Professor|Mathematical Logic; Model Theory and Real Analytic Geometry
+MA|Adam Van Tuyl|Professor|Algebra
+MA|McKenzie Wang|Professor|Geometry and Topology
+MA|Gail S.K. Wolkowicz|Professor|Applied Mathematics; Mathematical Biology
+PH|Cliff Burgess|Professor|
+PH|Soo Hyun Byun|Professor|
+PH|Alan Chen|Professor|
+PH|Pat Clancy|Associate Professor|
+PH|Ryan Cloutier|Assistant Professor|
+PH|Robert Cockcroft|Associate Professor|
+PH|Eamonn Corrigan|Assistant Professor|
+PH|Kari Dalnoki-Veress|Professor|
+PH|Kevin Diamond|Associate Professor|
+PH|Cecile Fradin|Professor|
+PH|Bruce Gaulin|Distinguished University Professor|
+PH|Paul Higgs|Professor|
+PH|Takashi Imai|Professor|
+PH|Hari Kunduri|Associate Professor|
+PH|Sung-Sik Lee|Professor|
+PH|Graeme Luke|Professor and Acting Chair|
+PH|Duncan O'Dell|Professor|
+PH|Laura Parker|Professor|
+PH|Fereshteh Rajabi|Assistant Professor|
+PH|Maikel Rheinstadter|Professor|
+PH|Chris Rowley|Assistant Professor|
+PH|Miranda Schmidt|Associate Professor|
+PH|Tahir Shaaran|Assistant Professor|
+PH|An-Chang Shi|Professor|
+PH|Sergey Sibiryakov|Associate Professor|
+PH|Alison Sills|Professor and Chair|
+PH|Erik Sorensen|Professor|
+PH|James Wadsley|Professor|
+PH|Marcin Wierzbicki|Associate Professor|
+PH|Christine Wilson|Distinguished University Professor|
+CH|Alex Adronov|Professor|Polymer chemistry of nanotubes; dendrimer-based therapeutics
+CH|Paul Ayers|Professor, Canada Research Chair|Electronic structure theory; conceptual quantum chemistry; machine learning for chemistry
+CH|Paul Berti|Professor|Transition-state analysis; enzyme inhibition; inhibitor design
+CH|John Brennan|Professor, Canada Research Chair|
+CH|Philip Britz-McKibbin|Professor|Bioanalytical chemistry; metabolomics; exposomics
+CH|Katherine Bujold|Assistant Professor|DNA nanotechnology; supramolecular DNA assembly
+CH|Fred Capretta|Associate Professor|
+CH|Lydia Chen|Assistant Professor, Teaching|
+CH|Anthony Chibba|Associate Professor, Teaching|Chemistry education
+CH|David Emslie|Professor|Organometallic and coordination chemistry
+CH|David Farrar|Professor|
+CH|Avik (Jim) Ghoshdastidar|Assistant Professor, Teaching|
+CH|Gillian Goward|Professor|Magnetic resonance spectroscopy of energy materials
+CH|Sharonna Greenberg|Associate Professor, Teaching|Chemistry education
+CH|James Inkster|Assistant Professor|PET imaging radiopharmaceuticals
+CH|Peter Kruse|Professor|Surfaces, interfaces and low-dimensional materials
+CH|Suzanne Lapi|Professor|
+CH|James McNulty|Professor|Organic synthesis; medicinal chemistry; natural products
+CH|Giuseppe Melacini|Professor and Chair|Molecular pharmacology; NMR of allostery
+CH|Jose Moran-Mirabal|Professor, University Scholar|Micro- and nanostructured materials
+CH|Yurij Mozharivskyj|Professor|Thermoelectric materials; inorganic phosphors
+CH|Joseph Okeme|Assistant Professor|
+CH|Saman Sadeghi|Associate Professor|Molecular imaging; radiolabeling; targeted radiotherapeutics
+CH|Kalaichelvi Saravanamuttu|Professor|Sol-gel chemistry; self-assembly; photonics
+CH|Harald Stover|Professor|
+CH|Sarah Styler|Associate Professor, Canada Research Chair|
+CH|Ignacio Vargas-Baca|Professor|Supramolecular main-group chemistry
+CH|Rodrigo Vargas-Hernandez|Assistant Professor|
+CH|Ryan Wylie|Associate Professor|Delivery vehicles; controlled release; immunotherapeutics
